@@ -6,11 +6,13 @@ sources:
   - fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
   - fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
+  - fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people
+  - fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke
 tags:
 - physical-therapy
 title: Physical Therapy for Parkinson's Disease
 type: topic
-updated: 2026-05-15
+updated: 2026-09-15
 ---
 
 ## Physical Therapy for Parkinson's Disease
@@ -32,3 +34,5 @@ The integration of physical therapy with elements such as dance and music demons
 - [fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on](../sources/fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on.md)
 - [fxa301-week06-therapeutic-dancing-for-parkinsons-disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
 - [fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music](../sources/fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music.md)
+- [fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
+- [fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)

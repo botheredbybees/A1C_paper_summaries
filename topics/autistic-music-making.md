@@ -7,7 +7,8 @@ tags: ["autistic-music-making"]
 sources:
   - fxa302-week05-music-and-disability
   - fxa302-week05-music-and-disability-(2)
-updated: 2026-08-07
+  - fxa302-week10-music-and-disability
+updated: 2026-09-15
 ---
 
 ## Music Therapy for Autistic Individuals
@@ -28,3 +29,4 @@ The synthesis of findings from the provided sources highlights the application a
 
 - [fxa302-week05-music-and-disability](../sources/fxa302-week05-music-and-disability.md)
 - [fxa302-week05-music-and-disability-(2)](../sources/fxa302-week05-music-and-disability-%282%29.md)
+- [fxa302-week10-music-and-disability](../sources/fxa302-week10-music-and-disability.md)

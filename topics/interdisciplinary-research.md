@@ -25,6 +25,12 @@ sources:
   - fxa302-week01-web-lecture-week-1-2026
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
   - fxa302-week03-transcript-assistant-professor-of-comparative-literature-and
+  - fxa302-week10-community-psychiatry-and-the-medical-humanities
+  - fxa302-week10-dance-and-creativity-within-dance-movement-therapy
+  - fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking
+  - fxa302-week10-seeing-bodies-in-pain
+  - fxa302-week10-semantic-long-term-memory
+  - fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
   - fxa303-week11-future-directions-in-understanding-and-addressing-mental
   - fxa303-week11-fxa303-web-lecture-week-11
@@ -73,6 +79,12 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 - [fxa302-week01-web-lecture-week-1-2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [fxa302-week03-transcript-assistant-professor-of-comparative-literature-and](../sources/fxa302-week03-transcript-assistant-professor-of-comparative-literature-and.md)
+- [fxa302-week10-community-psychiatry-and-the-medical-humanities](../sources/fxa302-week10-community-psychiatry-and-the-medical-humanities.md)
+- [fxa302-week10-dance-and-creativity-within-dance-movement-therapy](../sources/fxa302-week10-dance-and-creativity-within-dance-movement-therapy.md)
+- [fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking](../sources/fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking.md)
+- [fxa302-week10-seeing-bodies-in-pain](../sources/fxa302-week10-seeing-bodies-in-pain.md)
+- [fxa302-week10-semantic-long-term-memory](../sources/fxa302-week10-semantic-long-term-memory.md)
+- [fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities](../sources/fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%283%29.md)
 - [fxa303-week11-future-directions-in-understanding-and-addressing-mental](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
 - [fxa303-week11-fxa303-web-lecture-week-11](../sources/fxa303-week11-fxa303-web-lecture-week-11.md)

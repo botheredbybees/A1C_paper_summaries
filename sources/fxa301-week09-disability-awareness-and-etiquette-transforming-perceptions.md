@@ -11,7 +11,7 @@ tags: ["disability-awareness", "societal-perception", "inclusive-education", "ex
 key_concepts: ["disabilities", "stereotypes", "social-barriers"]
 methods: ["experiential-exercises"]
 slug: fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
-related: ["disability-awareness", "inclusive-education", "social-inclusion"]
+related: ["disability-awareness", "experiential-learning", "inclusive-education", "social-inclusion"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,5 +48,6 @@ Clark emphasizes that overcoming negative stereotypes not only benefits those di
 ## See Also
 
 - [disability-awareness](../topics/disability-awareness.md)
+- [experiential-learning](../topics/experiential-learning.md)
 - [inclusive-education](../topics/inclusive-education.md)
 - [social-inclusion](../topics/social-inclusion.md)

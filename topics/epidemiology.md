@@ -7,7 +7,8 @@ tags: ["epidemiology"]
 sources:
   - fxa101-week03-cognitive-reserve-and-alzheimer-disease
   - fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
-updated: 2026-07-20
+  - fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral
+updated: 2026-09-15
 ---
 
 ## Epidemiology Of Alzheimer's Disease And Cultural Experiences
@@ -30,3 +31,4 @@ On the other hand, Source two focuses on epidemiological studies examining how c
 
 - [fxa101-week03-cognitive-reserve-and-alzheimer-disease](../sources/fxa101-week03-cognitive-reserve-and-alzheimer-disease.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8](../sources/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md)
+- [fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral](../sources/fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral.md)

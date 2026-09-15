@@ -7,9 +7,10 @@ tags: ["therapeutic-practices"]
 sources:
   - fxa300-week08-the-arts-therapies-a-revolution-in-healthcare
   - fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health
+  - fxa302-week10-dance-and-creativity-within-dance-movement-therapy
   - fxa303-week04-play-interventions-for-neurodivergent-children-and
   - fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Play and Art Therapies for Neurodivergent Children
@@ -30,5 +31,6 @@ The integration of Play Interventions and Art Therapy provides a holistic approa
 
 - [fxa300-week08-the-arts-therapies-a-revolution-in-healthcare](../sources/fxa300-week08-the-arts-therapies-a-revolution-in-healthcare.md)
 - [fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health](../sources/fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health.md)
+- [fxa302-week10-dance-and-creativity-within-dance-movement-therapy](../sources/fxa302-week10-dance-and-creativity-within-dance-movement-therapy.md)
 - [fxa303-week04-play-interventions-for-neurodivergent-children-and](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
 - [fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a](../sources/fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a.md)

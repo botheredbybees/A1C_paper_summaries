@@ -11,7 +11,7 @@ tags: ["neurodegenerative-disorders", "language-impairment", "music-in-neuroscie
 key_concepts: ["primary-progressive-dynamic-aphasia", "frontal-lobe-dementia", "speech-production-mechanisms"]
 methods: ["case-study"]
 slug: fxa300-week06-nothing-to-say-something-to-sing-primary-progressive
-related: ["neurodegenerative-disorders"]
+related: ["language-impairment", "neurodegenerative-disorders"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -42,4 +42,5 @@ This paper presents a case study of a patient with primary progressive dynamic a
 
 ## See Also
 
+- [language-impairment](../topics/language-impairment.md)
 - [neurodegenerative-disorders](../topics/neurodegenerative-disorders.md)

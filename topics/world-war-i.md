@@ -5,11 +5,12 @@ slug: shell-shock-and-treatment-innovations-in-world-war-i
 sources:
   - fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a
   - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+  - fxa302-week10-review-of-german-post-expressionism-the-art-of-the-great
 tags:
 - world-war-i
 title: Shell Shock and Treatment Innovations in World War I
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Shell Shock and Treatment Innovations in World War I
@@ -30,3 +31,4 @@ World War I witnessed the emergence of shell shock as a significant psychologica
 
 - [fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a](../sources/fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a.md)
 - [fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)
+- [fxa302-week10-review-of-german-post-expressionism-the-art-of-the-great](../sources/fxa302-week10-review-of-german-post-expressionism-the-art-of-the-great.md)

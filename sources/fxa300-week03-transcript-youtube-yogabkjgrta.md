@@ -11,7 +11,7 @@ tags: ["memory-formation", "neurotransmitters", "brain-health", "aging-effects",
 key_concepts: ["long-term potentiation", "hippocampus", "acetylcholine"]
 methods: []
 slug: fxa300-week03-transcript-youtube-yogabkjgrta
-related: ["aging-effects", "brain-health", "neurotransmitters"]
+related: ["aging-effects", "brain-health", "long-term-potentiation", "neurotransmitters"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -45,4 +45,5 @@ This lesson explores the formation and loss of memories, focusing on how experie
 
 - [aging-effects](../topics/aging-effects.md)
 - [brain-health](../topics/brain-health.md)
+- [long-term-potentiation](../topics/long-term-potentiation.md)
 - [neurotransmitters](../topics/neurotransmitters.md)

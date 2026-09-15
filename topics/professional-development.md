@@ -9,11 +9,14 @@ sources:
   - fxa301-week01-arts-projects-for-individuals-and-groups
   - fxa301-week11-projects-art-beyond-sight
   - fxa302-week03-visual-art-instruction-in-medical-education-a-narrative
+  - fxa302-week10-collaborating-a-role-for-music-therapy-within
+  - fxa302-week10-self-care-in-music-therapy-the-art-of-balancing
+  - fxa302-week10-training-education-and-professional-issues-in-music-therapy
 tags:
 - professional-development
 title: Professional Development in Music Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Professional Development in Music Therapy
@@ -37,3 +40,6 @@ The integration of professional development within the framework of music therap
 - [fxa301-week01-arts-projects-for-individuals-and-groups](../sources/fxa301-week01-arts-projects-for-individuals-and-groups.md)
 - [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)
 - [fxa302-week03-visual-art-instruction-in-medical-education-a-narrative](../sources/fxa302-week03-visual-art-instruction-in-medical-education-a-narrative.md)
+- [fxa302-week10-collaborating-a-role-for-music-therapy-within](../sources/fxa302-week10-collaborating-a-role-for-music-therapy-within.md)
+- [fxa302-week10-self-care-in-music-therapy-the-art-of-balancing](../sources/fxa302-week10-self-care-in-music-therapy-the-art-of-balancing.md)
+- [fxa302-week10-training-education-and-professional-issues-in-music-therapy](../sources/fxa302-week10-training-education-and-professional-issues-in-music-therapy.md)

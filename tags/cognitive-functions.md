@@ -9,3 +9,4 @@ updated: 2026-09-15
 - [Vital Role of Visceral Adipose Tissue in Maintaining Cognitive Functions](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
 - [The Brain: Understanding Its Parts and Functions](../sources/fxa301-week01-lesson-fxa301-week01-page-2.md)
 - [The brain and how we perceive information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
+- [Essentials of Cognitive Neuroscience: OF LABELS AND MECHANISMS](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-of-labels-and.md)

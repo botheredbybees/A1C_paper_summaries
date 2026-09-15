@@ -35,6 +35,8 @@ sources:
   - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
   - fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
+  - fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a
+  - fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
   - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
   - fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
@@ -112,6 +114,8 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa301-week08-school-based-drama-interventions-in-health-promotion-for](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)
 - [fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
+- [fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)
+- [fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in](../sources/fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
 - [fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and](../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and.md)
 - [fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)

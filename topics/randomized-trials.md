@@ -5,11 +5,12 @@ slug: randomized-controlled-trials
 sources:
   - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
   - fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
+  - fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with
 tags:
 - randomized-trials
 title: Randomized Controlled Trials
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Randomized Controlled Trials
@@ -29,3 +30,4 @@ This synthesis integrates insights from a randomized controlled trial examining 
 
 - [fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial](../sources/fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial.md)
 - [fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias](../sources/fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias.md)
+- [fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with](../sources/fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with.md)

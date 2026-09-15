@@ -11,7 +11,7 @@ tags: ["dance-therapy", "fxa100", "interdisciplinary-research", "mechanisms-of-c
 key_concepts: ["mechanisms of change", "neurobiological processes", "somatic modalities"]
 methods: ["literature review"]
 slug: fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their
-related: ["dance-therapy", "interdisciplinary-research", "neural-correlates", "therapeutic-mechanisms"]
+related: ["dance-therapy", "interdisciplinary-research", "mechanisms-of-change", "neural-correlates", "therapeutic-mechanisms"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,5 +42,6 @@ The article presents a theoretical framework for dance/movement therapy (DMT) by
 
 - [dance-therapy](../topics/dance-therapy.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
+- [mechanisms-of-change](../topics/mechanisms-of-change.md)
 - [neural-correlates](../topics/neural-correlates.md)
 - [therapeutic-mechanisms](../topics/therapeutic-mechanisms.md)

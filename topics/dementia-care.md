@@ -265,6 +265,9 @@ sources:
   - fxa302-week01-shared-music-listening
   - fxa302-week01-visual-arts
   - fxa302-week06-visual-art-and-transformation-(2)
+  - fxa302-week10-love-in-the-time-of-dementia
+  - fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease
+  - fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
   - fxa303-week08-therapeutic-clowning
@@ -292,7 +295,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Dementia Care Interventions
@@ -573,6 +576,9 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa302-week01-shared-music-listening](../sources/fxa302-week01-shared-music-listening.md)
 - [fxa302-week01-visual-arts](../sources/fxa302-week01-visual-arts.md)
 - [fxa302-week06-visual-art-and-transformation-(2)](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)
+- [fxa302-week10-love-in-the-time-of-dementia](../sources/fxa302-week10-love-in-the-time-of-dementia.md)
+- [fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease](../sources/fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease.md)
+- [fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia](../sources/fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia.md)
 - [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)

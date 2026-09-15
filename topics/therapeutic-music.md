@@ -8,7 +8,8 @@ sources:
   - fxa300-week09-effects-of-group-drumming-interventions-on-anxiety
   - fxa302-week08-empathy-the-song-and-the-singer-a-legacy-of-robert-schumann
   - fxa302-week09-how-music-can-help-relieve-chronic-pain
-updated: 2026-09-07
+  - fxa302-week10-music-therapy-in-grief-and-mourning
+updated: 2026-09-15
 ---
 
 ## Music Therapy
@@ -30,3 +31,4 @@ Music therapy as an intervention leverages the empathetic connection and persona
 - [fxa300-week09-effects-of-group-drumming-interventions-on-anxiety](../sources/fxa300-week09-effects-of-group-drumming-interventions-on-anxiety.md)
 - [fxa302-week08-empathy-the-song-and-the-singer-a-legacy-of-robert-schumann](../sources/fxa302-week08-empathy-the-song-and-the-singer-a-legacy-of-robert-schumann.md)
 - [fxa302-week09-how-music-can-help-relieve-chronic-pain](../sources/fxa302-week09-how-music-can-help-relieve-chronic-pain.md)
+- [fxa302-week10-music-therapy-in-grief-and-mourning](../sources/fxa302-week10-music-therapy-in-grief-and-mourning.md)

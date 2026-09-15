@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: trauma-treatment-through-expressive-arts
 sources:
+  - fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice
   - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
   - fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
   - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
@@ -11,7 +12,7 @@ tags:
 - trauma-treatment
 title: Trauma Treatment through Expressive Arts
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Trauma Treatment through Expressive Arts
@@ -30,6 +31,7 @@ Expressive arts therapy encompasses a variety of approaches for treating trauma,
 
 ## Sources
 
+- [fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice](../sources/fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice.md)
 - [fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth](../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth.md)
 - [fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to](../sources/fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to.md)
 - [fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)

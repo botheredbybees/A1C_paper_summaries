@@ -15,6 +15,8 @@ sources:
   - fxa301-week01-editors-introduction-arts-and-community-engagement
   - fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness
   - fxa302-week01-health-humanities-and-the-creative-disciplines
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(20)
+  - fxa302-week10-neural-bases-of-memory
   - fxa303-puppet-assisted-play-therapy-ch06-139-weedn
   - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
   - fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet
@@ -57,6 +59,8 @@ The integration of music therapy and creative arts interventions across various 
 - [fxa301-week01-editors-introduction-arts-and-community-engagement](../sources/fxa301-week01-editors-introduction-arts-and-community-engagement.md)
 - [fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness](../sources/fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness.md)
 - [fxa302-week01-health-humanities-and-the-creative-disciplines](../sources/fxa302-week01-health-humanities-and-the-creative-disciplines.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(20)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
+- [fxa302-week10-neural-bases-of-memory](../sources/fxa302-week10-neural-bases-of-memory.md)
 - [fxa303-puppet-assisted-play-therapy-ch06-139-weedn](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [fxa303-week04-play-therapy-in-children-with-autism-its-role-implications](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)
 - [fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)

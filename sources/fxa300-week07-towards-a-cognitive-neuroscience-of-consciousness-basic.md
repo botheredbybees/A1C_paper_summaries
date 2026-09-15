@@ -11,7 +11,7 @@ tags: ["cognitive-neuroscience", "consciousness-research", "global-workspace-the
 key_concepts: ["global neuronal workspace", "unconscious processing", "attentional mechanism"]
 methods: ["theoretical framework", "empirical observations"]
 slug: fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
-related: ["cognitive-neuroscience", "consciousness-research", "neural-networks", "subjective-experience"]
+related: ["attention-mechanisms", "cognitive-neuroscience", "consciousness-research", "global-workspace-theory", "neural-networks", "subjective-experience"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -46,7 +46,9 @@ This paper by Dehaene and Naccache introduces a cognitive neuroscience approach 
 
 ## See Also
 
+- [attention-mechanisms](../topics/attention-mechanisms.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [consciousness-research](../topics/consciousness-research.md)
+- [global-workspace-theory](../topics/global-workspace-theory.md)
 - [neural-networks](../topics/neural-networks.md)
 - [subjective-experience](../topics/subjective-experience.md)

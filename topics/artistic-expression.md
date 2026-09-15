@@ -9,12 +9,13 @@ sources:
   - fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony
   - fxa302-week08-lesson-fxa302-week08-page-3
   - fxa302-week08-the-rewards-of-chronic-illness
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(20)
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
 tags:
 - artistic-expression
 title: Artistic Expression in Dementia Care
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Artistic Expression in Dementia Care
@@ -39,4 +40,5 @@ The integration of artistic expression into dementia care is a multidimensional 
 - [fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony](../sources/fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony.md)
 - [fxa302-week08-lesson-fxa302-week08-page-3](../sources/fxa302-week08-lesson-fxa302-week08-page-3.md)
 - [fxa302-week08-the-rewards-of-chronic-illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(20)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
 - [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

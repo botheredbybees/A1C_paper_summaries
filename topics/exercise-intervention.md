@@ -6,8 +6,9 @@ confidence: medium
 tags: ["exercise-intervention"]
 sources:
   - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
+  - fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms
   - psy214-week06-the-effects-of-acute-exercise-on-mood-cognition
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 ## Exercise Intervention
@@ -27,4 +28,5 @@ Both sources highlight the critical relationship between exercise and cognitive 
 ## Sources
 
 - [fxa100-week01-relating-physical-activity-to-cognitive-function-brain](../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain.md)
+- [fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms](../sources/fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms.md)
 - [psy214-week06-the-effects-of-acute-exercise-on-mood-cognition](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)

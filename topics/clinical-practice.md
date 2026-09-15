@@ -13,8 +13,11 @@ sources:
   - fxa302-week01-exploring-the-medical-humanities
   - fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
+  - fxa302-week10-in-defense-of-cheaper-stethoscopes
+  - fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to
+  - fxa302-week10-social-studies-the-humanities-narrative-and-the-social
   - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Clinical Practice Guidelines and Registries
@@ -40,4 +43,7 @@ The provided sources emphasize the importance of clinical practice guidelines an
 - [fxa302-week01-exploring-the-medical-humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
+- [fxa302-week10-in-defense-of-cheaper-stethoscopes](../sources/fxa302-week10-in-defense-of-cheaper-stethoscopes.md)
+- [fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to](../sources/fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to.md)
+- [fxa302-week10-social-studies-the-humanities-narrative-and-the-social](../sources/fxa302-week10-social-studies-the-humanities-narrative-and-the-social.md)
 - [fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

@@ -11,7 +11,7 @@ tags: ["singing-wellbeing", "vocal-therapy", "brain-function", "community-bondin
 key_concepts: ["neuroplasticity", "interdisciplinary-research", "cultural-significance"]
 methods: ["systematic-review"]
 slug: fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof
-related: ["brain-function", "community-bonding"]
+related: ["brain-function", "community-bonding", "therapeutic-potential"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ The book 'Singing and Wellbeing: Ancient Wisdom, Modern Proof' by Kay Norton exp
 
 - [brain-function](../topics/brain-function.md)
 - [community-bonding](../topics/community-bonding.md)
+- [therapeutic-potential](../topics/therapeutic-potential.md)

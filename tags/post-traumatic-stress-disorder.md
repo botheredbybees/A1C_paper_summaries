@@ -7,6 +7,7 @@ updated: 2026-09-15
 ## Post Traumatic Stress Disorder
 
 - [Returning the Service: The Healing Use of Creative Arts](../sources/fxa301-week10-web-article-drayton-2016.md)
+- [Implementation of integrated therapies for comorbid post-traumatic stress disorder and substance use disorders in community substance abuse treatment programs](../sources/fxa302-week10-implementation-of-integrated-therapies-for-comorbid-post.md)
 - [Current Treatments of Post-traumatic Stress Disorder and Amygdala Ablation as a Potential Cutting-Edge Therapy in Its Refractory Cases](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and.md)
 - [Current Treatments of Post-traumatic Stress Disorder and Amygdala Ablation as a Potential Cutting-Edge Therapy in Its Refractory Cases](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-%282%29.md)
 - [Post-traumatic stress disorder: the neurobiological impact of psychological trauma](../sources/fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact.md)

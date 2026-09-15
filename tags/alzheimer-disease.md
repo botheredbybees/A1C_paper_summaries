@@ -11,6 +11,7 @@ updated: 2026-09-15
 - [2018 Alzheimer's disease facts and figures](../sources/fxa100-week13-2018-alzheimers-disease-facts-and-figures.md)
 - [Effects of Yoga-Like Exercises on Mild and Moderate Alzheimer Disease: A Randomized Controlled Trial Protocol](../sources/fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate.md)
 - [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [\u201cDo You Remember Me?\u201d Constructions of Alzheimer\u2019s Disease in Literature and Film](../sources/fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in.md)
 - [DSM-5-TR Neurocognitive Disorders Supplement](../sources/fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement.md)
 - [Distinct MRI Atrophy Patterns in Autopsy-Proven Alzheimer's Disease and Frontotemporal Lobar Degeneration](../sources/fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers.md)
 - [Neuropsychiatric disorders correction in Alzheimer's disease](../sources/fxa303-week13-neuropsychiatric-disorders-correction-in-alzheimers-disease.md)

@@ -85,6 +85,12 @@ sources:
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
   - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
   - fxa302-week05-the-stigma-of-hearing-loss
+  - fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people
+  - fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke
+  - fxa302-week10-dance-and-the-quality-of-life
+  - fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a
+  - fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease
+  - fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week13-application-of-cognitive-stimulation-in-the-care-of
   - fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und
@@ -103,7 +109,7 @@ tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Music Therapy in Dementia Care
@@ -204,6 +210,12 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
 - [fxa302-week05-the-stigma-of-hearing-loss](../sources/fxa302-week05-the-stigma-of-hearing-loss.md)
+- [fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
+- [fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)
+- [fxa302-week10-dance-and-the-quality-of-life](../sources/fxa302-week10-dance-and-the-quality-of-life.md)
+- [fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)
+- [fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease](../sources/fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease.md)
+- [fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their](../sources/fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their.md)
 - [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
 - [fxa303-week13-application-of-cognitive-stimulation-in-the-care-of](../sources/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md)
 - [fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und](../sources/fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und.md)

@@ -11,7 +11,7 @@ tags: ["music-therapy", "mental-health", "transdiagnostic-theory", "group-therap
 key_concepts: ["transdiagnostic theory", "comorbidity", "mental health diagnosis"]
 methods: ["case study"]
 slug: fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental
-related: ["comorbidity", "mental-health", "music-therapy", "therapeutic-interventions"]
+related: ["comorbidity", "group-therapy", "mental-health", "music-therapy", "therapeutic-interventions"]
 created: 2026-09-07
 updated: 2026-09-07
 ---
@@ -44,6 +44,7 @@ The chapter 'Transdiagnostic Theory for Group Music Therapy in Mental Health Set
 ## See Also
 
 - [comorbidity](../topics/comorbidity.md)
+- [group-therapy](../topics/group-therapy.md)
 - [mental-health](../topics/mental-health.md)
 - [music-therapy](../topics/music-therapy.md)
 - [therapeutic-interventions](../topics/therapeutic-interventions.md)

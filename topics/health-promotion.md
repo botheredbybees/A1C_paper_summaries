@@ -5,13 +5,14 @@ slug: health-promotion-through-cultural-activities
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)
   - fxa301-week05-museums-and-health-emerging-spatial-practices
+  - fxa302-week10-resource-oriented-perspectives-in-music-therapy
   - fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
   - psy214-week04-eat-food-and-the-nova-classification
 tags:
 - health-promotion
 title: Health Promotion Through Cultural Activities
 type: topic
-updated: 2026-07-28
+updated: 2026-09-15
 ---
 
 ## Health Promotion Through Cultural Activities
@@ -32,5 +33,6 @@ Cultural activities have emerged as a significant health-promotion tool across v
 
 - [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-%282%29.md)
 - [fxa301-week05-museums-and-health-emerging-spatial-practices](../sources/fxa301-week05-museums-and-health-emerging-spatial-practices.md)
+- [fxa302-week10-resource-oriented-perspectives-in-music-therapy](../sources/fxa302-week10-resource-oriented-perspectives-in-music-therapy.md)
 - [fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted](../sources/fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted.md)
 - [psy214-week04-eat-food-and-the-nova-classification](../sources/psy214-week04-eat-food-and-the-nova-classification.md)

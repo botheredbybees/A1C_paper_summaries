@@ -11,7 +11,7 @@ tags: ["medical-education", "visual-art-instruction", "professional-development"
 key_concepts: ["Visual Thinking Strategies (VTS)", "Artful Thinking"]
 methods: ["narrative review"]
 slug: fxa302-week03-visual-art-instruction-in-medical-education-a-narrative
-related: ["artful-thinking", "empathy-training", "medical-education", "professional-development", "visual-thinking-strategies"]
+related: ["artful-thinking", "clinical-skills", "empathy-training", "medical-education", "professional-development", "visual-thinking-strategies"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -45,6 +45,7 @@ This paper reviews the incorporation of visual arts training into medical educat
 ## See Also
 
 - [artful-thinking](../topics/artful-thinking.md)
+- [clinical-skills](../topics/clinical-skills.md)
 - [empathy-training](../topics/empathy-training.md)
 - [medical-education](../topics/medical-education.md)
 - [professional-development](../topics/professional-development.md)

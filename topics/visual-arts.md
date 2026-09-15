@@ -12,11 +12,13 @@ sources:
   - fxa301-week05-lesson-fxa301-week05-page-1
   - fxa302-week03-the-art-of-observation-a-pedagogical-framework
   - fxa302-week06-lesson-fxa302-week06-page-3
+  - fxa302-week10-lesson-fxa302-week10-page-2
+  - fxa302-week10-understanding-suffering-utermohlens-self-portraits-and
 tags:
 - visual-arts
 title: Visual Arts in Dementia Care
 type: topic
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 ## Visual Arts in Dementia Care
@@ -43,3 +45,5 @@ The integration of visual arts into dementia care settings has emerged as a mult
 - [fxa301-week05-lesson-fxa301-week05-page-1](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
 - [fxa302-week03-the-art-of-observation-a-pedagogical-framework](../sources/fxa302-week03-the-art-of-observation-a-pedagogical-framework.md)
 - [fxa302-week06-lesson-fxa302-week06-page-3](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)
+- [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
+- [fxa302-week10-understanding-suffering-utermohlens-self-portraits-and](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)

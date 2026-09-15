@@ -8,7 +8,8 @@ sources:
   - fxa300-week08-the-arts-therapies-a-revolution-in-healthcare
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
   - fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing
-updated: 2026-08-31
+  - fxa302-week10-dance-and-creativity-within-dance-movement-therapy
+updated: 2026-09-15
 ---
 
 ## Cultural Contexts in Art and Health
@@ -30,3 +31,4 @@ This synthesis examines the role of cultural contexts within two artistic practi
 - [fxa300-week08-the-arts-therapies-a-revolution-in-healthcare](../sources/fxa300-week08-the-arts-therapies-a-revolution-in-healthcare.md)
 - [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)
 - [fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing](../sources/fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing.md)
+- [fxa302-week10-dance-and-creativity-within-dance-movement-therapy](../sources/fxa302-week10-dance-and-creativity-within-dance-movement-therapy.md)

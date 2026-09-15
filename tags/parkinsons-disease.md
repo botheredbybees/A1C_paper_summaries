@@ -20,3 +20,8 @@ updated: 2026-09-15
 - [Parkinson's Disease Motor Symptom Progression Slowed with Multisensory Dance Learning over 3-Years: A Preliminary Longitudinal Investigation](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
 - [Therapeutic Dancing for Parkinson\u2019s Disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
 - [Gait Training for Parkinson's Patient Using Music](../sources/fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music.md)
+- [A comparison of Irish set dancing and exercises for people with Parkinson\u2019s disease: A phase II feasibility study](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
+- [Dance Is an Accessible Physical Activity for People with Parkinson\u2019s Disease](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
+- [Dancing for Parkinson\u2019s Disease Online: Clinical Trial Process Evaluation](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)
+- [Effects of dance on gait and dual-task gait in Parkinson\u2019s disease](../sources/fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons.md)
+- [Optimal dose and type of exercise to improve motor symptoms in adults with Parkinson's disease: A network meta-analysis](../sources/fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms.md)

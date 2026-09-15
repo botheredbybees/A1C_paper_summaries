@@ -7,7 +7,8 @@ tags: ["long-term-memory"]
 sources:
   - fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing
   - fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age
-updated: 2026-08-03
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative
+updated: 2026-09-15
 ---
 
 ## Long-Term Memory
@@ -28,3 +29,4 @@ The concept of long-term memory is explored across the sources with a focus on h
 
 - [fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing](../sources/fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing.md)
 - [fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age](../sources/fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative.md)

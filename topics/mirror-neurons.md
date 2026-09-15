@@ -3,19 +3,22 @@ confidence: high
 domain: theory
 slug: mirror-neurons-in-aesthetic-and-art-appreciation
 sources:
-- fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
-- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
-- fxa100-week06-visual-arts-and-the-brain
-- fxa100-week06-web-article-tucker-2012
-- fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
-- fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
-- fxa301-week02-how-do-we-respond-to-creative-art
-- fxa301-week02-lecture-on-perception-of-the-arts
+  - fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
+  - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+  - fxa100-week06-visual-arts-and-the-brain
+  - fxa100-week06-web-article-tucker-2012
+  - fxa300-week01-what-we-know-currently-about-mirror-neurons
+  - fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
+  - fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
+  - fxa301-week02-how-do-we-respond-to-creative-art
+  - fxa301-week02-lecture-on-perception-of-the-arts
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(3)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(6)
 tags:
 - mirror-neurons
 title: Mirror Neurons in Aesthetic and Art Appreciation
 type: topic
-updated: 2026-05-04
+updated: 2026-09-15
 ---
 
 ## Mirror Neurons in Aesthetic and Art Appreciation
@@ -38,7 +41,10 @@ The concept of mirror neurons plays a central role in understanding the percepti
 - [fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
 - [fxa100-week06-visual-arts-and-the-brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)
 - [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)
+- [fxa300-week01-what-we-know-currently-about-mirror-neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9](../sources/fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9.md)
 - [fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to](../sources/fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to.md)
 - [fxa301-week02-how-do-we-respond-to-creative-art](../sources/fxa301-week02-how-do-we-respond-to-creative-art.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(3)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(6)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%286%29.md)

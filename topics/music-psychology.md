@@ -53,6 +53,7 @@ sources:
   - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
   - fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about
+  - fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation
 tags:
 - music-psychology
 title: Emotional Reactions to Music
@@ -126,3 +127,4 @@ The literature highlights the profound impact of music on human emotion across v
 - [fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social](../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social.md)
 - [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about](../sources/fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about.md)
+- [fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation](../sources/fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation.md)

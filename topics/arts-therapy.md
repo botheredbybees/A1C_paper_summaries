@@ -22,6 +22,7 @@ sources:
   - fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts
   - fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain
   - fxa302-week09-lesson-fxa302-week09-page-4-activities-new
+  - fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a
   - fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the
   - fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
   - fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
@@ -70,6 +71,7 @@ The concept of arts therapy is explored across several sources, highlighting its
 - [fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts](../sources/fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts.md)
 - [fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)
 - [fxa302-week09-lesson-fxa302-week09-page-4-activities-new](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
+- [fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a](../sources/fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a.md)
 - [fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - [fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy.md)
 - [fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)

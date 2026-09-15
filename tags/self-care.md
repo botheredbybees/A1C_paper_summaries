@@ -7,6 +7,7 @@ updated: 2026-09-15
 ## Self Care
 
 - [How Can Photography Help Wellbeing?](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
+- [Self-care in Music Therapy: The Art of Balancing](../sources/fxa302-week10-self-care-in-music-therapy-the-art-of-balancing.md)
 - [Stress as a Stimulus: Stressors](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [Understanding Stress: Biopsychosocial Model and Self-Care Approaches](../sources/psy214-week01-lesson-psy214-week01-what-is-stress.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Early Humanistic Approaches](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)

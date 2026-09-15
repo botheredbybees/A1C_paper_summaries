@@ -7,11 +7,12 @@ sources:
   - fxa301-week03-web-article-national-2024
   - fxa302-week01-making-music
   - fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the
+  - fxa302-week10-humanities-and-the-medical-home
 tags:
 - holistic-care
 title: Holistic Care
 type: topic
-updated: 2026-07-06
+updated: 2026-09-15
 ---
 
 ## Holistic Care
@@ -34,3 +35,4 @@ The concept of holistic care is a key focus in both sources, emphasizing the imp
 - [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)
 - [fxa302-week01-making-music](../sources/fxa302-week01-making-music.md)
 - [fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the](../sources/fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the.md)
+- [fxa302-week10-humanities-and-the-medical-home](../sources/fxa302-week10-humanities-and-the-medical-home.md)

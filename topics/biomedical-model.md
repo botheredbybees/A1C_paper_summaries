@@ -6,8 +6,9 @@ confidence: medium
 tags: ["biomedical-model"]
 sources:
   - fxa301-arts-in-health-ch04-48-haldane-d
+  - fxa302-week10-narrating-our-sadness-with-a-little-help-from-the-humanities
   - psy214-week01-lesson-psy214-week01-what-is-stress
-updated: 2026-07-06
+updated: 2026-09-15
 ---
 
 ## Biomedical Model
@@ -27,4 +28,5 @@ The biomedical model operates on a reductionist premise, focusing primarily on t
 ## Sources
 
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
+- [fxa302-week10-narrating-our-sadness-with-a-little-help-from-the-humanities](../sources/fxa302-week10-narrating-our-sadness-with-a-little-help-from-the-humanities.md)
 - [psy214-week01-lesson-psy214-week01-what-is-stress](../sources/psy214-week01-lesson-psy214-week01-what-is-stress.md)

@@ -8,12 +8,15 @@ sources:
   - fxa301-week01-culture-of-inquiry
   - fxa301-week10-advances-in-flow-research
   - fxa302-week01-arts-health-and-well-being-a-critical-perspective-on
+  - fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in
+  - fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with
+  - fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine
   - fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
 tags:
 - cultural-studies
 title: Cultural Studies and Applied Music
 type: topic
-updated: 2026-08-08
+updated: 2026-09-15
 ---
 
 ## Cultural Studies and Applied Music
@@ -37,4 +40,7 @@ This synthesis explores the intersection of cultural studies with applied music 
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week10-advances-in-flow-research](../sources/fxa301-week10-advances-in-flow-research.md)
 - [fxa302-week01-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
+- [fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in](../sources/fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in.md)
+- [fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with](../sources/fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with.md)
+- [fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine](../sources/fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine.md)
 - [fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)

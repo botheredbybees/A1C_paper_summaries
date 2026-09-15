@@ -21,7 +21,7 @@ tags: ["music-therapy", "brain-damage", "cognitive-rehabilitation", "neuroplasti
 key_concepts: ["music therapy", "neuroplasticity", "therapeutic benefits of music"]
 methods: ["case study", "systematic review"]
 slug: fxa100-week02-music-and-the-damaged-brain
-related: ["cognitive-rehabilitation", "music-therapy", "neuroplasticity", "therapeutic-benefits"]
+related: ["brain-damage", "cognitive-rehabilitation", "music-therapy", "neuroplasticity", "therapeutic-benefits"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -60,6 +60,7 @@ Overall, this text underscores the intrinsic relationship between music and huma
 
 ## See Also
 
+- [brain-damage](../topics/brain-damage.md)
 - [cognitive-rehabilitation](../topics/cognitive-rehabilitation.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neuroplasticity](../topics/neuroplasticity.md)

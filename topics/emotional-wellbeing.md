@@ -21,6 +21,7 @@ sources:
   - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa301-week05-art-making-and-illness-two-case-studies
   - fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
+  - fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
   - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
@@ -68,6 +69,7 @@ The integration of music therapy in enhancing emotional wellbeing is a recurring
 - [fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic](../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic.md)
+- [fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their](../sources/fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
 - [fxa303-week08-physiological-and-emotional-responses-of-disabled-children](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)

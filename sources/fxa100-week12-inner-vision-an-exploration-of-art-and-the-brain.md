@@ -11,7 +11,7 @@ tags: ["neuroaesthetics", "brain-art-relations", "visual-perception", "cognitive
 key_concepts: ["neural-structures", "visual-aesthetics", "face-recognition", "motion-perception", "color-processing"]
 methods: ["literature-review"]
 slug: fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
-related: ["cognitive-neuroscience", "neuroaesthetics", "sensory-processing", "visual-aesthetics", "visual-perception"]
+related: ["cognitive-neuroscience", "face-recognition", "neuroaesthetics", "sensory-processing", "visual-aesthetics", "visual-perception"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -52,6 +52,7 @@ Overall, 'Inner Vision' initiates an intriguing debate about the interplay betwe
 ## See Also
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [face-recognition](../topics/face-recognition.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)
 - [sensory-processing](../topics/sensory-processing.md)
 - [visual-aesthetics](../topics/visual-aesthetics.md)

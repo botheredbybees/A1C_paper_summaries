@@ -5,11 +5,12 @@ slug: story-based-ethics-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch36-chapter-4
   - fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision
+  - fxa302-week10-teaching-autism-through-naturalized-narrative-ethics
 tags:
 - narrative-ethics
 title: Story-Based Ethics in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Story-Based Ethics in Dementia Care
@@ -30,3 +31,4 @@ The concept of 'story-based ethics' emerges as a central theme across sources ad
 
 - [fxa100-excellence-in-dementia-care--ch36-chapter-4](../sources/fxa100-excellence-in-dementia-care--ch36-chapter-4.md)
 - [fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision](../sources/fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision.md)
+- [fxa302-week10-teaching-autism-through-naturalized-narrative-ethics](../sources/fxa302-week10-teaching-autism-through-naturalized-narrative-ethics.md)

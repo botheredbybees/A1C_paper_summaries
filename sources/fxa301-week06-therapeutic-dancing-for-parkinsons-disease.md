@@ -7,13 +7,15 @@ doi: https://doi.org/10.1016/j.ijge.2016.02.002
 appearances:
   - unit: FXA301
     week: "06"
-tags: ["parkinsons-disease", "therapeutic-dancing", "quality-of-life", "systematic-review", "physical-therapy", "fxa301"]
+  - unit: FXA302
+    week: "10"
+tags: ["parkinsons-disease", "therapeutic-dancing", "quality-of-life", "systematic-review", "physical-therapy", "fxa301", "fxa302"]
 key_concepts: ["mobility-improvement", "freezing-of-gait", "external-cues"]
 methods: ["systematic review"]
 slug: fxa301-week06-therapeutic-dancing-for-parkinsons-disease
 related: ["parkinsons-disease", "physical-therapy", "quality-of-life", "systematic-review", "therapeutic-dancing"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md_

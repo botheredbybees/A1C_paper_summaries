@@ -14,3 +14,6 @@ updated: 2026-09-15
 - [Blindness in Ancient Greece and the case of Homer](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)
 - [Music and Disability](../sources/fxa302-week05-music-and-disability.md)
 - [The Iconography of Blindness: how artists have portrayed the blind](../sources/fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how.md)
+- [Disability in Two Doctor Stories](../sources/fxa302-week10-disability-in-two-doctor-stories.md)
+- [Music and Disability](../sources/fxa302-week10-music-and-disability.md)
+- [Standout](../sources/fxa302-week10-standout.md)

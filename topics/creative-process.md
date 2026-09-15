@@ -13,6 +13,7 @@ sources:
   - fxa101-week10-lesson-fxa101-week10-page-1-week-10-planning-and
   - fxa202-week05-where-do-you-get-your-ideas
   - fxa300-week07-imagination-and-creativity-a-necessary-connection
+  - fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828-the-suffering
 updated: 2026-09-15
 ---
 
@@ -39,3 +40,4 @@ The creative process is a complex and multifaceted theory that involves various 
 - [fxa101-week10-lesson-fxa101-week10-page-1-week-10-planning-and](../sources/fxa101-week10-lesson-fxa101-week10-page-1-week-10-planning-and.md)
 - [fxa202-week05-where-do-you-get-your-ideas](../sources/fxa202-week05-where-do-you-get-your-ideas.md)
 - [fxa300-week07-imagination-and-creativity-a-necessary-connection](../sources/fxa300-week07-imagination-and-creativity-a-necessary-connection.md)
+- [fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828-the-suffering](../sources/fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828-the-suffering.md)

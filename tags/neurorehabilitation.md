@@ -12,3 +12,6 @@ updated: 2026-09-15
 - [Effects of a ballet-based dance intervention on gait variability and balance confidence of people with Parkinson\u2019s](../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait.md)
 - [Stroke Choirs | Stroke Recovery Association NSW](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
 - [Art Therapy for Individuals With Traumatic Brain Injury: A Comprehensive Neurorehabilitation-Informed Approach to Treatment](../sources/fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a.md)
+- [Dance Is an Accessible Physical Activity for People with Parkinson\u2019s Disease](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)
+- [Music Therapy in Early Neurorehabilitation with People Who Have Experienced Traumatic Brain Injury](../sources/fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who.md)

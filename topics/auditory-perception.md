@@ -10,7 +10,8 @@ sources:
   - fxa300-week04-musical-hearing
   - fxa300-week04-transcript-delete-this-element
   - fxa300-week09-inattentional-deafness-in-music
-updated: 2026-09-07
+  - fxa302-week10-essentials-of-cognitive-neuroscience-audition-and
+updated: 2026-09-15
 ---
 
 ## Auditory Perception
@@ -34,3 +35,4 @@ The sources provided highlight the multifaceted nature of auditory perception an
 - [fxa300-week04-musical-hearing](../sources/fxa300-week04-musical-hearing.md)
 - [fxa300-week04-transcript-delete-this-element](../sources/fxa300-week04-transcript-delete-this-element.md)
 - [fxa300-week09-inattentional-deafness-in-music](../sources/fxa300-week09-inattentional-deafness-in-music.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-audition-and](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-audition-and.md)

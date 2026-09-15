@@ -11,3 +11,4 @@ updated: 2026-09-15
 - [Synaesthesia: A Cognitive Neuroscientist's Perspective](../sources/fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward.md)
 - [Inattentional deafness in music](../sources/fxa300-week09-inattentional-deafness-in-music.md)
 - [Visual Loss and Painting: Monet, Bramblitt, Arma\u011fan](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)
+- [THE NEUROPHYSIOLOGY OF SENSORY ATTENTION](../sources/fxa302-week10-the-neurophysiology-of-sensory-attention.md)

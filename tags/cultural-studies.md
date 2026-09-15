@@ -11,4 +11,7 @@ updated: 2026-09-15
 - [Culture of Inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [Advances in Flow Research](../sources/fxa301-week10-advances-in-flow-research.md)
 - [Arts, Health and Well-Being: A Critical Perspective on Research, Policy and Practice](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
+- [\u201cDo You Remember Me?\u201d Constructions of Alzheimer\u2019s Disease in Literature and Film](../sources/fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in.md)
+- [Historical and cultural aspects of man's relationship with addictive drugs](../sources/fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with.md)
+- [I Am Gula, Hear Me Roar: On Gender and Medicine](../sources/fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine.md)
 - [Music-making for health and wellbeing in youth justice settings](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)

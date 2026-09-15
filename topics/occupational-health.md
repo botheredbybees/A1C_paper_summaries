@@ -7,6 +7,7 @@ tags: ["occupational-health"]
 sources:
   - fxa300-week10-a-musician-centered-approach-to-management-of-performance
   - fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii
+  - fxa302-week10-occupational-medicine
 updated: 2026-09-15
 ---
 
@@ -28,3 +29,4 @@ The field of occupational health in performing arts addresses the unique challen
 
 - [fxa300-week10-a-musician-centered-approach-to-management-of-performance](../sources/fxa300-week10-a-musician-centered-approach-to-management-of-performance.md)
 - [fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii.md)
+- [fxa302-week10-occupational-medicine](../sources/fxa302-week10-occupational-medicine.md)

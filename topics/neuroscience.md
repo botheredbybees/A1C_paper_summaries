@@ -25,6 +25,11 @@ sources:
   - fxa301-week01-transcript-two-minute-neuroscience-reward-system
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(14)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(15)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(6)
+  - fxa302-week10-skeletomotor-control
+  - fxa302-week10-the-visual-system
   - fxa303-week02-lesson-fxa303-week02-introduction
   - psy214-week05-transcript-to-sleep-perchance-to-dream
 tags:
@@ -72,5 +77,10 @@ The discussion revolves around the understanding of cognitive disorders such as 
 - [fxa301-week01-transcript-two-minute-neuroscience-reward-system](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(14)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2814%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(15)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2815%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(6)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%286%29.md)
+- [fxa302-week10-skeletomotor-control](../sources/fxa302-week10-skeletomotor-control.md)
+- [fxa302-week10-the-visual-system](../sources/fxa302-week10-the-visual-system.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction](../sources/fxa303-week02-lesson-fxa303-week02-introduction.md)
 - [psy214-week05-transcript-to-sleep-perchance-to-dream](../sources/psy214-week05-transcript-to-sleep-perchance-to-dream.md)

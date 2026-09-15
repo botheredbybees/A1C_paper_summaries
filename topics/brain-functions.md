@@ -7,7 +7,10 @@ tags: ["brain-functions"]
 sources:
   - fxa300-week04-the-role-of-expectation-in-music-from-the-score-to-emotions
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
-updated: 2026-07-28
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(19)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(22)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-language
+updated: 2026-09-15
 ---
 
 ## Expectation in Music and Brain Function
@@ -28,3 +31,6 @@ The role of expectation in music is a theoretical framework that delves into how
 
 - [fxa300-week04-the-role-of-expectation-in-music-from-the-score-to-emotions](../sources/fxa300-week04-the-role-of-expectation-in-music-from-the-score-to-emotions.md)
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(19)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2819%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(22)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2822%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-language](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-language.md)

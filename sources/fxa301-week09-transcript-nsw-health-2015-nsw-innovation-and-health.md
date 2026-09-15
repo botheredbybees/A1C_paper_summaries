@@ -11,7 +11,7 @@ tags: ["aphasia-treatment", "neurological-impairment-management", "speech-pathol
 key_concepts: ["social-isolation-risk", "communication-accessibility-through-singing"]
 methods: []
 slug: fxa301-week09-transcript-nsw-health-2015-nsw-innovation-and-health
-related: []
+related: ["aphasia-treatment"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,4 @@ The transcript details the NSW Health's initiative to run a choir for individual
 
 ## See Also
 
-*(none yet)*
+- [aphasia-treatment](../topics/aphasia-treatment.md)

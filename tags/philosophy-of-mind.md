@@ -12,3 +12,4 @@ updated: 2026-09-15
 - [Exploring Working Memory: Selected Works of Alan Baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
 - [Imagination and Creativity: A Necessary Connection?](../sources/fxa300-week07-imagination-and-creativity-a-necessary-connection.md)
 - [The Imagination of the Mind in Classical Athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)
+- [Introduction to Section I: The Neurobiology of Thinking](../sources/fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking.md)

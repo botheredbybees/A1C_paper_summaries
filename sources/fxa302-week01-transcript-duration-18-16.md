@@ -11,7 +11,7 @@ tags: ["narrative-medicine", "medical-ethics", "literature-in-healthcare", "fxa3
 key_concepts: ["storytelling in healthcare", "patient narratives", "holistic listening"]
 methods: []
 slug: fxa302-week01-transcript-duration-18-16
-related: ["medical-ethics", "narrative-medicine", "storytelling-in-healthcare"]
+related: ["medical-ethics", "narrative-medicine", "patient-narratives", "storytelling-in-healthcare"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -44,4 +44,5 @@ Dr. Rita Charon discusses the field of narrative medicine, emphasizing its role 
 
 - [medical-ethics](../topics/medical-ethics.md)
 - [narrative-medicine](../topics/narrative-medicine.md)
+- [patient-narratives](../topics/patient-narratives.md)
 - [storytelling-in-healthcare](../topics/storytelling-in-healthcare.md)

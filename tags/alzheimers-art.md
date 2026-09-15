@@ -9,3 +9,4 @@ updated: 2026-09-15
 - [Paintings of an artist with Alzheimer's disease: visuoconstructural deficits during dementia](../sources/fxa100-week06-paintings-of-an-artist-with-alzheimers-disease.md)
 - [Powerful Self-Portraits Reveal Artist\u2019s Descent Into Alzheimer\u2019s Disease](../sources/fxa100-week06-powerful-self-portraits-reveal-artists-descent-into.md)
 - [Powerful Self-Portraits Reveal Artist's Descent Into Alzheimer's Disease](../sources/fxa100-week06-powerful-self-portraits-reveal-artists-descent-into-%282%29.md)
+- [Artistic expression in famous painters affected by Alzheimer\u2019s disease: Willem de Kooning, William Utermohlen, and Carolus Horn](../sources/fxa302-week10-artistic-expression-in-famous-painters-affected-by.md)

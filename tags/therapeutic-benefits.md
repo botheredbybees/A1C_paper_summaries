@@ -25,6 +25,7 @@ updated: 2026-09-15
 - [Further evidence that singing fosters mental health and wellbeing: the West Kent and Medway project](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
 - [Arts and Refugees: Multidisciplinary Perspectives (Vol. 2)](../sources/fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)
 - [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation.md)
+- [Music, Dance and Neurological Illness](../sources/fxa302-week10-lesson-fxa302-week10-hm-test.md)
 - [More than just clowns \u2013 Clown Doctor rounds and their impact for children, families and staff](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 11](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [Me and us: Cultivating presence and mental health through choir singing](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)

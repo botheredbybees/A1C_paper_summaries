@@ -6,11 +6,14 @@ sources:
   - fxa100-week06-p1i045-apparent-diffusion-coefficient-values-do-not
   - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
+  - fxa302-week10-ballroom-dance-for-persons-with-multiple-sclerosis-a-pilot
+  - fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think
+  - fxa302-week10-standout
 tags:
 - multiple-sclerosis
 title: Therapeutic Use of Arts in Multiple Sclerosis
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Therapeutic Use of Arts in Multiple Sclerosis
@@ -32,3 +35,6 @@ The integration of therapeutic arts programs for individuals with multiple scler
 - [fxa100-week06-p1i045-apparent-diffusion-coefficient-values-do-not](../sources/fxa100-week06-p1i045-apparent-diffusion-coefficient-values-do-not.md)
 - [fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
+- [fxa302-week10-ballroom-dance-for-persons-with-multiple-sclerosis-a-pilot](../sources/fxa302-week10-ballroom-dance-for-persons-with-multiple-sclerosis-a-pilot.md)
+- [fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
+- [fxa302-week10-standout](../sources/fxa302-week10-standout.md)

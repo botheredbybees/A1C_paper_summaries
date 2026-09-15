@@ -8,3 +8,4 @@ updated: 2026-09-15
 
 - [The Music of Memory: Victoria Williamson TEDMED \u2013 Video Transcript](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%283%29.md)
 - [The Music of Memory: Victoria Williamson at TED MED Live](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2812%29.md)

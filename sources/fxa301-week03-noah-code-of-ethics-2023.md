@@ -11,7 +11,7 @@ tags: ["ethics-in-health", "arts-and-health", "professional-standards", "fxa301"
 key_concepts: ["ethical-principles", "respect-for-persons", "quality-of-care"]
 methods: []
 slug: fxa301-week03-noah-code-of-ethics-2023
-related: ["arts-and-health"]
+related: ["arts-and-health", "professional-standards"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The National Organization for Arts in Health (NOAH) has released the updated NOA
 ## See Also
 
 - [arts-and-health](../topics/arts-and-health.md)
+- [professional-standards](../topics/professional-standards.md)

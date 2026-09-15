@@ -6,8 +6,9 @@ confidence: medium
 tags: ["therapeutic-approaches"]
 sources:
   - fxa100-week03-music-memory-the-ipod-project-video-transcript-(2)
+  - fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Music Therapy
@@ -27,4 +28,5 @@ The application of personalized music playlists as a therapeutic tool in elderly
 ## Sources
 
 - [fxa100-week03-music-memory-the-ipod-project-video-transcript-(2)](../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript-%282%29.md)
+- [fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to](../sources/fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)

@@ -5,11 +5,12 @@ slug: cognitive-disorders
 sources:
   - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
   - fxa100-week02-brain-networking-among-musicians
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(12)
 tags:
 - cognitive-disorders
 title: Cognitive Disorders
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Cognitive Disorders
@@ -30,3 +31,4 @@ The exploration of cognitive disorders involves understanding various forms such
 
 - [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
 - [fxa100-week02-brain-networking-among-musicians](../sources/fxa100-week02-brain-networking-among-musicians.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(12)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2812%29.md)

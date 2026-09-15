@@ -11,7 +11,7 @@ tags: ["neurologic-music-therapy", "parkinsons-disease", "rehabilitation", "move
 key_concepts: ["Neurologic Music Therapy (NMT)", "Rhythmic Auditory Stimulation (RAS)", "Patterned Sensory Enhancement (PSE)", "Therapeutic Instrumental Music Performance (TIMP)"]
 methods: ["pilot study", "optoelectrical 3D movement analysis", "computerized dynamic posturography"]
 slug: fxa300-week08-neurologic-music-therapy-training-for-mobility-and
-related: ["neurologic-music-therapy", "neurologic-music-therapy-nmt", "parkinsons-disease", "rehabilitation", "rhythmic-auditory-stimulation-ras"]
+related: ["gait-parameters", "neurologic-music-therapy", "neurologic-music-therapy-nmt", "parkinsons-disease", "rehabilitation", "rhythmic-auditory-stimulation-ras", "therapeutic-instrumental-music-performance-timp"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -48,8 +48,10 @@ This pilot study evaluates the efficacy of Neurologic Music Therapy (NMT) techni
 
 ## See Also
 
+- [gait-parameters](../topics/gait-parameters.md)
 - [neurologic-music-therapy](../topics/neurologic-music-therapy.md)
 - [neurologic-music-therapy-nmt](../topics/neurologic-music-therapy-nmt.md)
 - [parkinsons-disease](../topics/parkinsons-disease.md)
 - [rehabilitation](../topics/rehabilitation.md)
 - [rhythmic-auditory-stimulation-ras](../topics/rhythmic-auditory-stimulation-ras.md)
+- [therapeutic-instrumental-music-performance-timp](../topics/therapeutic-instrumental-music-performance-timp.md)

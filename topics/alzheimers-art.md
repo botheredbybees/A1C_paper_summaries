@@ -6,11 +6,12 @@ sources:
   - fxa100-week06-paintings-of-an-artist-with-alzheimers-disease
   - fxa100-week06-powerful-self-portraits-reveal-artists-descent-into
   - fxa100-week06-powerful-self-portraits-reveal-artists-descent-into-(2)
+  - fxa302-week10-artistic-expression-in-famous-painters-affected-by
 tags:
 - alzheimers-art
 title: Art as a Window into the Experience of Alzheimer's Disease
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Art as a Window into the Experience of Alzheimer's Disease
@@ -31,3 +32,4 @@ The study of visual art created by individuals with Alzheimer's disease offers u
 - [fxa100-week06-paintings-of-an-artist-with-alzheimers-disease](../sources/fxa100-week06-paintings-of-an-artist-with-alzheimers-disease.md)
 - [fxa100-week06-powerful-self-portraits-reveal-artists-descent-into](../sources/fxa100-week06-powerful-self-portraits-reveal-artists-descent-into.md)
 - [fxa100-week06-powerful-self-portraits-reveal-artists-descent-into-(2)](../sources/fxa100-week06-powerful-self-portraits-reveal-artists-descent-into-%282%29.md)
+- [fxa302-week10-artistic-expression-in-famous-painters-affected-by](../sources/fxa302-week10-artistic-expression-in-famous-painters-affected-by.md)

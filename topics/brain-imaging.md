@@ -14,12 +14,13 @@ sources:
   - fxa300-week07-musical-creativity-and-the-brain
   - fxa300-week07-your-brain-on-improv
   - fxa300-week07-your-brain-on-improv-(2)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(17)
   - fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain
 tags:
 - brain-imaging
 title: Brain Imaging Techniques
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Brain Imaging Techniques
@@ -49,4 +50,5 @@ The study of brain imaging techniques encompasses both basic and clinical neuros
 - [fxa300-week07-musical-creativity-and-the-brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
 - [fxa300-week07-your-brain-on-improv](../sources/fxa300-week07-your-brain-on-improv.md)
 - [fxa300-week07-your-brain-on-improv-(2)](../sources/fxa300-week07-your-brain-on-improv-%282%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(17)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2817%29.md)
 - [fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)

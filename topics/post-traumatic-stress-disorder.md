@@ -4,6 +4,7 @@ domain: intervention
 slug: post-traumatic-stress-disorder-treatments
 sources:
   - fxa301-week10-web-article-drayton-2016
+  - fxa302-week10-implementation-of-integrated-therapies-for-comorbid-post
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
   - fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
@@ -13,7 +14,7 @@ tags:
 - post-traumatic-stress-disorder
 title: Post-Traumatic Stress Disorder Treatments
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Post-Traumatic Stress Disorder Treatments
@@ -33,6 +34,7 @@ The current treatments for Post-Traumatic Stress Disorder (PTSD) emphasize cogni
 ## Sources
 
 - [fxa301-week10-web-article-drayton-2016](../sources/fxa301-week10-web-article-drayton-2016.md)
+- [fxa302-week10-implementation-of-integrated-therapies-for-comorbid-post](../sources/fxa302-week10-implementation-of-integrated-therapies-for-comorbid-post.md)
 - [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and.md)
 - [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-%282%29.md)
 - [fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact](../sources/fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact.md)

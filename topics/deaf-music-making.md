@@ -7,7 +7,8 @@ tags: ["deaf-music-making"]
 sources:
   - fxa302-week05-music-and-disability
   - fxa302-week05-music-and-disability-(2)
-updated: 2026-08-03
+  - fxa302-week10-music-and-disability
+updated: 2026-09-15
 ---
 
 ## Music and Deafness
@@ -28,3 +29,4 @@ The exploration of music-making among individuals who are deaf emphasizes a shif
 
 - [fxa302-week05-music-and-disability](../sources/fxa302-week05-music-and-disability.md)
 - [fxa302-week05-music-and-disability-(2)](../sources/fxa302-week05-music-and-disability-%282%29.md)
+- [fxa302-week10-music-and-disability](../sources/fxa302-week10-music-and-disability.md)

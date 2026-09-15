@@ -1,0 +1,9 @@
+---
+type: tag
+tag: morgellons-disease
+updated: 2026-09-15
+---
+
+## Morgellons Disease
+
+- [This Weird, Incurable Disease: Competing Diagnoses in the Rhetoric of Morgellons](../sources/fxa302-week10-this-weird-incurable-disease-competing-diagnoses-in-the.md)

@@ -11,7 +11,7 @@ tags: ["clown-therapy", "drama-therapy", "addiction-treatment", "jungian-psychol
 key_concepts: ["transcendent-function", "paradox-reconciliation", "archetypal-persona"]
 methods: ["case-study"]
 slug: fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
-related: ["clown-therapy", "drama-therapy"]
+related: ["addiction-treatment", "clown-therapy", "drama-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ This paper discusses a drama therapy approach to addiction using clown therapy, 
 
 ## See Also
 
+- [addiction-treatment](../topics/addiction-treatment.md)
 - [clown-therapy](../topics/clown-therapy.md)
 - [drama-therapy](../topics/drama-therapy.md)

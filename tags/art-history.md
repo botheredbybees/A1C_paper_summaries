@@ -18,3 +18,5 @@ updated: 2026-09-15
 - [The Iconography of Blindness: how artists have portrayed the blind](../sources/fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how.md)
 - [About the Cover: Edvard Munch's Self-Portrait After the Spanish Flu](../sources/fxa302-week08-about-the-cover-edvard-munchs-self-portrait-after-the.md)
 - [Week 9 - Pain and Mortality](../sources/fxa302-week09-lesson-fxa302-week09-welcome-to-week-9.md)
+- [Francisco Jos\u00e9 de Goya y Lucientes (1746\u20131828), the suffering artist](../sources/fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828-the-suffering.md)
+- [Review of 'German Post-Expressionism. The Art of the Great Disorder 1918-1924' by Dennis Crockett](../sources/fxa302-week10-review-of-german-post-expressionism-the-art-of-the-great.md)

@@ -7,8 +7,9 @@ tags: ["creative-expression-therapy"]
 sources:
   - fxa202-week03-olivia-bowman-a-mindfulness-stay
   - fxa202-week09-you-are-the-best-dancer
+  - fxa302-week10-week-10-introduction
   - fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Creative Expression Therapy
@@ -29,4 +30,5 @@ Creative expression therapy encompasses a range of practices aimed at harnessing
 
 - [fxa202-week03-olivia-bowman-a-mindfulness-stay](../sources/fxa202-week03-olivia-bowman-a-mindfulness-stay.md)
 - [fxa202-week09-you-are-the-best-dancer](../sources/fxa202-week09-you-are-the-best-dancer.md)
+- [fxa302-week10-week-10-introduction](../sources/fxa302-week10-week-10-introduction.md)
 - [fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)

@@ -11,7 +11,7 @@ tags: ["person-centered-care", "dementia-experience", "social-psychology-of-deme
 key_concepts: ["personhood", "holistic approach to dementia care", "societal context in dementia experience"]
 methods: ["case study"]
 slug: fxa100-week09-how-personhood-is-undermined
-related: ["person-centered-care"]
+related: ["dementia-experience", "person-centered-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ In 'How Personhood is Undermined', Tom Kitwood critiques the conventional medica
 
 ## See Also
 
+- [dementia-experience](../topics/dementia-experience.md)
 - [person-centered-care](../topics/person-centered-care.md)

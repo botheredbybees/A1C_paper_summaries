@@ -13,7 +13,7 @@ tags: ["music-psychology", "cognitive-science", "earworms", "empathy", "sad-musi
 key_concepts: ["absorption", "limbic-system", "dorsal-striatum", "basal-ganglia"]
 methods: []
 slug: fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and
-related: ["absorption", "cognitive-science", "earworms", "music-psychology", "sad-music"]
+related: ["absorption", "cognitive-science", "earworms", "empathy", "music-psychology", "sad-music"]
 created: 2026-07-06
 updated: 2026-07-21
 ---
@@ -49,5 +49,6 @@ The lesson introduces the concept of earworms through a TED-Ed video by Elizabet
 - [absorption](../topics/absorption.md)
 - [cognitive-science](../topics/cognitive-science.md)
 - [earworms](../topics/earworms.md)
+- [empathy](../topics/empathy.md)
 - [music-psychology](../topics/music-psychology.md)
 - [sad-music](../topics/sad-music.md)

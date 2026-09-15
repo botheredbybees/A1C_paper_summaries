@@ -8,7 +8,10 @@ sources:
   - fxa300-week02-lesson-fxa300-week02-week-3-the-auditory-system
   - fxa300-week04-lesson-fxa300-week04-page-3-1
   - fxa300-week04-lesson-fxa300-week04-welcome-to-week-41
-updated: 2026-07-28
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(13)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(15)
+  - fxa302-week10-oculomotor-control-and-the-control-of-attention
+updated: 2026-09-15
 ---
 
 ## Brain Regions and Music Processing
@@ -30,3 +33,6 @@ The study of brain regions involved in music processing integrates various metho
 - [fxa300-week02-lesson-fxa300-week02-week-3-the-auditory-system](../sources/fxa300-week02-lesson-fxa300-week02-week-3-the-auditory-system.md)
 - [fxa300-week04-lesson-fxa300-week04-page-3-1](../sources/fxa300-week04-lesson-fxa300-week04-page-3-1.md)
 - [fxa300-week04-lesson-fxa300-week04-welcome-to-week-41](../sources/fxa300-week04-lesson-fxa300-week04-welcome-to-week-41.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(13)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2813%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(15)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2815%29.md)
+- [fxa302-week10-oculomotor-control-and-the-control-of-attention](../sources/fxa302-week10-oculomotor-control-and-the-control-of-attention.md)

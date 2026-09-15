@@ -6,6 +6,7 @@ updated: 2026-09-15
 
 ## Humanistic Psychology
 
+- [Resource-Oriented Perspectives in Music Therapy](../sources/fxa302-week10-resource-oriented-perspectives-in-music-therapy.md)
 - [Eudaimonic well-being: Early humanistic approaches](../sources/psy214-week02-eudaimonic-well-being-early-humanistic-approaches.md)
 - [Eudaimonic well-being: Early humanistic approaches - Abraham Maslow and self-actualisation](../sources/psy214-week02-eudaimonic-well-being-early-humanistic-approaches-abraham.md)
 - [Know Thyself and Become What You Are: A Eudaimonic Approach to Psychological Well-Being](../sources/psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach.md)

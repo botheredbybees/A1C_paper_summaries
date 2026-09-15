@@ -6,8 +6,9 @@ confidence: medium
 tags: ["theoretical-models"]
 sources:
   - fxa101-week06-the-relationship-between-stressors-and-creativity-a-meta
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(5)
   - psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 ## Theoretical Models of Stress and Well-being
@@ -27,4 +28,5 @@ Two theoretical models are discussed in the provided sources: one examining stre
 ## Sources
 
 - [fxa101-week06-the-relationship-between-stressors-and-creativity-a-meta](../sources/fxa101-week06-the-relationship-between-stressors-and-creativity-a-meta.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(5)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%285%29.md)
 - [psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being](../sources/psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being.md)

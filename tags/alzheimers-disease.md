@@ -27,5 +27,7 @@ updated: 2026-09-15
 - [Cognitive Reserve in Healthy Aging and Alzheimer\u2019s Disease: A Meta-Analysis of fMRI Studies](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
 - [Lifestyle patterns and cognitive reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
 - [Photographers on Alzheimer's, Dementia, and Heartbreaking Memory Loss](../sources/fxa202-week03-photographers-on-alzheimers-dementia-and-heartbreaking.md)
+- [Music Therapy for People Who Have Alzheimer\u2019s Disease](../sources/fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease.md)
+- [Understanding Suffering: Utermohlen\u2019s Self-portraits and Alzheimer\u2019s Disease](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)
 - [Cognitive training and cognitive rehabilitation for mild to moderate Alzheimer's disease and vascular dementia](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
 - [The MINWii Project: Renarcissization of Patients Suffering from Alzheimer\u2019s Disease Through Video Game-Based Music Therapy](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

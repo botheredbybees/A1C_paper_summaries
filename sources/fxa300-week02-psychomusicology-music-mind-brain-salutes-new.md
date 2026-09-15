@@ -11,7 +11,7 @@ tags: ["music-psychology", "brain-mechanisms", "conference-proceedings", "educat
 key_concepts: ["bodily-motion-responses", "systematic-musicology"]
 methods: ["editorial"]
 slug: fxa300-week02-psychomusicology-music-mind-brain-salutes-new
-related: ["brain-mechanisms", "educational-research", "music-psychology"]
+related: ["brain-mechanisms", "conference-proceedings", "educational-research", "music-psychology"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -43,5 +43,6 @@ This editorial by Annabel J. Cohen introduces a special issue in Psychomusicolog
 ## See Also
 
 - [brain-mechanisms](../topics/brain-mechanisms.md)
+- [conference-proceedings](../topics/conference-proceedings.md)
 - [educational-research](../topics/educational-research.md)
 - [music-psychology](../topics/music-psychology.md)

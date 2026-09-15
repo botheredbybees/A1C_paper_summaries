@@ -19,6 +19,7 @@ updated: 2026-09-15
 - [Creativity in Later Life](../sources/fxa101-week04-creativity-in-later-life.md)
 - [Ballet Moves for Adult Creative Health](../sources/fxa301-week06-ballet-moves-for-adult-creative-health.md)
 - [The Cultural Value of Older People\u2019s Experiences of Theater-making: A Review](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
+- [More Body: A Performance for Five (or More) Bodies](../sources/fxa302-week10-more-body-a-performance-for-five-or-more-bodies.md)
 - [Play for Health Across the Lifespan: Stories from the Seven Ages of Play](../sources/fxa303-play-for-health-across-the-lifespan-ch06-chapter-7.md)
 - [The role of music in adolescent development: much more than the same old song](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
 - [Strategies for diversity: medical clowns in dementia care - an ethnographic study](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)

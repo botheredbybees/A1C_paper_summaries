@@ -8,7 +8,8 @@ sources:
   - fxa100-week11-dancing-and-the-brain
   - fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
-updated: 2026-08-31
+  - fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms
+updated: 2026-09-15
 ---
 
 ## Dancing as Therapy for Motor Symptoms
@@ -30,3 +31,4 @@ Research indicates that engaging in dancing can offer significant therapeutic be
 - [fxa100-week11-dancing-and-the-brain](../sources/fxa100-week11-dancing-and-the-brain.md)
 - [fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
 - [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
+- [fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms](../sources/fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms.md)

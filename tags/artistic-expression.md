@@ -12,4 +12,5 @@ updated: 2026-09-15
 - [Leonard Bernstein discusses Beethoven\u2019s 1st Symphony](../sources/fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony.md)
 - [Mental Illness, Music and Literature: Perspectives on Health and Wellbeing](../sources/fxa302-week08-lesson-fxa302-week08-page-3.md)
 - [The rewards of chronic illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
 - [Artistic expression as a source of resilience for transgender and gender diverse young people](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

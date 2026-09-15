@@ -11,5 +11,6 @@ updated: 2026-09-15
 - [Interdisciplinarity for Social Justice Enterprise: Intersecting Education, Industry and Community Arts Perspectives](../sources/fxa301-week01-interdisciplinarity-for-social-justice-enterprise.md)
 - [Refugee Art Project](../sources/fxa301-week11-refugee-art-project.md)
 - [Digital Storytelling](../sources/fxa302-week01-digital-storytelling.md)
+- [Calcedonies](../sources/fxa302-week10-calcedonies.md)
 - ['Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [Singing with Pride: How Queer Choirs Strive for a Better World](../sources/fxa303-week11-web-article-andriani-2023.md)

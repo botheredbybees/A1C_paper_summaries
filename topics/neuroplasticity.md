@@ -27,6 +27,9 @@ sources:
   - fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
   - fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
   - fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and
+  - fxa302-week10-chapter-17-emotion
+  - fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a
+  - fxa302-week10-the-neural-basis-of-addiction-a-pathology-of-motivation-and
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week03-adolescent-development
 tags:
@@ -76,5 +79,8 @@ The sources collectively highlight the potential of music therapy as a therapeut
 - [fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
 - [fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and](../sources/fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and.md)
+- [fxa302-week10-chapter-17-emotion](../sources/fxa302-week10-chapter-17-emotion.md)
+- [fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a](../sources/fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a.md)
+- [fxa302-week10-the-neural-basis-of-addiction-a-pathology-of-motivation-and](../sources/fxa302-week10-the-neural-basis-of-addiction-a-pathology-of-motivation-and.md)
 - [fxa303-week02-child-development-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)

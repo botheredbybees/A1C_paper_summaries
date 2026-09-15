@@ -11,7 +11,7 @@ tags: ["neural-circuitry", "psychophysiology", "poetry-aesthetics", "emotional-r
 key_concepts: ["nucleus-accumbens", "peak-emotion-experience", "aesthetic-pleasure"]
 methods: ["neuroimaging", "psychophysiological-measures"]
 slug: fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
-related: ["emotional-reaction", "psychophysiology"]
+related: ["emotional-reaction", "neural-circuitry", "psychophysiology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This study explores the emotional impact of poetry on human physiology and neura
 ## See Also
 
 - [emotional-reaction](../topics/emotional-reaction.md)
+- [neural-circuitry](../topics/neural-circuitry.md)
 - [psychophysiology](../topics/psychophysiology.md)

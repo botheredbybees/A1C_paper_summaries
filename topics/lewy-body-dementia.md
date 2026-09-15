@@ -9,8 +9,13 @@ sources:
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
   - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)
   - fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state
+  - fxa302-week10-chapter-1-background-understanding-motor-neuron-disease
+  - fxa302-week10-lesson-fxa302-week10-page-2
+  - fxa302-week10-lesson-fxa302-week10-page-4-activities
+  - fxa302-week10-lesson-fxa302-week10-welcome-to-week-10
+  - fxa302-week10-skeletomotor-control
   - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Lewy Body Dementia
@@ -33,4 +38,9 @@ Research on Lewy body dementia focuses primarily on understanding the neurobiolo
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%283%29.md)
 - [fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
+- [fxa302-week10-chapter-1-background-understanding-motor-neuron-disease](../sources/fxa302-week10-chapter-1-background-understanding-motor-neuron-disease.md)
+- [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
+- [fxa302-week10-lesson-fxa302-week10-page-4-activities](../sources/fxa302-week10-lesson-fxa302-week10-page-4-activities.md)
+- [fxa302-week10-lesson-fxa302-week10-welcome-to-week-10](../sources/fxa302-week10-lesson-fxa302-week10-welcome-to-week-10.md)
+- [fxa302-week10-skeletomotor-control](../sources/fxa302-week10-skeletomotor-control.md)
 - [fxa303-week13-behavioral-and-psychological-symptoms-of-dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)

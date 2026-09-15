@@ -7,7 +7,8 @@ tags: ["perceptual-cognition"]
 sources:
   - fxa101-week02-categorization-of-synaesthesia
   - fxa101-week04-meta-analysis-of-action-video-game-impact-on-perceptual
-updated: 2026-07-28
+  - fxa302-week10-sensation-and-perception-of-visual-signals
+updated: 2026-09-15
 ---
 
 ## Perceptual Cognition Enhancements
@@ -28,3 +29,4 @@ The study of perceptual cognition enhancements through both synaesthesia and act
 
 - [fxa101-week02-categorization-of-synaesthesia](../sources/fxa101-week02-categorization-of-synaesthesia.md)
 - [fxa101-week04-meta-analysis-of-action-video-game-impact-on-perceptual](../sources/fxa101-week04-meta-analysis-of-action-video-game-impact-on-perceptual.md)
+- [fxa302-week10-sensation-and-perception-of-visual-signals](../sources/fxa302-week10-sensation-and-perception-of-visual-signals.md)

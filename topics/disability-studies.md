@@ -13,6 +13,9 @@ sources:
   - fxa302-week02-lesson-fxa302-week02-page-3
   - fxa302-week05-music-and-disability
   - fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how
+  - fxa302-week10-disability-in-two-doctor-stories
+  - fxa302-week10-music-and-disability
+  - fxa302-week10-standout
 updated: 2026-09-15
 ---
 
@@ -40,3 +43,6 @@ The integration of inclusive arts practices within disability studies is charact
 - [fxa302-week02-lesson-fxa302-week02-page-3](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)
 - [fxa302-week05-music-and-disability](../sources/fxa302-week05-music-and-disability.md)
 - [fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how](../sources/fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how.md)
+- [fxa302-week10-disability-in-two-doctor-stories](../sources/fxa302-week10-disability-in-two-doctor-stories.md)
+- [fxa302-week10-music-and-disability](../sources/fxa302-week10-music-and-disability.md)
+- [fxa302-week10-standout](../sources/fxa302-week10-standout.md)

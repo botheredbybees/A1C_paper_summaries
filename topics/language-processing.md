@@ -7,7 +7,9 @@ tags: ["language-processing"]
 sources:
   - fxa101-week03-insights-into-the-organisation-of-semantic-memory-and
   - fxa300-week03-word-length-and-the-structure-of-short-term-memory
-updated: 2026-07-21
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(23)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-language
+updated: 2026-09-15
 ---
 
 ## Language Processing and Memory
@@ -28,3 +30,5 @@ The synthesis of these two sources highlights the interplay between language pro
 
 - [fxa101-week03-insights-into-the-organisation-of-semantic-memory-and](../sources/fxa101-week03-insights-into-the-organisation-of-semantic-memory-and.md)
 - [fxa300-week03-word-length-and-the-structure-of-short-term-memory](../sources/fxa300-week03-word-length-and-the-structure-of-short-term-memory.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(23)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2823%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-language](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-language.md)

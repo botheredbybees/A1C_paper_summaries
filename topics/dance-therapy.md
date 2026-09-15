@@ -35,11 +35,15 @@ sources:
   - fxa301-week06-promoting-wellbeing-and-health-through-active-participation
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
+  - fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people
+  - fxa302-week10-dance-and-creativity-within-dance-movement-therapy
+  - fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with
+  - fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial
 tags:
 - dance-therapy
 title: Dance Therapy
 type: topic
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 ## Dance Therapy
@@ -94,3 +98,7 @@ While the therapeutic benefits of dance therapy are widely recognized, its integ
 - [fxa301-week06-promoting-wellbeing-and-health-through-active-participation](../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation.md)
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults.md)
 - [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
+- [fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
+- [fxa302-week10-dance-and-creativity-within-dance-movement-therapy](../sources/fxa302-week10-dance-and-creativity-within-dance-movement-therapy.md)
+- [fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
+- [fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)

@@ -28,6 +28,8 @@ sources:
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
   - fxa301-week10-community-art-therapy-cat-learning-from-art-therapy
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
+  - fxa302-week10-ive-got-no-skills-to-maintain-to-keep-that-going-a
+  - fxa302-week10-lesson-fxa302-week10-page-4-activities
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
@@ -41,7 +43,7 @@ tags:
 - qualitative-research
 title: Qualitative Research in Health and Well-being Interventions
 type: topic
-updated: 2026-08-08
+updated: 2026-09-15
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -85,6 +87,8 @@ The sources collectively highlight the importance of qualitative research method
 - [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
 - [fxa301-week10-community-art-therapy-cat-learning-from-art-therapy](../sources/fxa301-week10-community-art-therapy-cat-learning-from-art-therapy.md)
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
+- [fxa302-week10-ive-got-no-skills-to-maintain-to-keep-that-going-a](../sources/fxa302-week10-ive-got-no-skills-to-maintain-to-keep-that-going-a.md)
+- [fxa302-week10-lesson-fxa302-week10-page-4-activities](../sources/fxa302-week10-lesson-fxa302-week10-page-4-activities.md)
 - [fxa303-week01-teachers-perspectives-on-providing-support-to-children](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
 - [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

@@ -11,7 +11,8 @@ sources:
   - fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical
   - fxa302-week03-visual-thinking-strategy
   - fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education
-updated: 2026-08-07
+  - fxa302-week10-understanding-suffering-utermohlens-self-portraits-and
+updated: 2026-09-15
 ---
 
 ## Observational Skills in Healthcare Education
@@ -36,3 +37,4 @@ The integration of observational skills into healthcare education is a multiface
 - [fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical](../sources/fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical.md)
 - [fxa302-week03-visual-thinking-strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education](../sources/fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education.md)
+- [fxa302-week10-understanding-suffering-utermohlens-self-portraits-and](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)

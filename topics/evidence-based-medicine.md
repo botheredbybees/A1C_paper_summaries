@@ -7,7 +7,8 @@ tags: ["evidence-based-medicine"]
 sources:
   - fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence
   - fxa302-week01-health-humanities-the-future-of-medical-humanities
-updated: 2026-07-06
+  - fxa302-week10-music-therapy-research
+updated: 2026-09-15
 ---
 
 ## Evidence-Based Medicine
@@ -28,3 +29,4 @@ The concept of Evidence-Based Medicine (EBM) is explored through two lenses in t
 
 - [fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence](../sources/fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence.md)
 - [fxa302-week01-health-humanities-the-future-of-medical-humanities](../sources/fxa302-week01-health-humanities-the-future-of-medical-humanities.md)
+- [fxa302-week10-music-therapy-research](../sources/fxa302-week10-music-therapy-research.md)

@@ -9,6 +9,9 @@ sources:
   - fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the
   - fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on
   - fxa300-week10-injuries-in-musicians-imaging-and-management
+  - fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people
+  - fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a
+  - fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons
   - fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
   - fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a
 updated: 2026-09-15
@@ -34,5 +37,8 @@ The exploration of rehabilitation strategies in both dementia care and mental he
 - [fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the](../sources/fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the.md)
 - [fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on](../sources/fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on.md)
 - [fxa300-week10-injuries-in-musicians-imaging-and-management](../sources/fxa300-week10-injuries-in-musicians-imaging-and-management.md)
+- [fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
+- [fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a](../sources/fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a.md)
+- [fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons](../sources/fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons.md)
 - [fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
 - [fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a](../sources/fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a.md)

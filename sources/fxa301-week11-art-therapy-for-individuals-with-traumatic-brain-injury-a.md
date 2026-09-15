@@ -7,13 +7,15 @@ doi: https://doi.org/10.1080/07421656.2016.1164002
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["art-therapy", "cognitive-recovery", "fxa301", "holistic-treatment-plans", "identity-reconstruction", "neurorehabilitation", "self-exploration", "traumatic-brain-injury"]
+  - unit: FXA302
+    week: "10"
+tags: ["art-therapy", "cognitive-recovery", "fxa301", "holistic-treatment-plans", "identity-reconstruction", "neurorehabilitation", "self-exploration", "traumatic-brain-injury", "fxa302"]
 key_concepts: ["neuroplasticity", "holistic-treatment-plans", "self-exploration"]
 methods: ["case-study"]
 slug: fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a
 related: ["art-therapy", "identity-reconstruction", "neurorehabilitation", "traumatic-brain-injury"]
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a.md_

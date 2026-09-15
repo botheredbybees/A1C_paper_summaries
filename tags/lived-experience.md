@@ -8,3 +8,4 @@ updated: 2026-09-15
 
 - [Critical reflection of the development of the Finding Joy photo essay](../sources/fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy.md)
 - [Statement on Lived Experience](../sources/fxa301-week03-statement-on-lived-experience.md)
+- [Teaching Narratives of Mental Illness](../sources/fxa302-week10-teaching-narratives-of-mental-illness.md)

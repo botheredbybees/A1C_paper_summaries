@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: empathy-in-counseling-and-psychotherapy
 sources:
-- fxa303-week01-person-centered-therapy-rogerian-therapy
+  - fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and
+  - fxa302-week10-the-medical-humanities-in-medical-education
+  - fxa303-week01-person-centered-therapy-rogerian-therapy
 tags:
 - empathy
 title: Empathy in Counseling and Psychotherapy
 type: topic
-updated: 2026-05-04
+updated: 2026-09-15
 ---
 
 ## Empathy in Counseling and Psychotherapy
@@ -27,4 +29,6 @@ Empathy plays a crucial role in person-centered therapy (PCT) as proposed by Car
 
 ## Sources
 
+- [fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and](../sources/fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and.md)
+- [fxa302-week10-the-medical-humanities-in-medical-education](../sources/fxa302-week10-the-medical-humanities-in-medical-education.md)
 - [fxa303-week01-person-centered-therapy-rogerian-therapy](../sources/fxa303-week01-person-centered-therapy-rogerian-therapy.md)

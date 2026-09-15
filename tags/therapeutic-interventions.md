@@ -18,6 +18,8 @@ updated: 2026-09-15
 - [Editor\u2019s Introduction: Arts and Community Engagement: Intersect Music, Dance and Drama in Arts Education, Arts Therapy, and Arts Practice with Community Engagement Projects](../sources/fxa301-week01-editors-introduction-arts-and-community-engagement.md)
 - [The Use of Music Therapy in the Treatment of Mental Illness and the Enhancement of Societal Wellbeing](../sources/fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness.md)
 - [HEALTH HUMANITIES AND THE CREATIVE DISCIPLINES](../sources/fxa302-week01-health-humanities-and-the-creative-disciplines.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
+- [Neural Bases of Memory](../sources/fxa302-week10-neural-bases-of-memory.md)
 - [Introduction to Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [Play therapy in children with autism: Its role, implications, and limitations](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)
 - [Puppet Play Therapy: A Practical Guidebook - Section IV Puppet Therapy Techniques](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)

@@ -5,12 +5,13 @@ slug: arts-therapies-and-resilience-in-children
 sources:
   - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)
   - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(12)
   - fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
 tags:
 - therapeutic-applications
 title: Arts Therapies and Resilience in Children
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Arts Therapies and Resilience in Children
@@ -31,4 +32,5 @@ The integration of arts therapies such as music, dance, drama, and visual art in
 
 - [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%283%29.md)
 - [fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(12)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2812%29.md)
 - [fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)

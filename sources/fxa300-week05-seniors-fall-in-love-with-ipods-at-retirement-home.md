@@ -11,7 +11,7 @@ tags: ["personalized-music-therapy", "senior-wellness", "music-and-memory", "ret
 key_concepts: ["personalized music playlists", "mental health improvement", "quality of life enhancement", "memory recall"]
 methods: ["case study"]
 slug: fxa300-week05-seniors-fall-in-love-with-ipods-at-retirement-home
-related: ["music-and-memory", "quality-of-life-enhancement"]
+related: ["digital-health", "music-and-memory", "quality-of-life-enhancement"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -44,5 +44,6 @@ A retirement community in Cumberland County initiated an experiment to explore t
 
 ## See Also
 
+- [digital-health](../topics/digital-health.md)
 - [music-and-memory](../topics/music-and-memory.md)
 - [quality-of-life-enhancement](../topics/quality-of-life-enhancement.md)

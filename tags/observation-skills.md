@@ -12,3 +12,4 @@ updated: 2026-09-15
 - [The Art of Observation: A Qualitative Analysis of Medical Students\u2019 Experiences](../sources/fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical.md)
 - [Visual Thinking Strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [Ways of Seeing: Using the Visual Arts in Nursing Education](../sources/fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education.md)
+- [Understanding Suffering: Utermohlen\u2019s Self-portraits and Alzheimer\u2019s Disease](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)

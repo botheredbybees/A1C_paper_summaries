@@ -11,7 +11,7 @@ tags: ["perceptual-processes", "affective-reactions", "visual-processing", "gest
 key_concepts: ["early-perceptual-processes", "affect-as-component-of-perception", "gestalt-theory"]
 methods: ["experiment", "verbal-preference-ratings", "facial-emg"]
 slug: fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
-related: ["affective-reactions", "perceptual-processes", "visual-processing"]
+related: ["affective-reactions", "emotional-integration", "perceptual-processes", "visual-processing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,5 +46,6 @@ The study investigates the relationship between perceptual processes and affecti
 ## See Also
 
 - [affective-reactions](../topics/affective-reactions.md)
+- [emotional-integration](../topics/emotional-integration.md)
 - [perceptual-processes](../topics/perceptual-processes.md)
 - [visual-processing](../topics/visual-processing.md)

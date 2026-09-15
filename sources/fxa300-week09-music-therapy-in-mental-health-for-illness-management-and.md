@@ -11,7 +11,7 @@ tags: ["music-therapy", "mental-health", "illness-management", "recovery", "self
 key_concepts: ["Music Therapy for Illness Management and Recovery (MT-IMR)", "self-determination theory", "recovery-oriented care"]
 methods: ["case study"]
 slug: fxa300-week09-music-therapy-in-mental-health-for-illness-management-and
-related: ["creative-arts", "mental-health", "music-therapy", "recovery-oriented-care"]
+related: ["creative-arts", "mental-health", "music-therapy", "recovery", "recovery-oriented-care"]
 created: 2026-09-07
 updated: 2026-09-07
 ---
@@ -47,4 +47,5 @@ This chapter discusses the role of music therapy in mental health settings for i
 - [creative-arts](../topics/creative-arts.md)
 - [mental-health](../topics/mental-health.md)
 - [music-therapy](../topics/music-therapy.md)
+- [recovery](../topics/recovery.md)
 - [recovery-oriented-care](../topics/recovery-oriented-care.md)

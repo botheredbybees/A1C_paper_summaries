@@ -11,7 +11,7 @@ tags: ["psychoanalytic-creativity", "therapeutic-process", "cultural-dynamics", 
 key_concepts: ["socio-genetic perspective", "historical trauma"]
 methods: ["case study"]
 slug: fxa101-week06-creativity-a-conscious-imaginative-approach
-related: []
+related: ["cultural-dynamics", "therapeutic-process"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -44,4 +44,5 @@ A significant part of the article is dedicated to case studies that illustrate h
 
 ## See Also
 
-*(none yet)*
+- [cultural-dynamics](../topics/cultural-dynamics.md)
+- [therapeutic-process](../topics/therapeutic-process.md)

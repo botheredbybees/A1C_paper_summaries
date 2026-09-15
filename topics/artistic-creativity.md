@@ -8,7 +8,9 @@ sources:
   - fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
   - fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the
   - fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic
-updated: 2026-08-17
+  - fxa302-week10-artistic-skills-recovery-and-compensation-in-visual-artists
+  - fxa302-week10-the-riddle-of-style-changes-in-the-visual-arts-after
+updated: 2026-09-15
 ---
 
 ## Artistic Creativity and Neurological Conditions
@@ -30,3 +32,5 @@ The integration of studies on dementia and art with those focusing on synesthete
 - [fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion](../sources/fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion.md)
 - [fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the](../sources/fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the.md)
 - [fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic](../sources/fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic.md)
+- [fxa302-week10-artistic-skills-recovery-and-compensation-in-visual-artists](../sources/fxa302-week10-artistic-skills-recovery-and-compensation-in-visual-artists.md)
+- [fxa302-week10-the-riddle-of-style-changes-in-the-visual-arts-after](../sources/fxa302-week10-the-riddle-of-style-changes-in-the-visual-arts-after.md)

@@ -14,4 +14,7 @@ updated: 2026-09-15
 - [Exploring the medical humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [The Role of the Imagination in the Practices of the Health Humanities](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
+- [In Defense of Cheaper Stethoscopes](../sources/fxa302-week10-in-defense-of-cheaper-stethoscopes.md)
+- [Looking into Later Life: A Psychoanalytic Approach to Depression and Dementia in Old Age](../sources/fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to.md)
+- [Social Studies: The Humanities, Narrative, and the Social Context of the Patient-Professional Relationship](../sources/fxa302-week10-social-studies-the-humanities-narrative-and-the-social.md)
 - [SveDem, the Swedish Dementia Registry \u2013 A Tool for Improving the Quality of Diagnostics, Treatment and Care of Dementia Patients in Clinical Practice](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

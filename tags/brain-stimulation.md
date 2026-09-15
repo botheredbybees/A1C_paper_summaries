@@ -11,3 +11,4 @@ updated: 2026-09-15
 - [Leisure Activities and the Risk of Dementia in the Elderly](../sources/fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly.md)
 - [Benefits of Dance and Movement for People with Dementia](../sources/fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10.md)
 - [A Meta-Analysis of the Effects of Transcranial Direct Current Stimulation on Creative Thinking](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2812%29.md)

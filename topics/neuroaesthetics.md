@@ -25,11 +25,13 @@ sources:
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics
   - fxa302-week06-visual-art-and-transformation
+  - fxa302-week10-artistic-expression-in-famous-painters-affected-by
+  - fxa302-week10-the-riddle-of-style-changes-in-the-visual-arts-after
 tags:
 - neuroaesthetics
 title: Neuroaesthetics
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Neuroaesthetics
@@ -70,3 +72,5 @@ Neuroaesthetics explores the neural underpinnings of human engagement with art a
 - [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics](../sources/fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics.md)
 - [fxa302-week06-visual-art-and-transformation](../sources/fxa302-week06-visual-art-and-transformation.md)
+- [fxa302-week10-artistic-expression-in-famous-painters-affected-by](../sources/fxa302-week10-artistic-expression-in-famous-painters-affected-by.md)
+- [fxa302-week10-the-riddle-of-style-changes-in-the-visual-arts-after](../sources/fxa302-week10-the-riddle-of-style-changes-in-the-visual-arts-after.md)

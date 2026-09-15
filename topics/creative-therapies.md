@@ -15,13 +15,16 @@ sources:
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
   - fxa301-week10-fxa301-week-10-lecture
   - fxa301-week10-lesson-fxa301-week10-page-3
+  - fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(16)
+  - fxa302-week10-love-in-the-time-of-dementia
   - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
   - fxa303-week11-arts-in-criminal-justice-and-corrections-international
 tags:
 - creative-therapies
 title: Creative Therapies
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Creative Therapies
@@ -52,5 +55,8 @@ Creative therapies encompass various interventions that use the arts to enhance 
 - [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
 - [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [fxa301-week10-lesson-fxa301-week10-page-3](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
+- [fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a](../sources/fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(16)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2816%29.md)
+- [fxa302-week10-love-in-the-time-of-dementia](../sources/fxa302-week10-love-in-the-time-of-dementia.md)
 - [fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)
 - [fxa303-week11-arts-in-criminal-justice-and-corrections-international](../sources/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md)

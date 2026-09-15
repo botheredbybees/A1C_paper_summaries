@@ -10,7 +10,9 @@ sources:
   - fxa300-week08-from-singing-to-speaking-facilitating-recovery-from
   - fxa300-week08-lesson-fxa300-week08-page-4-activities
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
-updated: 2026-08-31
+  - fxa302-week10-artistic-skills-recovery-and-compensation-in-visual-artists
+  - fxa302-week10-effects-of-repetitive-transcranial-magnetic-stimulation
+updated: 2026-09-15
 ---
 
 ## Stroke Rehabilitation Strategies
@@ -34,3 +36,5 @@ The integration of various rehabilitation strategies in stroke recovery highligh
 - [fxa300-week08-from-singing-to-speaking-facilitating-recovery-from](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
 - [fxa300-week08-lesson-fxa300-week08-page-4-activities](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
 - [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
+- [fxa302-week10-artistic-skills-recovery-and-compensation-in-visual-artists](../sources/fxa302-week10-artistic-skills-recovery-and-compensation-in-visual-artists.md)
+- [fxa302-week10-effects-of-repetitive-transcranial-magnetic-stimulation](../sources/fxa302-week10-effects-of-repetitive-transcranial-magnetic-stimulation.md)

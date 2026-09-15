@@ -12,3 +12,4 @@ updated: 2026-09-15
 - [What is Therapeutic Photography?](../sources/fxa202-week03-what-is-therapeutic-photography.md)
 - [Narrative-Based Medicine](../sources/fxa302-week01-narrative-based-medicine.md)
 - [The Art of Medicine: Penn State Medical Students Learn to Communicate from the Masters](../sources/fxa302-week03-the-art-of-medicine-penn-state-medical-students-learn-to.md)
+- [I\u2019ve Got No Skills to Maintain \u2013 to Keep That Going\u201d: A Qualitative Study of People with Chronic Aphasia and Their Partners About Factors Contributing to the Maintenance of Aphasia Therapy Gains](../sources/fxa302-week10-ive-got-no-skills-to-maintain-to-keep-that-going-a.md)

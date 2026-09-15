@@ -9,3 +9,5 @@ updated: 2026-09-15
 - [Quality of Life Assessment: Key Issues in the 1990s](../sources/fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s.md)
 - [Medical Narratives and Perspectives of the Humanities and Arts](../sources/fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
+- [Collaborating: A Role for Music Therapy within Interprofessional Teams and Beyond](../sources/fxa302-week10-collaborating-a-role-for-music-therapy-within.md)
+- [Humanities and the Medical Home](../sources/fxa302-week10-humanities-and-the-medical-home.md)

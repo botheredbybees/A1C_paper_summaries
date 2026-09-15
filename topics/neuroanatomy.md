@@ -9,7 +9,8 @@ sources:
   - fxa101-week04-lesson-fxa101-week04-week-3
   - fxa101-week04-the-ageing-brain
   - fxa301-week02-the-brain-and-how-we-perceive-information
-updated: 2026-07-28
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(5)
+updated: 2026-09-15
 ---
 
 ## Human Brain Neuroanatomy
@@ -32,3 +33,4 @@ The human brain's neuroanatomy is a complex system with various components that 
 - [fxa101-week04-lesson-fxa101-week04-week-3](../sources/fxa101-week04-lesson-fxa101-week04-week-3.md)
 - [fxa101-week04-the-ageing-brain](../sources/fxa101-week04-the-ageing-brain.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(5)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%285%29.md)

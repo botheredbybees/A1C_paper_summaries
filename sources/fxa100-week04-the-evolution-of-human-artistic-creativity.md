@@ -11,7 +11,7 @@ tags: ["african-origin", "art-evolution", "cognitive-abilities", "entoptic-pheno
 key_concepts: ["entoptic phenomena", "neural structures for art creation", "regional artistic diversity"]
 methods: ["review article"]
 slug: fxa100-week04-the-evolution-of-human-artistic-creativity
-related: ["cognitive-abilities", "human-behavior"]
+related: ["cognitive-abilities", "human-behavior", "visual-cognition"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,3 +50,4 @@ The author suggests that the cognitive capability to separate artistic creation 
 
 - [cognitive-abilities](../topics/cognitive-abilities.md)
 - [human-behavior](../topics/human-behavior.md)
+- [visual-cognition](../topics/visual-cognition.md)

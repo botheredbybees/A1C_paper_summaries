@@ -10,11 +10,12 @@ sources:
   - fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is
   - fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of
   - fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about
+  - fxa302-week10-artistic-expression-in-famous-painters-affected-by
 tags:
 - creative-processes
 title: Creative Processes in Dementia
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Creative Processes in Dementia
@@ -40,3 +41,4 @@ The exploration of the relationship between dementia and artistic creativity hig
 - [fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is](../sources/fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is.md)
 - [fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of](../sources/fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of.md)
 - [fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about](../sources/fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about.md)
+- [fxa302-week10-artistic-expression-in-famous-painters-affected-by](../sources/fxa302-week10-artistic-expression-in-famous-painters-affected-by.md)

@@ -5,11 +5,12 @@ slug: informed-consent
 sources:
   - fxa100-week04-research-ethics-in-arts-in-health-interventions
   - fxa301-week01-research-ethics
+  - fxa302-week10-rites-of-bioethics
 tags:
 - informed-consent
 title: Informed Consent
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Informed Consent
@@ -29,3 +30,4 @@ The concept of informed consent is central to the discussion on research ethics 
 
 - [fxa100-week04-research-ethics-in-arts-in-health-interventions](../sources/fxa100-week04-research-ethics-in-arts-in-health-interventions.md)
 - [fxa301-week01-research-ethics](../sources/fxa301-week01-research-ethics.md)
+- [fxa302-week10-rites-of-bioethics](../sources/fxa302-week10-rites-of-bioethics.md)

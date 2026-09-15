@@ -34,6 +34,8 @@ sources:
   - fxa302-week01-creative-health-the-arts-for-health-and-wellbeing
   - fxa302-week01-making-music
   - fxa302-week07-developing-a-strategy-to-scale-up-place-based-arts
+  - fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive
+  - fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in
   - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
   - fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative
   - fxa303-week03-arts-in-adolescence
@@ -55,7 +57,7 @@ tags:
 - mental-health-interventions
 title: Creative Therapies in Mental Health
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Creative Therapies in Mental Health
@@ -105,6 +107,8 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa302-week01-creative-health-the-arts-for-health-and-wellbeing](../sources/fxa302-week01-creative-health-the-arts-for-health-and-wellbeing.md)
 - [fxa302-week01-making-music](../sources/fxa302-week01-making-music.md)
 - [fxa302-week07-developing-a-strategy-to-scale-up-place-based-arts](../sources/fxa302-week07-developing-a-strategy-to-scale-up-place-based-arts.md)
+- [fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive](../sources/fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive.md)
+- [fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in](../sources/fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in.md)
 - [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
 - [fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative](../sources/fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)

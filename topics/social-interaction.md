@@ -16,6 +16,7 @@ sources:
   - fxa101-week04-creativity-in-later-life
   - fxa301-week06-ballet-moves-for-adult-creative-health
   - fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
+  - fxa302-week10-more-body-a-performance-for-five-or-more-bodies
   - fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
@@ -23,7 +24,7 @@ tags:
 - social-interaction
 title: Social Interaction in Aged Care
 type: topic
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 ## Social Interaction in Aged Care
@@ -55,6 +56,7 @@ The sources collectively highlight the significant role of social interactions a
 - [fxa101-week04-creativity-in-later-life](../sources/fxa101-week04-creativity-in-later-life.md)
 - [fxa301-week06-ballet-moves-for-adult-creative-health](../sources/fxa301-week06-ballet-moves-for-adult-creative-health.md)
 - [fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
+- [fxa302-week10-more-body-a-performance-for-five-or-more-bodies](../sources/fxa302-week10-more-body-a-performance-for-five-or-more-bodies.md)
 - [fxa303-play-for-health-across-the-lifespan-ch06-chapter-7](../sources/fxa303-play-for-health-across-the-lifespan-ch06-chapter-7.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)

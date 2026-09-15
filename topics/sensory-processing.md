@@ -4,12 +4,15 @@ domain: theory
 slug: sensory-processing
 sources:
   - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(14)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-audition-and
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does
   - fxa303-week04-neurobiology-of-autism-spectrum-disorders
 tags:
 - sensory-processing
 title: Sensory Processing
 type: topic
-updated: 2026-05-18
+updated: 2026-09-15
 ---
 
 ## Sensory Processing
@@ -29,4 +32,7 @@ The concept of sensory processing is central to understanding how the brain inte
 ## Sources
 
 - [fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(14)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2814%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-audition-and](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-audition-and.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does.md)
 - [fxa303-week04-neurobiology-of-autism-spectrum-disorders](../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders.md)

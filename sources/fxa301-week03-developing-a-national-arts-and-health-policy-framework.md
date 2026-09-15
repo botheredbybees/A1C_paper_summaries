@@ -11,7 +11,7 @@ tags: ["arts-and-health", "public-policy-development", "therapeutic-arts", "heal
 key_concepts: ["evidence-based-practices", "stakeholder-involvement", "national-policy-framework"]
 methods: ["case-study"]
 slug: fxa301-week03-developing-a-national-arts-and-health-policy-framework
-related: ["arts-and-health", "community-engagement", "therapeutic-arts"]
+related: ["arts-and-health", "community-engagement", "healthcare-reform", "therapeutic-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The paper 'Developing a national arts and health policy framework' by Deborah Mi
 
 - [arts-and-health](../topics/arts-and-health.md)
 - [community-engagement](../topics/community-engagement.md)
+- [healthcare-reform](../topics/healthcare-reform.md)
 - [therapeutic-arts](../topics/therapeutic-arts.md)

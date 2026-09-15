@@ -24,4 +24,5 @@ updated: 2026-09-15
 - [Welcome to Week 6 - FXA301 Arts in the Community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
 - [Week 9 Lecture - Dr Brendan Lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
+- [Dancing for Parkinson\u2019s Disease Online: Clinical Trial Process Evaluation](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)
 - [Inclusive communication with LGBTIQ+ clients](../sources/fxa303-week11-inclusive-communication-with-lgbtiq-clients.md)

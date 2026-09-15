@@ -4,12 +4,13 @@ domain: intervention
 slug: interdisciplinary-collaboration-in-neuroaesthetic-and-educational-approaches
 sources:
   - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
+  - fxa302-week10-andromedas-futures-a-story-of-humanities-technology-science
   - fxa303-week04-educating-students-with-autism-spectrum-disorders
 tags:
 - interdisciplinary-collaboration
 title: Interdisciplinary Collaboration in Neuroaesthetic and Educational Approaches
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Interdisciplinary Collaboration in Neuroaesthetic and Educational Approaches
@@ -29,4 +30,5 @@ The synthesis explores the intersection of interdisciplinary collaboration withi
 ## Sources
 
 - [fxa301-bridging-the-creative-arts-therapies-ch01-1-essential](../sources/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential.md)
+- [fxa302-week10-andromedas-futures-a-story-of-humanities-technology-science](../sources/fxa302-week10-andromedas-futures-a-story-of-humanities-technology-science.md)
 - [fxa303-week04-educating-students-with-autism-spectrum-disorders](../sources/fxa303-week04-educating-students-with-autism-spectrum-disorders.md)

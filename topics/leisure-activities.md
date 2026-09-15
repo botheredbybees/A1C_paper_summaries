@@ -5,9 +5,10 @@ title: "Leisure Activities"
 confidence: medium
 tags: ["leisure-activities"]
 sources:
+  - fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think
   - psy214-week05-leisure-and-well-being-the-dramma-model
   - psy214-week05-lesson-psy214-week05-relaxation-informal
-updated: 2026-08-03
+updated: 2026-09-15
 ---
 
 ## Leisure Activities
@@ -26,5 +27,6 @@ The DRAMMA model serves as a foundational framework for understanding the impact
 
 ## Sources
 
+- [fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
 - [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
 - [psy214-week05-lesson-psy214-week05-relaxation-informal](../sources/psy214-week05-lesson-psy214-week05-relaxation-informal.md)

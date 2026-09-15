@@ -8,3 +8,4 @@ updated: 2026-09-15
 
 - [What is dementia and how might it present?](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
 - [Brain Networking among Musicians](../sources/fxa100-week02-brain-networking-among-musicians.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2812%29.md)

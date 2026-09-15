@@ -9,6 +9,8 @@ sources:
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa301-week02-current-emotion-research-in-music-psychology
   - fxa302-week06-visual-art-and-transformation-(2)
+  - fxa302-week10-music-therapy-in-grief-and-mourning
+  - fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice
   - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
   - fxa303-week06-emotional-expression-through-puppetry
   - fxa303-week06-mr-fox-is-sad
@@ -20,7 +22,7 @@ tags:
 - emotional-expression
 title: Emotional Expression Through Therapeutic Interventions
 type: topic
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 ## Emotional Expression Through Therapeutic Interventions
@@ -45,6 +47,8 @@ The integration of emotional expression through various therapeutic intervention
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [fxa301-week02-current-emotion-research-in-music-psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)
 - [fxa302-week06-visual-art-and-transformation-(2)](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)
+- [fxa302-week10-music-therapy-in-grief-and-mourning](../sources/fxa302-week10-music-therapy-in-grief-and-mourning.md)
+- [fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice](../sources/fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice.md)
 - [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [fxa303-week06-emotional-expression-through-puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [fxa303-week06-mr-fox-is-sad](../sources/fxa303-week06-mr-fox-is-sad.md)

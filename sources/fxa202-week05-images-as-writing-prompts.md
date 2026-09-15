@@ -11,7 +11,7 @@ tags: ["writing-prompts", "visual-imagery", "creative-writing", "narrative-devel
 key_concepts: ["creativity stimulation", "memory association", "storytelling enhancement"]
 methods: ["case study", "experiential learning"]
 slug: fxa202-week05-images-as-writing-prompts
-related: ["creative-writing"]
+related: ["creative-writing", "educational-strategy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ The document 'Images as Writing Prompts' emphasizes the role of visual imagery i
 ## See Also
 
 - [creative-writing](../topics/creative-writing.md)
+- [educational-strategy](../topics/educational-strategy.md)

@@ -11,7 +11,7 @@ tags: ["dementia-care", "digital-system-integration", "fragmented-healthcare-sys
 key_concepts: ["R2D classification", "staff availability", "digital system integration", "fragmented healthcare system"]
 methods: ["national survey"]
 slug: fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with
-related: ["dementia-care", "long-term-care", "nursing-homes"]
+related: ["dementia-care", "health-services", "long-term-care", "nursing-homes"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,5 +42,6 @@ The study conducted a national survey to assess the characteristics and care ser
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [health-services](../topics/health-services.md)
 - [long-term-care](../topics/long-term-care.md)
 - [nursing-homes](../topics/nursing-homes.md)

@@ -11,7 +11,7 @@ tags: ["emotional-journey-through-grief", "fxa202", "grief-coping-mechanisms", "
 key_concepts: ["emotional-journey", "ocean-as-a-symbol-of-grief", "strength-and-self-discovery-in-loss"]
 methods: ["personal-narrative"]
 slug: fxa202-week09-reflections-on-grieving-at-a-seaside-pier
-related: ["personal-reflection"]
+related: ["mourning-process", "personal-reflection"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ The document is a poignant narrative by Alison Higgins reflecting on the emotion
 
 ## See Also
 
+- [mourning-process](../topics/mourning-process.md)
 - [personal-reflection](../topics/personal-reflection.md)

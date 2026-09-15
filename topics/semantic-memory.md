@@ -8,7 +8,10 @@ sources:
   - fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity
   - fxa101-week03-insights-into-the-organisation-of-semantic-memory-and
   - fxa101-week03-the-neural-basis-of-semantic-memory
-updated: 2026-08-07
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(11)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(16)
+  - fxa302-week10-semantic-long-term-memory
+updated: 2026-09-15
 ---
 
 ## Semantic Memory
@@ -30,3 +33,6 @@ The concept of semantic memory is central to understanding how the human brain o
 - [fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity](../sources/fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity.md)
 - [fxa101-week03-insights-into-the-organisation-of-semantic-memory-and](../sources/fxa101-week03-insights-into-the-organisation-of-semantic-memory-and.md)
 - [fxa101-week03-the-neural-basis-of-semantic-memory](../sources/fxa101-week03-the-neural-basis-of-semantic-memory.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(11)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2811%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(16)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2816%29.md)
+- [fxa302-week10-semantic-long-term-memory](../sources/fxa302-week10-semantic-long-term-memory.md)

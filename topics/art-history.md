@@ -15,6 +15,8 @@ sources:
   - fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how
   - fxa302-week08-about-the-cover-edvard-munchs-self-portrait-after-the
   - fxa302-week09-lesson-fxa302-week09-welcome-to-week-9
+  - fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828-the-suffering
+  - fxa302-week10-review-of-german-post-expressionism-the-art-of-the-great
 tags:
 - art-history
 title: Neural Processing of Art
@@ -49,3 +51,5 @@ The study of how the brain processes art reveals significant insights into cogni
 - [fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how](../sources/fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how.md)
 - [fxa302-week08-about-the-cover-edvard-munchs-self-portrait-after-the](../sources/fxa302-week08-about-the-cover-edvard-munchs-self-portrait-after-the.md)
 - [fxa302-week09-lesson-fxa302-week09-welcome-to-week-9](../sources/fxa302-week09-lesson-fxa302-week09-welcome-to-week-9.md)
+- [fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828-the-suffering](../sources/fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828-the-suffering.md)
+- [fxa302-week10-review-of-german-post-expressionism-the-art-of-the-great](../sources/fxa302-week10-review-of-german-post-expressionism-the-art-of-the-great.md)

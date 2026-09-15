@@ -7,7 +7,8 @@ tags: ["neural-basis"]
 sources:
   - fxa100-week11-the-neural-basis-of-human-dance
   - fxa101-week03-the-neural-basis-of-semantic-memory
-updated: 2026-07-20
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(12)
+updated: 2026-09-15
 ---
 
 ## The Neural Basis of Human Dance and Semantic Memory
@@ -28,3 +29,4 @@ This synthesis explores the interplay between dance-related motor functions and 
 
 - [fxa100-week11-the-neural-basis-of-human-dance](../sources/fxa100-week11-the-neural-basis-of-human-dance.md)
 - [fxa101-week03-the-neural-basis-of-semantic-memory](../sources/fxa101-week03-the-neural-basis-of-semantic-memory.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(12)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2812%29.md)

@@ -5,13 +5,14 @@ slug: creative-interventions-for-elderly-wellness
 sources:
   - fxa100-week04-transcript-mind-song-music-for-dementia
   - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+  - fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia
   - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
   - fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes
 tags:
 - elderly-wellness
 title: Creative Interventions for Elderly Wellness
 type: topic
-updated: 2026-05-15
+updated: 2026-09-15
 ---
 
 ## Creative Interventions for Elderly Wellness
@@ -32,5 +33,6 @@ The integration of creative interventions in elderly wellness demonstrates signi
 
 - [fxa100-week04-transcript-mind-song-music-for-dementia](../sources/fxa100-week04-transcript-mind-song-music-for-dementia.md)
 - [fxa100-week06-how-creating-sculpture-benefits-people-with-dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
+- [fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia](../sources/fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia.md)
 - [fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january](../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january.md)
 - [fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes](../sources/fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes.md)

@@ -31,6 +31,8 @@ updated: 2026-09-15
 - [Promoting the health and wellbeing of young Black men using community-based drama](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
 - [Community art therapy (CAT): learning from art therapy graduate students\u2019 perceptions](../sources/fxa301-week10-community-art-therapy-cat-learning-from-art-therapy.md)
 - [Fine arts participation, self-determination, and locus of control among persons with developmental disabilities](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
+- [I\u2019ve Got No Skills to Maintain \u2013 to Keep That Going\u201d: A Qualitative Study of People with Chronic Aphasia and Their Partners About Factors Contributing to the Maintenance of Aphasia Therapy Gains](../sources/fxa302-week10-ive-got-no-skills-to-maintain-to-keep-that-going-a.md)
+- [Week 10 Activities - Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week10-lesson-fxa302-week10-page-4-activities.md)
 - [Teachers\u2019 Perspectives on Providing Support to Children After Trauma: A Qualitative Study](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
 - [More than just clowns \u2013 Clown Doctor rounds and their impact for children, families and staff](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [Artistic expression as a source of resilience for transgender and gender diverse young people](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

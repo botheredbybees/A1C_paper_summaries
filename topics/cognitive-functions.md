@@ -6,11 +6,12 @@ sources:
   - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
   - fxa301-week01-lesson-fxa301-week01-page-2
   - fxa301-week02-the-brain-and-how-we-perceive-information
+  - fxa302-week10-essentials-of-cognitive-neuroscience-of-labels-and
 tags:
 - cognitive-functions
 title: Cognitive Functions
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Cognitive Functions
@@ -32,3 +33,4 @@ The cognitive functions of the human brain are intricately linked to various bio
 - [fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
 - [fxa301-week01-lesson-fxa301-week01-page-2](../sources/fxa301-week01-lesson-fxa301-week01-page-2.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-of-labels-and](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-of-labels-and.md)

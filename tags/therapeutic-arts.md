@@ -17,6 +17,7 @@ updated: 2026-09-15
 - [Therapeutic Use of the Arts for Patients with Multiple Sclerosis](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [Case Studies of Therapeutic Creative Arts for Mental Health](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
 - [The Routledge Companion to Health Humanities: Part 2 - Applications](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%286%29.md)
 - [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [Emotional expression through puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [The Role of Puppetry in Mental Health Promotion: A Scoping Review of Its Efficacy and Applications](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)

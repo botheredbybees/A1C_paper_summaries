@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: cognitive-control
 sources:
-- fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
-- fxa303-week03-media-use-and-brain-development-during-adolescence
+  - fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+  - fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(22)
+  - fxa303-week03-media-use-and-brain-development-during-adolescence
 tags:
 - cognitive-control
 title: Cognitive Control
 type: topic
-updated: 2026-05-04
+updated: 2026-09-15
 ---
 
 ## Cognitive Control
@@ -29,4 +31,6 @@ The concept of cognitive control is pivotal across both sources, illustrating it
 ## Sources
 
 - [fxa100-week02-the-benefits-of-music-instruction-on-processing-speed](../sources/fxa100-week02-the-benefits-of-music-instruction-on-processing-speed.md)
+- [fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education](../sources/fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(22)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2822%29.md)
 - [fxa303-week03-media-use-and-brain-development-during-adolescence](../sources/fxa303-week03-media-use-and-brain-development-during-adolescence.md)

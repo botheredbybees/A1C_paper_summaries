@@ -5,12 +5,16 @@ slug: neurologic-music-therapy
 sources:
   - fxa300-week08-lesson-fxa300-week08-page-2
   - fxa300-week08-neurologic-music-therapy-training-for-mobility-and
+  - fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb
+  - fxa302-week10-neurologic-music-therapy-in-multidisciplinary-acute-stroke
+  - fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation
+  - fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using
   - fxa303-week04-community-services-the-music-therapy-center-of-california
 tags:
 - neurologic-music-therapy
 title: Neurologic Music Therapy
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Neurologic Music Therapy
@@ -31,4 +35,8 @@ The synthesis of the provided sources reveals a consistent focus on Neurologic M
 
 - [fxa300-week08-lesson-fxa300-week08-page-2](../sources/fxa300-week08-lesson-fxa300-week08-page-2.md)
 - [fxa300-week08-neurologic-music-therapy-training-for-mobility-and](../sources/fxa300-week08-neurologic-music-therapy-training-for-mobility-and.md)
+- [fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb](../sources/fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb.md)
+- [fxa302-week10-neurologic-music-therapy-in-multidisciplinary-acute-stroke](../sources/fxa302-week10-neurologic-music-therapy-in-multidisciplinary-acute-stroke.md)
+- [fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation](../sources/fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation.md)
+- [fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using](../sources/fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using.md)
 - [fxa303-week04-community-services-the-music-therapy-center-of-california](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)

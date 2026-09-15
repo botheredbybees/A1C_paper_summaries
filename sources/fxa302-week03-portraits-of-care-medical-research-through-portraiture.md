@@ -11,7 +11,7 @@ tags: ["medical-humanities", "portraiture-research", "patient-caregiver-relation
 key_concepts: ["portraiture", "human-dimensions-of-care", "empathy-in-healthcare"]
 methods: ["qualitative research", "quantitative research"]
 slug: fxa302-week03-portraits-of-care-medical-research-through-portraiture
-related: ["empathy-in-healthcare", "medical-humanities"]
+related: ["empathy-in-healthcare", "identity-transformation", "medical-humanities", "patient-caregiver-relationship"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -46,4 +46,6 @@ The study 'Portraits of Care' used portraiture as a method to investigate the hu
 ## See Also
 
 - [empathy-in-healthcare](../topics/empathy-in-healthcare.md)
+- [identity-transformation](../topics/identity-transformation.md)
 - [medical-humanities](../topics/medical-humanities.md)
+- [patient-caregiver-relationship](../topics/patient-caregiver-relationship.md)

@@ -15,7 +15,7 @@ tags: ["cultural-diplomacy", "ethical-implications", "ethics", "fxa301", "health
 key_concepts: ["cultural diplomacy", "ethical implications", "artistic expression"]
 methods: []
 slug: fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
-related: ["ethics", "health-equity", "music-therapy", "social-justice"]
+related: ["ethical-implications", "ethics", "health-equity", "music-therapy", "social-justice"]
 created: 2026-05-15
 updated: 2026-06-25
 ---
@@ -44,6 +44,7 @@ This chapter explores the intersection of art, music, and health equity within a
 
 ## See Also
 
+- [ethical-implications](../topics/ethical-implications.md)
 - [ethics](../topics/ethics.md)
 - [health-equity](../topics/health-equity.md)
 - [music-therapy](../topics/music-therapy.md)

@@ -38,6 +38,8 @@ updated: 2026-09-15
 - [School-based drama interventions in health promotion for children and adolescents: systematic review](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [A Systematic Review of the Efficacy of Creative Arts Therapies in the Treatment of Adults With PTSD](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
+- [Effects of Creative Art Therapy in Stroke Rehabilitation: A Systematic Review](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)
+- [Effects of music therapy and music-based interventions in the treatment of substance use disorders: A systematic review](../sources/fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in.md)
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
 - [The Physiological and Psychological Benefits of Dance and its Effects on Children and Adolescents: A Systematic Review](../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and.md)
 - [Dramatherapy for Children and Adolescents with Autism Spectrum Disorder: A Systematic Integrative Review](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)

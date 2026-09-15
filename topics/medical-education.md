@@ -25,6 +25,9 @@ sources:
   - fxa302-week03-why-med-schools-are-requiring-art-classes
   - fxa302-week03-why-med-schools-are-requiring-students-to-take-art-classes
   - fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture
+  - fxa302-week10-in-defense-of-cheaper-stethoscopes
+  - fxa302-week10-the-medical-humanities-in-medical-education
+  - fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities
   - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
 updated: 2026-09-15
 ---
@@ -65,4 +68,7 @@ The integration of arts within medical education presents a multifaceted approac
 - [fxa302-week03-why-med-schools-are-requiring-art-classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)
 - [fxa302-week03-why-med-schools-are-requiring-students-to-take-art-classes](../sources/fxa302-week03-why-med-schools-are-requiring-students-to-take-art-classes.md)
 - [fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture](../sources/fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture.md)
+- [fxa302-week10-in-defense-of-cheaper-stethoscopes](../sources/fxa302-week10-in-defense-of-cheaper-stethoscopes.md)
+- [fxa302-week10-the-medical-humanities-in-medical-education](../sources/fxa302-week10-the-medical-humanities-in-medical-education.md)
+- [fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities](../sources/fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities.md)
 - [psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)

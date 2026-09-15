@@ -11,7 +11,7 @@ tags: ["medical-clowns", "therapeutic-communication", "patient-wellbeing", "pedi
 key_concepts: ["medical clowns", "communication skills", "therapeutic goals"]
 methods: ["qualitative analysis", "video-recorded simulations"]
 slug: fxa303-week08-more-than-just-an-entertainment-show-identification-of
-related: ["medical-clowns", "patient-wellbeing", "pediatric-care", "therapeutic-communication"]
+related: ["health-professionals", "medical-clowns", "patient-wellbeing", "pediatric-care", "therapeutic-communication"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ The study explores the communication skills and therapeutic goals of medical clo
 
 ## See Also
 
+- [health-professionals](../topics/health-professionals.md)
 - [medical-clowns](../topics/medical-clowns.md)
 - [patient-wellbeing](../topics/patient-wellbeing.md)
 - [pediatric-care](../topics/pediatric-care.md)

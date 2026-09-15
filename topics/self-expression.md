@@ -12,6 +12,7 @@ sources:
   - fxa202-week03-what-is-therapeutic-photography-(3)
   - fxa202-week09-personal-storytelling-and-memoir-writing
   - fxa301-week11-refugee-art-project
+  - fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think
   - fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
   - fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
@@ -19,7 +20,7 @@ tags:
 - self-expression
 title: Self-expression in Dementia and Autism
 type: topic
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 ## Self-expression in Dementia and Autism
@@ -47,6 +48,7 @@ The sources collectively emphasize the therapeutic potential of self-expression 
 - [fxa202-week03-what-is-therapeutic-photography-(3)](../sources/fxa202-week03-what-is-therapeutic-photography-%283%29.md)
 - [fxa202-week09-personal-storytelling-and-memoir-writing](../sources/fxa202-week09-personal-storytelling-and-memoir-writing.md)
 - [fxa301-week11-refugee-art-project](../sources/fxa301-week11-refugee-art-project.md)
+- [fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
 - [fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy](../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md)
 - [fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

@@ -11,7 +11,7 @@ tags: ["music-in-hospitals", "dance-for-parkinsons", "wellbeing-through-art", "t
 key_concepts: ["Art in Health programmes", "Neuroplasticity through dance", "Live music interventions"]
 methods: []
 slug: fxa301-week06-lesson-fxa301-week06-page-3
-related: ["wellbeing-through-art"]
+related: ["dance-for-parkinsons", "wellbeing-through-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ This lesson explores the use of music and dance in healthcare environments to en
 
 ## See Also
 
+- [dance-for-parkinsons](../topics/dance-for-parkinsons.md)
 - [wellbeing-through-art](../topics/wellbeing-through-art.md)

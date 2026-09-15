@@ -11,7 +11,7 @@ tags: ["cultural-diversity", "mental-health-policy", "therapeutic-relationships"
 key_concepts: ["cultural-meanings-of-illness", "therapeutic-engagement-strategies", "cultural-sensitivity-in-practice"]
 methods: ["qualitative-analysis"]
 slug: fxa303-week10-cultural-diversity-and-mental-health-considerations-for
-related: ["cultural-diversity"]
+related: ["cultural-diversity", "mental-health-policy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,3 +42,4 @@ The paper explores the intersection of cultural diversity and mental health, foc
 ## See Also
 
 - [cultural-diversity](../topics/cultural-diversity.md)
+- [mental-health-policy](../topics/mental-health-policy.md)

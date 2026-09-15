@@ -26,4 +26,7 @@ updated: 2026-09-15
 - [Why Med Schools Are Requiring Art Classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)
 - [Why Med Schools Are Requiring Students to Take Art Classes, and How It Makes Med Students Better Doctors](../sources/fxa302-week03-why-med-schools-are-requiring-students-to-take-art-classes.md)
 - [Why Teachers and Learners of Medicine Need Portraiture](../sources/fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture.md)
+- [In Defense of Cheaper Stethoscopes](../sources/fxa302-week10-in-defense-of-cheaper-stethoscopes.md)
+- [The Medical Humanities in Medical Education](../sources/fxa302-week10-the-medical-humanities-in-medical-education.md)
+- [The Why, the What, and the How of the Medical/Health Humanities](../sources/fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities.md)
 - [An Adapted, Four-Week Mind\u2013Body Skills Group for Medical Students: Reducing Stress, Increasing Mindfulness, and Enhancing Self-Care](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)

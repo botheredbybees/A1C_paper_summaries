@@ -6,13 +6,14 @@ sources:
   - fxa100-week04-writing-a-research-protocol
   - fxa101-week00-toward-a-creative-and-imaginative-research-approach-collage
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+  - fxa302-week10-music-therapy-research
   - fxa303-week11-arts-based-methods-improve-research-data-trauma
   - fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address
 tags:
 - arts-based-research
 title: Arts-Based Research
 type: topic
-updated: 2026-08-08
+updated: 2026-09-15
 ---
 
 ## Arts-Based Research
@@ -34,5 +35,6 @@ The integration of arts-based research methodologies is explored in the provided
 - [fxa100-week04-writing-a-research-protocol](../sources/fxa100-week04-writing-a-research-protocol.md)
 - [fxa101-week00-toward-a-creative-and-imaginative-research-approach-collage](../sources/fxa101-week00-toward-a-creative-and-imaginative-research-approach-collage.md)
 - [fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary](../sources/fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary.md)
+- [fxa302-week10-music-therapy-research](../sources/fxa302-week10-music-therapy-research.md)
 - [fxa303-week11-arts-based-methods-improve-research-data-trauma](../sources/fxa303-week11-arts-based-methods-improve-research-data-trauma.md)
 - [fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address](../sources/fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address.md)

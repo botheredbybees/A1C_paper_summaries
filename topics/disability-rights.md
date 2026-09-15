@@ -4,12 +4,14 @@ domain: theory
 slug: disability-rights-and-inclusion
 sources:
   - fxa301-week09-lesson-fxa301-week09-page-2
+  - fxa302-week10-calcedonies
+  - fxa302-week10-standout
   - fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
 tags:
 - disability-rights
 title: Disability Rights and Inclusion
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Disability Rights and Inclusion
@@ -29,4 +31,6 @@ The documents explore the intersection between disability rights theory and prac
 ## Sources
 
 - [fxa301-week09-lesson-fxa301-week09-page-2](../sources/fxa301-week09-lesson-fxa301-week09-page-2.md)
+- [fxa302-week10-calcedonies](../sources/fxa302-week10-calcedonies.md)
+- [fxa302-week10-standout](../sources/fxa302-week10-standout.md)
 - [fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability](../sources/fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability.md)

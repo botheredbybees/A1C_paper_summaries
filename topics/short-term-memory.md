@@ -9,7 +9,8 @@ sources:
   - fxa300-week03-transcript-visit-in-new-window
   - fxa300-week03-when-long-term-learning-depends-on-short-term-storage
   - fxa300-week03-word-length-and-the-structure-of-short-term-memory
-updated: 2026-07-21
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term
+updated: 2026-09-15
 ---
 
 ## Short-Term Memory
@@ -32,3 +33,4 @@ The concept of short-term memory is central to understanding cognitive processes
 - [fxa300-week03-transcript-visit-in-new-window](../sources/fxa300-week03-transcript-visit-in-new-window.md)
 - [fxa300-week03-when-long-term-learning-depends-on-short-term-storage](../sources/fxa300-week03-when-long-term-learning-depends-on-short-term-storage.md)
 - [fxa300-week03-word-length-and-the-structure-of-short-term-memory](../sources/fxa300-week03-word-length-and-the-structure-of-short-term-memory.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term.md)

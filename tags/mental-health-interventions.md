@@ -37,6 +37,8 @@ updated: 2026-09-15
 - [Creative health: the arts for health and wellbeing](../sources/fxa302-week01-creative-health-the-arts-for-health-and-wellbeing.md)
 - [Making Music](../sources/fxa302-week01-making-music.md)
 - [Developing a strategy to scale up place-based arts initiatives that support mental health and wellbeing: A realist evaluation of \u2018Arts for the Blues\u2019](../sources/fxa302-week07-developing-a-strategy-to-scale-up-place-based-arts.md)
+- [Can music therapy engage patients in group cognitive behaviour therapy for substance abuse treatment?](../sources/fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive.md)
+- [Effects of music therapy and music-based interventions in the treatment of substance use disorders: A systematic review](../sources/fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in.md)
 - [Play Therapy: An Analytical Mode of Therapy in Children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
 - [The playful mediator, moderator, or outcome? An integrative review of the roles of play and playfulness in adult-centered psychological interventions for mental health](../sources/fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative.md)
 - [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)

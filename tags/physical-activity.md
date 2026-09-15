@@ -14,6 +14,8 @@ updated: 2026-09-15
 - [Dance as an Intervention to Reduce Fall Risk in Older Adults: A Systematic Review With a Meta-Analysis](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
 - [Social Dancing to Reduce Falls in Older Adults \u2014 A Cluster Randomised Controlled Trial](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
 - [Seniors Ballet QUT - Queensland Ballet Project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
+- [Ballroom dance for persons with multiple sclerosis: a pilot feasibility study](../sources/fxa302-week10-ballroom-dance-for-persons-with-multiple-sclerosis-a-pilot.md)
+- [Dance Is an Accessible Physical Activity for People with Parkinson\u2019s Disease](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
 - [Physical activity and depression: Towards understanding the antidepressant mechanisms of physical activity](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
 - [Sleep and Health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
 - [Physical Activity and Health](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)

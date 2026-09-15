@@ -11,7 +11,7 @@ tags: ["autism-spectrum", "creative-arts-therapies", "mental-wellbeing", "digita
 key_concepts: ["expressive arts therapy", "empathy mirroring", "tele-dance movement psychotherapy"]
 methods: ["systematic review"]
 slug: fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
-related: ["creative-arts-therapies", "mental-wellbeing", "social-connections"]
+related: ["autism-spectrum", "creative-arts-therapies", "digital-interventions", "mental-wellbeing", "social-connections"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,8 @@ This volume presents cutting-edge research and practical applications of Creativ
 
 ## See Also
 
+- [autism-spectrum](../topics/autism-spectrum.md)
 - [creative-arts-therapies](../topics/creative-arts-therapies.md)
+- [digital-interventions](../topics/digital-interventions.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [social-connections](../topics/social-connections.md)

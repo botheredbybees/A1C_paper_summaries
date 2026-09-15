@@ -6,6 +6,8 @@ confidence: medium
 tags: ["healthcare-professionals"]
 sources:
   - fxa300-week10-perspectives-in-performing-arts-medicine-practice-a
+  - fxa302-week10-chapter-1-background-understanding-motor-neuron-disease
+  - fxa302-week10-teaching-autism-through-naturalized-narrative-ethics
   - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
 updated: 2026-09-15
 ---
@@ -27,4 +29,6 @@ The sources highlight the importance of comprehensive care strategies for health
 ## Sources
 
 - [fxa300-week10-perspectives-in-performing-arts-medicine-practice-a](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-a.md)
+- [fxa302-week10-chapter-1-background-understanding-motor-neuron-disease](../sources/fxa302-week10-chapter-1-background-understanding-motor-neuron-disease.md)
+- [fxa302-week10-teaching-autism-through-naturalized-narrative-ethics](../sources/fxa302-week10-teaching-autism-through-naturalized-narrative-ethics.md)
 - [psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)

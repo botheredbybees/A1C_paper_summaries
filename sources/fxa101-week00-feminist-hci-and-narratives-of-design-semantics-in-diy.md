@@ -10,7 +10,7 @@ tags: ["feminist-hci", "music-technology", "diy-instruments", "design-semantics"
 key_concepts: ["Feminist HCI principles", "Design semantics", "Fabulations"]
 methods: ["Qualitative analysis", "Case studies"]
 slug: fxa101-week00-feminist-hci-and-narratives-of-design-semantics-in-diy
-related: ["music-technology"]
+related: ["gender-bias", "music-technology"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -43,4 +43,5 @@ This article explores the feminist Human-Computer Interaction (HCI) perspective 
 
 ## See Also
 
+- [gender-bias](../topics/gender-bias.md)
 - [music-technology](../topics/music-technology.md)

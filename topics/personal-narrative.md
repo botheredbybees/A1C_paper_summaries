@@ -7,11 +7,13 @@ sources:
   - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
   - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
   - fxa202-week09-you-are-the-best-dancer
+  - fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease
+  - fxa302-week10-occupational-medicine
 tags:
 - personal-narrative
 title: Healing Through Personal Narratives
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Healing Through Personal Narratives
@@ -34,3 +36,5 @@ The synthesis of the provided sources highlights a thematic convergence on the u
 - [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing](../sources/fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing.md)
 - [fxa202-week09-you-are-the-best-dancer](../sources/fxa202-week09-you-are-the-best-dancer.md)
+- [fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease](../sources/fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease.md)
+- [fxa302-week10-occupational-medicine](../sources/fxa302-week10-occupational-medicine.md)

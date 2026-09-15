@@ -10,7 +10,12 @@ sources:
   - fxa302-week02-galens-reading-of-hippocratic-ethics
   - fxa302-week03-transcript-duration-18-16
   - fxa302-week03-web-article-bramstedt-2016
-updated: 2026-07-20
+  - fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with
+  - fxa302-week10-i-always-prefer-the-scissors-isaac-baker-brown-and-feminist
+  - fxa302-week10-postmodern-death-and-dying-a-literary-analysis
+  - fxa302-week10-rites-of-bioethics
+  - fxa302-week10-when-the-doctor-is-not-god-the-impact-of-religion-on
+updated: 2026-09-15
 ---
 
 ## Philosophy and Ethics in Medical Practice
@@ -34,3 +39,8 @@ Both sources explore the role of philosophical inquiry in understanding medical 
 - [fxa302-week02-galens-reading-of-hippocratic-ethics](../sources/fxa302-week02-galens-reading-of-hippocratic-ethics.md)
 - [fxa302-week03-transcript-duration-18-16](../sources/fxa302-week03-transcript-duration-18-16.md)
 - [fxa302-week03-web-article-bramstedt-2016](../sources/fxa302-week03-web-article-bramstedt-2016.md)
+- [fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with](../sources/fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with.md)
+- [fxa302-week10-i-always-prefer-the-scissors-isaac-baker-brown-and-feminist](../sources/fxa302-week10-i-always-prefer-the-scissors-isaac-baker-brown-and-feminist.md)
+- [fxa302-week10-postmodern-death-and-dying-a-literary-analysis](../sources/fxa302-week10-postmodern-death-and-dying-a-literary-analysis.md)
+- [fxa302-week10-rites-of-bioethics](../sources/fxa302-week10-rites-of-bioethics.md)
+- [fxa302-week10-when-the-doctor-is-not-god-the-impact-of-religion-on](../sources/fxa302-week10-when-the-doctor-is-not-god-the-impact-of-religion-on.md)

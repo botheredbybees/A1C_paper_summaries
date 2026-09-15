@@ -5,9 +5,10 @@ title: "Psychosocial Support"
 confidence: medium
 tags: ["psychosocial-support"]
 sources:
+  - fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their
   - fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing
   - fxa303-week13-clowning-during-covid-19-a-survey-of-european-healthcare
-updated: 2026-05-15
+updated: 2026-09-15
 ---
 
 ## Psychosocial Support
@@ -26,5 +27,6 @@ The integration of psychosocial support through various interventions is explore
 
 ## Sources
 
+- [fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their](../sources/fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their.md)
 - [fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing.md)
 - [fxa303-week13-clowning-during-covid-19-a-survey-of-european-healthcare](../sources/fxa303-week13-clowning-during-covid-19-a-survey-of-european-healthcare.md)

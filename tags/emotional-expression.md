@@ -12,6 +12,8 @@ updated: 2026-09-15
 - [The Handbook of Phototherapy and Therapeutic Photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [Current Emotion Research in Music Psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)
 - [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)
+- [Music Therapy in Grief and Mourning](../sources/fxa302-week10-music-therapy-in-grief-and-mourning.md)
+- [VOCAL PSYCHOTHERAPY: Discovering Yourself through the Voice](../sources/fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice.md)
 - [FXA303 Week 3: Introduction to Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [Emotional expression through puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [Mr. Fox Is Sad](../sources/fxa303-week06-mr-fox-is-sad.md)

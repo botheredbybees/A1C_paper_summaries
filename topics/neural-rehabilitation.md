@@ -7,7 +7,8 @@ tags: ["neural-rehabilitation"]
 sources:
   - fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen
   - fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph
-updated: 2026-07-20
+  - fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation
+updated: 2026-09-15
 ---
 
 ## Neural Rehabilitation
@@ -28,3 +29,4 @@ Sources highlight the concept of neural rehabilitation through the lens of neuro
 
 - [fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen](../sources/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md)
 - [fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph](../sources/fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph.md)
+- [fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation](../sources/fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation.md)

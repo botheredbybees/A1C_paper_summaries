@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: community-well-being-through-creative-recovery
 sources:
-- fxa303-week09-the-afloat-project
+  - fxa301-week05-principles-happy-museum-project
+  - fxa302-week10-dance-and-the-quality-of-life
+  - fxa303-week09-the-afloat-project
 tags:
 - community-well-being
 title: Community Well-being Through Creative Recovery
 type: topic
-updated: 2026-05-04
+updated: 2026-09-15
 ---
 
 ## Community Well-being Through Creative Recovery
@@ -26,4 +28,6 @@ The Afloat Project highlights the potential of creative recovery and pedagogies 
 
 ## Sources
 
+- [fxa301-week05-principles-happy-museum-project](../sources/fxa301-week05-principles-happy-museum-project.md)
+- [fxa302-week10-dance-and-the-quality-of-life](../sources/fxa302-week10-dance-and-the-quality-of-life.md)
 - [fxa303-week09-the-afloat-project](../sources/fxa303-week09-the-afloat-project.md)

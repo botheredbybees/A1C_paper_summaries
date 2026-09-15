@@ -14,3 +14,5 @@ updated: 2026-09-15
 - [Shadow: The Architectural Power of Withholding Light](../sources/fxa101-week10-shadow-the-architectural-power-of-withholding-light.md)
 - [The Murk Effect: A Demonstration of Visual Influence on Auditory Perception](../sources/fxa300-week04-transcript-delete-this-element.md)
 - [It also includes discussion of what can be perceived when the areas of the brain associated with visual processing do not function in the usual way](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%284%29.md)
+- [Essentials of Cognitive Neuroscience - Chapter 8: WHERE DOES SENSATION END? WHERE DOES PERCEPTION BEGIN?](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does.md)

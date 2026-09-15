@@ -23,6 +23,8 @@ sources:
   - fxa302-week01-life-writing-and-its-implications-for-health-and-well-being
   - fxa302-week01-philosophys-role-in-health-humanities
   - fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future
+  - fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with
+  - fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think
   - fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
   - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
   - psy214-week02-lesson-psy214-week02-week-3-introduction
@@ -81,6 +83,8 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [fxa302-week01-life-writing-and-its-implications-for-health-and-well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
 - [fxa302-week01-philosophys-role-in-health-humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
 - [fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)
+- [fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
+- [fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
 - [fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
 - [fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
 - [psy214-week02-lesson-psy214-week02-week-3-introduction](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)

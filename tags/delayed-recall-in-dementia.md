@@ -13,3 +13,5 @@ updated: 2026-09-15
 - [The Phonological Loop as a Language Learning Device](../sources/fxa300-week03-the-phonological-loop-as-a-language-learning-device.md)
 - [Working Memory in Everyday Life](../sources/fxa300-week03-transcript-youtube-uwkvpfzjwceduration.md)
 - [Does music training enhance working memory performance? Findings from a quasi-experimental longitudinal study](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience.md)
+- [Essentials of Cognitive Neuroscience - Chapter 13: Short-Term and Working Memory](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term.md)

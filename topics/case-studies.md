@@ -8,7 +8,10 @@ sources:
   - fxa300-week06-lesson-fxa300-week06-page-3
   - fxa301-week05-web-article-reynolds-2006
   - fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts
-updated: 2026-08-10
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(11)
+  - fxa302-week10-lesson-fxa302-week10-page-2
+  - fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using
+updated: 2026-09-15
 ---
 
 ## Case Studies in Art Therapy
@@ -30,3 +33,6 @@ The integration of case studies in art therapy highlights the role of artistic e
 - [fxa300-week06-lesson-fxa300-week06-page-3](../sources/fxa300-week06-lesson-fxa300-week06-page-3.md)
 - [fxa301-week05-web-article-reynolds-2006](../sources/fxa301-week05-web-article-reynolds-2006.md)
 - [fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts](../sources/fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(11)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2811%29.md)
+- [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
+- [fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using](../sources/fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using.md)

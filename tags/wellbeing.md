@@ -18,4 +18,5 @@ updated: 2026-09-15
 - [Group singing fosters mental health and wellbeing: findings from the East Kent \u2018singing for health\u2019 network project](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
 - [The use of arts interventions for mental health and wellbeing in health settings](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
 - [FXA302 Week 7 Poster Assessment Instructions](../sources/fxa302-week07-lesson-fxa302-week07-week-8-activities.md)
+- [Artistic Creativity in Neurological Illnesses](../sources/fxa302-week10-lesson-fxa302-week10-welcome-to-week-10.md)
 - [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)

@@ -11,7 +11,7 @@ tags: ["child-psychology", "therapeutic-techniques", "developmental-theory", "fx
 key_concepts: ["symbolic-play", "piaget-cognitive-stages", "axline-play-therapy"]
 methods: ["literature-review"]
 slug: fxa303-week01-play-therapy-considerations-and-applications-for-the
-related: ["child-psychology"]
+related: ["child-psychology", "therapeutic-techniques"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The article 'Play Therapy: Considerations and Applications for the Practitioner'
 ## See Also
 
 - [child-psychology](../topics/child-psychology.md)
+- [therapeutic-techniques](../topics/therapeutic-techniques.md)

@@ -13,6 +13,8 @@ sources:
   - fxa101-week10-shadow-the-architectural-power-of-withholding-light
   - fxa300-week04-transcript-delete-this-element
   - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(4)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does
 updated: 2026-09-15
 ---
 
@@ -40,3 +42,5 @@ The exploration of visual perception involves understanding how the brain proces
 - [fxa101-week10-shadow-the-architectural-power-of-withholding-light](../sources/fxa101-week10-shadow-the-architectural-power-of-withholding-light.md)
 - [fxa300-week04-transcript-delete-this-element](../sources/fxa300-week04-transcript-delete-this-element.md)
 - [fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(4)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%284%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does.md)

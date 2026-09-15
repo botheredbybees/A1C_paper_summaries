@@ -13,7 +13,7 @@ tags: ["music-perception", "brain-mechanisms", "predictive-coding", "fxa300", "p
 key_concepts: ["Predictive Coding of Music (PCM) model", "auditory networks"]
 methods: ["systematic review"]
 slug: fxa300-week02-music-in-the-brain
-related: ["brain-mechanisms", "music-perception"]
+related: ["brain-mechanisms", "music-perception", "predictive-coding"]
 created: 2026-07-13
 updated: 2026-08-17
 ---
@@ -45,3 +45,4 @@ The article by Vuust et al. (2022) reviews the cognitive neuroscience literature
 
 - [brain-mechanisms](../topics/brain-mechanisms.md)
 - [music-perception](../topics/music-perception.md)
+- [predictive-coding](../topics/predictive-coding.md)

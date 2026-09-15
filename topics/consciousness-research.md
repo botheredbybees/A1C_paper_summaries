@@ -8,7 +8,8 @@ sources:
   - fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience
   - fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of
   - fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
-updated: 2026-08-17
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of
+updated: 2026-09-15
 ---
 
 ## Consciousness Research
@@ -30,3 +31,4 @@ The exploration of consciousness through neuroscience highlights the complexity 
 - [fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience](../sources/fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience.md)
 - [fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of](../sources/fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of.md)
 - [fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of.md)

@@ -11,7 +11,7 @@ tags: ["art-therapy", "confidentiality-consent", "cultural-competence", "deontol
 key_concepts: ["informed-consent", "dual-relationships", "utilitarianism", "deontology"]
 methods: []
 slug: fxa100-week13-exploring-ethical-considerations-in-art-therapy
-related: ["art-therapy", "ethical-practices"]
+related: ["art-therapy", "cultural-competence", "ethical-practices"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,4 +41,5 @@ This study examines the ethical considerations in art therapy, emphasizing the i
 ## See Also
 
 - [art-therapy](../topics/art-therapy.md)
+- [cultural-competence](../topics/cultural-competence.md)
 - [ethical-practices](../topics/ethical-practices.md)

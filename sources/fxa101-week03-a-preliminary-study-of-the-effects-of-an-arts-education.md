@@ -11,7 +11,7 @@ tags: ["arts-education", "executive-function", "child-development", "brain-plast
 key_concepts: ["executive function", "behavioral assessment", "neuroimaging"]
 methods: ["longitudinal study", "standardized testing", "mri"]
 slug: fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education
-related: ["arts-education", "behavioral-assessment", "brain-plasticity", "child-development"]
+related: ["arts-education", "behavioral-assessment", "brain-plasticity", "child-development", "cognitive-control"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -49,3 +49,4 @@ This study explores the impact of arts education on cognitive, emotional, and be
 - [behavioral-assessment](../topics/behavioral-assessment.md)
 - [brain-plasticity](../topics/brain-plasticity.md)
 - [child-development](../topics/child-development.md)
+- [cognitive-control](../topics/cognitive-control.md)

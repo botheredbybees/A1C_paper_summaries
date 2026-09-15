@@ -30,5 +30,8 @@ updated: 2026-09-15
 - [Sensory Stimulation and Music Therapy Programs for Treating Disorders of Consciousness](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [Activation of Primary Visual Cortex by Braille Reading in Blind Subjects](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
 - [Multimodal MR-imaging reveals large-scale structural and functional connectivity changes in profound early blindness](../sources/fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and.md)
+- [Chapter 17: Emotion](../sources/fxa302-week10-chapter-17-emotion.md)
+- [Sonification of Arm Movements in Stroke Rehabilitation \u2013 A Novel Approach in Neurologic Music Therapy](../sources/fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a.md)
+- [The Neural Basis of Addiction: A Pathology of Motivation and Choice](../sources/fxa302-week10-the-neural-basis-of-addiction-a-pathology-of-motivation-and.md)
 - [Child Development - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [Adolescent Development](../sources/fxa303-week03-adolescent-development.md)

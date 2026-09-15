@@ -7,7 +7,10 @@ tags: ["visual-processing"]
 sources:
   - fxa101-week07-human-colour-perception-and-its-adaptation
   - fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
-updated: 2026-08-17
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(15)
+  - fxa302-week10-sensation-and-perception-of-visual-signals
+  - fxa302-week10-the-visual-system
+updated: 2026-09-15
 ---
 
 ## Visual Processing Adaptation
@@ -28,3 +31,6 @@ Visual processing, particularly in the context of color perception and affective
 
 - [fxa101-week07-human-colour-perception-and-its-adaptation](../sources/fxa101-week07-human-colour-perception-and-its-adaptation.md)
 - [fxa301-week02-neckers-smile-immediate-affective-consequences-of-early](../sources/fxa301-week02-neckers-smile-immediate-affective-consequences-of-early.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(15)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2815%29.md)
+- [fxa302-week10-sensation-and-perception-of-visual-signals](../sources/fxa302-week10-sensation-and-perception-of-visual-signals.md)
+- [fxa302-week10-the-visual-system](../sources/fxa302-week10-the-visual-system.md)

@@ -8,11 +8,12 @@ sources:
   - fxa101-week04-web-article-bugos-2019
   - fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness
   - fxa301-week02-the-brain-and-how-we-perceive-information
+  - fxa302-week10-cognitive-control
 tags:
 - executive-functions
 title: Executive Functions
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Executive Functions
@@ -36,3 +37,4 @@ The concept of executive functions is crucial in understanding how the brain pro
 - [fxa101-week04-web-article-bugos-2019](../sources/fxa101-week04-web-article-bugos-2019.md)
 - [fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
+- [fxa302-week10-cognitive-control](../sources/fxa302-week10-cognitive-control.md)

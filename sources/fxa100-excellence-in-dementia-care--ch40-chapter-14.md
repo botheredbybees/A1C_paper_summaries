@@ -11,7 +11,7 @@ tags: ["dementia-care", "biopsychosocial-approach", "memory-function", "fxa100"]
 key_concepts: ["neuropathology", "malignant social psychology", "explicit vs. implicit memory"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch40-chapter-14
-related: ["dementia-care", "memory-function"]
+related: ["biopsychosocial-approach", "dementia-care", "memory-function"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ The chapter discusses the management and understanding of dementia symptoms from
 
 ## See Also
 
+- [biopsychosocial-approach](../topics/biopsychosocial-approach.md)
 - [dementia-care](../topics/dementia-care.md)
 - [memory-function](../topics/memory-function.md)

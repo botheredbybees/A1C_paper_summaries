@@ -11,3 +11,4 @@ updated: 2026-09-15
 - [Musical Hearing](../sources/fxa300-week04-musical-hearing.md)
 - [The Murk Effect: A Demonstration of Visual Influence on Auditory Perception](../sources/fxa300-week04-transcript-delete-this-element.md)
 - [Inattentional deafness in music](../sources/fxa300-week09-inattentional-deafness-in-music.md)
+- [Essentials of Cognitive Neuroscience - Audition and Somatosensation](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-audition-and.md)

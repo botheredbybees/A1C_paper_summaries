@@ -7,3 +7,4 @@ updated: 2026-09-15
 ## Mechanisms Of Change
 
 - [Mechanisms of change in dance/movement therapy and their neural correlates: A theoretical framework](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
+- [Music Therapy Research](../sources/fxa302-week10-music-therapy-research.md)

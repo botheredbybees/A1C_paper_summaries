@@ -11,7 +11,7 @@ tags: ["music-and-disability", "inclusive-music-engagement", "hearing-loss", "fx
 key_concepts: ["Music and Disability", "Inclusive Music Practices"]
 methods: []
 slug: fxa302-week05-lesson-fxa302-week05-page-4-activities
-related: ["hearing-loss"]
+related: ["hearing-loss", "music-and-disability"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -41,3 +41,4 @@ This week's activities focus on the relationship between music and disability, p
 ## See Also
 
 - [hearing-loss](../topics/hearing-loss.md)
+- [music-and-disability](../topics/music-and-disability.md)

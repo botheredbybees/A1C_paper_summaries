@@ -11,7 +11,7 @@ tags: ["music-cognition", "memory-theory", "neural-pathways", "fxa300", "auditor
 key_concepts: ["auditory memory functions", "procedural memory", "reminiscence bump"]
 methods: []
 slug: fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory
-related: ["memory-theory", "music-cognition", "neural-pathways"]
+related: ["memory-theory", "music-cognition", "neural-pathways", "procedural-memory"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -44,3 +44,4 @@ This lesson explores the intersection between music and memory. It discusses how
 - [memory-theory](../topics/memory-theory.md)
 - [music-cognition](../topics/music-cognition.md)
 - [neural-pathways](../topics/neural-pathways.md)
+- [procedural-memory](../topics/procedural-memory.md)

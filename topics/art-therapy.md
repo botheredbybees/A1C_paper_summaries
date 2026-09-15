@@ -82,6 +82,10 @@ sources:
   - fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee
   - fxa301-week11-tomorrow-we-make-it-better-an-art-therapists-reflection-on
   - fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people
+  - fxa302-week10-integrating-art-therapy-methodology-in-brief-inpatient
+  - fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think
+  - fxa302-week10-lesson-fxa302-week10-page-2
+  - fxa302-week10-moving-towards-gray-art-therapy-and-ambivalence-in
   - fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing
   - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
   - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
@@ -100,7 +104,7 @@ sources:
   - fxa303-week11-the-power-of-art-to-transform-and-restore
   - fxa303-week11-web-article-hardy-2019
   - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 ## Art Therapy for Dementia
@@ -196,6 +200,10 @@ Art therapy emerges as a multifaceted intervention that significantly impacts co
 - [fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee](../sources/fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee.md)
 - [fxa301-week11-tomorrow-we-make-it-better-an-art-therapists-reflection-on](../sources/fxa301-week11-tomorrow-we-make-it-better-an-art-therapists-reflection-on.md)
 - [fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people](../sources/fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people.md)
+- [fxa302-week10-integrating-art-therapy-methodology-in-brief-inpatient](../sources/fxa302-week10-integrating-art-therapy-methodology-in-brief-inpatient.md)
+- [fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
+- [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
+- [fxa302-week10-moving-towards-gray-art-therapy-and-ambivalence-in](../sources/fxa302-week10-moving-towards-gray-art-therapy-and-ambivalence-in.md)
 - [fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing.md)
 - [fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
 - [fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)

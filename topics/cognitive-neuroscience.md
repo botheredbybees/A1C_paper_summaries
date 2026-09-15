@@ -33,6 +33,42 @@ sources:
   - fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
   - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
+  - fxa302-week10-chapter-17-emotion
+  - fxa302-week10-cognitive-control
+  - fxa302-week10-essentials-of-cognitive-neuroscience
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(10)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(11)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(12)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(13)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(15)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(16)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(17)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(18)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(2)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(20)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(21)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(22)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(23)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(3)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(4)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(5)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(6)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(7)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(9)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-audition-and
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does
+  - fxa302-week10-essentials-of-cognitive-neuroscience-language
+  - fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking
+  - fxa302-week10-introduction-to-section-ii-sensation-perception-attention
+  - fxa302-week10-neural-bases-of-memory
+  - fxa302-week10-oculomotor-control-and-the-control-of-attention
+  - fxa302-week10-semantic-long-term-memory
+  - fxa302-week10-skeletomotor-control
+  - fxa302-week10-spatial-cognition-and-attention-key-themes
+  - fxa302-week10-the-most-complex-object-in-the-universe
+  - fxa302-week10-the-neurophysiology-of-sensory-attention
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
   - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
   - fxa303-week03-the-teen-brain
@@ -41,7 +77,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -90,6 +126,42 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
 - [fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
+- [fxa302-week10-chapter-17-emotion](../sources/fxa302-week10-chapter-17-emotion.md)
+- [fxa302-week10-cognitive-control](../sources/fxa302-week10-cognitive-control.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(10)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2810%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(11)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2811%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(12)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2812%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(13)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2813%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(15)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2815%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(16)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2816%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(17)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2817%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(18)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2818%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(2)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%282%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(20)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(21)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2821%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(22)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2822%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(23)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2823%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(3)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(4)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%284%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(5)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%285%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(6)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%286%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(7)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%287%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(9)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%289%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-audition-and](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-audition-and.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-language](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-language.md)
+- [fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking](../sources/fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking.md)
+- [fxa302-week10-introduction-to-section-ii-sensation-perception-attention](../sources/fxa302-week10-introduction-to-section-ii-sensation-perception-attention.md)
+- [fxa302-week10-neural-bases-of-memory](../sources/fxa302-week10-neural-bases-of-memory.md)
+- [fxa302-week10-oculomotor-control-and-the-control-of-attention](../sources/fxa302-week10-oculomotor-control-and-the-control-of-attention.md)
+- [fxa302-week10-semantic-long-term-memory](../sources/fxa302-week10-semantic-long-term-memory.md)
+- [fxa302-week10-skeletomotor-control](../sources/fxa302-week10-skeletomotor-control.md)
+- [fxa302-week10-spatial-cognition-and-attention-key-themes](../sources/fxa302-week10-spatial-cognition-and-attention-key-themes.md)
+- [fxa302-week10-the-most-complex-object-in-the-universe](../sources/fxa302-week10-the-most-complex-object-in-the-universe.md)
+- [fxa302-week10-the-neurophysiology-of-sensory-attention](../sources/fxa302-week10-the-neurophysiology-of-sensory-attention.md)
 - [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)
 - [fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
 - [fxa303-week03-the-teen-brain](../sources/fxa303-week03-the-teen-brain.md)

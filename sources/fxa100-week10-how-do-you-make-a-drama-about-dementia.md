@@ -11,7 +11,7 @@ tags: ["drama-and-dementia", "emotional-storytelling", "fxa100", "medical-accura
 key_concepts: ["medical accuracy", "public understanding"]
 methods: ["case study"]
 slug: fxa100-week10-how-do-you-make-a-drama-about-dementia
-related: []
+related: ["medical-accuracy"]
 created: 2026-05-06
 updated: 2026-05-06
 ---
@@ -39,4 +39,4 @@ This article explores the challenges and approaches dramatists take when creatin
 
 ## See Also
 
-*(none yet)*
+- [medical-accuracy](../topics/medical-accuracy.md)

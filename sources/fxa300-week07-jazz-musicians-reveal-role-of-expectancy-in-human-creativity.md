@@ -11,7 +11,7 @@ tags: ["creativity-in-music", "jazz-improvisation", "cognitive-neuroscience", "e
 key_concepts: ["expectancy", "creativity", "divergent-thinking", "electroencephalography"]
 methods: ["behavioral-task", "eeg", "case-study"]
 slug: fxa300-week07-jazz-musicians-reveal-role-of-expectancy-in-human-creativity
-related: ["cognitive-neuroscience", "creativity-in-music", "jazz-improvisation"]
+related: ["cognitive-neuroscience", "creativity-in-music", "electrophysiology", "jazz-improvisation"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -49,4 +49,5 @@ This study explores the role of expectancy in human creativity, using jazz music
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [creativity-in-music](../topics/creativity-in-music.md)
+- [electrophysiology](../topics/electrophysiology.md)
 - [jazz-improvisation](../topics/jazz-improvisation.md)

@@ -11,7 +11,7 @@ tags: ["mindfulness-meditation", "mental-well-being", "creative-arts-health", "s
 key_concepts: ["mindfulness meditation", "present moment awareness", "repeated attention redirection"]
 methods: ["concept clarification"]
 slug: psy214-week08-mindfulness-meditation-what-it-is-and-isnt
-related: ["creative-arts-health", "mental-well-being", "mindfulness-meditation", "present-moment-awareness", "self-care", "stress-management"]
+related: ["cognitive-behavior", "creative-arts-health", "mental-well-being", "mindfulness-meditation", "present-moment-awareness", "self-care", "stress-management"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -44,6 +44,7 @@ The document discusses the nature of mindfulness meditation and clarifies common
 
 ## See Also
 
+- [cognitive-behavior](../topics/cognitive-behavior.md)
 - [creative-arts-health](../topics/creative-arts-health.md)
 - [mental-well-being](../topics/mental-well-being.md)
 - [mindfulness-meditation](../topics/mindfulness-meditation.md)

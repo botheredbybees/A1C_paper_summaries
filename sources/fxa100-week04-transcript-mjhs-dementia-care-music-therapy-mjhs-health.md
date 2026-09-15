@@ -11,7 +11,7 @@ tags: ["caregiving-practices", "dementia-care", "fxa100", "health-systems", "mus
 key_concepts: ["Music Therapy Protocols", "Reduction of Dementia Symptoms"]
 methods: []
 slug: fxa100-week04-transcript-mjhs-dementia-care-music-therapy-mjhs-health
-related: ["dementia-care", "music-therapy", "quality-of-life"]
+related: ["dementia-care", "music-therapy", "music-therapy-protocols", "quality-of-life"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -43,4 +43,5 @@ The transcript details a grant-funded program by the New York State Department o
 
 - [dementia-care](../topics/dementia-care.md)
 - [music-therapy](../topics/music-therapy.md)
+- [music-therapy-protocols](../topics/music-therapy-protocols.md)
 - [quality-of-life](../topics/quality-of-life.md)

@@ -15,3 +15,5 @@ updated: 2026-09-15
 - [Engaging with Visual Arts: Community-Based Projects](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
 - [The Art of Observation: A Pedagogical Framework](../sources/fxa302-week03-the-art-of-observation-a-pedagogical-framework.md)
 - [Visual Loss and Painting: Monet, Bramblitt, Arma\u011fan](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)
+- [Neurological Disorders and the Visual Arts](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
+- [Understanding Suffering: Utermohlen\u2019s Self-portraits and Alzheimer\u2019s Disease](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)

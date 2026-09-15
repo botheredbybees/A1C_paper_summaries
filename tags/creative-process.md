@@ -14,3 +14,4 @@ updated: 2026-09-15
 - [Week 10 - Developing Project 3 - Light & Shade](../sources/fxa101-week10-lesson-fxa101-week10-page-1-week-10-planning-and.md)
 - [Where do you get your ideas?](../sources/fxa202-week05-where-do-you-get-your-ideas.md)
 - [Imagination and Creativity: A Necessary Connection?](../sources/fxa300-week07-imagination-and-creativity-a-necessary-connection.md)
+- [Francisco Jos\u00e9 de Goya y Lucientes (1746\u20131828), the suffering artist](../sources/fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828-the-suffering.md)

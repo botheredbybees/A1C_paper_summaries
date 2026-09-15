@@ -5,12 +5,13 @@ title: "Humanistic Psychology"
 confidence: high
 tags: ["humanistic-psychology"]
 sources:
+  - fxa302-week10-resource-oriented-perspectives-in-music-therapy
   - psy214-week02-eudaimonic-well-being-early-humanistic-approaches
   - psy214-week02-eudaimonic-well-being-early-humanistic-approaches-abraham
   - psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach
   - psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well
   - psy214-week02-self-actualization-myths-what-did-maslow-really-say
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 
 ## Humanistic Psychology
@@ -29,6 +30,7 @@ Humanistic psychology is a theoretical framework that emphasizes the inherent wo
 
 ## Sources
 
+- [fxa302-week10-resource-oriented-perspectives-in-music-therapy](../sources/fxa302-week10-resource-oriented-perspectives-in-music-therapy.md)
 - [psy214-week02-eudaimonic-well-being-early-humanistic-approaches](../sources/psy214-week02-eudaimonic-well-being-early-humanistic-approaches.md)
 - [psy214-week02-eudaimonic-well-being-early-humanistic-approaches-abraham](../sources/psy214-week02-eudaimonic-well-being-early-humanistic-approaches-abraham.md)
 - [psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach](../sources/psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach.md)

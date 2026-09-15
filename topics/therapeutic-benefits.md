@@ -22,6 +22,7 @@ sources:
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
   - fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2
   - fxa302-week06-visual-art-and-transformation
+  - fxa302-week10-lesson-fxa302-week10-hm-test
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
   - fxa303-week11-lesson-fxa303-week11-overview
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
@@ -68,6 +69,7 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
 - [fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)
 - [fxa302-week06-visual-art-and-transformation](../sources/fxa302-week06-visual-art-and-transformation.md)
+- [fxa302-week10-lesson-fxa302-week10-hm-test](../sources/fxa302-week10-lesson-fxa302-week10-hm-test.md)
 - [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [fxa303-week11-lesson-fxa303-week11-overview](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)

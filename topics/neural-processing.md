@@ -7,7 +7,8 @@ tags: ["neural-processing"]
 sources:
   - fxa101-week07-textures-as-probes-of-visual-processing
   - fxa300-week04-lesson-fxa300-week04-welcome-to-week-41
-updated: 2026-08-17
+  - fxa302-week10-introduction-to-section-ii-sensation-perception-attention
+updated: 2026-09-15
 ---
 
 ## Neural Processing Mechanisms
@@ -28,3 +29,4 @@ The provided sources delve into the neural mechanisms of perception and processi
 
 - [fxa101-week07-textures-as-probes-of-visual-processing](../sources/fxa101-week07-textures-as-probes-of-visual-processing.md)
 - [fxa300-week04-lesson-fxa300-week04-welcome-to-week-41](../sources/fxa300-week04-lesson-fxa300-week04-welcome-to-week-41.md)
+- [fxa302-week10-introduction-to-section-ii-sensation-perception-attention](../sources/fxa302-week10-introduction-to-section-ii-sensation-perception-attention.md)

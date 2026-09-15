@@ -11,7 +11,7 @@ tags: ["memory-loss", "personal-resilience", "therapeutic-storytelling", "fxa202
 key_concepts: ["memory loss due to illness", "transient human connection", "reclaiming fragmented memories"]
 methods: ["photo essay"]
 slug: fxa202-week06-remembrance
-related: ["memory-loss", "personal-resilience"]
+related: ["memory-loss", "personal-resilience", "therapeutic-storytelling"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ In Emma Barratt's poignant photo essay, 'Remembrance,' the author reflects on li
 
 - [memory-loss](../topics/memory-loss.md)
 - [personal-resilience](../topics/personal-resilience.md)
+- [therapeutic-storytelling](../topics/therapeutic-storytelling.md)

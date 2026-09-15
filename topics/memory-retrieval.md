@@ -5,11 +5,15 @@ slug: memory-retrieval-in-dementia-care
 sources:
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
   - fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(13)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(18)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(9)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative
 tags:
 - memory-retrieval
 title: Memory Retrieval in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Memory Retrieval in Dementia Care
@@ -30,3 +34,7 @@ The topic of memory retrieval within dementia care highlights the potential of m
 
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care](../sources/fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(13)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2813%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(18)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2818%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(9)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%289%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative.md)

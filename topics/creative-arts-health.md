@@ -7,6 +7,7 @@ sources:
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an
   - fxa301-week08-wisdom-poetry-trialogue
+  - fxa302-week10-illuminating-the-it-thee-and-we-of-disease-and-illness
   - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
   - psy214-week01-coping-notes-slides
   - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
@@ -38,6 +39,7 @@ The integration of creative arts into health interventions presents a multifacet
 - [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an](../sources/fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an.md)
 - [fxa301-week08-wisdom-poetry-trialogue](../sources/fxa301-week08-wisdom-poetry-trialogue.md)
+- [fxa302-week10-illuminating-the-it-thee-and-we-of-disease-and-illness](../sources/fxa302-week10-illuminating-the-it-thee-and-we-of-disease-and-illness.md)
 - [fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)
 - [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)

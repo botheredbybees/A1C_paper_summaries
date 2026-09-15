@@ -6,12 +6,14 @@ sources:
   - fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia
   - fxa302-week03-the-art-of-medicine-penn-state-medical-students-learn-to
+  - fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive
+  - fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb
   - fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
 tags:
 - patient-engagement
 title: Patient Engagement Through Humor-Based Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Patient Engagement Through Humor-Based Interventions
@@ -33,4 +35,6 @@ The study of a Clown Doctor Program in an adolescent psychiatric unit highlights
 - [fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a](../sources/fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a.md)
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia.md)
 - [fxa302-week03-the-art-of-medicine-penn-state-medical-students-learn-to](../sources/fxa302-week03-the-art-of-medicine-penn-state-medical-students-learn-to.md)
+- [fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive](../sources/fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive.md)
+- [fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb](../sources/fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb.md)
 - [fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)

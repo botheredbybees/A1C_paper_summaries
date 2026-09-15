@@ -7,13 +7,17 @@ sources:
   - fxa202-week13-show-and-tell-photography-and-storytelling-to-better
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
   - fxa301-week10-death-loss-and-communityperspectives-from-children-their
+  - fxa302-week10-postmodern-death-and-dying-a-literary-analysis
+  - fxa302-week10-scientia-mortis-and-the-ars-moriendi
+  - fxa302-week10-second-degree-block
+  - fxa302-week10-when-the-doctor-is-not-god-the-impact-of-religion-on
   - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
   - psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning
 tags:
 - end-of-life-care
 title: End-of-Life Care
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## End-of-Life Care
@@ -36,5 +40,9 @@ The synthesis of end-of-life care interventions reveals a multifaceted approach 
 - [fxa202-week13-show-and-tell-photography-and-storytelling-to-better](../sources/fxa202-week13-show-and-tell-photography-and-storytelling-to-better.md)
 - [fxa301-week03-challenges-in-end-of-life-care-and-bereavement](../sources/fxa301-week03-challenges-in-end-of-life-care-and-bereavement.md)
 - [fxa301-week10-death-loss-and-communityperspectives-from-children-their](../sources/fxa301-week10-death-loss-and-communityperspectives-from-children-their.md)
+- [fxa302-week10-postmodern-death-and-dying-a-literary-analysis](../sources/fxa302-week10-postmodern-death-and-dying-a-literary-analysis.md)
+- [fxa302-week10-scientia-mortis-and-the-ars-moriendi](../sources/fxa302-week10-scientia-mortis-and-the-ars-moriendi.md)
+- [fxa302-week10-second-degree-block](../sources/fxa302-week10-second-degree-block.md)
+- [fxa302-week10-when-the-doctor-is-not-god-the-impact-of-religion-on](../sources/fxa302-week10-when-the-doctor-is-not-god-the-impact-of-religion-on.md)
 - [fxa303-week13-humour-interventions-for-patients-in-palliative-carea](../sources/fxa303-week13-humour-interventions-for-patients-in-palliative-carea.md)
 - [psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning](../sources/psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning.md)

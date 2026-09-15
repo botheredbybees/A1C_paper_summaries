@@ -11,5 +11,7 @@ updated: 2026-09-15
 - [Evidence-based practice in music therapy for mental health](../sources/fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health.md)
 - [Assessing Confidence in 'What Works' in Social Policy](../sources/fxa301-week01-assessing-confidence-in-what-works-in-social-policy.md)
 - [Evidence Requirements for the Development of the National Australian Arts and Health Framework](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
+- [Effects of music therapy and music-based interventions in the treatment of substance use disorders: A systematic review](../sources/fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in.md)
+- [Music Therapy: An Evidence-based Allied Health Service Applicable Through the Life Span](../sources/fxa302-week10-music-therapy-an-evidence-based-allied-health-service.md)
 - [Developing Creative Approaches in Youth Justice: A Guide for Youth Justice Professionals](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)
 - [Limitations of the Evidence Base for Mindfulness](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)

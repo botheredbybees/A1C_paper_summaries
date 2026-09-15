@@ -7,7 +7,8 @@ tags: ["qualitative-methods"]
 sources:
   - fxa101-week00-toward-a-creative-and-imaginative-research-approach-collage
   - fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the
-updated: 2026-08-08
+  - fxa302-week10-music-therapy-research
+updated: 2026-09-15
 ---
 
 ## Qualitative Methods in Social Work Research
@@ -28,3 +29,4 @@ The provided sources explore innovative qualitative methods within the context o
 
 - [fxa101-week00-toward-a-creative-and-imaginative-research-approach-collage](../sources/fxa101-week00-toward-a-creative-and-imaginative-research-approach-collage.md)
 - [fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the](../sources/fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the.md)
+- [fxa302-week10-music-therapy-research](../sources/fxa302-week10-music-therapy-research.md)

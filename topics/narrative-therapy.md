@@ -6,12 +6,13 @@ sources:
   - fxa100-week07-creating-resources-memory-trees-and-boxes
   - fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
   - fxa302-week01-storytelling
+  - fxa302-week10-love-in-the-time-of-dementia
   - fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
 tags:
 - narrative-therapy
 title: Narrative Therapy
 type: topic
-updated: 2026-07-06
+updated: 2026-09-15
 ---
 
 ## Narrative Therapy
@@ -33,4 +34,5 @@ Narrative therapy is a therapeutic approach aimed at helping individuals address
 - [fxa100-week07-creating-resources-memory-trees-and-boxes](../sources/fxa100-week07-creating-resources-memory-trees-and-boxes.md)
 - [fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects](../sources/fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects.md)
 - [fxa302-week01-storytelling](../sources/fxa302-week01-storytelling.md)
+- [fxa302-week10-love-in-the-time-of-dementia](../sources/fxa302-week10-love-in-the-time-of-dementia.md)
 - [fxa303-week06-using-puppets-with-children-in-narrative-therapy-to](../sources/fxa303-week06-using-puppets-with-children-in-narrative-therapy-to.md)

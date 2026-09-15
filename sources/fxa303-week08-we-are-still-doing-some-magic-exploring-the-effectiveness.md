@@ -11,7 +11,7 @@ tags: ["therapeutic-clowning", "online-therapy", "patient-wellness", "fxa303"]
 key_concepts: ["clown-play", "virtual-healthcare"]
 methods: ["case-study"]
 slug: fxa303-week08-we-are-still-doing-some-magic-exploring-the-effectiveness
-related: ["therapeutic-clowning"]
+related: ["online-therapy", "therapeutic-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ This study investigates the effectiveness of online therapeutic clowning as a re
 
 ## See Also
 
+- [online-therapy](../topics/online-therapy.md)
 - [therapeutic-clowning](../topics/therapeutic-clowning.md)

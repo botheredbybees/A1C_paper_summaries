@@ -10,3 +10,4 @@ updated: 2026-09-15
 - [Breaking Down Short-Term Memory with Baddeley and Hitch's Working Memory Model](../sources/fxa300-week03-transcript-visit-in-new-window.md)
 - [When long-term learning depends on short-term storage](../sources/fxa300-week03-when-long-term-learning-depends-on-short-term-storage.md)
 - [Word length and the structure of short-term memory](../sources/fxa300-week03-word-length-and-the-structure-of-short-term-memory.md)
+- [Essentials of Cognitive Neuroscience - Chapter 13: Short-Term and Working Memory](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term.md)

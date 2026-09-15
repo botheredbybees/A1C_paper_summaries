@@ -11,7 +11,7 @@ tags: ["music-cognition", "brain-perception-music", "sensation-perception", "fxa
 key_concepts: ["feature-extraction", "categorical-perception", "bottom-up-processing", "top-down-processing"]
 methods: []
 slug: fxa300-week04-lesson-fxa300-week04-page-3-how-does-the-brain-hear
-related: ["categorical-perception", "feature-extraction", "music-cognition", "top-down-processing"]
+related: ["categorical-perception", "feature-extraction", "music-cognition", "sensation-perception", "top-down-processing"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -45,4 +45,5 @@ This lesson explores how the brain perceives music through sensation and percept
 - [categorical-perception](../topics/categorical-perception.md)
 - [feature-extraction](../topics/feature-extraction.md)
 - [music-cognition](../topics/music-cognition.md)
+- [sensation-perception](../topics/sensation-perception.md)
 - [top-down-processing](../topics/top-down-processing.md)

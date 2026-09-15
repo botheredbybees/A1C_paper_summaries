@@ -11,7 +11,7 @@ tags: ["selective-attention", "cognitive-psychology", "perception", "fxa300", "c
 key_concepts: ["change-blindness", "inattentional-blindness"]
 methods: []
 slug: fxa300-week03-transcript-youtube-vjg698u2mvo
-related: ["cognitive-psychology"]
+related: ["cognitive-psychology", "perception", "selective-attention"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -42,3 +42,5 @@ This YouTube video is a selective attention test by researchers Daniel Simons an
 ## See Also
 
 - [cognitive-psychology](../topics/cognitive-psychology.md)
+- [perception](../topics/perception.md)
+- [selective-attention](../topics/selective-attention.md)

@@ -6,8 +6,9 @@ confidence: medium
 tags: ["professional-practice"]
 sources:
   - fxa301-week03-noah-code-of-ethics-for-artists-arts-administrators-in
+  - fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the
   - fxa303-week11-inclusive-communication-with-lgbtiq-clients
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Professional Practice in Arts and Healthcare
@@ -26,4 +27,5 @@ The integration of arts and healthcare requires a professional practice grounded
 ## Sources
 
 - [fxa301-week03-noah-code-of-ethics-for-artists-arts-administrators-in](../sources/fxa301-week03-noah-code-of-ethics-for-artists-arts-administrators-in.md)
+- [fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the](../sources/fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the.md)
 - [fxa303-week11-inclusive-communication-with-lgbtiq-clients](../sources/fxa303-week11-inclusive-communication-with-lgbtiq-clients.md)

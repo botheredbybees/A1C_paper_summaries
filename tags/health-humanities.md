@@ -35,3 +35,7 @@ updated: 2026-09-15
 - [Visual Arts to Develop Observational Skills](../sources/fxa302-week03-lesson-fxa302-week03-page-3.md)
 - [Week 1 Introduction and Overview](../sources/fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm.md)
 - [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)
+- [Comics in the Health Humanities: A New Approach to Sex and Gender Education](../sources/fxa302-week10-comics-in-the-health-humanities-a-new-approach-to-sex-and.md)
+- [Courting Discomfort in an Undergraduate Health Humanities Classroom](../sources/fxa302-week10-courting-discomfort-in-an-undergraduate-health-humanities.md)
+- [Social Studies: The Humanities, Narrative, and the Social Context of the Patient-Professional Relationship](../sources/fxa302-week10-social-studies-the-humanities-narrative-and-the-social.md)
+- [The Why, the What, and the How of the Medical/Health Humanities](../sources/fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities.md)

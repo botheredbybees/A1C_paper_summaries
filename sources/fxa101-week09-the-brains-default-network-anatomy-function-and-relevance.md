@@ -11,7 +11,7 @@ tags: ["brain-networks", "cognitive-neuroscience", "neuroimaging", "default-mode
 key_concepts: ["default network", "medial temporal lobe", "medial prefrontal cortex", "autobiographical memory", "future envisioning"]
 methods: ["review article", "functional neuroimaging", "anatomical studies"]
 slug: fxa101-week09-the-brains-default-network-anatomy-function-and-relevance
-related: ["brain-networks", "cognitive-neuroscience", "default-mode-network", "mental-disorders", "neural-networks", "neuroimaging"]
+related: ["brain-networks", "cognitive-neuroscience", "default-mode-network", "medial-temporal-lobe", "mental-disorders", "neural-networks", "neuroimaging"]
 created: 2026-09-07
 updated: 2026-09-07
 ---
@@ -51,6 +51,7 @@ This review article synthesizes findings about the brain's default network, a sy
 - [brain-networks](../topics/brain-networks.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [default-mode-network](../topics/default-mode-network.md)
+- [medial-temporal-lobe](../topics/medial-temporal-lobe.md)
 - [mental-disorders](../topics/mental-disorders.md)
 - [neural-networks](../topics/neural-networks.md)
 - [neuroimaging](../topics/neuroimaging.md)

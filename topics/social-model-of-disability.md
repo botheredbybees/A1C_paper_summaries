@@ -7,11 +7,12 @@ sources:
   - fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
   - fxa301-week09-transcript-the-following-video-from-people-with-disability
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
+  - fxa302-week10-disability-in-two-doctor-stories
 tags:
 - social-model-of-disability
 title: Social Model Of Disability
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Social Model Of Disability
@@ -34,3 +35,4 @@ The Social Model of Disability is a pivotal theoretical framework that challenge
 - [fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability](../sources/fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability.md)
 - [fxa301-week09-transcript-the-following-video-from-people-with-disability](../sources/fxa301-week09-transcript-the-following-video-from-people-with-disability.md)
 - [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
+- [fxa302-week10-disability-in-two-doctor-stories](../sources/fxa302-week10-disability-in-two-doctor-stories.md)

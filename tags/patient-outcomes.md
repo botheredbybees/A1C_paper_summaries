@@ -11,5 +11,7 @@ updated: 2026-09-15
 - [Music Therapy and Music-Assisted Caregiving for Dementia Patients](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)
 - [The effect of physical activity on cognitive function in patients with dementia: A meta-analysis of randomized control trials](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [Is There Compelling Evidence for Using the Arts in Health Care?](../sources/fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health.md)
+- [Creative art therapy to enhance rehabilitation for stroke patients: a randomized controlled trial](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)
+- [Improvement of spontaneous language in stroke patients with chronic aphasia treated with music therapy: a randomized controlled trial](../sources/fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with.md)
 - [Evaluation of a standardized humor group in a clinical setting: a feasibility study for older patients with depression](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)
 - [SveDem, the Swedish Dementia Registry \u2013 A Tool for Improving the Quality of Diagnostics, Treatment and Care of Dementia Patients in Clinical Practice](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

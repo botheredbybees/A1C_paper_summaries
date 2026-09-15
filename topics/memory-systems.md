@@ -8,7 +8,8 @@ sources:
   - fxa101-week09-associative-thinking-at-the-core-of-creativity
   - fxa300-week03-music-and-memory-an-introduction-review
   - fxa301-week02-the-brain-and-how-we-perceive-information
-updated: 2026-09-07
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term
+updated: 2026-09-15
 ---
 
 ## Memory Systems
@@ -30,3 +31,4 @@ The study of memory systems encompasses a broad range of cognitive and neurologi
 - [fxa101-week09-associative-thinking-at-the-core-of-creativity](../sources/fxa101-week09-associative-thinking-at-the-core-of-creativity.md)
 - [fxa300-week03-music-and-memory-an-introduction-review](../sources/fxa300-week03-music-and-memory-an-introduction-review.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term.md)

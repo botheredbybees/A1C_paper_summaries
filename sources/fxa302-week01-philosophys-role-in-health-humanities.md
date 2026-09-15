@@ -11,7 +11,7 @@ tags: ["health-humanities", "medical-ethics", "person-centered-care", "philosoph
 key_concepts: ["existential questions", "philosophical toolkit", "value of human life"]
 methods: ["conceptual analysis"]
 slug: fxa302-week01-philosophys-role-in-health-humanities
-related: ["health-humanities", "medical-ethics", "person-centered-care", "well-being"]
+related: ["existential-questions", "health-humanities", "medical-ethics", "person-centered-care", "well-being"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -44,6 +44,7 @@ The chapter explores the philosophical examination of human health and its signi
 
 ## See Also
 
+- [existential-questions](../topics/existential-questions.md)
 - [health-humanities](../topics/health-humanities.md)
 - [medical-ethics](../topics/medical-ethics.md)
 - [person-centered-care](../topics/person-centered-care.md)

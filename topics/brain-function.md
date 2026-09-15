@@ -30,12 +30,18 @@ sources:
   - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
   - fxa301-week02-lecture-on-perception-of-the-arts
   - fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof
+  - fxa302-week10-cognitive-control
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(20)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(3)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does
+  - fxa302-week10-introduction-to-section-ii-sensation-perception-attention
+  - fxa302-week10-semantic-long-term-memory
   - psy214-week05-transcript-why-do-we-sleep
 tags:
 - brain-function
 title: Music's Impact on Brain Function
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Music's Impact on Brain Function
@@ -81,4 +87,10 @@ The sources collectively emphasize the profound impact of music on various aspec
 - [fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)
 - [fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof](../sources/fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof.md)
+- [fxa302-week10-cognitive-control](../sources/fxa302-week10-cognitive-control.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(20)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(3)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does.md)
+- [fxa302-week10-introduction-to-section-ii-sensation-perception-attention](../sources/fxa302-week10-introduction-to-section-ii-sensation-perception-attention.md)
+- [fxa302-week10-semantic-long-term-memory](../sources/fxa302-week10-semantic-long-term-memory.md)
 - [psy214-week05-transcript-why-do-we-sleep](../sources/psy214-week05-transcript-why-do-we-sleep.md)

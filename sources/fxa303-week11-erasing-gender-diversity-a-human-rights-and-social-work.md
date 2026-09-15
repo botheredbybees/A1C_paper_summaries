@@ -11,7 +11,7 @@ tags: ["gender-diversity", "human-rights", "social-work", "transgender-issues", 
 key_concepts: ["fundamental-human-rights", "personal-autonomy", "ethical-dilemmas"]
 methods: ["case-study"]
 slug: fxa303-week11-erasing-gender-diversity-a-human-rights-and-social-work
-related: ["gender-diversity", "human-rights"]
+related: ["ethical-dilemmas", "gender-diversity", "human-rights"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -44,5 +44,6 @@ Karun Karki and Hannah Kia critically analyze the implications of Donald Trumpâ€
 
 ## See Also
 
+- [ethical-dilemmas](../topics/ethical-dilemmas.md)
 - [gender-diversity](../topics/gender-diversity.md)
 - [human-rights](../topics/human-rights.md)

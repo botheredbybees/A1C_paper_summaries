@@ -62,6 +62,11 @@ sources:
   - fxa302-week08-fxa302-week-8-welcome
   - fxa302-week08-lesson-fxa302-week08-page-3
   - fxa302-week08-the-rewards-of-chronic-illness
+  - fxa302-week10-cognitive-control
+  - fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke
+  - fxa302-week10-emotion-processing-and-mental-health
+  - fxa302-week10-self-care-in-music-therapy-the-art-of-balancing
+  - fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse
   - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-week02-free-play-and-childrens-mental-health
   - fxa303-week02-free-play-and-childrens-mental-health-(2)
@@ -181,6 +186,11 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa302-week08-fxa302-week-8-welcome](../sources/fxa302-week08-fxa302-week-8-welcome.md)
 - [fxa302-week08-lesson-fxa302-week08-page-3](../sources/fxa302-week08-lesson-fxa302-week08-page-3.md)
 - [fxa302-week08-the-rewards-of-chronic-illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
+- [fxa302-week10-cognitive-control](../sources/fxa302-week10-cognitive-control.md)
+- [fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)
+- [fxa302-week10-emotion-processing-and-mental-health](../sources/fxa302-week10-emotion-processing-and-mental-health.md)
+- [fxa302-week10-self-care-in-music-therapy-the-art-of-balancing](../sources/fxa302-week10-self-care-in-music-therapy-the-art-of-balancing.md)
+- [fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse](../sources/fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
 - [fxa303-week02-free-play-and-childrens-mental-health-(2)](../sources/fxa303-week02-free-play-and-childrens-mental-health-%282%29.md)

@@ -11,7 +11,7 @@ tags: ["community-well-being", "environmental-stewardship", "civic-engagement", 
 key_concepts: ["well-being", "resilience", "sustainability"]
 methods: ["case study"]
 slug: fxa301-week05-principles-happy-museum-project
-related: []
+related: ["community-well-being"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -41,4 +41,4 @@ The Happy Museum Project outlines principles aimed at transforming museums into 
 
 ## See Also
 
-*(none yet)*
+- [community-well-being](../topics/community-well-being.md)

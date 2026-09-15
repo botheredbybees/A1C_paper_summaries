@@ -11,7 +11,7 @@ tags: ["neuroaesthetics", "visual-art-processing", "brain-imaging-analysis", "fx
 key_concepts: ["ventral visual stream", "aesthetic responses", "neural correlates of beauty"]
 methods: ["meta-analysis", "fMRI"]
 slug: fxa100-week06-where-does-brain-neural-activation-in-aesthetic-responses
-related: ["aesthetic-responses", "neuroaesthetics"]
+related: ["aesthetic-responses", "neuroaesthetics", "ventral-visual-stream"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -45,3 +45,4 @@ This study explores the neural correlates of visual aesthetic experience (VAE) t
 
 - [aesthetic-responses](../topics/aesthetic-responses.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)
+- [ventral-visual-stream](../topics/ventral-visual-stream.md)

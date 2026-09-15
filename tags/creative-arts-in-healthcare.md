@@ -8,3 +8,4 @@ updated: 2026-09-15
 
 - [FXA302 Week 1 Introduction](../sources/fxa302-week03-fxa302-week-1-introduction.md)
 - [Introduction to FXA302: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)
+- [Second Degree Block](../sources/fxa302-week10-second-degree-block.md)

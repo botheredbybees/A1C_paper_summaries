@@ -18,5 +18,8 @@ updated: 2026-09-15
 - [Creative, Artistic, and Expressive Therapies for PTSD](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
 - [FXA301 Week 10 Lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [Case Studies of Therapeutic Creative Arts for Eating Disorders and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
+- [Creative Arts-Based Therapies for Stroke Survivors: A Qualitative Systematic Review](../sources/fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2816%29.md)
+- [Love in the Time of Dementia](../sources/fxa302-week10-love-in-the-time-of-dementia.md)
 - [Effectiveness of the Puppet Show and Storytelling Methods on Children\u2019s Behavioral Problems](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)
 - [Arts in Criminal Justice and Corrections: International Perspectives on Methods](../sources/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md)

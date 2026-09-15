@@ -11,6 +11,8 @@ sources:
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
+  - fxa302-week10-ballroom-dance-for-persons-with-multiple-sclerosis-a-pilot
+  - fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with
   - psy214-week00-physical-activity-and-depression-towards-understanding-the
   - psy214-week05-lesson-psy214-week05-sleep-and-health
   - psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life
@@ -19,7 +21,7 @@ tags:
 - physical-activity
 title: Physical Activity and Cognitive Health in Older Adults
 type: topic
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 ## Physical Activity and Cognitive Health in Older Adults
@@ -46,6 +48,8 @@ The topic explores the impact of physical activity on cognitive health among old
 - [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
 - [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
+- [fxa302-week10-ballroom-dance-for-persons-with-multiple-sclerosis-a-pilot](../sources/fxa302-week10-ballroom-dance-for-persons-with-multiple-sclerosis-a-pilot.md)
+- [fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
 - [psy214-week00-physical-activity-and-depression-towards-understanding-the](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
 - [psy214-week05-lesson-psy214-week05-sleep-and-health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
 - [psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)

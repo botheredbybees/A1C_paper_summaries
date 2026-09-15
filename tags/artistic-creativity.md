@@ -9,3 +9,5 @@ updated: 2026-09-15
 - [Dementia and Art: Neuronal Intermediate Filament Inclusion Disease and Dissolution of Artistic Creativity](../sources/fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion.md)
 - [Synesthetes are More Involved in Art \u2014 Evidence From the Artistic Creativity Domains Compendium (ACDC)](../sources/fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the.md)
 - [Modeling influences on divergent thinking and artistic creativity](../sources/fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic.md)
+- [Artistic Skills Recovery and Compensation in Visual Artists after Stroke](../sources/fxa302-week10-artistic-skills-recovery-and-compensation-in-visual-artists.md)
+- [The riddle of style changes in the visual arts after interference with the right brain](../sources/fxa302-week10-the-riddle-of-style-changes-in-the-visual-arts-after.md)

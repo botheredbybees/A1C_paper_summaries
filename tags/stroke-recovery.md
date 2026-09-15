@@ -11,3 +11,5 @@ updated: 2026-09-15
 - [From singing to speaking: facilitating recovery from nonfluent aphasia](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
 - [Week 8 Activities: Music and Health](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
 - [Stroke Choirs | Stroke Recovery Association NSW](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
+- [Artistic Skills Recovery and Compensation in Visual Artists after Stroke](../sources/fxa302-week10-artistic-skills-recovery-and-compensation-in-visual-artists.md)
+- [Effects of repetitive transcranial magnetic stimulation combined with music therapy in non-fluent aphasia after stroke](../sources/fxa302-week10-effects-of-repetitive-transcranial-magnetic-stimulation.md)

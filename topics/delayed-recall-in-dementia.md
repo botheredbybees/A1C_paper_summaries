@@ -12,7 +12,9 @@ sources:
   - fxa300-week03-the-phonological-loop-as-a-language-learning-device
   - fxa300-week03-transcript-youtube-uwkvpfzjwceduration
   - fxa300-week06-does-music-training-enhance-working-memory-performance
-updated: 2026-08-10
+  - fxa302-week10-essentials-of-cognitive-neuroscience
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term
+updated: 2026-09-15
 ---
 
 ## Delayed Recall in Dementia
@@ -38,3 +40,5 @@ This synthesis explores interventions aimed at improving delayed recall and work
 - [fxa300-week03-the-phonological-loop-as-a-language-learning-device](../sources/fxa300-week03-the-phonological-loop-as-a-language-learning-device.md)
 - [fxa300-week03-transcript-youtube-uwkvpfzjwceduration](../sources/fxa300-week03-transcript-youtube-uwkvpfzjwceduration.md)
 - [fxa300-week06-does-music-training-enhance-working-memory-performance](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-13-short-term.md)

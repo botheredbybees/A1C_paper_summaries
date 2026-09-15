@@ -7,11 +7,12 @@ sources:
   - fxa202-week09-guide-to-journaling
   - fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+  - fxa302-week10-chapter-17-emotion
 tags:
 - emotional-processing
 title: Emotional Processing Through Writing
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Emotional Processing Through Writing
@@ -33,3 +34,4 @@ Both sources emphasize the importance of writing as an intervention for emotiona
 - [fxa202-week09-guide-to-journaling](../sources/fxa202-week09-guide-to-journaling.md)
 - [fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and](../sources/fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and.md)
 - [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)
+- [fxa302-week10-chapter-17-emotion](../sources/fxa302-week10-chapter-17-emotion.md)

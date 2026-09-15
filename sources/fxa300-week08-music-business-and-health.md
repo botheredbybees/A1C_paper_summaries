@@ -11,7 +11,7 @@ tags: ["music-industry-economics", "workplace-music-effects", "consumer-behavior
 key_concepts: ["musical-innovation", "workplace-productivity", "music-advertising"]
 methods: ["literature-review"]
 slug: fxa300-week08-music-business-and-health
-related: ["consumer-behavior"]
+related: ["consumer-behavior", "musical-innovation"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -43,3 +43,4 @@ The chapter examines the impact of music on the economy and the music industry. 
 ## See Also
 
 - [consumer-behavior](../topics/consumer-behavior.md)
+- [musical-innovation](../topics/musical-innovation.md)

@@ -7,3 +7,4 @@ updated: 2026-09-15
 ## Bereavement Support
 
 - [Challenges in End-of-Life Care and Bereavement](../sources/fxa301-week03-challenges-in-end-of-life-care-and-bereavement.md)
+- [Music Therapy in Grief and Mourning](../sources/fxa302-week10-music-therapy-in-grief-and-mourning.md)

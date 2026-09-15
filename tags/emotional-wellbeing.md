@@ -24,6 +24,7 @@ updated: 2026-09-15
 - [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units: Translation and Validation of the Italian Version of the Arts Observational Scale (ArtsObS)](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [Art-making and Illness - Two Case Studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [The Dance of Wellbeing: Defining the Musical Therapeutic Effect](../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic.md)
+- [Music Therapy with Adults Diagnosed with Cancer and Their Families](../sources/fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 2 Overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
 - [Physiological and Emotional Responses of Disabled Children to Therapeutic Clowns: A Pilot Study](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)

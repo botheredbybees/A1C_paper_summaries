@@ -6,6 +6,7 @@ updated: 2026-09-15
 
 ## Trauma Treatment
 
+- [VOCAL PSYCHOTHERAPY: Discovering Yourself through the Voice](../sources/fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice.md)
 - [Breathing Prompts and Body Mapping in Trauma Therapy](../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth.md)
 - [Puppet theatre: A way to tell what cannot be told and to face pain](../sources/fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to.md)
 - [The Effectiveness of Art Therapy in the Treatment of Traumatized Adults: A Systematic Review on Art Therapy and Trauma](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)

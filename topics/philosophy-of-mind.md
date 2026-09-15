@@ -9,11 +9,12 @@ sources:
   - fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley
   - fxa300-week07-imagination-and-creativity-a-necessary-connection
   - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
+  - fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking
 tags:
 - philosophy-of-mind
 title: Philosophy of Mind
 type: topic
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 ## Philosophy of Mind
@@ -38,3 +39,4 @@ The exploration of the philosophy of mind within the context of dementia care hi
 - [fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
 - [fxa300-week07-imagination-and-creativity-a-necessary-connection](../sources/fxa300-week07-imagination-and-creativity-a-necessary-connection.md)
 - [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)
+- [fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking](../sources/fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking.md)

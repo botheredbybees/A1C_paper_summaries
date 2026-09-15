@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: therapeutic-process
 sources:
-- fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+  - fxa101-week06-creativity-a-conscious-imaginative-approach
+  - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+  - fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the
 tags:
 - therapeutic-process
 title: Therapeutic Process
 type: topic
-updated: 2026-05-04
+updated: 2026-09-15
 ---
 
 ## Therapeutic Process
@@ -26,4 +28,6 @@ The therapeutic process is explored through the lens of Roland Barthes' Camera L
 
 ## Sources
 
+- [fxa101-week06-creativity-a-conscious-imaginative-approach](../sources/fxa101-week06-creativity-a-conscious-imaginative-approach.md)
 - [fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
+- [fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the](../sources/fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the.md)

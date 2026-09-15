@@ -28,3 +28,5 @@ updated: 2026-09-15
 - [Ten years of a model of aesthetic appreciation and aesthetic judgments: The aesthetic episode \u2013 Developments and challenges in empirical aesthetics](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [Your Brain on Art: The Emerging Science of Neuroaesthetics Probes What Art Does to Our Brains](../sources/fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics.md)
 - [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation.md)
+- [Artistic expression in famous painters affected by Alzheimer\u2019s disease: Willem de Kooning, William Utermohlen, and Carolus Horn](../sources/fxa302-week10-artistic-expression-in-famous-painters-affected-by.md)
+- [The riddle of style changes in the visual arts after interference with the right brain](../sources/fxa302-week10-the-riddle-of-style-changes-in-the-visual-arts-after.md)

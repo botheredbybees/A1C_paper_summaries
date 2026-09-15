@@ -5,11 +5,12 @@ slug: lived-experience-in-service-design
 sources:
   - fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
   - fxa301-week03-statement-on-lived-experience
+  - fxa302-week10-teaching-narratives-of-mental-illness
 tags:
 - lived-experience
 title: Lived Experience in Service Design
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Lived Experience in Service Design
@@ -30,3 +31,4 @@ The concept of lived experience is explored through two perspectives that highli
 
 - [fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy](../sources/fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy.md)
 - [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)
+- [fxa302-week10-teaching-narratives-of-mental-illness](../sources/fxa302-week10-teaching-narratives-of-mental-illness.md)

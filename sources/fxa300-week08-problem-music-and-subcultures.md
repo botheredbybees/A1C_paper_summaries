@@ -11,7 +11,7 @@ tags: ["music-censorship", "youth-subcultures", "social-psychology", "pop-cultur
 key_concepts: ["musical-censorship", "youth-behavior", "identity-signaling", "psychological-gratifications"]
 methods: ["literature-review"]
 slug: fxa300-week08-problem-music-and-subcultures
-related: ["identity-construction", "social-psychology"]
+related: ["behavioral-health", "identity-construction", "social-psychology"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -46,5 +46,6 @@ This chapter explores the debate surrounding 'problem music' and its potential i
 
 ## See Also
 
+- [behavioral-health](../topics/behavioral-health.md)
 - [identity-construction](../topics/identity-construction.md)
 - [social-psychology](../topics/social-psychology.md)

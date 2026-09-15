@@ -12,3 +12,4 @@ updated: 2026-09-15
 - [\u201cBig C, Little c\u201d Creativity as a False Dichotomy: Reality is not Categorical](../sources/fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is.md)
 - [Emergence and Realization of Genius: The Lives and Works of 120 Classical Composers](../sources/fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of.md)
 - [The Genesis of a Tune in the Mind: An Interview Study About Novel Involuntary Musical Imagery Repetition](../sources/fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about.md)
+- [Artistic expression in famous painters affected by Alzheimer\u2019s disease: Willem de Kooning, William Utermohlen, and Carolus Horn](../sources/fxa302-week10-artistic-expression-in-famous-painters-affected-by.md)

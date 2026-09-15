@@ -8,6 +8,7 @@ sources:
   - fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling
   - fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
+  - fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en
   - psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being
@@ -15,7 +16,7 @@ tags:
 - psychological-wellbeing
 title: Psychological Wellbeing Interventions
 type: topic
-updated: 2026-08-08
+updated: 2026-09-15
 ---
 
 ## Psychological Wellbeing Interventions
@@ -39,6 +40,7 @@ This synthesis explores various interventions aimed at enhancing psychological w
 - [fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling](../sources/fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling.md)
 - [fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular](../sources/fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular.md)
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
+- [fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)
 - [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en](../sources/fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en.md)
 - [psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being](../sources/psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being.md)

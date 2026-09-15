@@ -11,7 +11,7 @@ tags: ["psychology-of-music", "emotional-effects", "neurological-basis", "cultur
 key_concepts: ["Music and Emotion", "Neural Basis of Music"]
 methods: []
 slug: fxa300-week09-web-article-novotney-2013
-related: ["cultural-identity", "emotional-effects", "mental-health", "psychology-of-music"]
+related: ["cultural-identity", "emotional-effects", "mental-health", "music-and-emotion", "psychology-of-music"]
 created: 2026-09-07
 updated: 2026-09-07
 ---
@@ -46,4 +46,5 @@ This article explores the psychological aspects of music, including its effects 
 - [cultural-identity](../topics/cultural-identity.md)
 - [emotional-effects](../topics/emotional-effects.md)
 - [mental-health](../topics/mental-health.md)
+- [music-and-emotion](../topics/music-and-emotion.md)
 - [psychology-of-music](../topics/psychology-of-music.md)

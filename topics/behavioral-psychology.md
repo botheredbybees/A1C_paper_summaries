@@ -5,6 +5,7 @@ title: "Behavioral And Psychological Symptoms Of Dementia"
 confidence: medium
 tags: ["behavioral-psychology"]
 sources:
+  - fxa302-week10-cognitive-control
   - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
   - psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the
 updated: 2026-09-15
@@ -26,5 +27,6 @@ Behavioral and Psychological Symptoms of Dementia (BPSD) represent a multifacete
 
 ## Sources
 
+- [fxa302-week10-cognitive-control](../sources/fxa302-week10-cognitive-control.md)
 - [fxa303-week13-behavioral-and-psychological-symptoms-of-dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)
 - [psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the](../sources/psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the.md)

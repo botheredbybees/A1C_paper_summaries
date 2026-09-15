@@ -5,6 +5,7 @@ slug: self-care-for-caregivers
 sources:
   - fxa100-week04-web-article-dementia-2022
   - fxa202-week03-lesson-fxa202-week03-page-2
+  - fxa302-week10-self-care-in-music-therapy-the-art-of-balancing
   - psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process
   - psy214-week01-lesson-psy214-week01-what-is-stress
   - psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well
@@ -43,6 +44,7 @@ The provided sources highlight the critical importance of self-care for individu
 
 - [fxa100-week04-web-article-dementia-2022](../sources/fxa100-week04-web-article-dementia-2022.md)
 - [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
+- [fxa302-week10-self-care-in-music-therapy-the-art-of-balancing](../sources/fxa302-week10-self-care-in-music-therapy-the-art-of-balancing.md)
 - [psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [psy214-week01-lesson-psy214-week01-what-is-stress](../sources/psy214-week01-lesson-psy214-week01-what-is-stress.md)
 - [psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)

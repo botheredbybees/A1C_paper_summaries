@@ -17,4 +17,5 @@ updated: 2026-09-15
 - [Musical Creativity and the Brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
 - [Your brain on improv](../sources/fxa300-week07-your-brain-on-improv.md)
 - [Your Brain on Improv](../sources/fxa300-week07-your-brain-on-improv-%282%29.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2817%29.md)
 - [Neurodiversity and Autism Spectrum in Childhood](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)

@@ -6,11 +6,12 @@ sources:
   - fxa100-week04-guidelines-for-arts-and-mental-health-projects
   - fxa301-week01-guidelines-for-arts-and-mental-health-projects
   - fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better
+  - fxa302-week10-collaborating-a-role-for-music-therapy-within
 tags:
 - collaborative-practice
 title: Collaborative Practice in Arts and Mental Health
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Collaborative Practice in Arts and Mental Health
@@ -32,3 +33,4 @@ The synthesis of collaborative practice within arts and mental health projects r
 - [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
 - [fxa301-week01-guidelines-for-arts-and-mental-health-projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)
 - [fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better](../sources/fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better.md)
+- [fxa302-week10-collaborating-a-role-for-music-therapy-within](../sources/fxa302-week10-collaborating-a-role-for-music-therapy-within.md)

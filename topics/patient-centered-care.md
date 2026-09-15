@@ -7,11 +7,13 @@ sources:
   - fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s
   - fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
+  - fxa302-week10-collaborating-a-role-for-music-therapy-within
+  - fxa302-week10-humanities-and-the-medical-home
 tags:
 - patient-centered-care
 title: Patient-Centered Care
 type: topic
-updated: 2026-07-06
+updated: 2026-09-15
 ---
 
 ## Patient-Centered Care
@@ -34,3 +36,5 @@ The concept of Patient-Centered Care (PCC) emphasizes the importance of consider
 - [fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s](../sources/fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s.md)
 - [fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and](../sources/fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
+- [fxa302-week10-collaborating-a-role-for-music-therapy-within](../sources/fxa302-week10-collaborating-a-role-for-music-therapy-within.md)
+- [fxa302-week10-humanities-and-the-medical-home](../sources/fxa302-week10-humanities-and-the-medical-home.md)

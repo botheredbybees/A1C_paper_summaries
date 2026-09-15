@@ -11,7 +11,7 @@ tags: ["mindfulness-practice", "mental-processes", "cognitive-neuroscience", "em
 key_concepts: ["meta-awareness", "decentering", "emotion-regulation", "attention-regulation", "default-mode-network", "executive-control"]
 methods: ["literature-review", "neuroimaging"]
 slug: psy214-week08-mechanisms-of-mindfulness
-related: ["attention-regulation", "cognitive-neuroscience", "decentering", "emotional-regulation", "mindfulness-practice"]
+related: ["attention-regulation", "cognitive-neuroscience", "decentering", "emotional-regulation", "mental-processes", "mindfulness-practice"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -50,4 +50,5 @@ The document explores the mechanisms of mindfulness, focusing on its effects on 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [decentering](../topics/decentering.md)
 - [emotional-regulation](../topics/emotional-regulation.md)
+- [mental-processes](../topics/mental-processes.md)
 - [mindfulness-practice](../topics/mindfulness-practice.md)

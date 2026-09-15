@@ -7,7 +7,8 @@ tags: ["musical-improvisation"]
 sources:
   - fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is
   - fxa300-week07-lesson-fxa300-week07-page-4-activities
-updated: 2026-08-17
+  - fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins
+updated: 2026-09-15
 ---
 
 ## Musical Improvisation
@@ -28,3 +29,4 @@ The concept of musical improvisation is explored through its cognitive and neura
 
 - [fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is](../sources/fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is.md)
 - [fxa300-week07-lesson-fxa300-week07-page-4-activities](../sources/fxa300-week07-lesson-fxa300-week07-page-4-activities.md)
+- [fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins](../sources/fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins.md)

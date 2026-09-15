@@ -7,12 +7,14 @@ sources:
   - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
   - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
   - fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(16)
+  - fxa302-week10-tdp-43-pathology-in-polyglutamine-diseases-with-reference
   - fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
 tags:
 - neurodegenerative-diseases
 title: Dementia and Its Forms
 type: topic
-updated: 2026-07-20
+updated: 2026-09-15
 ---
 
 ## Dementia and Its Forms
@@ -35,4 +37,6 @@ The provided sources delve into the diverse forms of dementia, highlighting thei
 - [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
 - [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
 - [fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as](../sources/fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(16)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2816%29.md)
+- [fxa302-week10-tdp-43-pathology-in-polyglutamine-diseases-with-reference](../sources/fxa302-week10-tdp-43-pathology-in-polyglutamine-diseases-with-reference.md)
 - [fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)

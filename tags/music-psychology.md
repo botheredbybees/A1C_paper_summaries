@@ -56,3 +56,4 @@ updated: 2026-09-15
 - [Experimental evidence of the roles of music choice, social context, and listener personality in emotional reactions to music](../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social.md)
 - [The Influence of Stress, Optimism, and Music Training on Music Uses and Preferences](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [The Genesis of a Tune in the Mind: An Interview Study About Novel Involuntary Musical Imagery Repetition](../sources/fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about.md)
+- [The Rock Guitar Solo: From Expression to Simulation](../sources/fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation.md)

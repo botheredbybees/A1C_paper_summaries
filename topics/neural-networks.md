@@ -10,6 +10,12 @@ sources:
   - fxa300-week02-music-and-the-brain
   - fxa300-week03-lesson-fxa300-week03-music-and-processing-1
   - fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
+  - fxa302-week10-chapter-17-emotion
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(17)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(22)
+  - fxa302-week10-essentials-of-cognitive-neuroscience-language
+  - fxa302-week10-sensation-and-perception-of-visual-signals
+  - fxa302-week10-visual-object-recognition-and-knowledge
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
@@ -17,7 +23,7 @@ tags:
 - neural-networks
 title: Neural Networks in Cognitive Processing
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Neural Networks in Cognitive Processing
@@ -43,6 +49,12 @@ The integration of findings from these sources highlights the complexity and var
 - [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [fxa300-week03-lesson-fxa300-week03-music-and-processing-1](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)
 - [fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
+- [fxa302-week10-chapter-17-emotion](../sources/fxa302-week10-chapter-17-emotion.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(17)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2817%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(22)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2822%29.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-language](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-language.md)
+- [fxa302-week10-sensation-and-perception-of-visual-signals](../sources/fxa302-week10-sensation-and-perception-of-visual-signals.md)
+- [fxa302-week10-visual-object-recognition-and-knowledge](../sources/fxa302-week10-visual-object-recognition-and-knowledge.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single](../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single.md)
 - [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)

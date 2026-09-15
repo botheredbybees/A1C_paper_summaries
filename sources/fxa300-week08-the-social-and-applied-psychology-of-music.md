@@ -11,7 +11,7 @@ tags: ["social-psychology-of-music", "applied-music-psychology", "musical-behavi
 key_concepts: ["music consumption", "musical behavior", "social context", "interdisciplinary approaches", "naturalistic methodologies"]
 methods: ["case study", "systematic review"]
 slug: fxa300-week08-the-social-and-applied-psychology-of-music
-related: ["music-consumption", "music-health", "music-technology", "musical-behavior", "social-psychology-of-music"]
+related: ["music-consumption", "music-health", "music-technology", "musical-behavior", "social-context", "social-psychology-of-music"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -50,4 +50,5 @@ The chapter by Adrian North and David Hargreaves presents a significant shift in
 - [music-health](../topics/music-health.md)
 - [music-technology](../topics/music-technology.md)
 - [musical-behavior](../topics/musical-behavior.md)
+- [social-context](../topics/social-context.md)
 - [social-psychology-of-music](../topics/social-psychology-of-music.md)

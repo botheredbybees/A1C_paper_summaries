@@ -11,7 +11,7 @@ tags: ["neuroscience-of-sleep", "brain-function", "cognitive-health", "psy214", 
 key_concepts: ["memory-consolidation", "sleep-deprivation"]
 methods: []
 slug: psy214-week05-transcript-why-do-we-sleep
-related: ["brain-function", "cognitive-health"]
+related: ["brain-function", "cognitive-health", "memory-consolidation"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -43,3 +43,4 @@ This transcript discusses the importance and mechanisms of sleep in human biolog
 
 - [brain-function](../topics/brain-function.md)
 - [cognitive-health](../topics/cognitive-health.md)
+- [memory-consolidation](../topics/memory-consolidation.md)

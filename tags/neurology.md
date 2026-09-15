@@ -13,3 +13,4 @@ updated: 2026-09-15
 - [The Effects of Music on the Brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
 - [Music and Regions of the Brain](../sources/fxa300-week04-lesson-fxa300-week04-page-3-1.md)
 - [The Human Brain: Facts and Information](../sources/fxa301-week01-web-article-zuckerman-2009.md)
+- [Population based epidemiology of amyotrophic lateral sclerosis using capture-recapture methodology](../sources/fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral.md)

@@ -4,13 +4,14 @@ domain: intervention
 slug: neural-connectivity-in-autism-spectrum-disorder
 sources:
   - fxa101-week02-a-neural-link-between-feeling-and-hearing
+  - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of
   - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
   - fxa303-week04-neurodiversity-and-the-autism-spectrum
 tags:
 - neural-connectivity
 title: Neural Connectivity in Autism Spectrum Disorder
 type: topic
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 
 ## Neural Connectivity in Autism Spectrum Disorder
@@ -30,5 +31,6 @@ The effectiveness of music therapy as an intervention for children with autism s
 ## Sources
 
 - [fxa101-week02-a-neural-link-between-feeling-and-hearing](../sources/fxa101-week02-a-neural-link-between-feeling-and-hearing.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-19-end-of.md)
 - [fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)
 - [fxa303-week04-neurodiversity-and-the-autism-spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)

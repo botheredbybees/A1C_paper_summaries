@@ -5,9 +5,10 @@ title: "Population Study of Behavioral Symptoms and Public Health Indicators"
 confidence: medium
 tags: ["population-study"]
 sources:
+  - fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral
   - fxa303-week13-prevalence-correlates-and-course-of-behavioural-and
   - psy214-week04-body-weight-and-public-health
-updated: 2026-07-28
+updated: 2026-09-15
 ---
 
 ## Population Study of Behavioral Symptoms and Public Health Indicators
@@ -26,5 +27,6 @@ This synthesis explores two distinct yet related areas within population studies
 
 ## Sources
 
+- [fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral](../sources/fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral.md)
 - [fxa303-week13-prevalence-correlates-and-course-of-behavioural-and](../sources/fxa303-week13-prevalence-correlates-and-course-of-behavioural-and.md)
 - [psy214-week04-body-weight-and-public-health](../sources/psy214-week04-body-weight-and-public-health.md)

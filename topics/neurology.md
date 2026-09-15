@@ -10,11 +10,12 @@ sources:
   - fxa100-week03-transcript-the-effects-of-music-on-the-brain
   - fxa300-week04-lesson-fxa300-week04-page-3-1
   - fxa301-week01-web-article-zuckerman-2009
+  - fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral
 tags:
 - neurology
 title: Types Of Neurological Dementias
 type: topic
-updated: 2026-07-28
+updated: 2026-09-15
 ---
 
 ## Types Of Neurological Dementias
@@ -39,3 +40,4 @@ The provided sources highlight various forms of neurological dementias, each wit
 - [fxa100-week03-transcript-the-effects-of-music-on-the-brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
 - [fxa300-week04-lesson-fxa300-week04-page-3-1](../sources/fxa300-week04-lesson-fxa300-week04-page-3-1.md)
 - [fxa301-week01-web-article-zuckerman-2009](../sources/fxa301-week01-web-article-zuckerman-2009.md)
+- [fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral](../sources/fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral.md)

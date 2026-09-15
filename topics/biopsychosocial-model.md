@@ -7,6 +7,7 @@ sources:
   - fxa301-arts-in-health-ch04-48-haldane-d
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
   - fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain
+  - fxa302-week10-social-studies-the-humanities-narrative-and-the-social
   - psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental
   - psy214-week01-lesson-psy214-week01-what-is-stress
   - psy214-week04-lesson-psy214-week04-test
@@ -37,6 +38,7 @@ The biopsychosocial model is a theoretical framework that moves beyond the tradi
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)
 - [fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)
+- [fxa302-week10-social-studies-the-humanities-narrative-and-the-social](../sources/fxa302-week10-social-studies-the-humanities-narrative-and-the-social.md)
 - [psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental](../sources/psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental.md)
 - [psy214-week01-lesson-psy214-week01-what-is-stress](../sources/psy214-week01-lesson-psy214-week01-what-is-stress.md)
 - [psy214-week04-lesson-psy214-week04-test](../sources/psy214-week04-lesson-psy214-week04-test.md)

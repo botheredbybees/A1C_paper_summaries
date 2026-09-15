@@ -13,7 +13,7 @@ tags: ["mindfulness-meditation", "psychopathology", "clinical-neuroscience", "re
 key_concepts: ["Research Domain Criteria (RDoC)", "transdiagnostic factors", "cultural fit", "training fidelity"]
 methods: ["systematic review"]
 slug: psy214-week00-mindfulness-meditation-and-psychopathology
-related: ["mental-health-interventions", "mindfulness-meditation"]
+related: ["mental-health-interventions", "mindfulness-meditation", "psychopathology"]
 created: 2026-06-25
 updated: 2026-08-31
 ---
@@ -53,3 +53,4 @@ The central argument underscores MM's versatility in treating a wide range of co
 
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [mindfulness-meditation](../topics/mindfulness-meditation.md)
+- [psychopathology](../topics/psychopathology.md)

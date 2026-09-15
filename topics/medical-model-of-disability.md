@@ -7,8 +7,10 @@ tags: ["medical-model-of-disability"]
 sources:
   - fxa301-week09-transcript-the-following-video-from-people-with-disability
   - fxa302-week05-music-and-disability
+  - fxa302-week10-disability-in-two-doctor-stories
+  - fxa302-week10-music-and-disability
   - fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Medical Model Of Disability
@@ -29,4 +31,6 @@ The concept of the medical model of disability is critiqued in both sources for 
 
 - [fxa301-week09-transcript-the-following-video-from-people-with-disability](../sources/fxa301-week09-transcript-the-following-video-from-people-with-disability.md)
 - [fxa302-week05-music-and-disability](../sources/fxa302-week05-music-and-disability.md)
+- [fxa302-week10-disability-in-two-doctor-stories](../sources/fxa302-week10-disability-in-two-doctor-stories.md)
+- [fxa302-week10-music-and-disability](../sources/fxa302-week10-music-and-disability.md)
 - [fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model](../sources/fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model.md)

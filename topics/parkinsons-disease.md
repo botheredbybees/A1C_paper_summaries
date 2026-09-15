@@ -17,11 +17,16 @@ sources:
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
   - fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
+  - fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people
+  - fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with
+  - fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial
+  - fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons
+  - fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms
 tags:
 - parkinsons-disease
 title: Lewy Body Dementia
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Lewy Body Dementia
@@ -54,3 +59,8 @@ The sources emphasize the pivotal role of Lewy bodies and their primary componen
 - [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
 - [fxa301-week06-therapeutic-dancing-for-parkinsons-disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
 - [fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music](../sources/fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music.md)
+- [fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
+- [fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
+- [fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)
+- [fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons](../sources/fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons.md)
+- [fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms](../sources/fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms.md)

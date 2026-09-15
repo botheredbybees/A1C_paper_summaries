@@ -7,6 +7,7 @@ tags: ["medical-practice"]
 sources:
   - fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a
   - fxa302-week01-narrative-based-medicine
+  - fxa302-week10-i-always-prefer-the-scissors-isaac-baker-brown-and-feminist
 updated: 2026-09-15
 ---
 
@@ -28,3 +29,4 @@ The provided sources focus on two distinct but interconnected aspects of medical
 
 - [fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a](../sources/fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a.md)
 - [fxa302-week01-narrative-based-medicine](../sources/fxa302-week01-narrative-based-medicine.md)
+- [fxa302-week10-i-always-prefer-the-scissors-isaac-baker-brown-and-feminist](../sources/fxa302-week10-i-always-prefer-the-scissors-isaac-baker-brown-and-feminist.md)

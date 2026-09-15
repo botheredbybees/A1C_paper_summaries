@@ -11,7 +11,7 @@ tags: ["adolescent-behavior", "brain-organization", "fxa303", "hormonal-effects"
 key_concepts: ["pubertal hormones", "organizational effects", "neuroendocrinology"]
 methods: ["systematic review"]
 slug: fxa303-week03-pubertal-hormones-organize-the-adolescent-brain-and-behavior
-related: ["hormonal-effects"]
+related: ["hormonal-effects", "neural-circuits"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ This review paper explores the relationship between pubertal hormones and their 
 ## See Also
 
 - [hormonal-effects](../topics/hormonal-effects.md)
+- [neural-circuits](../topics/neural-circuits.md)

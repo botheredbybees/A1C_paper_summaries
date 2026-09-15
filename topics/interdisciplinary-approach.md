@@ -9,7 +9,8 @@ sources:
   - fxa300-week04-music-and-health
   - fxa300-week08-book-review-of-music-in-the-human-experience-an
   - fxa300-week08-the-arts-therapies-a-revolution-in-healthcare
-updated: 2026-08-31
+  - fxa302-week10-humanities-and-the-medical-home
+updated: 2026-09-15
 ---
 
 ## Interdisciplinary Approach in Music Psychology
@@ -32,3 +33,4 @@ The concept of an interdisciplinary approach in music psychology and health is e
 - [fxa300-week04-music-and-health](../sources/fxa300-week04-music-and-health.md)
 - [fxa300-week08-book-review-of-music-in-the-human-experience-an](../sources/fxa300-week08-book-review-of-music-in-the-human-experience-an.md)
 - [fxa300-week08-the-arts-therapies-a-revolution-in-healthcare](../sources/fxa300-week08-the-arts-therapies-a-revolution-in-healthcare.md)
+- [fxa302-week10-humanities-and-the-medical-home](../sources/fxa302-week10-humanities-and-the-medical-home.md)

@@ -11,7 +11,7 @@ tags: ["music-therapy", "neurorehabilitation", "brain-plasticity", "rhythmic-sti
 key_concepts: ["Neurologic Music Therapy (NMT)", "Brain Plasticity"]
 methods: ["case study"]
 slug: fxa100-week04-music-and-rehabilitation-neurological-approaches
-related: ["brain-plasticity", "music-therapy", "neurologic-music-therapy-nmt", "neurorehabilitation"]
+related: ["brain-plasticity", "motor-recovery", "music-therapy", "neurologic-music-therapy-nmt", "neurorehabilitation"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -43,6 +43,7 @@ The chapter 'Music and Rehabilitation: Neurological Approaches' by A. Blythe LaG
 ## See Also
 
 - [brain-plasticity](../topics/brain-plasticity.md)
+- [motor-recovery](../topics/motor-recovery.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neurologic-music-therapy-nmt](../topics/neurologic-music-therapy-nmt.md)
 - [neurorehabilitation](../topics/neurorehabilitation.md)

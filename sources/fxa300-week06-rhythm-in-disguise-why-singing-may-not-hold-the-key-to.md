@@ -11,7 +11,7 @@ tags: ["aphasia-rehabilitation", "speech-recovery", "rhythm-therapy", "singing-t
 key_concepts: ["non-fluent aphasia", "melody and rhythm", "familiar lyrics", "motor automaticity"]
 methods: ["case study"]
 slug: fxa300-week06-rhythm-in-disguise-why-singing-may-not-hold-the-key-to
-related: ["neurorehabilitation"]
+related: ["aphasia-rehabilitation", "neurorehabilitation", "non-fluent-aphasia"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -45,4 +45,6 @@ This study investigates the role of melody and rhythm in speech recovery for non
 
 ## See Also
 
+- [aphasia-rehabilitation](../topics/aphasia-rehabilitation.md)
 - [neurorehabilitation](../topics/neurorehabilitation.md)
+- [non-fluent-aphasia](../topics/non-fluent-aphasia.md)

@@ -6,6 +6,7 @@ confidence: medium
 tags: ["music-influence"]
 sources:
   - fxa300-week10-music-in-the-human-experience-reflections-of-society-in
+  - fxa302-week10-eruptions-heavy-metal-appropriations-of-classical-virtuosity
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
 updated: 2026-09-15
 ---
@@ -27,4 +28,5 @@ Music plays a significant role in human experience, as reflected in its cultural
 ## Sources
 
 - [fxa300-week10-music-in-the-human-experience-reflections-of-society-in](../sources/fxa300-week10-music-in-the-human-experience-reflections-of-society-in.md)
+- [fxa302-week10-eruptions-heavy-metal-appropriations-of-classical-virtuosity](../sources/fxa302-week10-eruptions-heavy-metal-appropriations-of-classical-virtuosity.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)

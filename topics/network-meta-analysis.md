@@ -6,8 +6,9 @@ confidence: medium
 tags: ["network-meta-analysis"]
 sources:
   - fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients
+  - fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms
   - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
-updated: 2026-05-18
+updated: 2026-09-15
 ---
 
 ## Network Meta-Analysis in Healthcare Research
@@ -27,4 +28,5 @@ Network meta-analysis (NMA) is a statistical method used to synthesize evidence 
 ## Sources
 
 - [fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients](../sources/fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients.md)
+- [fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms](../sources/fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms.md)
 - [fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and](../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and.md)

@@ -5,6 +5,7 @@ slug: neurodevelopmental-differences-in-autism-and-trauma
 sources:
   - fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom
   - fxa101-week10-fxa101-web-lecture-1-week-1
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(23)
   - fxa303-week02-web-lecture-2-week-2
   - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
@@ -32,6 +33,7 @@ The neurodevelopmental differences discussed in both sources underscore the comp
 
 - [fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom](../sources/fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom.md)
 - [fxa101-week10-fxa101-web-lecture-1-week-1](../sources/fxa101-week10-fxa101-web-lecture-1-week-1.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(23)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2823%29.md)
 - [fxa303-week02-web-lecture-2-week-2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [fxa303-week04-age-related-differences-in-white-matter-diffusion-measures](../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures.md)
 - [fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)

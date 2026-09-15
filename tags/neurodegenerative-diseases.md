@@ -10,4 +10,6 @@ updated: 2026-09-15
 - [Week 6 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
 - [Dance therapy in rehabilitation: a two-decade bibliometric analysis (2000\u20132024)](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
 - [Environmental and Cognitive Enrichment in Childhood as Protective Factors in the Adult and Aging Brain](../sources/fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as.md)
+- [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2816%29.md)
+- [TDP-43 pathology in polyglutamine diseases: With reference to amyotrophic lateral sclerosis](../sources/fxa302-week10-tdp-43-pathology-in-polyglutamine-diseases-with-reference.md)
 - [Dance Movement Therapy for Neurodegenerative Diseases: A Systematic Review](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)

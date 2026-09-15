@@ -7,7 +7,8 @@ tags: ["creative-arts-in-healthcare"]
 sources:
   - fxa302-week03-fxa302-week-1-introduction
   - fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health
-updated: 2026-07-20
+  - fxa302-week10-second-degree-block
+updated: 2026-09-15
 ---
 
 ## Creative Arts in Healthcare
@@ -28,3 +29,4 @@ The integration of creative arts into healthcare is increasingly recognized as a
 
 - [fxa302-week03-fxa302-week-1-introduction](../sources/fxa302-week03-fxa302-week-1-introduction.md)
 - [fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)
+- [fxa302-week10-second-degree-block](../sources/fxa302-week10-second-degree-block.md)

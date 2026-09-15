@@ -182,6 +182,27 @@ sources:
   - fxa302-week09-how-music-can-help-relieve-chronic-pain
   - fxa302-week09-lesson-fxa302-week09-page-3
   - fxa302-week09-lesson-fxa302-week09-page-4-activities-new
+  - fxa302-week10-aesthetic-music-therapy
+  - fxa302-week10-approaches-and-models-of-music-therapy
+  - fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive
+  - fxa302-week10-collaborating-a-role-for-music-therapy-within
+  - fxa302-week10-community-music-therapy
+  - fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the
+  - fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in
+  - fxa302-week10-effects-of-repetitive-transcranial-magnetic-stimulation
+  - fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with
+  - fxa302-week10-lesson-fxa302-week10-hm-test
+  - fxa302-week10-music-therapy-an-evidence-based-allied-health-service
+  - fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease
+  - fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who
+  - fxa302-week10-music-therapy-in-grief-and-mourning
+  - fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their
+  - fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins
+  - fxa302-week10-resource-oriented-perspectives-in-music-therapy
+  - fxa302-week10-self-care-in-music-therapy-the-art-of-balancing
+  - fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a
+  - fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia
+  - fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
   - fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
@@ -401,6 +422,27 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa302-week09-how-music-can-help-relieve-chronic-pain](../sources/fxa302-week09-how-music-can-help-relieve-chronic-pain.md)
 - [fxa302-week09-lesson-fxa302-week09-page-3](../sources/fxa302-week09-lesson-fxa302-week09-page-3.md)
 - [fxa302-week09-lesson-fxa302-week09-page-4-activities-new](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
+- [fxa302-week10-aesthetic-music-therapy](../sources/fxa302-week10-aesthetic-music-therapy.md)
+- [fxa302-week10-approaches-and-models-of-music-therapy](../sources/fxa302-week10-approaches-and-models-of-music-therapy.md)
+- [fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive](../sources/fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive.md)
+- [fxa302-week10-collaborating-a-role-for-music-therapy-within](../sources/fxa302-week10-collaborating-a-role-for-music-therapy-within.md)
+- [fxa302-week10-community-music-therapy](../sources/fxa302-week10-community-music-therapy.md)
+- [fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the](../sources/fxa302-week10-conceptualizing-music-therapy-five-areas-that-frame-the.md)
+- [fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in](../sources/fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in.md)
+- [fxa302-week10-effects-of-repetitive-transcranial-magnetic-stimulation](../sources/fxa302-week10-effects-of-repetitive-transcranial-magnetic-stimulation.md)
+- [fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with](../sources/fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with.md)
+- [fxa302-week10-lesson-fxa302-week10-hm-test](../sources/fxa302-week10-lesson-fxa302-week10-hm-test.md)
+- [fxa302-week10-music-therapy-an-evidence-based-allied-health-service](../sources/fxa302-week10-music-therapy-an-evidence-based-allied-health-service.md)
+- [fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease](../sources/fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease.md)
+- [fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who](../sources/fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who.md)
+- [fxa302-week10-music-therapy-in-grief-and-mourning](../sources/fxa302-week10-music-therapy-in-grief-and-mourning.md)
+- [fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their](../sources/fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their.md)
+- [fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins](../sources/fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins.md)
+- [fxa302-week10-resource-oriented-perspectives-in-music-therapy](../sources/fxa302-week10-resource-oriented-perspectives-in-music-therapy.md)
+- [fxa302-week10-self-care-in-music-therapy-the-art-of-balancing](../sources/fxa302-week10-self-care-in-music-therapy-the-art-of-balancing.md)
+- [fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a](../sources/fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a.md)
+- [fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia](../sources/fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia.md)
+- [fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice](../sources/fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)

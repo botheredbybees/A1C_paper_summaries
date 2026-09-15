@@ -18,7 +18,14 @@ sources:
   - fxa302-week03-lesson-fxa302-week03-page-2
   - fxa302-week03-portraits-of-care-medical-research-through-portraiture
   - fxa302-week03-transcript-assistant-professor-of-comparative-literature-and
-updated: 2026-07-20
+  - fxa302-week10-being-a-good-story-the-humanities-as-therapeutic-practice
+  - fxa302-week10-community-psychiatry-and-the-medical-humanities
+  - fxa302-week10-humanities-and-the-medical-home
+  - fxa302-week10-scientia-mortis-and-the-ars-moriendi
+  - fxa302-week10-seeing-bodies-in-pain
+  - fxa302-week10-teaching-autism-through-naturalized-narrative-ethics
+  - fxa302-week10-the-medical-humanities-in-medical-education
+updated: 2026-09-15
 ---
 
 ## Medical Humanities
@@ -50,3 +57,10 @@ The field of medical humanities is characterized by its integrative approach to 
 - [fxa302-week03-lesson-fxa302-week03-page-2](../sources/fxa302-week03-lesson-fxa302-week03-page-2.md)
 - [fxa302-week03-portraits-of-care-medical-research-through-portraiture](../sources/fxa302-week03-portraits-of-care-medical-research-through-portraiture.md)
 - [fxa302-week03-transcript-assistant-professor-of-comparative-literature-and](../sources/fxa302-week03-transcript-assistant-professor-of-comparative-literature-and.md)
+- [fxa302-week10-being-a-good-story-the-humanities-as-therapeutic-practice](../sources/fxa302-week10-being-a-good-story-the-humanities-as-therapeutic-practice.md)
+- [fxa302-week10-community-psychiatry-and-the-medical-humanities](../sources/fxa302-week10-community-psychiatry-and-the-medical-humanities.md)
+- [fxa302-week10-humanities-and-the-medical-home](../sources/fxa302-week10-humanities-and-the-medical-home.md)
+- [fxa302-week10-scientia-mortis-and-the-ars-moriendi](../sources/fxa302-week10-scientia-mortis-and-the-ars-moriendi.md)
+- [fxa302-week10-seeing-bodies-in-pain](../sources/fxa302-week10-seeing-bodies-in-pain.md)
+- [fxa302-week10-teaching-autism-through-naturalized-narrative-ethics](../sources/fxa302-week10-teaching-autism-through-naturalized-narrative-ethics.md)
+- [fxa302-week10-the-medical-humanities-in-medical-education](../sources/fxa302-week10-the-medical-humanities-in-medical-education.md)

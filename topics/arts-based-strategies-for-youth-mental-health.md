@@ -6,12 +6,13 @@ confidence: high
 tags: ["arts-based-strategies-for-youth-mental-health"]
 sources:
   - fxa302-week02-review-healing-powers-and-modernity-shamanism-and
+  - fxa302-week10-community-music-therapy
   - fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
   - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
   - fxa303-week13-good-health-and-well-being
   - psy214-week04-health-effects-of-dietary-risks-in-195-countries-1990-2017
   - psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Arts-Based Strategies for Youth Mental Health
@@ -31,6 +32,7 @@ The exploration of arts-based strategies as interventions to support youth menta
 ## Sources
 
 - [fxa302-week02-review-healing-powers-and-modernity-shamanism-and](../sources/fxa302-week02-review-healing-powers-and-modernity-shamanism-and.md)
+- [fxa302-week10-community-music-therapy](../sources/fxa302-week10-community-music-therapy.md)
 - [fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a.md)
 - [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)
 - [fxa303-week13-good-health-and-well-being](../sources/fxa303-week13-good-health-and-well-being.md)

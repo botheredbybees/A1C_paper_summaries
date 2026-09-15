@@ -6,11 +6,13 @@ sources:
   - fxa100-week08-web-article-reyner-2006
   - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
   - fxa300-week08-neurologic-music-therapy-training-for-mobility-and
+  - fxa302-week10-lesson-fxa302-week10-page-2
+  - fxa302-week10-lesson-fxa302-week10-welcome-to-week-10
 tags:
 - rehabilitation
 title: Rehabilitation for Cognitive Decline
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Rehabilitation for Cognitive Decline
@@ -32,3 +34,5 @@ The sources collectively highlight the importance of cognitive stimulation and s
 - [fxa100-week08-web-article-reyner-2006](../sources/fxa100-week08-web-article-reyner-2006.md)
 - [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
 - [fxa300-week08-neurologic-music-therapy-training-for-mobility-and](../sources/fxa300-week08-neurologic-music-therapy-training-for-mobility-and.md)
+- [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
+- [fxa302-week10-lesson-fxa302-week10-welcome-to-week-10](../sources/fxa302-week10-lesson-fxa302-week10-welcome-to-week-10.md)

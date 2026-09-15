@@ -24,13 +24,15 @@ sources:
   - fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a
   - fxa101-week03-lifestyle-patterns-and-cognitive-reserve
   - fxa202-week03-photographers-on-alzheimers-dementia-and-heartbreaking
+  - fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease
+  - fxa302-week10-understanding-suffering-utermohlens-self-portraits-and
   - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
 tags:
 - alzheimers-disease
 title: Alzheimer's Disease Management and Prevention
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Alzheimer's Disease Management and Prevention
@@ -78,5 +80,7 @@ Lastly, Source 5 provides foundational knowledge about AD mechanisms, including 
 - [fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
 - [fxa101-week03-lifestyle-patterns-and-cognitive-reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
 - [fxa202-week03-photographers-on-alzheimers-dementia-and-heartbreaking](../sources/fxa202-week03-photographers-on-alzheimers-dementia-and-heartbreaking.md)
+- [fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease](../sources/fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease.md)
+- [fxa302-week10-understanding-suffering-utermohlens-self-portraits-and](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)
 - [fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
 - [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

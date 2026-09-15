@@ -38,3 +38,7 @@ updated: 2026-09-15
 - [Promoting wellbeing and health through active participation in music and dance: a systematic review](../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation.md)
 - [Social dancing to reduce falls in older adults](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults.md)
 - [The Art and Science of Dance/Movement Therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
+- [A comparison of Irish set dancing and exercises for people with Parkinson\u2019s disease: A phase II feasibility study](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
+- [Dance and Creativity within Dance Movement Therapy](../sources/fxa302-week10-dance-and-creativity-within-dance-movement-therapy.md)
+- [Dance Is an Accessible Physical Activity for People with Parkinson\u2019s Disease](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
+- [Dancing for Parkinson\u2019s Disease Online: Clinical Trial Process Evaluation](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)

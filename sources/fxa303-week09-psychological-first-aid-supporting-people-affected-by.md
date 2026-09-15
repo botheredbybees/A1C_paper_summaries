@@ -11,7 +11,7 @@ tags: ["disaster-response", "psychological-support", "emergency-management", "me
 key_concepts: ["psychological first aid", "timely psychosocial support", "emotional and physical reactions to disaster"]
 methods: ["guideline development"]
 slug: fxa303-week09-psychological-first-aid-supporting-people-affected-by
-related: ["community-resilience", "disaster-response", "mental-health-intervention"]
+related: ["community-resilience", "disaster-response", "mental-health-intervention", "psychological-support"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ The document 'Psychological First Aid: Supporting People Affected by Disaster in
 - [community-resilience](../topics/community-resilience.md)
 - [disaster-response](../topics/disaster-response.md)
 - [mental-health-intervention](../topics/mental-health-intervention.md)
+- [psychological-support](../topics/psychological-support.md)

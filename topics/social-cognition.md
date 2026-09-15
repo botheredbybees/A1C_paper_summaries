@@ -7,7 +7,8 @@ tags: ["social-cognition"]
 sources:
   - fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human
   - fxa300-week01-what-we-know-currently-about-mirror-neurons
-updated: 2026-08-03
+  - fxa302-week10-essentials-of-cognitive-neuroscience-(17)
+updated: 2026-09-15
 ---
 
 ## Social Cognition Mechanisms
@@ -28,3 +29,4 @@ The study of social cognition involves understanding how the brain processes inf
 
 - [fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human](../sources/fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human.md)
 - [fxa300-week01-what-we-know-currently-about-mirror-neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
+- [fxa302-week10-essentials-of-cognitive-neuroscience-(17)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2817%29.md)

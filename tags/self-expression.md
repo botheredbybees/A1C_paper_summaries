@@ -15,6 +15,7 @@ updated: 2026-09-15
 - [What is Therapeutic Photography?](../sources/fxa202-week03-what-is-therapeutic-photography-%283%29.md)
 - [Personal Storytelling and Memoir Writing](../sources/fxa202-week09-personal-storytelling-and-memoir-writing.md)
 - [Refugee Art Project](../sources/fxa301-week11-refugee-art-project.md)
+- [\u201cIt gave me something big in my life to wonder and think about which took over the space\u2026 and not MS\u201d: managing well-being in multiple sclerosis through art-making](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
 - [Art Therapy With Puppet Making to Promote Emotional Empathy for an Adolescent With Autism](../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md)
 - [Puppet Play Therapy: A Practical Guidebook - Section IV Puppet Therapy Techniques](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [Artistic expression as a source of resilience for transgender and gender diverse young people](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

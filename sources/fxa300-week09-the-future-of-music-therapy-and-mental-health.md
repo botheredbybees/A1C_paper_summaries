@@ -11,7 +11,7 @@ tags: ["music-therapy", "mental-health-care", "therapeutic-practice", "patient-r
 key_concepts: ["cognitive-behavioral-therapy", "service-user-involvement", "treatment-manuals"]
 methods: ["literature-review", "conceptual-analysis"]
 slug: fxa300-week09-the-future-of-music-therapy-and-mental-health
-related: ["clinical-practice", "mental-health-care", "music-therapy", "patient-recovery", "service-user-involvement"]
+related: ["clinical-practice", "mental-health-care", "music-therapy", "patient-recovery", "service-user-involvement", "therapeutic-practice"]
 created: 2026-09-07
 updated: 2026-09-07
 ---
@@ -50,3 +50,4 @@ This chapter discusses the future of music therapy within mental health care and
 - [music-therapy](../topics/music-therapy.md)
 - [patient-recovery](../topics/patient-recovery.md)
 - [service-user-involvement](../topics/service-user-involvement.md)
+- [therapeutic-practice](../topics/therapeutic-practice.md)

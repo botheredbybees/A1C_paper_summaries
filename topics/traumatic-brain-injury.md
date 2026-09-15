@@ -7,7 +7,8 @@ tags: ["traumatic-brain-injury"]
 sources:
   - fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
   - fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a
-updated: 2026-05-11
+  - fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who
+updated: 2026-09-15
 ---
 
 ## Neurorehabilitation Interventions for Traumatic Brain Injury
@@ -28,3 +29,4 @@ The integration of various creative therapies in the rehabilitation process for 
 
 - [fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain](../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain.md)
 - [fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a](../sources/fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a.md)
+- [fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who](../sources/fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who.md)

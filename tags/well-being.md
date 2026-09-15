@@ -26,6 +26,8 @@ updated: 2026-09-15
 - [Life-writing and its implications for health and well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
 - [Philosophy's Role in Health Humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
 - [How Art Museums Can Foster the Flourishing of Future Physicians](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)
+- [Dance Is an Accessible Physical Activity for People with Parkinson\u2019s Disease](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
+- [\u201cIt gave me something big in my life to wonder and think about which took over the space\u2026 and not MS\u201d: managing well-being in multiple sclerosis through art-making](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
 - [Effects of Choir Singing on Mental Health: Results of an Online Cross-sectional Study](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
 - [Social isolation and connectedness as determinants of well-being: Global evidence mapping focused on LGBTQ youth](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Well-being and Happiness](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)

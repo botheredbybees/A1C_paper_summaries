@@ -12,5 +12,7 @@ updated: 2026-09-15
 - [Exploring the medical humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [Honoring the Stories of Illness](../sources/fxa302-week01-honoring-the-stories-of-illness.md)
 - [Introduction to FXA302: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)
+- [Being a Good Story: The Humanities as Therapeutic Practice](../sources/fxa302-week10-being-a-good-story-the-humanities-as-therapeutic-practice.md)
+- [Creative Arts-Based Therapies for Stroke Survivors: A Qualitative Systematic Review](../sources/fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a.md)
 - [Clowning in Health Care Settings: The Point of View of Adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
 - [The Impacts of a Clown Doctor Program on an Adolescent Psychiatric Unit: A Mixed Methods Investigation](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)

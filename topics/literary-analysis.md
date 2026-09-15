@@ -10,7 +10,8 @@ sources:
   - fxa202-week13-snapshot-seeing-kodak-fiends-child-photographers-and-henry
   - fxa302-week02-lesson-fxa302-week02-page-3
   - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
-updated: 2026-08-08
+  - fxa302-week10-postmodern-death-and-dying-a-literary-analysis
+updated: 2026-09-15
 ---
 
 ## Literary Analysis in Historical Context
@@ -34,3 +35,4 @@ The analysis of literature through the lens of historical contexts reveals how n
 - [fxa202-week13-snapshot-seeing-kodak-fiends-child-photographers-and-henry](../sources/fxa202-week13-snapshot-seeing-kodak-fiends-child-photographers-and-henry.md)
 - [fxa302-week02-lesson-fxa302-week02-page-3](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)
 - [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)
+- [fxa302-week10-postmodern-death-and-dying-a-literary-analysis](../sources/fxa302-week10-postmodern-death-and-dying-a-literary-analysis.md)

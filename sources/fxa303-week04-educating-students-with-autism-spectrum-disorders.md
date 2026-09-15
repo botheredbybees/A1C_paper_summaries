@@ -11,7 +11,7 @@ tags: ["autism-education", "inclusive-classrooms", "special-needs-teaching", "ev
 key_concepts: ["research-driven-interventions", "educational-approaches-for-autism", "identification-and-diagnosis-of-autism"]
 methods: ["systematic-review"]
 slug: fxa303-week04-educating-students-with-autism-spectrum-disorders
-related: ["evidence-based-practices", "interdisciplinary-collaboration"]
+related: ["autism-education", "evidence-based-practices", "interdisciplinary-collaboration"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ The text 'Educating Students with Autism Spectrum Disorders' edited by Dianne Za
 
 ## See Also
 
+- [autism-education](../topics/autism-education.md)
 - [evidence-based-practices](../topics/evidence-based-practices.md)
 - [interdisciplinary-collaboration](../topics/interdisciplinary-collaboration.md)

@@ -7,7 +7,8 @@ tags: ["self-portraiture"]
 sources:
   - fxa202-week03-phototherapy-and-therapeutic-photography-in-a-digital-age
   - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
-updated: 2026-08-07
+  - fxa302-week10-the-later-works-of-william-utermohlen
+updated: 2026-09-15
 ---
 
 ## Therapeutic Self-Portraiture
@@ -28,3 +29,4 @@ Therapeutic self-portraiture emerges as a powerful intervention for individuals 
 
 - [fxa202-week03-phototherapy-and-therapeutic-photography-in-a-digital-age](../sources/fxa202-week03-phototherapy-and-therapeutic-photography-in-a-digital-age.md)
 - [fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)
+- [fxa302-week10-the-later-works-of-william-utermohlen](../sources/fxa302-week10-the-later-works-of-william-utermohlen.md)

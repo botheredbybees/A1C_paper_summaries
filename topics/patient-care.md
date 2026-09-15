@@ -16,13 +16,17 @@ sources:
   - fxa302-week01-medicine-within-health-humanities
   - fxa302-week01-web-lecture-week-1-2026
   - fxa302-week03-transcript-duration-18-16
+  - fxa302-week10-chapter-1-background-understanding-motor-neuron-disease
+  - fxa302-week10-the-medical-humanities-in-medical-education
+  - fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse
+  - fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities
   - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
 tags:
 - patient-care
 title: Art Therapy in Patient Care
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Art Therapy in Patient Care
@@ -54,5 +58,9 @@ The integration of art therapy into patient care emerges as a multifaceted inter
 - [fxa302-week01-medicine-within-health-humanities](../sources/fxa302-week01-medicine-within-health-humanities.md)
 - [fxa302-week01-web-lecture-week-1-2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)
 - [fxa302-week03-transcript-duration-18-16](../sources/fxa302-week03-transcript-duration-18-16.md)
+- [fxa302-week10-chapter-1-background-understanding-motor-neuron-disease](../sources/fxa302-week10-chapter-1-background-understanding-motor-neuron-disease.md)
+- [fxa302-week10-the-medical-humanities-in-medical-education](../sources/fxa302-week10-the-medical-humanities-in-medical-education.md)
+- [fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse](../sources/fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse.md)
+- [fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities](../sources/fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities.md)
 - [fxa303-week13-behavioral-and-psychological-symptoms-of-dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)
 - [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

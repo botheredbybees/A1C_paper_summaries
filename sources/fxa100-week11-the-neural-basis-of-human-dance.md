@@ -11,7 +11,7 @@ tags: ["brain-imaging", "dance-movement", "fxa100", "neural-basis", "rhythmic-sy
 key_concepts: ["rhythmic-synchronization", "voluntary-control", "spatial-navigation"]
 methods: ["positron-emission-tomography"]
 slug: fxa100-week11-the-neural-basis-of-human-dance
-related: ["brain-imaging", "neural-basis"]
+related: ["brain-imaging", "dance-movement", "neural-basis"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -40,4 +40,5 @@ This study explores the neural basis of human dance by examining three core aspe
 ## See Also
 
 - [brain-imaging](../topics/brain-imaging.md)
+- [dance-movement](../topics/dance-movement.md)
 - [neural-basis](../topics/neural-basis.md)

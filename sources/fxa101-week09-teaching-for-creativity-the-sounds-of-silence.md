@@ -11,7 +11,7 @@ tags: ["creativity-in-education", "teaching-methods", "standardized-testing", "t
 key_concepts: ["creative thinking", "standardized testing", "teacher education"]
 methods: ["case study"]
 slug: fxa101-week09-teaching-for-creativity-the-sounds-of-silence
-related: ["creativity-in-education", "educational-reform", "standardized-testing"]
+related: ["creativity-in-education", "educational-reform", "standardized-testing", "teaching-methods"]
 created: 2026-09-07
 updated: 2026-09-07
 ---
@@ -45,3 +45,4 @@ Robert J. Sternberg's article 'Teaching for Creativity: The Sounds of Silence' e
 - [creativity-in-education](../topics/creativity-in-education.md)
 - [educational-reform](../topics/educational-reform.md)
 - [standardized-testing](../topics/standardized-testing.md)
+- [teaching-methods](../topics/teaching-methods.md)
