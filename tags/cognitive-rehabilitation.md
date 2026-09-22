@@ -9,5 +9,6 @@ updated: 2026-09-22
 - [Music and the Damaged Brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
 - [Music Therapy comforts, soothes those with varying degrees of dementia - transcript](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees-%282%29.md)
 - [Rejuvenation: The Discovery of the Neuronal Stem Cell and Lessons for Preserving Our Brains](../sources/fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and.md)
+- [Temporal Entrainment of Cognitive Functions: Musical Mnemonics Induce Brain Plasticity and Oscillatory Synchrony in Neural Networks Underlying Memory](../sources/fxa300-week11-temporal-entrainment-of-cognitive-functions-musical.md)
 - [Neurologic Music Therapy in Stroke Rehabilitation](../sources/fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation.md)
 - [Cognitive training and cognitive rehabilitation for mild to moderate Alzheimer's disease and vascular dementia](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)

@@ -11,7 +11,7 @@ tags: ["singing-for-better-breathing", "copd-management", "respiratory-rehabilit
 key_concepts: ["chronic obstructive pulmonary disease (COPD)", "respiratory function assessment"]
 methods: []
 slug: fxa100-week04-transcript-singing-for-better-breathing
-related: ["copd-management"]
+related: ["copd-management", "respiratory-rehabilitation"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,3 +41,4 @@ This transcript describes the 'Singing for Better Breathing' initiative launched
 ## See Also
 
 - [copd-management](../topics/copd-management.md)
+- [respiratory-rehabilitation](../topics/respiratory-rehabilitation.md)

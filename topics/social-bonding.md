@@ -4,12 +4,13 @@ domain: intervention
 slug: singing-and-social-bonding
 sources:
   - fxa100-week04-transcript-what-is-singing-for-the-brain
+  - fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain
   - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
 tags:
 - social-bonding
 title: Singing and Social Bonding
 type: topic
-updated: 2026-05-11
+updated: 2026-09-22
 ---
 
 ## Singing and Social Bonding
@@ -29,4 +30,5 @@ The integration of singing as a method to foster social bonding is evident acros
 ## Sources
 
 - [fxa100-week04-transcript-what-is-singing-for-the-brain](../sources/fxa100-week04-transcript-what-is-singing-for-the-brain.md)
+- [fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain](../sources/fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain.md)
 - [fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding](../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding.md)

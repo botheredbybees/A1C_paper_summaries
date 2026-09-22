@@ -20,6 +20,9 @@ sources:
   - fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
   - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
   - fxa300-week05-music-helps-heal-mind-body-and-spirit
+  - fxa300-week11-lesson-fxa300-week11-welcome-to-week-11
+  - fxa300-week11-the-brain-of-opera-singers-experience-dependent-changes-in
+  - fxa300-week11-the-impact-of-rhythm-complexity-on-brain-activation-during
   - fxa301-week01-engaging-in-community-music-an-introduction-(2)
   - fxa302-week05-music-and-disability
   - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
@@ -27,7 +30,7 @@ sources:
   - fxa303-week13-neuropsychiatric-disorders-correction-in-alzheimers-disease
   - fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
   - fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 ## Music Therapy
@@ -61,6 +64,9 @@ Music therapy stands out as a non-pharmacological intervention for people with d
 - [fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
 - [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [fxa300-week05-music-helps-heal-mind-body-and-spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
+- [fxa300-week11-lesson-fxa300-week11-welcome-to-week-11](../sources/fxa300-week11-lesson-fxa300-week11-welcome-to-week-11.md)
+- [fxa300-week11-the-brain-of-opera-singers-experience-dependent-changes-in](../sources/fxa300-week11-the-brain-of-opera-singers-experience-dependent-changes-in.md)
+- [fxa300-week11-the-impact-of-rhythm-complexity-on-brain-activation-during](../sources/fxa300-week11-the-impact-of-rhythm-complexity-on-brain-activation-during.md)
 - [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-%282%29.md)
 - [fxa302-week05-music-and-disability](../sources/fxa302-week05-music-and-disability.md)
 - [fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)

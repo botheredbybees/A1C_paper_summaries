@@ -11,7 +11,7 @@ tags: ["brain-function", "music-therapy", "neurosurgery", "fxa300", "superior-te
 key_concepts: ["superior-temporal-gyrus", "intraoperative-mapping"]
 methods: ["functional-mri", "electrical-stimulation"]
 slug: fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music
-related: ["brain-function", "music-therapy", "neurosurgery"]
+related: ["brain-function", "music-therapy", "neurosurgery", "superior-temporal-gyrus"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -45,3 +45,4 @@ This transcript details the case of Dan, a professional musician and teacher who
 - [brain-function](../topics/brain-function.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neurosurgery](../topics/neurosurgery.md)
+- [superior-temporal-gyrus](../topics/superior-temporal-gyrus.md)

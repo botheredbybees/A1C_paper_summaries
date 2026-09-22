@@ -5,11 +5,12 @@ slug: the-impact-of-music-on-human-behavior
 sources:
   - fxa100-week03-the-power-of-music
   - fxa100-week04-the-evolution-of-human-artistic-creativity
+  - fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain
 tags:
 - human-behavior
 title: The Impact of Music on Human Behavior
 type: topic
-updated: 2026-05-11
+updated: 2026-09-22
 ---
 
 ## The Impact of Music on Human Behavior
@@ -30,3 +31,4 @@ Music's influence on human behavior is profound and multifaceted. Source 1 highl
 
 - [fxa100-week03-the-power-of-music](../sources/fxa100-week03-the-power-of-music.md)
 - [fxa100-week04-the-evolution-of-human-artistic-creativity](../sources/fxa100-week04-the-evolution-of-human-artistic-creativity.md)
+- [fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain](../sources/fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain.md)

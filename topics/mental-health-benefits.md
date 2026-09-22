@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: mental-health-benefits
 sources:
+  - fxa300-week11-lesson-fxa300-week11-welcome-to-week-11
   - fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
@@ -13,7 +14,7 @@ tags:
 - mental-health-benefits
 title: Mental Health Benefits
 type: topic
-updated: 2026-08-10
+updated: 2026-09-22
 ---
 
 ## Mental Health Benefits
@@ -32,6 +33,7 @@ The integration of arts and heritage-focused interventions in community settings
 
 ## Sources
 
+- [fxa300-week11-lesson-fxa300-week11-welcome-to-week-11](../sources/fxa300-week11-lesson-fxa300-week11-welcome-to-week-11.md)
 - [fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts](../sources/fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts.md)
 - [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
 - [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)

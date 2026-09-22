@@ -5,6 +5,7 @@ slug: positive-emotions-in-healthcare
 sources:
   - fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
   - fxa101-week10-fxa101-sem-2-2026-practical-session-2-week-7
+  - fxa300-week11-does-singing-promote-well-being-an-empirical-study-of
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
   - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
   - psy214-week02-positive-emotions-and-well-being
@@ -16,7 +17,7 @@ tags:
 - positive-emotions
 title: Positive Emotions in Healthcare
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Positive Emotions in Healthcare
@@ -37,6 +38,7 @@ The sources highlight the role of interventions aimed at eliciting positive emot
 
 - [fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion](../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion.md)
 - [fxa101-week10-fxa101-sem-2-2026-practical-session-2-week-7](../sources/fxa101-week10-fxa101-sem-2-2026-practical-session-2-week-7.md)
+- [fxa300-week11-does-singing-promote-well-being-an-empirical-study-of](../sources/fxa300-week11-does-singing-promote-well-being-an-empirical-study-of.md)
 - [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
 - [fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january](../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)

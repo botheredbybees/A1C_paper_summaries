@@ -16,3 +16,5 @@ updated: 2026-09-22
 - [FXA300 Week 2 Introduction Transcript](../sources/fxa300-week02-fxa300-week-2-introduction-transcript.md)
 - [FXA300 Music, Mind and Body Week 2 Activities](../sources/fxa300-week02-lesson-fxa300-week02-page-4-activities-1.md)
 - [Broca\u2019s Area Supports Enhanced Visuospatial Cognition in Orchestral Musicians](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
+- [Shared and distinct neural correlates of singing and speaking](../sources/fxa300-week11-shared-and-distinct-neural-correlates-of-singing-and.md)
+- [Singing in the brain: Neural representation of music and voice as revealed by fMRI](../sources/fxa300-week11-singing-in-the-brain-neural-representation-of-music-and.md)

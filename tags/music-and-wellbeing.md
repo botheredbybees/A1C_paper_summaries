@@ -7,4 +7,5 @@ updated: 2026-09-22
 ## Music And Wellbeing
 
 - [Week 8 Activities: Music and Health](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
+- [Singing and Wellbeing](../sources/fxa300-week11-lesson-fxa300-week11-welcome-to-week-11.md)
 - [Music and Refugees\u2019 Wellbeing in Contexts of Protracted Displacement](../sources/fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted.md)

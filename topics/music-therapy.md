@@ -157,6 +157,9 @@ sources:
   - fxa300-week10-music-in-the-human-experience-an-introduction-to-music
   - fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice
   - fxa300-week10-reducing-musical-performance-anxiety-a-review-of-literature
+  - fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons
+  - fxa300-week11-how-participation-in-group-singing-in-the-community-impacts
+  - fxa300-week11-the-effect-of-singing-training-on-voice-quality-for-people
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
@@ -401,6 +404,9 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa300-week10-music-in-the-human-experience-an-introduction-to-music](../sources/fxa300-week10-music-in-the-human-experience-an-introduction-to-music.md)
 - [fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice](../sources/fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice.md)
 - [fxa300-week10-reducing-musical-performance-anxiety-a-review-of-literature](../sources/fxa300-week10-reducing-musical-performance-anxiety-a-review-of-literature.md)
+- [fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons](../sources/fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons.md)
+- [fxa300-week11-how-participation-in-group-singing-in-the-community-impacts](../sources/fxa300-week11-how-participation-in-group-singing-in-the-community-impacts.md)
+- [fxa300-week11-the-effect-of-singing-training-on-voice-quality-for-people](../sources/fxa300-week11-the-effect-of-singing-training-on-voice-quality-for-people.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

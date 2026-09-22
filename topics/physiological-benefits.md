@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: physiological-and-psychological-benefits-of-dance
 sources:
-- fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+  - fxa300-week11-singing-and-wellbeing-the-final-lecture
+  - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+  - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
 tags:
 - physiological-benefits
 title: Physiological and Psychological Benefits of Dance
 type: topic
-updated: 2026-05-04
+updated: 2026-09-22
 ---
 
 ## Physiological and Psychological Benefits of Dance
@@ -27,4 +29,6 @@ The systematic review 'The Physiological and Psychological Benefits of Dance' in
 
 ## Sources
 
+- [fxa300-week11-singing-and-wellbeing-the-final-lecture](../sources/fxa300-week11-singing-and-wellbeing-the-final-lecture.md)
 - [fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and](../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and.md)
+- [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)

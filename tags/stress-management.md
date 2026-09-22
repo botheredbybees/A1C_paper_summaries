@@ -18,6 +18,7 @@ updated: 2026-09-22
 - [Performance Anxiety in Musicians](../sources/fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety.md)
 - [The occurrence of performance anxiety among musicians](../sources/fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians.md)
 - [Eight Signs You May Have Performance Anxiety](../sources/fxa300-week10-transcript-duration-450.md)
+- [Singing modulates mood, stress, cortisol, cytokine and neuropeptide activity in cancer patients and carers](../sources/fxa300-week11-singing-modulates-mood-stress-cortisol-cytokine-and.md)
 - [The Influence of Stress, Optimism, and Music Training on Music Uses and Preferences](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [Humor and Resiliency: Towards a Process Model of Coping and Growth](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)

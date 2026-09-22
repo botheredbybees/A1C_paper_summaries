@@ -11,7 +11,7 @@ tags: ["mozart-effect", "cognitive-benefits", "music-education", "spatial-tempor
 key_concepts: ["Mozart effect", "structured music education"]
 methods: ["review"]
 slug: fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction
-related: ["mozart-effect", "music-education", "structured-music-education"]
+related: ["cognitive-benefits", "mozart-effect", "music-education", "structured-music-education"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -42,6 +42,7 @@ This article discusses the distinction between music listening and music instruc
 
 ## See Also
 
+- [cognitive-benefits](../topics/cognitive-benefits.md)
 - [mozart-effect](../topics/mozart-effect.md)
 - [music-education](../topics/music-education.md)
 - [structured-music-education](../topics/structured-music-education.md)

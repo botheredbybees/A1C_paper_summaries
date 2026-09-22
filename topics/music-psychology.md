@@ -44,6 +44,8 @@ sources:
   - fxa300-week10-music-in-the-human-experience-an-introduction-to-music
   - fxa300-week10-music-in-the-human-experience-reflections-of-society-in
   - fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice
+  - fxa300-week11-effects-of-choir-singing-or-listening-on-secretory
+  - fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness
   - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
   - fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
   - fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
@@ -58,7 +60,7 @@ tags:
 - music-psychology
 title: Emotional Reactions to Music
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Emotional Reactions to Music
@@ -118,6 +120,8 @@ The literature highlights the profound impact of music on human emotion across v
 - [fxa300-week10-music-in-the-human-experience-an-introduction-to-music](../sources/fxa300-week10-music-in-the-human-experience-an-introduction-to-music.md)
 - [fxa300-week10-music-in-the-human-experience-reflections-of-society-in](../sources/fxa300-week10-music-in-the-human-experience-reflections-of-society-in.md)
 - [fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice](../sources/fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice.md)
+- [fxa300-week11-effects-of-choir-singing-or-listening-on-secretory](../sources/fxa300-week11-effects-of-choir-singing-or-listening-on-secretory.md)
+- [fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness](../sources/fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

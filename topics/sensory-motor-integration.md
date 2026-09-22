@@ -6,8 +6,9 @@ confidence: medium
 tags: ["sensory-motor-integration"]
 sources:
   - fxa300-week03-auditorymotor-learning-influences-auditory-memory-for-music
+  - fxa300-week11-the-neural-control-of-singing
   - fxa302-week10-essentials-of-cognitive-neuroscience-(3)
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Sensory-Motor Integration
@@ -27,4 +28,5 @@ Sensory-motor integration is a pivotal concept in the study of cognitive neurosc
 ## Sources
 
 - [fxa300-week03-auditorymotor-learning-influences-auditory-memory-for-music](../sources/fxa300-week03-auditorymotor-learning-influences-auditory-memory-for-music.md)
+- [fxa300-week11-the-neural-control-of-singing](../sources/fxa300-week11-the-neural-control-of-singing.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(3)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)

@@ -10,7 +10,7 @@ tags: ["mindfulness", "sensory-stimulation", "technology-in-mindfulness", "biofe
 key_concepts: ["beginner's mind principle", "parasympathetic activity", "multisensory experience design"]
 methods: ["guided mindfulness practice", "multisensory stimulation with biofeedback"]
 slug: fxa101-week00-a-multisensory-mindfulness-experience-exploring-the
-related: ["mindfulness", "sensory-stimulation"]
+related: ["heart-rate-variability", "mindfulness", "sensory-stimulation"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -44,5 +44,6 @@ This paper presents a preliminary and multidisciplinary study that explores the 
 
 ## See Also
 
+- [heart-rate-variability](../topics/heart-rate-variability.md)
 - [mindfulness](../topics/mindfulness.md)
 - [sensory-stimulation](../topics/sensory-stimulation.md)

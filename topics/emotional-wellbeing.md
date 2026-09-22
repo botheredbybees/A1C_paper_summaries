@@ -18,6 +18,8 @@ sources:
   - fxa202-week09-noticing-a-photo-essay
   - fxa202-week10-chromophilia
   - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+  - fxa300-week11-how-participation-in-group-singing-in-the-community-impacts
+  - fxa300-week11-lesson-fxa300-week11-page-4-weekly-activities-1
   - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa301-week05-art-making-and-illness-two-case-studies
   - fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
@@ -32,7 +34,7 @@ tags:
 - emotional-wellbeing
 title: Music Therapy for Emotional Wellbeing
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Music Therapy for Emotional Wellbeing
@@ -66,6 +68,8 @@ The integration of music therapy in enhancing emotional wellbeing is a recurring
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
 - [fxa202-week10-chromophilia](../sources/fxa202-week10-chromophilia.md)
 - [fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
+- [fxa300-week11-how-participation-in-group-singing-in-the-community-impacts](../sources/fxa300-week11-how-participation-in-group-singing-in-the-community-impacts.md)
+- [fxa300-week11-lesson-fxa300-week11-page-4-weekly-activities-1](../sources/fxa300-week11-lesson-fxa300-week11-page-4-weekly-activities-1.md)
 - [fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic](../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic.md)

@@ -4,6 +4,7 @@ domain: intervention
 slug: arts-and-humor-interventions-in-mental-health-care
 sources:
   - fxa300-week09-the-future-of-music-therapy-and-mental-health
+  - fxa300-week11-using-humour-to-promote-psychological-wellbeing-in
   - fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)
   - fxa302-week01-health-humanities-the-future-of-medical-humanities
   - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
@@ -12,7 +13,7 @@ tags:
 - mental-health-care
 title: Arts and Humor Interventions in Mental Health Care
 type: topic
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 ## Arts and Humor Interventions in Mental Health Care
@@ -32,6 +33,7 @@ The integration of arts and humor into mental health care has shown promising ou
 ## Sources
 
 - [fxa300-week09-the-future-of-music-therapy-and-mental-health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)
+- [fxa300-week11-using-humour-to-promote-psychological-wellbeing-in](../sources/fxa300-week11-using-humour-to-promote-psychological-wellbeing-in.md)
 - [fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-%282%29.md)
 - [fxa302-week01-health-humanities-the-future-of-medical-humanities](../sources/fxa302-week01-health-humanities-the-future-of-medical-humanities.md)
 - [fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)

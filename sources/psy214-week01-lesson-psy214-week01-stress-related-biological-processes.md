@@ -11,7 +11,7 @@ tags: ["stress-biology", "immune-system", "inflammation", "oxidative-stress", "p
 key_concepts: ["chronic stress", "biological processes", "stress biomarkers"]
 methods: []
 slug: psy214-week01-lesson-psy214-week01-stress-related-biological-processes
-related: ["biological-processes", "inflammation", "oxidative-stress", "stress-biology"]
+related: ["biological-processes", "immune-system", "inflammation", "oxidative-stress", "stress-biology"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -44,6 +44,7 @@ This lesson covers the biological impacts of chronic stress, focusing on immune,
 ## See Also
 
 - [biological-processes](../topics/biological-processes.md)
+- [immune-system](../topics/immune-system.md)
 - [inflammation](../topics/inflammation.md)
 - [oxidative-stress](../topics/oxidative-stress.md)
 - [stress-biology](../topics/stress-biology.md)

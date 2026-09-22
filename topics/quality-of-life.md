@@ -76,6 +76,11 @@ sources:
   - fxa202-week13-revisioning-self-identity-the-role-of-portraits
   - fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with
   - fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa
+  - fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons
+  - fxa300-week11-effect-of-singing-on-symptoms-in-stable-copd-a-systematic
+  - fxa300-week11-effects-of-singing-on-oral-function-stress-and-immunity
+  - fxa300-week11-singing-for-adults-with-chronic-obstructive-pulmonary
+  - fxa300-week11-using-humour-to-promote-psychological-wellbeing-in
   - fxa301-week01-a-qualitative-investigation-of-older-adults
   - fxa301-week05-associations-between-participation-in-community-arts-groups
   - fxa301-week05-the-2024-happy-planet-index
@@ -202,6 +207,11 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa202-week13-revisioning-self-identity-the-role-of-portraits](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
 - [fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with](../sources/fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with.md)
 - [fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
+- [fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons](../sources/fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons.md)
+- [fxa300-week11-effect-of-singing-on-symptoms-in-stable-copd-a-systematic](../sources/fxa300-week11-effect-of-singing-on-symptoms-in-stable-copd-a-systematic.md)
+- [fxa300-week11-effects-of-singing-on-oral-function-stress-and-immunity](../sources/fxa300-week11-effects-of-singing-on-oral-function-stress-and-immunity.md)
+- [fxa300-week11-singing-for-adults-with-chronic-obstructive-pulmonary](../sources/fxa300-week11-singing-for-adults-with-chronic-obstructive-pulmonary.md)
+- [fxa300-week11-using-humour-to-promote-psychological-wellbeing-in](../sources/fxa300-week11-using-humour-to-promote-psychological-wellbeing-in.md)
 - [fxa301-week01-a-qualitative-investigation-of-older-adults](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [fxa301-week05-associations-between-participation-in-community-arts-groups](../sources/fxa301-week05-associations-between-participation-in-community-arts-groups.md)
 - [fxa301-week05-the-2024-happy-planet-index](../sources/fxa301-week05-the-2024-happy-planet-index.md)

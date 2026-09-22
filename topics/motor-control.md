@@ -4,6 +4,7 @@ domain: intervention
 slug: motor-control-in-neurological-disorders
 sources:
   - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+  - fxa300-week11-the-brain-of-opera-singers-experience-dependent-changes-in
   - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
   - fxa302-week10-essentials-of-cognitive-neuroscience-(3)
   - fxa302-week10-essentials-of-cognitive-neuroscience-(6)
@@ -13,7 +14,7 @@ tags:
 - motor-control
 title: Motor Control in Neurological Disorders
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Motor Control in Neurological Disorders
@@ -37,6 +38,7 @@ Both sources highlight the importance of understanding neural mechanisms underly
 ## Sources
 
 - [fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro](../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro.md)
+- [fxa300-week11-the-brain-of-opera-singers-experience-dependent-changes-in](../sources/fxa300-week11-the-brain-of-opera-singers-experience-dependent-changes-in.md)
 - [fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a](../sources/fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(3)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(6)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%286%29.md)

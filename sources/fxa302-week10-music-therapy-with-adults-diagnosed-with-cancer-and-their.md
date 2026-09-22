@@ -11,7 +11,7 @@ tags: ["music-therapy", "cancer-care", "psychosocial-support", "patient-family-c
 key_concepts: ["music therapy", "cancer treatment", "psychosocial support", "quality of life", "emotional relief"]
 methods: ["case study", "literature review"]
 slug: fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their
-related: ["emotional-wellbeing", "music-therapy", "psychosocial-support", "quality-of-life"]
+related: ["cancer-care", "emotional-wellbeing", "music-therapy", "psychosocial-support", "quality-of-life"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -47,6 +47,7 @@ This chapter explores the application of music therapy in supporting adults diag
 
 ## See Also
 
+- [cancer-care](../topics/cancer-care.md)
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)
 - [music-therapy](../topics/music-therapy.md)
 - [psychosocial-support](../topics/psychosocial-support.md)

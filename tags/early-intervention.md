@@ -7,6 +7,7 @@ updated: 2026-09-22
 ## Early Intervention
 
 - [Poverty, Stress, and Brain Development: New Directions for Prevention and Intervention](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
+- [Therapeutic Singing as an Early Intervention for Swallowing in Persons with Parkinson\u2019s Disease](../sources/fxa300-week11-therapeutic-singing-as-an-early-intervention-for-swallowing.md)
 - [FXA303 Week 2: Child Development and Creative Arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [Missed Early Intervention Opportunities for Children With Autism Spectrum Disorder](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)
 - [Neurodiversity and the Autism Spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)

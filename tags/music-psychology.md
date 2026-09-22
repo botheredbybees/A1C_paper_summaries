@@ -47,6 +47,8 @@ updated: 2026-09-22
 - [Music in the Human Experience: An Introduction to Music Psychology (Conclusion)](../sources/fxa300-week10-music-in-the-human-experience-an-introduction-to-music.md)
 - [Music in the Human Experience: Reflections of Society in Music](../sources/fxa300-week10-music-in-the-human-experience-reflections-of-society-in.md)
 - [R3. THE TRIUMVIRATE OF THEORY, RESEARCH, AND PRACTICE](../sources/fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice.md)
+- [Effects of Choir Singing or Listening on Secretory Immunoglobulin A, Cortisol, and Emotional State](../sources/fxa300-week11-effects-of-choir-singing-or-listening-on-secretory.md)
+- [The effects of mother\u2013infant singing on emotional closeness, affect, anxiety, and stress hormones](../sources/fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness.md)
 - [Physiological Responses to Music and Sound Stimuli](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [Aesthetic Responses to Music: A Questionnaire Study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [An Experience Sampling Study of Emotional Reactions to Music: Listener, Music, and Situation](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

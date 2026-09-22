@@ -11,7 +11,7 @@ tags: ["mental-health-interventions", "therapeutic-music", "immune-response", "s
 key_concepts: ["group drumming interventions", "inflammatory immune response", "mental well-being"]
 methods: ["randomized controlled trial"]
 slug: fxa300-week09-effects-of-group-drumming-interventions-on-anxiety
-related: ["anxiety-management", "depression-treatment", "mental-health-interventions", "therapeutic-music"]
+related: ["anxiety-management", "depression-treatment", "immune-response", "mental-health-interventions", "therapeutic-music"]
 created: 2026-09-07
 updated: 2026-09-07
 ---
@@ -46,5 +46,6 @@ This study explores the efficacy of group drumming interventions on mental healt
 
 - [anxiety-management](../topics/anxiety-management.md)
 - [depression-treatment](../topics/depression-treatment.md)
+- [immune-response](../topics/immune-response.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [therapeutic-music](../topics/therapeutic-music.md)

@@ -11,7 +11,7 @@ tags: ["voice-health", "singing", "vocal-care", "professional-voice-users", "med
 key_concepts: ["vocal-physiology", "voice-disorders", "patient-education"]
 methods: ["guideline-development"]
 slug: fxa300-week10-the-owners-manual-to-the-voice-a-guide-for-singers-and
-related: ["medical-education", "patient-education", "professional-voice-users", "voice-disorders", "voice-health"]
+related: ["medical-education", "patient-education", "professional-voice-users", "singing", "voice-disorders", "voice-health"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -48,5 +48,6 @@ The introduction of 'The Owner's Manual to the Voice' by Rachael Gates and colle
 - [medical-education](../topics/medical-education.md)
 - [patient-education](../topics/patient-education.md)
 - [professional-voice-users](../topics/professional-voice-users.md)
+- [singing](../topics/singing.md)
 - [voice-disorders](../topics/voice-disorders.md)
 - [voice-health](../topics/voice-health.md)

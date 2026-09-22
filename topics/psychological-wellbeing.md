@@ -6,6 +6,7 @@ sources:
   - fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial
   - fxa101-week00-handmade-therapy-the-hedonic-impacts-of-engaging-in-pottery
   - fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling
+  - fxa300-week11-using-humour-to-promote-psychological-wellbeing-in
   - fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
   - fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a
@@ -16,7 +17,7 @@ tags:
 - psychological-wellbeing
 title: Psychological Wellbeing Interventions
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Psychological Wellbeing Interventions
@@ -38,6 +39,7 @@ This synthesis explores various interventions aimed at enhancing psychological w
 - [fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial](../sources/fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial.md)
 - [fxa101-week00-handmade-therapy-the-hedonic-impacts-of-engaging-in-pottery](../sources/fxa101-week00-handmade-therapy-the-hedonic-impacts-of-engaging-in-pottery.md)
 - [fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling](../sources/fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling.md)
+- [fxa300-week11-using-humour-to-promote-psychological-wellbeing-in](../sources/fxa300-week11-using-humour-to-promote-psychological-wellbeing-in.md)
 - [fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular](../sources/fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular.md)
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)

@@ -4,13 +4,17 @@ domain: intervention
 slug: group-singing
 sources:
   - fxa100-week04-singing-and-participation
+  - fxa300-week11-how-participation-in-group-singing-in-the-community-impacts
+  - fxa300-week11-lesson-fxa300-week11-page-3-1
+  - fxa300-week11-lesson-fxa300-week11-page-4-weekly-activities-1
+  - fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
 tags:
 - group-singing
 title: Group Singing
 type: topic
-updated: 2026-05-11
+updated: 2026-09-22
 ---
 
 ## Group Singing
@@ -30,5 +34,9 @@ Group singing emerges as a multifaceted intervention with potential benefits acr
 ## Sources
 
 - [fxa100-week04-singing-and-participation](../sources/fxa100-week04-singing-and-participation.md)
+- [fxa300-week11-how-participation-in-group-singing-in-the-community-impacts](../sources/fxa300-week11-how-participation-in-group-singing-in-the-community-impacts.md)
+- [fxa300-week11-lesson-fxa300-week11-page-3-1](../sources/fxa300-week11-lesson-fxa300-week11-page-3-1.md)
+- [fxa300-week11-lesson-fxa300-week11-page-4-weekly-activities-1](../sources/fxa300-week11-lesson-fxa300-week11-page-4-weekly-activities-1.md)
+- [fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain](../sources/fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)

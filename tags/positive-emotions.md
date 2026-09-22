@@ -7,6 +7,7 @@ updated: 2026-09-22
 ## Positive Emotions
 
 - [FXA101 Sem 2 2026 \u2013 Practical Session 2 Week 7](../sources/fxa101-week10-fxa101-sem-2-2026-practical-session-2-week-7.md)
+- [Does Singing Promote Well-Being?: An Empirical Study of Professional and Amateur Singers during a Singing Lesson](../sources/fxa300-week11-does-singing-promote-well-being-an-empirical-study-of.md)
 - [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [Positive Emotions as a Path to Well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)
 - [Gratitude: Interpersonal, Circumstantial, Transcendental, and Interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)

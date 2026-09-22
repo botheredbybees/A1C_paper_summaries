@@ -6,6 +6,7 @@ updated: 2026-09-22
 
 ## Humor Therapy
 
+- [Using humour to promote psychological wellbeing in residential homes for older people](../sources/fxa300-week11-using-humour-to-promote-psychological-wellbeing-in.md)
 - [The Laughter Prescription: A Tool for Lifestyle Medicine](../sources/fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [Evaluation of a standardized humor group in a clinical setting: a feasibility study for older patients with depression](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)
 - [Laughter and Humour Interventions for Well-being in Older Adults: A Systematic Review and Intervention Classification](../sources/fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older.md)

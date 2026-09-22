@@ -28,6 +28,8 @@ updated: 2026-09-22
 - [Week 3 Lecture - FXA101 Creativity for Life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [Broca\u2019s Area Supports Enhanced Visuospatial Cognition in Orchestral Musicians](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
 - [Sensory Stimulation and Music Therapy Programs for Treating Disorders of Consciousness](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
+- [The Brain of Opera Singers: Experience-Dependent Changes in Functional Activation](../sources/fxa300-week11-the-brain-of-opera-singers-experience-dependent-changes-in.md)
+- [The neural control of singing](../sources/fxa300-week11-the-neural-control-of-singing.md)
 - [Activation of Primary Visual Cortex by Braille Reading in Blind Subjects](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
 - [Multimodal MR-imaging reveals large-scale structural and functional connectivity changes in profound early blindness](../sources/fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and.md)
 - [Chapter 17: Emotion](../sources/fxa302-week10-chapter-17-emotion.md)

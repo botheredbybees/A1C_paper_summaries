@@ -15,6 +15,7 @@ sources:
   - fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety
   - fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians
   - fxa300-week10-transcript-duration-450
+  - fxa300-week11-singing-modulates-mood-stress-cortisol-cytokine-and
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
@@ -66,7 +67,7 @@ tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Stress Management Interventions
@@ -97,6 +98,7 @@ The exploration of stress management interventions across multiple sources highl
 - [fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety](../sources/fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety.md)
 - [fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians](../sources/fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians.md)
 - [fxa300-week10-transcript-duration-450](../sources/fxa300-week10-transcript-duration-450.md)
+- [fxa300-week11-singing-modulates-mood-stress-cortisol-cytokine-and](../sources/fxa300-week11-singing-modulates-mood-stress-cortisol-cytokine-and.md)
 - [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)

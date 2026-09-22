@@ -4,6 +4,7 @@ domain: intervention
 slug: creative-arts-in-community-health
 sources:
   - fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to
+  - fxa300-week11-how-participation-in-group-singing-in-the-community-impacts
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
   - fxa301-week01-lesson-fxa301-week01-troubleshooting1
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
@@ -13,7 +14,7 @@ tags:
 - community-health
 title: Creative Arts in Community Health
 type: topic
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 ## Creative Arts in Community Health
@@ -33,6 +34,7 @@ The integration of creative arts into community health interventions offers a mu
 ## Sources
 
 - [fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
+- [fxa300-week11-how-participation-in-group-singing-in-the-community-impacts](../sources/fxa300-week11-how-participation-in-group-singing-in-the-community-impacts.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [fxa301-week01-lesson-fxa301-week01-troubleshooting1](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
 - [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)

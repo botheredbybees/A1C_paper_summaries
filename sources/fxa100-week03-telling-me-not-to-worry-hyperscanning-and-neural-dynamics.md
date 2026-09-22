@@ -11,7 +11,7 @@ tags: ["neural-dynamics", "emotion-processing", "guided-imagination", "music-the
 key_concepts: ["Guided Imagery and Music (GIM)", "dual-EEG technology", "emotional markers"]
 methods: ["systematic review", "case study"]
 slug: fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics
-related: ["emotion-processing", "music-therapy"]
+related: ["emotion-processing", "music-therapy", "neural-dynamics"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ This paper explores the neural dynamics of emotion processing during Guided Imag
 
 - [emotion-processing](../topics/emotion-processing.md)
 - [music-therapy](../topics/music-therapy.md)
+- [neural-dynamics](../topics/neural-dynamics.md)

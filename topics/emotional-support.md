@@ -5,6 +5,7 @@ slug: emotional-support-in-healthcare
 sources:
   - fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley
   - fxa100-week06-transcript-art-therapy-has-many-faces
+  - fxa300-week11-truly-madly-deeply-lyrics
   - fxa303-week05-fxa303-week-5-welcome
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
@@ -12,7 +13,7 @@ tags:
 - emotional-support
 title: Emotional Support in Healthcare
 type: topic
-updated: 2026-05-11
+updated: 2026-09-22
 ---
 
 ## Emotional Support in Healthcare
@@ -33,6 +34,7 @@ The topic of emotional support in healthcare is explored through various interve
 
 - [fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley](../sources/fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley.md)
 - [fxa100-week06-transcript-art-therapy-has-many-faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
+- [fxa300-week11-truly-madly-deeply-lyrics](../sources/fxa300-week11-truly-madly-deeply-lyrics.md)
 - [fxa303-week05-fxa303-week-5-welcome](../sources/fxa303-week05-fxa303-week-5-welcome.md)
 - [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
 - [fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown](../sources/fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown.md)

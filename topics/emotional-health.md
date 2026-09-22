@@ -5,13 +5,14 @@ slug: arts-in-emotional-health
 sources:
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
   - fxa300-week01-how-music-affects-your-brain
+  - fxa300-week11-effects-of-choir-singing-or-listening-on-secretory
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
 tags:
 - emotional-health
 title: Arts in Emotional Health
 type: topic
-updated: 2026-07-06
+updated: 2026-09-22
 ---
 
 ## Arts in Emotional Health
@@ -32,5 +33,6 @@ Sources highlight the arts as a therapeutic intervention for enhancing emotional
 
 - [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [fxa300-week01-how-music-affects-your-brain](../sources/fxa300-week01-how-music-affects-your-brain.md)
+- [fxa300-week11-effects-of-choir-singing-or-listening-on-secretory](../sources/fxa300-week11-effects-of-choir-singing-or-listening-on-secretory.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)

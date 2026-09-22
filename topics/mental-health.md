@@ -45,6 +45,7 @@ sources:
   - fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii
   - fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of
   - fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians
+  - fxa300-week11-singing-and-wellbeing-the-final-lecture
   - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week05-art-as-therapy
@@ -106,7 +107,7 @@ tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Therapies for Mental Health
@@ -169,6 +170,7 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii.md)
 - [fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of](../sources/fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of.md)
 - [fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians](../sources/fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians.md)
+- [fxa300-week11-singing-and-wellbeing-the-final-lecture](../sources/fxa300-week11-singing-and-wellbeing-the-final-lecture.md)
 - [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)

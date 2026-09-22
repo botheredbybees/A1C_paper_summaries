@@ -11,7 +11,7 @@ tags: ["temporomandibular-disorders", "singing-voice", "voice-quality", "vocal-f
 key_concepts: ["temporomandibular-disorders", "biopsychosocial-model", "voice-quality"]
 methods: ["summary-of-research"]
 slug: fxa300-week10-temporomandibular-disorders-and-the-singing-voice-a-summary
-related: ["biopsychosocial-model", "temporomandibular-disorders"]
+related: ["biopsychosocial-model", "temporomandibular-disorders", "voice-quality"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -43,3 +43,4 @@ Jane Clukey's article provides a comprehensive summary of the relationship betwe
 
 - [biopsychosocial-model](../topics/biopsychosocial-model.md)
 - [temporomandibular-disorders](../topics/temporomandibular-disorders.md)
+- [voice-quality](../topics/voice-quality.md)

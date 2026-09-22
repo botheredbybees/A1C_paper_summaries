@@ -10,6 +10,8 @@ sources:
   - fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in
   - fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life
   - fxa300-week08-from-singing-to-speaking-facilitating-recovery-from
+  - fxa300-week11-singing-for-adults-with-chronic-obstructive-pulmonary
+  - fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
   - fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
   - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
@@ -24,7 +26,7 @@ tags:
 - creative-arts-therapy
 title: Creative Arts Therapy
 type: topic
-updated: 2026-08-31
+updated: 2026-09-22
 ---
 
 ## Creative Arts Therapy
@@ -50,6 +52,8 @@ Creative arts therapy encompasses various modalities such as puppet play, dance/
 - [fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in](../sources/fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in.md)
 - [fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
 - [fxa300-week08-from-singing-to-speaking-facilitating-recovery-from](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
+- [fxa300-week11-singing-for-adults-with-chronic-obstructive-pulmonary](../sources/fxa300-week11-singing-for-adults-with-chronic-obstructive-pulmonary.md)
+- [fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness](../sources/fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness.md)
 - [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
 - [fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
 - [fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)

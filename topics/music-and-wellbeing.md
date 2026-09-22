@@ -6,8 +6,9 @@ confidence: medium
 tags: ["music-and-wellbeing"]
 sources:
   - fxa300-week08-lesson-fxa300-week08-page-4-activities
+  - fxa300-week11-lesson-fxa300-week11-welcome-to-week-11
   - fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
-updated: 2026-08-31
+updated: 2026-09-22
 ---
 
 ## Music Therapy and Wellbeing
@@ -27,4 +28,5 @@ Music therapy is a versatile intervention that enhances wellbeing across diverse
 ## Sources
 
 - [fxa300-week08-lesson-fxa300-week08-page-4-activities](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
+- [fxa300-week11-lesson-fxa300-week11-welcome-to-week-11](../sources/fxa300-week11-lesson-fxa300-week11-welcome-to-week-11.md)
 - [fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted](../sources/fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted.md)

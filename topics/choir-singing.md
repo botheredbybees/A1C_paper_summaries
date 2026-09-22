@@ -5,11 +5,14 @@ title: "Choir Singing and Mental Health"
 confidence: high
 tags: ["choir-singing"]
 sources:
+  - fxa300-week11-choir-versus-solo-singing-effects-on-mood-and-salivary
+  - fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons
+  - fxa300-week11-effects-of-choir-singing-or-listening-on-secretory
   - fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
   - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
   - fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 ## Choir Singing and Mental Health
@@ -28,6 +31,9 @@ The integration of findings from multiple studies on choir singing reveals a con
 
 ## Sources
 
+- [fxa300-week11-choir-versus-solo-singing-effects-on-mood-and-salivary](../sources/fxa300-week11-choir-versus-solo-singing-effects-on-mood-and-salivary.md)
+- [fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons](../sources/fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons.md)
+- [fxa300-week11-effects-of-choir-singing-or-listening-on-secretory](../sources/fxa300-week11-effects-of-choir-singing-or-listening-on-secretory.md)
 - [fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
 - [fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir](../sources/fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir.md)
 - [fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)

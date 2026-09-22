@@ -6,13 +6,14 @@ sources:
   - fxa100-week02-music-and-the-damaged-brain
   - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees-(2)
   - fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and
+  - fxa300-week11-temporal-entrainment-of-cognitive-functions-musical
   - fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation
   - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
 tags:
 - cognitive-rehabilitation
 title: Cognitive Rehabilitation
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cognitive Rehabilitation
@@ -34,5 +35,6 @@ Cognitive rehabilitation is a multifaceted intervention aimed at improving or ma
 - [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
 - [fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees-(2)](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees-%282%29.md)
 - [fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and](../sources/fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and.md)
+- [fxa300-week11-temporal-entrainment-of-cognitive-functions-musical](../sources/fxa300-week11-temporal-entrainment-of-cognitive-functions-musical.md)
 - [fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation](../sources/fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation.md)
 - [fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)

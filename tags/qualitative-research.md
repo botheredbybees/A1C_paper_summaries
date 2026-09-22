@@ -24,6 +24,7 @@ updated: 2026-09-22
 - [Negative Emotion in Music: What is the Attraction? A Qualitative Study](../sources/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md)
 - ['Excellent for mind, body and spirit': Participant, facilitator, and community stakeholder experiences of Music and Movement for Health](../sources/fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator.md)
 - [Exploring Musical Preferences: An In-Depth Qualitative Study of Adults' Liking for Music in Their Personal Collections](../sources/fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study.md)
+- [How Participation in Group Singing in the Community Impacts on Emotional Wellbeing: A Qualitative Study on the Perspectives of Group Singing Participants](../sources/fxa300-week11-how-participation-in-group-singing-in-the-community-impacts.md)
 - [The Role of Qualitative Research in Arts and Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [Evaluating benefits to health and wellbeing](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [Bringing Music to Life: a Study of Music Therapy and Palliative Care Experiences in a Cancer Hospital](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)

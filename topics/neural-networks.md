@@ -10,6 +10,7 @@ sources:
   - fxa300-week02-music-and-the-brain
   - fxa300-week03-lesson-fxa300-week03-music-and-processing-1
   - fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
+  - fxa300-week11-temporal-entrainment-of-cognitive-functions-musical
   - fxa302-week10-chapter-17-emotion
   - fxa302-week10-essentials-of-cognitive-neuroscience-(17)
   - fxa302-week10-essentials-of-cognitive-neuroscience-(22)
@@ -23,7 +24,7 @@ tags:
 - neural-networks
 title: Neural Networks in Cognitive Processing
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neural Networks in Cognitive Processing
@@ -49,6 +50,7 @@ The integration of findings from these sources highlights the complexity and var
 - [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [fxa300-week03-lesson-fxa300-week03-music-and-processing-1](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)
 - [fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
+- [fxa300-week11-temporal-entrainment-of-cognitive-functions-musical](../sources/fxa300-week11-temporal-entrainment-of-cognitive-functions-musical.md)
 - [fxa302-week10-chapter-17-emotion](../sources/fxa302-week10-chapter-17-emotion.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(17)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2817%29.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(22)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2822%29.md)

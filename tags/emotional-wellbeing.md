@@ -21,6 +21,8 @@ updated: 2026-09-22
 - [Noticing: A Photo Essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
 - [Chromophilia](../sources/fxa202-week10-chromophilia.md)
 - [Exploring Colour Theory Through a Personal Photo Essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
+- [How Participation in Group Singing in the Community Impacts on Emotional Wellbeing: A Qualitative Study on the Perspectives of Group Singing Participants](../sources/fxa300-week11-how-participation-in-group-singing-in-the-community-impacts.md)
+- [Week 11 Discussion: Group Singing and Emotional Wellbeing](../sources/fxa300-week11-lesson-fxa300-week11-page-4-weekly-activities-1.md)
 - [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units: Translation and Validation of the Italian Version of the Arts Observational Scale (ArtsObS)](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [Art-making and Illness - Two Case Studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [The Dance of Wellbeing: Defining the Musical Therapeutic Effect](../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic.md)

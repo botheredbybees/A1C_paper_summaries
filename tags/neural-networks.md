@@ -13,6 +13,7 @@ updated: 2026-09-22
 - [Music and the Brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [Music cognition in more detail](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)
 - [Towards a Cognitive Neuroscience of Consciousness: Basic Evidence and a Workspace Framework](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
+- [Temporal Entrainment of Cognitive Functions: Musical Mnemonics Induce Brain Plasticity and Oscillatory Synchrony in Neural Networks Underlying Memory](../sources/fxa300-week11-temporal-entrainment-of-cognitive-functions-musical.md)
 - [Chapter 17: Emotion](../sources/fxa302-week10-chapter-17-emotion.md)
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2817%29.md)
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2822%29.md)

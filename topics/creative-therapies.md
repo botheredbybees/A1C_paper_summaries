@@ -11,6 +11,7 @@ sources:
   - fxa202-week03-can-photography-help-depression
   - fxa202-week09-noticing-a-photo-essay
   - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
+  - fxa300-week11-using-humour-to-promote-psychological-wellbeing-in
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
   - fxa301-week10-fxa301-week-10-lecture
@@ -24,7 +25,7 @@ tags:
 - creative-therapies
 title: Creative Therapies
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Therapies
@@ -51,6 +52,7 @@ Creative therapies encompass various interventions that use the arts to enhance 
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
 - [fxa202-week10-research-and-evidence-in-arts-health-and-well-being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)
+- [fxa300-week11-using-humour-to-promote-psychological-wellbeing-in](../sources/fxa300-week11-using-humour-to-promote-psychological-wellbeing-in.md)
 - [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
 - [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
 - [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)

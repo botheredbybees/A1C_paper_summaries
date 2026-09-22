@@ -24,6 +24,7 @@ sources:
   - fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in
   - fxa300-week09-music-interventions-for-mechanically-ventilated-patients
   - fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a
+  - fxa300-week11-effect-of-singing-on-symptoms-in-stable-copd-a-systematic
   - fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
   - fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
@@ -105,6 +106,7 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
 - [fxa300-week09-music-interventions-for-mechanically-ventilated-patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)
 - [fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a](../sources/fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a.md)
+- [fxa300-week11-effect-of-singing-on-symptoms-in-stable-copd-a-systematic](../sources/fxa300-week11-effect-of-singing-on-symptoms-in-stable-copd-a-systematic.md)
 - [fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
 - [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)

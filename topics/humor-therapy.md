@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: humor-therapy
 sources:
+  - fxa300-week11-using-humour-to-promote-psychological-wellbeing-in
   - fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
   - fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older
@@ -12,7 +13,7 @@ tags:
 - humor-therapy
 title: Humor Therapy
 type: topic
-updated: 2026-05-15
+updated: 2026-09-22
 ---
 
 ## Humor Therapy
@@ -31,6 +32,7 @@ Across the provided sources, humor therapy emerges as a versatile and engaging i
 
 ## Sources
 
+- [fxa300-week11-using-humour-to-promote-psychological-wellbeing-in](../sources/fxa300-week11-using-humour-to-promote-psychological-wellbeing-in.md)
 - [fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)
 - [fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older](../sources/fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older.md)

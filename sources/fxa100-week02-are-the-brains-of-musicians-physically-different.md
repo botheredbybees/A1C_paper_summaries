@@ -21,7 +21,7 @@ tags: ["brain-plasticity", "music-therapy", "neuroscience-research", "musical-tr
 key_concepts: ["brain plasticity", "morphological changes", "perfect pitch", "functional differences"]
 methods: ["case study", "functional imaging"]
 slug: fxa100-week02-are-the-brains-of-musicians-physically-different
-related: ["brain-plasticity", "music-therapy", "musical-training-effects", "neuroscience-research"]
+related: ["brain-plasticity", "functional-imaging", "music-therapy", "musical-training-effects", "neuroscience-research"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -56,6 +56,7 @@ This video transcript explores whether the brains of professional musicians exhi
 ## See Also
 
 - [brain-plasticity](../topics/brain-plasticity.md)
+- [functional-imaging](../topics/functional-imaging.md)
 - [music-therapy](../topics/music-therapy.md)
 - [musical-training-effects](../topics/musical-training-effects.md)
 - [neuroscience-research](../topics/neuroscience-research.md)

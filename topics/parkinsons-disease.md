@@ -10,6 +10,9 @@ sources:
   - fxa300-week08-lesson-fxa300-week08-page-3
   - fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state
   - fxa300-week08-neurologic-music-therapy-training-for-mobility-and
+  - fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons
+  - fxa300-week11-does-singing-and-vocal-strengthening-improve-vocal-ability
+  - fxa300-week11-therapeutic-singing-as-an-early-intervention-for-swallowing
   - fxa301-week03-transcript-youtube-5utv1ergbs8
   - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
   - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
@@ -53,6 +56,9 @@ The sources emphasize the pivotal role of Lewy bodies and their primary componen
 - [fxa300-week08-lesson-fxa300-week08-page-3](../sources/fxa300-week08-lesson-fxa300-week08-page-3.md)
 - [fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
 - [fxa300-week08-neurologic-music-therapy-training-for-mobility-and](../sources/fxa300-week08-neurologic-music-therapy-training-for-mobility-and.md)
+- [fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons](../sources/fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons.md)
+- [fxa300-week11-does-singing-and-vocal-strengthening-improve-vocal-ability](../sources/fxa300-week11-does-singing-and-vocal-strengthening-improve-vocal-ability.md)
+- [fxa300-week11-therapeutic-singing-as-an-early-intervention-for-swallowing](../sources/fxa300-week11-therapeutic-singing-as-an-early-intervention-for-swallowing.md)
 - [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)
 - [fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
 - [fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a](../sources/fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a.md)

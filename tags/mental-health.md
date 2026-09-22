@@ -48,6 +48,7 @@ updated: 2026-09-22
 - [Perspectives in Performing Arts Medicine Practice II](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii.md)
 - [Social Anxiety Influences the Stress-buffering Potential of Social Presence: Evidence From Cardiovascular and Affective Reactivity Under Stress](../sources/fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of.md)
 - [The occurrence of performance anxiety among musicians](../sources/fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians.md)
+- [Singing and Wellbeing: The FINAL LECTURE](../sources/fxa300-week11-singing-and-wellbeing-the-final-lecture.md)
 - [The Oxford Handbook of Dance and Wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [Mental Health and Wellbeing across the Life Course - Extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)

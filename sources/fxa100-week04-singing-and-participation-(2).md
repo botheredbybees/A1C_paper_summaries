@@ -11,7 +11,7 @@ tags: ["dementia-care", "mental-health-support", "singing-therapy", "social-isol
 key_concepts: ["group singing", "stress hormones", "melatonin levels", "dementia care programs", "emotional support"]
 methods: ["case studies"]
 slug: fxa100-week04-singing-and-participation-(2)
-related: ["community-music", "dementia-care", "mental-health-support", "singing-therapy", "social-isolation", "wellbeing-interventions"]
+related: ["community-music", "dementia-care", "mental-health-support", "singing-therapy", "social-isolation", "stress-hormones", "wellbeing-interventions"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -51,4 +51,5 @@ The document discusses the social benefits of singing for individuals with demen
 - [mental-health-support](../topics/mental-health-support.md)
 - [singing-therapy](../topics/singing-therapy.md)
 - [social-isolation](../topics/social-isolation.md)
+- [stress-hormones](../topics/stress-hormones.md)
 - [wellbeing-interventions](../topics/wellbeing-interventions.md)

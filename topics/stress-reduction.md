@@ -6,6 +6,9 @@ sources:
   - fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and
   - fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing
   - fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the
+  - fxa300-week11-choir-versus-solo-singing-effects-on-mood-and-salivary
+  - fxa300-week11-effects-of-singing-on-oral-function-stress-and-immunity
+  - fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - psy214-week06-nature-and-well-being-theories
@@ -20,7 +23,7 @@ tags:
 - stress-reduction
 title: Stress Reduction Through Humor
 type: topic
-updated: 2026-09-08
+updated: 2026-09-22
 ---
 
 ## Stress Reduction Through Humor
@@ -42,6 +45,9 @@ The utilization of humor and laughter as interventions for stress reduction is e
 - [fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and](../sources/fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and.md)
 - [fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing](../sources/fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing.md)
 - [fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the](../sources/fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the.md)
+- [fxa300-week11-choir-versus-solo-singing-effects-on-mood-and-salivary](../sources/fxa300-week11-choir-versus-solo-singing-effects-on-mood-and-salivary.md)
+- [fxa300-week11-effects-of-singing-on-oral-function-stress-and-immunity](../sources/fxa300-week11-effects-of-singing-on-oral-function-stress-and-immunity.md)
+- [fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness](../sources/fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness.md)
 - [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
 - [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [psy214-week06-nature-and-well-being-theories](../sources/psy214-week06-nature-and-well-being-theories.md)

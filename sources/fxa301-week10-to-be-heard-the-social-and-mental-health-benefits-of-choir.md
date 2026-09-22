@@ -11,7 +11,7 @@ tags: ["mental-health-benefits", "social-connectivity", "choir-singing", "disadv
 key_concepts: ["emotional-regulation", "spiritual-experience", "group-identity", "self-perception"]
 methods: ["interpretative-phenomenological-analysis"]
 slug: fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
-related: ["choir-singing", "mental-health-benefits", "resilience-building"]
+related: ["choir-singing", "mental-health-benefits", "resilience-building", "social-connectivity"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -47,3 +47,4 @@ The study explores the wellbeing and social benefits of choir singing for indivi
 - [choir-singing](../topics/choir-singing.md)
 - [mental-health-benefits](../topics/mental-health-benefits.md)
 - [resilience-building](../topics/resilience-building.md)
+- [social-connectivity](../topics/social-connectivity.md)

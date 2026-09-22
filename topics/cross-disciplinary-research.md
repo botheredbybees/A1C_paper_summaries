@@ -5,13 +5,14 @@ slug: the-role-of-music-in-adolescent-development
 sources:
   - fxa101-week05-creativity-and-innovation-under-constraints-a-cross
   - fxa300-week02-music-in-the-human-experience-an-introduction-to-music
+  - fxa300-week11-does-singing-and-vocal-strengthening-improve-vocal-ability
   - fxa302-week04-breast-cancer-in-a-renaissance-book-of-the-dead
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
 tags:
 - cross-disciplinary-research
 title: The Role Of Music In Adolescent Development
 type: topic
-updated: 2026-08-03
+updated: 2026-09-22
 ---
 
 ## The Role Of Music In Adolescent Development
@@ -32,5 +33,6 @@ Music has a profound impact on adolescent development, integrating psychological
 
 - [fxa101-week05-creativity-and-innovation-under-constraints-a-cross](../sources/fxa101-week05-creativity-and-innovation-under-constraints-a-cross.md)
 - [fxa300-week02-music-in-the-human-experience-an-introduction-to-music](../sources/fxa300-week02-music-in-the-human-experience-an-introduction-to-music.md)
+- [fxa300-week11-does-singing-and-vocal-strengthening-improve-vocal-ability](../sources/fxa300-week11-does-singing-and-vocal-strengthening-improve-vocal-ability.md)
 - [fxa302-week04-breast-cancer-in-a-renaissance-book-of-the-dead](../sources/fxa302-week04-breast-cancer-in-a-renaissance-book-of-the-dead.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)

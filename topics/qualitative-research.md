@@ -21,6 +21,7 @@ sources:
   - fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a
   - fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator
   - fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study
+  - fxa300-week11-how-participation-in-group-singing-in-the-community-impacts
   - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
   - fxa301-week01-lesson-fxa301-week01-page-1-hm
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
@@ -43,7 +44,7 @@ tags:
 - qualitative-research
 title: Qualitative Research in Health and Well-being Interventions
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -80,6 +81,7 @@ The sources collectively highlight the importance of qualitative research method
 - [fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a](../sources/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md)
 - [fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator](../sources/fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator.md)
 - [fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study](../sources/fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study.md)
+- [fxa300-week11-how-participation-in-group-singing-in-the-community-impacts](../sources/fxa300-week11-how-participation-in-group-singing-in-the-community-impacts.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [fxa301-week01-lesson-fxa301-week01-page-1-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)

@@ -11,6 +11,7 @@ sources:
   - fxa101-week00-i-just-love-it-avid-knitters-describe-health-and-well-being
   - fxa101-week00-the-flourishing-writer
   - fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life
+  - fxa300-week11-truly-madly-deeply-lyrics
   - fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
   - fxa301-week01-evaluating-community-arts-community-well-being
   - fxa301-week01-evaluating-community-arts-community-well-being-an
@@ -44,7 +45,7 @@ tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Well-Being Through Creative Arts
@@ -71,6 +72,7 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [fxa101-week00-i-just-love-it-avid-knitters-describe-health-and-well-being](../sources/fxa101-week00-i-just-love-it-avid-knitters-describe-health-and-well-being.md)
 - [fxa101-week00-the-flourishing-writer](../sources/fxa101-week00-the-flourishing-writer.md)
 - [fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life](../sources/fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life.md)
+- [fxa300-week11-truly-madly-deeply-lyrics](../sources/fxa300-week11-truly-madly-deeply-lyrics.md)
 - [fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being](../sources/fxa301-week01-evaluating-community-arts-community-well-being.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being-an](../sources/fxa301-week01-evaluating-community-arts-community-well-being-an.md)

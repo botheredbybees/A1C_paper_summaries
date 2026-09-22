@@ -4,12 +4,13 @@ domain: intervention
 slug: social-participation-through-art
 sources:
   - fxa202-week10-the-reciprocal-influence-of-art-and-aging
+  - fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons
   - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
 tags:
 - social-participation
 title: Social Participation Through Art
 type: topic
-updated: 2026-05-11
+updated: 2026-09-22
 ---
 
 ## Social Participation Through Art
@@ -31,4 +32,5 @@ Source 2 broadens the scope to include refugees, exploring multidisciplinary app
 ## Sources
 
 - [fxa202-week10-the-reciprocal-influence-of-art-and-aging](../sources/fxa202-week10-the-reciprocal-influence-of-art-and-aging.md)
+- [fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons](../sources/fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons.md)
 - [fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)

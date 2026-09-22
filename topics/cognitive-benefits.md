@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: cognitive-benefits
 sources:
-- fxa303-week03-arts-in-adolescence
+  - fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction
+  - fxa300-week11-lesson-fxa300-week11-page-2-1
+  - fxa303-week03-arts-in-adolescence
 tags:
 - cognitive-benefits
 title: Cognitive Benefits
 type: topic
-updated: 2026-05-04
+updated: 2026-09-22
 ---
 
 ## Cognitive Benefits
@@ -27,4 +29,6 @@ The sources collectively highlight the significant cognitive benefits derived fr
 
 ## Sources
 
+- [fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction](../sources/fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction.md)
+- [fxa300-week11-lesson-fxa300-week11-page-2-1](../sources/fxa300-week11-lesson-fxa300-week11-page-2-1.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)

@@ -5,6 +5,7 @@ title: "Creative Arts and Music Therapies in Stroke Rehabilitation"
 confidence: high
 tags: ["stroke-rehabilitation"]
 sources:
+  - fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons
   - fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke
   - fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a
   - fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a
@@ -13,7 +14,7 @@ sources:
   - fxa302-week10-neurologic-music-therapy-in-multidisciplinary-acute-stroke
   - fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation
   - fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Arts and Music Therapies in Stroke Rehabilitation
@@ -32,6 +33,7 @@ Creative arts and music therapies are increasingly recognized as valuable adjunc
 
 ## Sources
 
+- [fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons](../sources/fxa300-week11-choral-singing-therapy-following-stroke-or-parkinsons.md)
 - [fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)
 - [fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a](../sources/fxa302-week10-creative-arts-based-therapies-for-stroke-survivors-a.md)
 - [fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)

@@ -6,6 +6,7 @@ sources:
   - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
   - fxa202-week03-week-3-introduction-photography-and-health
   - fxa202-week03-week-three-lecture-transcript-photography-health-and-social
+  - fxa300-week11-lesson-fxa300-week11-page-3-1
   - fxa301-week01-evaluating-and-establishing-national-norms-for-mental
   - fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing
   - fxa301-week03-creative-health-and-care-experienced-children-and-young
@@ -62,7 +63,7 @@ tags:
 - mental-wellbeing
 title: Photography as a Tool for Mental Wellbeing
 type: topic
-updated: 2026-09-08
+updated: 2026-09-22
 ---
 
 ## Photography as a Tool for Mental Wellbeing
@@ -84,6 +85,7 @@ Both sources explore photography's role in enhancing mental health through mindf
 - [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [fxa202-week03-week-3-introduction-photography-and-health](../sources/fxa202-week03-week-3-introduction-photography-and-health.md)
 - [fxa202-week03-week-three-lecture-transcript-photography-health-and-social](../sources/fxa202-week03-week-three-lecture-transcript-photography-health-and-social.md)
+- [fxa300-week11-lesson-fxa300-week11-page-3-1](../sources/fxa300-week11-lesson-fxa300-week11-page-3-1.md)
 - [fxa301-week01-evaluating-and-establishing-national-norms-for-mental](../sources/fxa301-week01-evaluating-and-establishing-national-norms-for-mental.md)
 - [fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing](../sources/fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing.md)
 - [fxa301-week03-creative-health-and-care-experienced-children-and-young](../sources/fxa301-week03-creative-health-and-care-experienced-children-and-young.md)

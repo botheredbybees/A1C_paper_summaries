@@ -9,5 +9,6 @@ updated: 2026-09-22
 - [Survival of the Synesthesia Gene: Why Do People Hear Colors and Taste Words?](../sources/fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors.md)
 - [Red Signals Dominance in Male Rhesus Macaques](../sources/fxa101-week07-red-signals-dominance-in-male-rhesus-macaques.md)
 - [This Is Your Brain On Music: Understanding a Human Obsession - Chapter 9](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%284%29.md)
+- [Singing and social bonding: changes in connectivity and pain threshold as a function of group size](../sources/fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain.md)
 - [Does Being Human Matter?](../sources/fxa301-week10-does-being-human-matter.md)
 - [The Persisting Conflict of Interpretations of Shamanism](../sources/fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism.md)

@@ -13,6 +13,8 @@ updated: 2026-09-22
 - [Using Creative Arts Therapy to Promote Academic Success in the Postsecondary Setting: A Secondary Narrative Review of Preliminary Findings from 2009 to 2019](../sources/fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in.md)
 - [Creativity throughout life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
 - [From singing to speaking: facilitating recovery from nonfluent aphasia](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
+- [Singing for adults with chronic obstructive pulmonary disease](../sources/fxa300-week11-singing-for-adults-with-chronic-obstructive-pulmonary.md)
+- [The effects of mother\u2013infant singing on emotional closeness, affect, anxiety, and stress hormones](../sources/fxa300-week11-the-effects-of-motherinfant-singing-on-emotional-closeness.md)
 - [The Art and Science of Dance/Movement Therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
 - [A Systematic Review of the Efficacy of Creative Arts Therapies in the Treatment of Adults With PTSD](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
 - [Using Creative Arts in Trauma Therapy: The Neuroscience of Healing](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)

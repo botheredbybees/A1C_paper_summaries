@@ -7,13 +7,15 @@ doi: https://doi.org/10.1136/medhum-2017-011195
 appearances:
   - unit: FXA301
     week: "10"
-tags: ["community-singing", "mental-health-recovery", "wellbeing-initiatives", "inclusive-environments", "social-support", "fxa301"]
+  - unit: FXA300
+    week: "11"
+tags: ["community-singing", "mental-health-recovery", "wellbeing-initiatives", "inclusive-environments", "social-support", "fxa301", "fxa300"]
 key_concepts: ["mental health recovery", "group singing therapy", "inclusive social environment"]
 methods: ["case study"]
 slug: fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
 related: ["community-singing", "mental-health-recovery", "social-support", "wellbeing-initiatives"]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-09-22
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental.md_

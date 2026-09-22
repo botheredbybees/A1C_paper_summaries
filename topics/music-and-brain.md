@@ -15,7 +15,9 @@ sources:
   - fxa300-week02-fxa300-week-2-introduction-transcript
   - fxa300-week02-lesson-fxa300-week02-page-4-activities-1
   - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
-updated: 2026-08-07
+  - fxa300-week11-shared-and-distinct-neural-correlates-of-singing-and
+  - fxa300-week11-singing-in-the-brain-neural-representation-of-music-and
+updated: 2026-09-22
 ---
 
 ## Music and the Brain
@@ -44,3 +46,5 @@ The integration of research on music and brain function reveals several key insi
 - [fxa300-week02-fxa300-week-2-introduction-transcript](../sources/fxa300-week02-fxa300-week-2-introduction-transcript.md)
 - [fxa300-week02-lesson-fxa300-week02-page-4-activities-1](../sources/fxa300-week02-lesson-fxa300-week02-page-4-activities-1.md)
 - [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
+- [fxa300-week11-shared-and-distinct-neural-correlates-of-singing-and](../sources/fxa300-week11-shared-and-distinct-neural-correlates-of-singing-and.md)
+- [fxa300-week11-singing-in-the-brain-neural-representation-of-music-and](../sources/fxa300-week11-singing-in-the-brain-neural-representation-of-music-and.md)

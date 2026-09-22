@@ -8,9 +8,10 @@ sources:
   - fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors
   - fxa101-week07-red-signals-dominance-in-male-rhesus-macaques
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(4)
+  - fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain
   - fxa301-week10-does-being-human-matter
   - fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism
-updated: 2026-08-17
+updated: 2026-09-22
 ---
 
 ## Evolutionary Psychology of Sensory Perception
@@ -32,5 +33,6 @@ The sources collectively delve into the theoretical frameworks within evolutiona
 - [fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors](../sources/fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors.md)
 - [fxa101-week07-red-signals-dominance-in-male-rhesus-macaques](../sources/fxa101-week07-red-signals-dominance-in-male-rhesus-macaques.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(4)](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%284%29.md)
+- [fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain](../sources/fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain.md)
 - [fxa301-week10-does-being-human-matter](../sources/fxa301-week10-does-being-human-matter.md)
 - [fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism](../sources/fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism.md)

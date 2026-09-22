@@ -6,6 +6,7 @@ sources:
   - fxa100-week01-dementia-facts-and-figures
   - fxa100-week03-implementation-survey-phase-iii-student-volunteer-program
   - fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
+  - fxa300-week11-using-humour-to-promote-psychological-wellbeing-in
   - fxa301-applied-artes-and-health-ch03-85-ulrich
   - fxa301-applied-artes-and-health-ch03-85-ulrich-(2)
   - fxa301-week06-engaging-with-music-and-dance
@@ -16,7 +17,7 @@ tags:
 - elder-care
 title: Elder Care Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 ## Elder Care Interventions
@@ -38,6 +39,7 @@ The field of elder care interventions encompasses a variety of approaches aimed 
 - [fxa100-week01-dementia-facts-and-figures](../sources/fxa100-week01-dementia-facts-and-figures.md)
 - [fxa100-week03-implementation-survey-phase-iii-student-volunteer-program](../sources/fxa100-week03-implementation-survey-phase-iii-student-volunteer-program.md)
 - [fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama](../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama.md)
+- [fxa300-week11-using-humour-to-promote-psychological-wellbeing-in](../sources/fxa300-week11-using-humour-to-promote-psychological-wellbeing-in.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)
 - [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
