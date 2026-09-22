@@ -6,6 +6,7 @@ confidence: medium
 tags: ["performance-art"]
 sources:
   - fxa101-week00-this-is-eating-your-greens-this-is-doing-your-homework
+  - fxa101-week11-transcript-one-of-the-most-prominent-creatives-closely
   - fxa302-week11-transcript-the-following-video-recorded-by-lisa-bufano
 updated: 2026-09-22
 ---
@@ -27,4 +28,5 @@ Performance art is a diverse and multi-faceted practice that challenges traditio
 ## Sources
 
 - [fxa101-week00-this-is-eating-your-greens-this-is-doing-your-homework](../sources/fxa101-week00-this-is-eating-your-greens-this-is-doing-your-homework.md)
+- [fxa101-week11-transcript-one-of-the-most-prominent-creatives-closely](../sources/fxa101-week11-transcript-one-of-the-most-prominent-creatives-closely.md)
 - [fxa302-week11-transcript-the-following-video-recorded-by-lisa-bufano](../sources/fxa302-week11-transcript-the-following-video-recorded-by-lisa-bufano.md)

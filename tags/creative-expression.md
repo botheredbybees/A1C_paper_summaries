@@ -19,6 +19,7 @@ updated: 2026-09-22
 - [Exploring nature-based art therapy: a scoping review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [Crafting Wellbeing: Exploring the Link Between Textile Craft and Wellbeing](../sources/fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft.md)
 - [What Sort of Creative Are You?](../sources/fxa101-week02-what-sort-of-creative-are-you.md)
+- [FXA101 Week 11 Welcome](../sources/fxa101-week11-fxa101-week-11-welcome.md)
 - [Improve Your Photography Skills with These 9 Photo Composition Tips by Steve McCurry](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression-%282%29.md)
 - [Using photography for wellbeing - FXA202 The Photo Essay: Storytelling with image and text](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)

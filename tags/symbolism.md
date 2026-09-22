@@ -6,5 +6,6 @@ updated: 2026-09-22
 
 ## Symbolism
 
+- [Symbols In Art: Mirrors & Reflections](../sources/fxa101-week11-symbols-in-art-mirrors-reflections.md)
 - [Activities for Week 9: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
 - [Puppet Play Therapy with Children of All Ages](../sources/fxa303-puppet-play-therapy-ch09-458-woltmann.md)

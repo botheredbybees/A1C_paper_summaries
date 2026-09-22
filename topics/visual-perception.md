@@ -11,11 +11,12 @@ sources:
   - fxa101-week09-the-psychology-of-art
   - fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade
   - fxa101-week10-shadow-the-architectural-power-of-withholding-light
+  - fxa101-week11-reflections-in-art
   - fxa300-week04-transcript-delete-this-element
   - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
   - fxa302-week10-essentials-of-cognitive-neuroscience-(4)
   - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-8-where-does
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Visual Perception
@@ -40,6 +41,7 @@ The exploration of visual perception involves understanding how the brain proces
 - [fxa101-week09-the-psychology-of-art](../sources/fxa101-week09-the-psychology-of-art.md)
 - [fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade](../sources/fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade.md)
 - [fxa101-week10-shadow-the-architectural-power-of-withholding-light](../sources/fxa101-week10-shadow-the-architectural-power-of-withholding-light.md)
+- [fxa101-week11-reflections-in-art](../sources/fxa101-week11-reflections-in-art.md)
 - [fxa300-week04-transcript-delete-this-element](../sources/fxa300-week04-transcript-delete-this-element.md)
 - [fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(4)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%284%29.md)

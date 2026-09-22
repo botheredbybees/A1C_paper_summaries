@@ -12,6 +12,8 @@ updated: 2026-09-22
 - [What kind of Research is Research Through Design](../sources/fxa101-week05-what-kind-of-research-is-research-through-design.md)
 - [Sem 2 2026 \u2013 Week 4 Lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
 - [Week 3 Lecture - FXA101 Creativity for Life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
+- [FXA101 Week 11 Welcome](../sources/fxa101-week11-fxa101-week-11-welcome.md)
+- [Introduction to Week 11 - FXA101 Creativity and Ageing](../sources/fxa101-week11-lesson-fxa101-week11-page-1-introduction-to-week-11.md)
 - [Journal and Visual Research Guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [Music Therapy in Mental Health for Illness Management and Recovery](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
 - [Can Music Make You Sick? Measuring the Price of Musical Ambition](../sources/fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical.md)

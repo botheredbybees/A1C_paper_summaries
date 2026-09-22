@@ -9,6 +9,8 @@ sources:
   - fxa101-week05-what-kind-of-research-is-research-through-design
   - fxa101-week10-sem-2-2026-week-4-lecture
   - fxa101-week10-week-3-lecture-fxa101-creativity-for-life
+  - fxa101-week11-fxa101-week-11-welcome
+  - fxa101-week11-lesson-fxa101-week11-page-1-introduction-to-week-11
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa300-week09-music-therapy-in-mental-health-for-illness-management-and
   - fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical
@@ -97,6 +99,8 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa101-week05-what-kind-of-research-is-research-through-design](../sources/fxa101-week05-what-kind-of-research-is-research-through-design.md)
 - [fxa101-week10-sem-2-2026-week-4-lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
 - [fxa101-week10-week-3-lecture-fxa101-creativity-for-life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
+- [fxa101-week11-fxa101-week-11-welcome](../sources/fxa101-week11-fxa101-week-11-welcome.md)
+- [fxa101-week11-lesson-fxa101-week11-page-1-introduction-to-week-11](../sources/fxa101-week11-lesson-fxa101-week11-page-1-introduction-to-week-11.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa300-week09-music-therapy-in-mental-health-for-illness-management-and](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
 - [fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical](../sources/fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical.md)

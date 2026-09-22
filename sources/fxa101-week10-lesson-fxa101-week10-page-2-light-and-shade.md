@@ -11,7 +11,7 @@ tags: ["light-and-shadow", "chiaroscuro", "visual-perception", "art-history", "c
 key_concepts: ["chiaroscuro", "lighting-techniques", "symbolism-in-art"]
 methods: []
 slug: fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade
-related: ["art-history", "chiaroscuro", "light-and-shadow", "visual-perception"]
+related: ["art-history", "chiaroscuro", "light-and-shadow", "symbolism-in-art", "visual-perception"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -45,4 +45,5 @@ This lesson explores the significance of light and shadow in visual arts, focusi
 - [art-history](../topics/art-history.md)
 - [chiaroscuro](../topics/chiaroscuro.md)
 - [light-and-shadow](../topics/light-and-shadow.md)
+- [symbolism-in-art](../topics/symbolism-in-art.md)
 - [visual-perception](../topics/visual-perception.md)

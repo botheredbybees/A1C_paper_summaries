@@ -9,6 +9,9 @@ sources:
   - fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey
   - fxa101-week05-fearful-symmetry-inkblot-books-18571915
   - fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade
+  - fxa101-week11-reflections-in-art
+  - fxa101-week11-symbols-in-art-mirrors-reflections
+  - fxa101-week11-transcript-one-of-the-most-prominent-creatives-closely
   - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
   - fxa302-week06-monet-and-cataracts
   - fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only
@@ -21,7 +24,7 @@ tags:
 - art-history
 title: Neural Processing of Art
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neural Processing of Art
@@ -45,6 +48,9 @@ The study of how the brain processes art reveals significant insights into cogni
 - [fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey](../sources/fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey.md)
 - [fxa101-week05-fearful-symmetry-inkblot-books-18571915](../sources/fxa101-week05-fearful-symmetry-inkblot-books-18571915.md)
 - [fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade](../sources/fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade.md)
+- [fxa101-week11-reflections-in-art](../sources/fxa101-week11-reflections-in-art.md)
+- [fxa101-week11-symbols-in-art-mirrors-reflections](../sources/fxa101-week11-symbols-in-art-mirrors-reflections.md)
+- [fxa101-week11-transcript-one-of-the-most-prominent-creatives-closely](../sources/fxa101-week11-transcript-one-of-the-most-prominent-creatives-closely.md)
 - [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)
 - [fxa302-week06-monet-and-cataracts](../sources/fxa302-week06-monet-and-cataracts.md)
 - [fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only](../sources/fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only.md)

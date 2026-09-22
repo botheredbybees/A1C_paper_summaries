@@ -9,6 +9,7 @@ sources:
   - fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the
   - fxa101-week07-textures-as-probes-of-visual-processing
   - fxa101-week09-background-music-stints-creativity-evidence-from-compound
+  - fxa101-week11-reflections-in-art
   - fxa300-week01-week-1-introduction-music-mind-and-body
   - fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley
   - fxa300-week03-lesson-fxa300-week03-week-2
@@ -29,7 +30,7 @@ tags:
 - cognitive-psychology
 title: Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
 type: topic
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 ## Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
@@ -54,6 +55,7 @@ The synthesis of the cognitive psychology theories from both sources reveals a n
 - [fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the](../sources/fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the.md)
 - [fxa101-week07-textures-as-probes-of-visual-processing](../sources/fxa101-week07-textures-as-probes-of-visual-processing.md)
 - [fxa101-week09-background-music-stints-creativity-evidence-from-compound](../sources/fxa101-week09-background-music-stints-creativity-evidence-from-compound.md)
+- [fxa101-week11-reflections-in-art](../sources/fxa101-week11-reflections-in-art.md)
 - [fxa300-week01-week-1-introduction-music-mind-and-body](../sources/fxa300-week01-week-1-introduction-music-mind-and-body.md)
 - [fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
 - [fxa300-week03-lesson-fxa300-week03-week-2](../sources/fxa300-week03-lesson-fxa300-week03-week-2.md)

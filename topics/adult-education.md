@@ -5,9 +5,10 @@ title: "Adult Education Through Creative Arts"
 confidence: medium
 tags: ["adult-education"]
 sources:
+  - fxa101-week11-adult-learners-learning-from-experience-using-a-reflective
   - fxa301-week06-ballet-moves-for-adult-creative-health
   - fxa302-week01-creative-arts-adult-community-learning
-updated: 2026-08-10
+updated: 2026-09-22
 ---
 
 ## Adult Education Through Creative Arts
@@ -26,5 +27,6 @@ The integration of creative arts in adult education, as exemplified by ballet an
 
 ## Sources
 
+- [fxa101-week11-adult-learners-learning-from-experience-using-a-reflective](../sources/fxa101-week11-adult-learners-learning-from-experience-using-a-reflective.md)
 - [fxa301-week06-ballet-moves-for-adult-creative-health](../sources/fxa301-week06-ballet-moves-for-adult-creative-health.md)
 - [fxa302-week01-creative-arts-adult-community-learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)

@@ -5,9 +5,10 @@ title: "Symbolism in Therapy and the Arts"
 confidence: medium
 tags: ["symbolism"]
 sources:
+  - fxa101-week11-symbols-in-art-mirrors-reflections
   - fxa302-week09-lesson-fxa302-week09-page-4-activities-new
   - fxa303-puppet-play-therapy-ch09-458-woltmann
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 ## Symbolism in Therapy and the Arts
@@ -26,5 +27,6 @@ Symbolism plays a pivotal role in therapeutic interventions and the arts, facili
 
 ## Sources
 
+- [fxa101-week11-symbols-in-art-mirrors-reflections](../sources/fxa101-week11-symbols-in-art-mirrors-reflections.md)
 - [fxa302-week09-lesson-fxa302-week09-page-4-activities-new](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
 - [fxa303-puppet-play-therapy-ch09-458-woltmann](../sources/fxa303-puppet-play-therapy-ch09-458-woltmann.md)

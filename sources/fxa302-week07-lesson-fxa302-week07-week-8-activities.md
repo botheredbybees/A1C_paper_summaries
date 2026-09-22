@@ -11,7 +11,7 @@ tags: ["poster-assignment", "arts-health", "wellbeing", "apa-7-citation", "fxa30
 key_concepts: ["research-skills", "critical-analysis", "reflection"]
 methods: []
 slug: fxa302-week07-lesson-fxa302-week07-week-8-activities
-related: ["arts-health", "poster-assignment", "research-skills", "wellbeing"]
+related: ["apa-7-citation", "arts-health", "poster-assignment", "research-skills", "wellbeing"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -42,6 +42,7 @@ This lesson outlines the requirements for Assessment Task 2, a Poster assignment
 
 ## See Also
 
+- [apa-7-citation](../topics/apa-7-citation.md)
 - [arts-health](../topics/arts-health.md)
 - [poster-assignment](../topics/poster-assignment.md)
 - [research-skills](../topics/research-skills.md)

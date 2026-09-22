@@ -5,6 +5,7 @@ slug: professional-development-in-music-therapy
 sources:
   - fxa100-week02-history-of-music-therapy
   - fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking
+  - fxa101-week11-adult-learners-learning-from-experience-using-a-reflective
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa301-week01-arts-projects-for-individuals-and-groups
   - fxa301-week11-projects-art-beyond-sight
@@ -16,7 +17,7 @@ tags:
 - professional-development
 title: Professional Development in Music Therapy
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Professional Development in Music Therapy
@@ -36,6 +37,7 @@ The integration of professional development within the framework of music therap
 
 - [fxa100-week02-history-of-music-therapy](../sources/fxa100-week02-history-of-music-therapy.md)
 - [fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking](../sources/fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking.md)
+- [fxa101-week11-adult-learners-learning-from-experience-using-a-reflective](../sources/fxa101-week11-adult-learners-learning-from-experience-using-a-reflective.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa301-week01-arts-projects-for-individuals-and-groups](../sources/fxa301-week01-arts-projects-for-individuals-and-groups.md)
 - [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)

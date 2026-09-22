@@ -7,6 +7,7 @@ updated: 2026-09-22
 ## Public Art
 
 - [Walking With/In Place: The Walking Turn In Socially Engaged Public Art From Aotearoa New Zealand](../sources/fxa101-week00-walking-within-place-the-walking-turn-in-socially-engaged.md)
+- [Introduction to Week 11 - FXA101 Creativity and Ageing](../sources/fxa101-week11-lesson-fxa101-week11-page-1-introduction-to-week-11.md)
 - [Contemporary Art in Healing Environments](../sources/fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report.md)
 - [The means to flourish: arts in community health and education](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [Cork as canvas: Exploring intersections of citizenship and collective memory in the Shandon Big Wash Up murals](../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and.md)
