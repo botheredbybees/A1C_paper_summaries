@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: experiential-arts-program
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Experiential Arts Program

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-of-improv
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neuroscience Of Improv

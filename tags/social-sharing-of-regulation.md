@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-sharing-of-regulation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Social Sharing Of Regulation

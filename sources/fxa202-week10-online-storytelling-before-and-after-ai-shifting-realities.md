@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Online Storytelling Before and After AI: Shifting Realities in Text, Image, Video, and Audience Experiences"
-apa7: "Cheriti, F., Mehiri, D., & Saiti, A. (2025). Online storytelling before and after AI: Shifting realities in text, image, video, and audience experiences. Science, Education and Innovations in the Context of Modern Problems, 8(11), 573\u2013586. https://doi.org/10.56352/sei/8.11.45"
-doi: https://doi.org/10.56352/sei/8.11.45
+apa7: "Cheriti, F., Mehiri, D., & Saiti, A. (2025). Online Storytelling Before and After AI: Shifting Realities in Text, Image, Video, and Audience Experiences. *Science, Education and Innovations in the Context of Modern Problems*. https://doi.org/10.56334/sei/8.11.45"
+doi: https://doi.org/10.56334/sei/8.11.45
 appearances:
   - unit: FXA202
     week: "10"

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Essentials of Cognitive Neuroscience"
-apa7: "Postle, B. R. (2015). Essentials of Cognitive Neuroscience [Ebook]. John Wiley & Sons, Incorporated. Retrieved from http://ebookcentral.proquest.com/lib/utas/detail.action?docID=1919320"
-doi: http://dx.doi.org/10.1002/9781118718117
+apa7: "Postle, B. (2020). ESSENTIALS OF COGNITIVE NEUROSCIENCE. https://doi.org/10.1002/9781394266982"
+doi: https://doi.org/10.1002/9781394266982
 appearances:
   - unit: FXA302
     week: "10"

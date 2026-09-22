@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mass-hysteria
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Mass Hysteria

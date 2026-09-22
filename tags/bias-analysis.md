@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bias-analysis
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Bias Analysis

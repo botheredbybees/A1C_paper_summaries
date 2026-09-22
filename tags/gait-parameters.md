@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gait-parameters
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Gait Parameters

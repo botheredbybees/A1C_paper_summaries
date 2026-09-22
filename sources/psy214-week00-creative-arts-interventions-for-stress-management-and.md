@@ -9,13 +9,15 @@ appearances:
     week: "00"
   - unit: FXA303
     week: "03"
-tags: ["creative-arts-interventions", "stress-management", "systematic-review", "psy214", "fxa303"]
+  - unit: FXA302
+    week: "11"
+tags: ["creative-arts-interventions", "stress-management", "systematic-review", "psy214", "fxa303", "fxa302"]
 key_concepts: ["creative arts therapies", "randomized controlled trials"]
 methods: ["systematic review"]
 slug: psy214-week00-creative-arts-interventions-for-stress-management-and
 related: ["creative-arts-interventions", "stress-management", "systematic-review"]
 created: 2026-06-25
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-creative-arts-interventions-for-stress-management-and.md_

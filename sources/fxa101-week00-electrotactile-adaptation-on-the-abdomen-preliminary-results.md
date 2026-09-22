@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Electrotactile Adaptation on the Abdomen: Preliminary Results"
-apa7: "Kaczmarek, K. A. (2000). Electrotactile adaptation on the abdomen: preliminary results. IEEE Transactions on Rehabilitation Engineering, 8(4), 499-510."
-doi: https://doi.org/10.1109/86.932783
+apa7: "Kaczmarek, K. (2000). Electrotactile adaptation on the abdomen: preliminary results.. *IEEE transactions on rehabilitation engineering*. https://doi.org/10.1109/86.895953"
+doi: https://doi.org/10.1109/86.895953
 appearances:
   - unit: FXA101
 tags: ["electrotactile-stimulation", "adaptation-sensation", "rehabilitation-engineering", "fxa101", "waveform-parameters"]

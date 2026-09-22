@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: implicit-emotional-reactions
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Implicit Emotional Reactions

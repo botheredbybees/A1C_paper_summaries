@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: humanistic-medicine
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Humanistic Medicine

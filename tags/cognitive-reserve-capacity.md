@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-reserve-capacity
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cognitive Reserve Capacity

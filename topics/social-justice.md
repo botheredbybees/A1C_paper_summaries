@@ -9,13 +9,14 @@ sources:
   - fxa301-week11-refugee-art-project
   - fxa302-week01-digital-storytelling
   - fxa302-week10-calcedonies
+  - fxa302-week11-disability-arts-now
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
   - fxa303-week11-web-article-andriani-2023
 tags:
 - social-justice
 title: Neurodiversity and Social Justice in Music Therapy
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neurodiversity and Social Justice in Music Therapy
@@ -40,5 +41,6 @@ The integration of neurodiversity principles into arts-based therapies such as m
 - [fxa301-week11-refugee-art-project](../sources/fxa301-week11-refugee-art-project.md)
 - [fxa302-week01-digital-storytelling](../sources/fxa302-week01-digital-storytelling.md)
 - [fxa302-week10-calcedonies](../sources/fxa302-week10-calcedonies.md)
+- [fxa302-week11-disability-arts-now](../sources/fxa302-week11-disability-arts-now.md)
 - [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [fxa303-week11-web-article-andriani-2023](../sources/fxa303-week11-web-article-andriani-2023.md)

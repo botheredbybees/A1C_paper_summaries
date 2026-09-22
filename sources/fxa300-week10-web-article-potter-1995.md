@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA300
     week: "10"
-tags: ["browser-check", "pmc-access", "ncbi", "fxa300", "website-security", "browser-compatibility"]
+  - unit: FXA302
+    week: "11"
+tags: ["browser-check", "pmc-access", "ncbi", "fxa300", "website-security", "browser-compatibility", "fxa302"]
 key_concepts: ["website security", "browser compatibility"]
 methods: []
 slug: fxa300-week10-web-article-potter-1995
 related: ["browser-check", "browser-compatibility", "ncbi", "pmc-access"]
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week10-web-article-potter-1995.md_

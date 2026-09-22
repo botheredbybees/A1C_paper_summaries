@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-studies
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Disability Studies
@@ -17,3 +17,6 @@ updated: 2026-09-15
 - [Disability in Two Doctor Stories](../sources/fxa302-week10-disability-in-two-doctor-stories.md)
 - [Music and Disability](../sources/fxa302-week10-music-and-disability.md)
 - [Standout](../sources/fxa302-week10-standout.md)
+- [Assistive technology for disabled visual artists: exploring the impact of digital technologies on artistic practice](../sources/fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring.md)
+- [Psychological effects of amputation: A review of studies from India](../sources/fxa302-week11-psychological-effects-of-amputation-a-review-of-studies.md)
+- [Becky's Journey: From Eye Gaze Technology to Digital Art and Academia](../sources/fxa302-week11-transcript-youtube-wbe2l5hg8-y.md)

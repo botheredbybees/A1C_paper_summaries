@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mobility-inflected-music-making
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Mobility Inflected Music Making

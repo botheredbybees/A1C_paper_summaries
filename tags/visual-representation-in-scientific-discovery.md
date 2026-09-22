@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-representation-in-scientific-discovery
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Visual Representation In Scientific Discovery

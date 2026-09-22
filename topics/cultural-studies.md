@@ -11,12 +11,13 @@ sources:
   - fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in
   - fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with
   - fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine
+  - fxa302-week11-frida-kahlos-bodily-geographies
   - fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
 tags:
 - cultural-studies
 title: Cultural Studies and Applied Music
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cultural Studies and Applied Music
@@ -43,4 +44,5 @@ This synthesis explores the intersection of cultural studies with applied music 
 - [fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in](../sources/fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in.md)
 - [fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with](../sources/fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with.md)
 - [fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine](../sources/fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine.md)
+- [fxa302-week11-frida-kahlos-bodily-geographies](../sources/fxa302-week11-frida-kahlos-bodily-geographies.md)
 - [fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)

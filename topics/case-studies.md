@@ -11,7 +11,8 @@ sources:
   - fxa302-week10-essentials-of-cognitive-neuroscience-(11)
   - fxa302-week10-lesson-fxa302-week10-page-2
   - fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using
-updated: 2026-09-15
+  - fxa302-week11-art-therapy-in-burn-cases-a-review-and-case-examples
+updated: 2026-09-22
 ---
 
 ## Case Studies in Art Therapy
@@ -36,3 +37,4 @@ The integration of case studies in art therapy highlights the role of artistic e
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(11)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2811%29.md)
 - [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
 - [fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using](../sources/fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using.md)
+- [fxa302-week11-art-therapy-in-burn-cases-a-review-and-case-examples](../sources/fxa302-week11-art-therapy-in-burn-cases-a-review-and-case-examples.md)

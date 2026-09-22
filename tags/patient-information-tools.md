@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-information-tools
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Patient Information Tools

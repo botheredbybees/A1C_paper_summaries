@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-health-trends
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Global Health Trends

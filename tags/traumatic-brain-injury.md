@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traumatic-brain-injury
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Traumatic Brain Injury

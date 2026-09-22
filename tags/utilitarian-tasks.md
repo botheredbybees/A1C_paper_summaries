@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: utilitarian-tasks
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Utilitarian Tasks

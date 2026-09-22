@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: thematic-joke-writing
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Thematic Joke Writing

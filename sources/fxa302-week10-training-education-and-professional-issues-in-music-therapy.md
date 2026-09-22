@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Training, Education, and Professional Issues in Music Therapy"
-apa7: "Edwards, J. (2017). Training, education, and professional issues in music therapy. In J. Edwards (Ed.), The Oxford handbook of music therapy (pp. 1050-1057). Oxford University Press. https://ebookcentral.proquest.com/lib/utas/detail.action?docID=6380354"
-doi: https://doi.org/10.1093/oxfordhb/9780199341956.013.0045
+apa7: "Edwards, J. (2016). Training, education, and professional issues in music therapy. https://doi.org/10.1093/OXFORDHB/9780199639755.013.49"
+doi: https://doi.org/10.1093/OXFORDHB/9780199639755.013.49
 appearances:
   - unit: FXA302
     week: "10"

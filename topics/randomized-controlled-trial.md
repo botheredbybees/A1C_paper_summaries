@@ -5,13 +5,14 @@ slug: randomized-controlled-trials
 sources:
   - fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate
   - fxa300-week03-music-in-mind-a-randomized-controlled-trial-of-music
+  - fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons
   - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
   - psy214-week09-effect-of-kindness-based-meditation-on-health-and-well
 tags:
 - randomized-controlled-trial
 title: Randomized Controlled Trials
 type: topic
-updated: 2026-09-08
+updated: 2026-09-22
 ---
 
 ## Randomized Controlled Trials
@@ -31,5 +32,6 @@ The sources highlight the utility and multifaceted application of randomized con
 
 - [fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate](../sources/fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate.md)
 - [fxa300-week03-music-in-mind-a-randomized-controlled-trial-of-music](../sources/fxa300-week03-music-in-mind-a-randomized-controlled-trial-of-music.md)
+- [fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons](../sources/fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons.md)
 - [fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)
 - [psy214-week09-effect-of-kindness-based-meditation-on-health-and-well](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: natural-resilience
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Natural Resilience

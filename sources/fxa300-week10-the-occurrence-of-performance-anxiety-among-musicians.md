@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The occurrence of performance anxiety among musicians"
-apa7: "Wesner, R. B., Noyes, R., Jr., & Davis, T. L. (1990). The occurrence of performance anxiety among musicians. Journal of Anxiety Disorders, 4(1), 177-185. https://doi.org/10.1016/0887-6145(90)90034-6"
-doi: https://doi.org/10.1016/0887-6145(90)90034-6
+apa7: "Wesner, R., Noyes, R., & Davis, T. (1990). The occurrence of performance anxiety among musicians.. *Journal of Affective Disorders*. https://doi.org/10.1016/0165-0327(90)90034-6"
+doi: https://doi.org/10.1016/0165-0327(90)90034-6
 appearances:
   - unit: FXA300
     week: "10"
@@ -11,7 +11,7 @@ tags: ["performance-anxiety", "music-performance", "stress-management", "mental-
 key_concepts: ["performance anxiety", "career impact", "gender differences"]
 methods: ["questionnaire survey"]
 slug: fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians
-related: ["mental-health", "music-performance", "musicianship", "performance-anxiety", "stress-management"]
+related: ["career-impact", "mental-health", "music-performance", "musicianship", "performance-anxiety", "stress-management"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -42,6 +42,7 @@ This study investigates the occurrence and impact of performance anxiety among m
 
 ## See Also
 
+- [career-impact](../topics/career-impact.md)
 - [mental-health](../topics/mental-health.md)
 - [music-performance](../topics/music-performance.md)
 - [musicianship](../topics/musicianship.md)

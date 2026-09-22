@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: latent-factors-in-musical-appreciation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Latent Factors In Musical Appreciation

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-barriers
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Research Barriers

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spinal-cord-function
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Spinal Cord Function

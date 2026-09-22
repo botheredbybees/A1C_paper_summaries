@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reader-perception
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Reader Perception

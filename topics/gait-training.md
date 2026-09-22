@@ -5,11 +5,12 @@ slug: gait-training-for-parkinson-s-patients-using-music
 sources:
   - fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go
   - fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
+  - fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons
 tags:
 - gait-training
 title: Gait Training For Parkinson's Patients Using Music
 type: topic
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 ## Gait Training For Parkinson's Patients Using Music
@@ -30,3 +31,4 @@ Research into gait training for Parkinson's patients using music highlights the 
 
 - [fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go](../sources/fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go.md)
 - [fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music](../sources/fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music.md)
+- [fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons](../sources/fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons.md)

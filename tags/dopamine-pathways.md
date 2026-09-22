@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dopamine-pathways
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Dopamine Pathways

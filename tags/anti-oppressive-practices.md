@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anti-oppressive-practices
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Anti Oppressive Practices

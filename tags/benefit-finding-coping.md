@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: benefit-finding-coping
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Benefit Finding Coping

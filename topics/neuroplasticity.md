@@ -30,13 +30,14 @@ sources:
   - fxa302-week10-chapter-17-emotion
   - fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a
   - fxa302-week10-the-neural-basis-of-addiction-a-pathology-of-motivation-and
+  - fxa302-week11-mind-body-interventions-for-treatment-of-phantom-limb-pain
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week03-adolescent-development
 tags:
 - neuroplasticity
 title: Neuroplasticity in Brain Rehabilitation
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neuroplasticity in Brain Rehabilitation
@@ -82,5 +83,6 @@ The sources collectively highlight the potential of music therapy as a therapeut
 - [fxa302-week10-chapter-17-emotion](../sources/fxa302-week10-chapter-17-emotion.md)
 - [fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a](../sources/fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a.md)
 - [fxa302-week10-the-neural-basis-of-addiction-a-pathology-of-motivation-and](../sources/fxa302-week10-the-neural-basis-of-addiction-a-pathology-of-motivation-and.md)
+- [fxa302-week11-mind-body-interventions-for-treatment-of-phantom-limb-pain](../sources/fxa302-week11-mind-body-interventions-for-treatment-of-phantom-limb-pain.md)
 - [fxa303-week02-child-development-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)

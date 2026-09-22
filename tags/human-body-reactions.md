@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-body-reactions
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Human Body Reactions

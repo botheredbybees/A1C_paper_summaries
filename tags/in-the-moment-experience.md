@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: in-the-moment-experience
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## In The Moment Experience

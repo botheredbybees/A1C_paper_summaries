@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quarter-tone-intervals
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Quarter Tone Intervals

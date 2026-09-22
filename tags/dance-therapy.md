@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-therapy
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Dance Therapy
@@ -42,3 +42,4 @@ updated: 2026-09-15
 - [Dance and Creativity within Dance Movement Therapy](../sources/fxa302-week10-dance-and-creativity-within-dance-movement-therapy.md)
 - [Dance Is an Accessible Physical Activity for People with Parkinson\u2019s Disease](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
 - [Dancing for Parkinson\u2019s Disease Online: Clinical Trial Process Evaluation](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)
+- [Creative Adaptations in Performance: Perspectives on Health and Wellbeing Through the Arts](../sources/fxa302-week11-lesson-fxa302-week11-page-3.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppet-assisted-therapy
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Puppet Assisted Therapy

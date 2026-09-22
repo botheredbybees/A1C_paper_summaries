@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reminiscence-based-activities
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Reminiscence Based Activities

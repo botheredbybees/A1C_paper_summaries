@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lgbt-health
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Lgbt Health

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-instrumental-music-performance-timp
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Therapeutic Instrumental Music Performance Timp

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: diffusion-weighted-imaging
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Diffusion Weighted Imaging

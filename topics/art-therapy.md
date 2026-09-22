@@ -86,6 +86,9 @@ sources:
   - fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think
   - fxa302-week10-lesson-fxa302-week10-page-2
   - fxa302-week10-moving-towards-gray-art-therapy-and-ambivalence-in
+  - fxa302-week11-art-therapy-in-burn-cases-a-review-and-case-examples
+  - fxa302-week11-artistic-activities-and-psychological-well-being-perceived
+  - fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing
   - fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing
   - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
   - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
@@ -104,7 +107,7 @@ sources:
   - fxa303-week11-the-power-of-art-to-transform-and-restore
   - fxa303-week11-web-article-hardy-2019
   - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Art Therapy for Dementia
@@ -204,6 +207,9 @@ Art therapy emerges as a multifaceted intervention that significantly impacts co
 - [fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
 - [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
 - [fxa302-week10-moving-towards-gray-art-therapy-and-ambivalence-in](../sources/fxa302-week10-moving-towards-gray-art-therapy-and-ambivalence-in.md)
+- [fxa302-week11-art-therapy-in-burn-cases-a-review-and-case-examples](../sources/fxa302-week11-art-therapy-in-burn-cases-a-review-and-case-examples.md)
+- [fxa302-week11-artistic-activities-and-psychological-well-being-perceived](../sources/fxa302-week11-artistic-activities-and-psychological-well-being-perceived.md)
+- [fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing](../sources/fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing.md)
 - [fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing.md)
 - [fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
 - [fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)

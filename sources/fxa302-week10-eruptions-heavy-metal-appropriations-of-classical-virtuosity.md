@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Eruptions: Heavy Metal Appropriations of Classical Virtuosity"
-apa7: "Walser, R. (1992). Eruptions: Heavy Metal Appropriations of Classical Virtuosity. Popular Music, 11(3), 263-308. https://doi.org/10.1017/S0261143000006196"
-doi: https://doi.org/10.1017/S0261143000006196
+apa7: "Walser, R. (1992). Eruptions: heavy metal appropriations of classical virtuosity. *Popular Music*. https://doi.org/10.1017/S0261143000005158"
+doi: https://doi.org/10.1017/S0261143000005158
 appearances:
   - unit: FXA302
     week: "10"

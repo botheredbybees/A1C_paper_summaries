@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: americans-with-disabilities-act
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Americans With Disabilities Act

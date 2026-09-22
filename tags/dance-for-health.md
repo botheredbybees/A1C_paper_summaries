@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-for-health
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Dance For Health

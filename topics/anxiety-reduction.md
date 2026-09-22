@@ -6,6 +6,7 @@ sources:
   - fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness
   - fxa300-week08-the-effects-of-music-intervention-in-the-management-of
   - fxa300-week09-music-interventions-for-mechanically-ventilated-patients
+  - fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during
   - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
   - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
   - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
@@ -14,7 +15,7 @@ tags:
 - anxiety-reduction
 title: Anxiety Reduction Through Puppet Play Therapy
 type: topic
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 ## Anxiety Reduction Through Puppet Play Therapy
@@ -36,6 +37,7 @@ Puppet play therapy emerges as a versatile intervention for anxiety reduction in
 - [fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness](../sources/fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness.md)
 - [fxa300-week08-the-effects-of-music-intervention-in-the-management-of](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
 - [fxa300-week09-music-interventions-for-mechanically-ventilated-patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)
+- [fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
 - [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
 - [fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
 - [fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)

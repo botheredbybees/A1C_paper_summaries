@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Music Research in Medical/Dental Treatment: Meta-Analysis and Clinical Applications"
-apa7: "Standley, J. M. (1995). Music research in medical/dental treatment: Meta-analysis and clinical applications. Journal of Music Therapy, 32(3), 174-195. https://doi.org/10.1093/jmt/32.3.174"
-doi: https://doi.org/10.1093/jmt/32.3.174
+apa7: "Standley, J. (1986). Music research in medical/dental treatment: meta-analysis and clinical applications.. *The Journal of music therapy*. https://doi.org/10.1093/JMT/23.2.56"
+doi: https://doi.org/10.1093/JMT/23.2.56
 appearances:
   - unit: FXA300
     week: "08"

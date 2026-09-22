@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: language-use-in-dementia-research
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Language Use In Dementia Research

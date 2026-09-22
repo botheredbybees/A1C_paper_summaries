@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-recovery
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Trauma Recovery
@@ -14,6 +14,7 @@ updated: 2026-09-15
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [Social Action in Art Therapy with Veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
 - [The Healing Power of Greek Tragedy](../sources/fxa302-week02-the-healing-power-of-greek-tragedy.md)
+- [Burn Survivor Artist Changes Artistic Approach by Sharing How Other Survivors of Traumatic Events Can Use Art to Heal Themselves by Helping Others Heal](../sources/fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing.md)
 - [Trauma and Expressive Arts Therapy](../sources/fxa303-trauma-and-expressive-arts-ch05-chapter-9.md)
 - [Trauma](../sources/fxa303-week01-trauma-aps.md)
 - [Arts-based psychosocial training after the Yolanda typhoon in the Philippines](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)

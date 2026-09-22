@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-through-art
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Mental Health Through Art

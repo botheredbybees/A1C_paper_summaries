@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: malignant-breast-cancer
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Malignant Breast Cancer

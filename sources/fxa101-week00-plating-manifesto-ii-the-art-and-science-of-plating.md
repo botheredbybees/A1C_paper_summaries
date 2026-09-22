@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Plating Manifesto (II): The Art and Science of Plating"
-apa7: "Spence et al. (2014). Plating manifesto (II): the art and science of plating. Flavour, 3(4), 1-12."
-doi: https://doi.org/10.1186/s13411-014-0004-z
+apa7: "Spence, C., Piqueras-Fiszman, B., Michel, C., & Deroy, O. (2014). Plating manifesto (II): the art and science of plating. *Flavour*. https://doi.org/10.1186/2044-7248-3-4"
+doi: https://doi.org/10.1186/2044-7248-3-4
 appearances:
   - unit: FXA101
 tags: ["plate-color", "eating-behavior", "flavor-perception", "psychology-of-food", "fxa101", "visual-presentation", "multisensory-consumption-experiences", "plateware-influence"]

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: frontal-eye-field
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Frontal Eye Field

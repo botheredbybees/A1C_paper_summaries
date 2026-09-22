@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-resilience
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Social Resilience

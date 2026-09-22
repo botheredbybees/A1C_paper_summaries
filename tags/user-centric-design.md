@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: user-centric-design
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## User Centric Design

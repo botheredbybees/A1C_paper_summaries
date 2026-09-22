@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medial-temporal-lobe
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Medial Temporal Lobe

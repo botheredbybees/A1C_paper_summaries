@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: enhanced-cognition
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Enhanced Cognition

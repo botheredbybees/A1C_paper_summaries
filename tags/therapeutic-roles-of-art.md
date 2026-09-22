@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-roles-of-art
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Therapeutic Roles Of Art

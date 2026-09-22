@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: complete-mental-health-model
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Complete Mental Health Model

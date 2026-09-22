@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transcranial-direct-current-stimulation-tdcs
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Transcranial Direct Current Stimulation Tdcs

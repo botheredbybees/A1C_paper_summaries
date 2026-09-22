@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bayesian-probability
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Bayesian Probability

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cortical-activity
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cortical Activity

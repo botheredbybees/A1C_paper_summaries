@@ -14,11 +14,13 @@ sources:
   - fxa302-week06-lesson-fxa302-week06-page-3
   - fxa302-week10-lesson-fxa302-week10-page-2
   - fxa302-week10-understanding-suffering-utermohlens-self-portraits-and
+  - fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring
+  - fxa302-week11-lesson-fxa302-week11-page-2
 tags:
 - visual-arts
 title: Visual Arts in Dementia Care
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Visual Arts in Dementia Care
@@ -47,3 +49,5 @@ The integration of visual arts into dementia care settings has emerged as a mult
 - [fxa302-week06-lesson-fxa302-week06-page-3](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)
 - [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
 - [fxa302-week10-understanding-suffering-utermohlens-self-portraits-and](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)
+- [fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring](../sources/fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring.md)
+- [fxa302-week11-lesson-fxa302-week11-page-2](../sources/fxa302-week11-lesson-fxa302-week11-page-2.md)

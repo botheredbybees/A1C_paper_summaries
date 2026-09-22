@@ -9,13 +9,15 @@ appearances:
     week: "08"
   - unit: FXA101
     week: "02"
-tags: ["art-therapy", "public-health", "creative-expression", "fxa301", "fxa101"]
+  - unit: FXA302
+    week: "11"
+tags: ["art-therapy", "public-health", "creative-expression", "fxa301", "fxa101", "fxa302"]
 key_concepts: ["music therapy", "visual arts therapy", "expressive writing"]
 methods: ["systematic review"]
 slug: fxa301-week08-the-connection-between-art-healing-and-public-health-a
 related: ["art-therapy", "creative-expression", "public-health"]
 created: 2026-05-03
-updated: 2026-07-13
+updated: 2026-09-22
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md_

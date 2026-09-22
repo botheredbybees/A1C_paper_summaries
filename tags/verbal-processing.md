@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: verbal-processing
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Verbal Processing

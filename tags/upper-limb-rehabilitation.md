@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: upper-limb-rehabilitation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Upper Limb Rehabilitation

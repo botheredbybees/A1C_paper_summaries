@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The Forgotten Legacy of Sch\u00f6n: From Materials to \u201cMediums\u201d in the Design Activity"
-apa7: "Gentes, A., & Marcocchia, G. (2023). The forgotten legacy of Sch\u00f6n: From materials to \u201cmediums\u201d in the design activity. *Design Issues*, 39(2), 3-5. https://doi.org/10.1162/desi_a_00712"
-doi: https://doi.org/10.1162/desi_a_00712
+apa7: "Gentès, A., & Marcocchia, G. (2023). The Forgotten Legacy of Schön: From Materials to “Mediums” in the Design Activity. *Design Issues*. https://doi.org/10.1162/desi_a_00713"
+doi: https://doi.org/10.1162/desi_a_00713
 appearances:
   - unit: FXA101
     week: "05"

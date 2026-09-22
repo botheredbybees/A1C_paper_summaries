@@ -12,11 +12,12 @@ sources:
   - fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with
   - fxa302-week10-essentials-of-cognitive-neuroscience-(3)
   - fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who
+  - fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review
 tags:
 - neurorehabilitation
 title: Neurorehabilitation Through Dance and Music
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neurorehabilitation Through Dance and Music
@@ -44,3 +45,4 @@ The integration of dance and music into neurorehabilitation interventions highli
 - [fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(3)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)
 - [fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who](../sources/fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who.md)
+- [fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)

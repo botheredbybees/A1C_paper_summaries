@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: school-counseling
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## School Counseling

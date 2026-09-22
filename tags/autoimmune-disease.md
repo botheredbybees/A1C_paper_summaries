@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autoimmune-disease
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Autoimmune Disease

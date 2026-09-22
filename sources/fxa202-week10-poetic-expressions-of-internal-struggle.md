@@ -11,7 +11,7 @@ tags: ["poetry", "mental-health-expressions", "trauma-literature", "emotional-la
 key_concepts: ["body dysmorphia", "resilience in trauma", "grief processing"]
 methods: ["literary analysis"]
 slug: fxa202-week10-poetic-expressions-of-internal-struggle
-related: ["poetry"]
+related: ["poetry", "trauma-literature"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,3 +44,4 @@ The document presents a series of poems that explore the internal struggles and 
 ## See Also
 
 - [poetry](../topics/poetry.md)
+- [trauma-literature](../topics/trauma-literature.md)

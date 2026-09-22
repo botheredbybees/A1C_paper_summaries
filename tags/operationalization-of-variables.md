@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: operationalization-of-variables
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Operationalization Of Variables

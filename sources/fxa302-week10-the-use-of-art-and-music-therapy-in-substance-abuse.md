@@ -11,7 +11,7 @@ tags: ["substance-abuse-treatment", "alternative-therapies", "patient-care", "me
 key_concepts: ["motivational-enhancement-therapy", "contingency-management", "12-step-meetings"]
 methods: ["survey-analysis", "representative-sample-study"]
 slug: fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse
-related: ["mental-health", "patient-care", "substance-abuse-treatment"]
+related: ["alternative-therapies", "mental-health", "patient-care", "substance-abuse-treatment"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -45,6 +45,7 @@ The study examines the use of art and music therapy in substance abuse treatment
 
 ## See Also
 
+- [alternative-therapies](../topics/alternative-therapies.md)
 - [mental-health](../topics/mental-health.md)
 - [patient-care](../topics/patient-care.md)
 - [substance-abuse-treatment](../topics/substance-abuse-treatment.md)

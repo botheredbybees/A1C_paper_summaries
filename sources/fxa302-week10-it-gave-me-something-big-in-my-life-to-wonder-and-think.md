@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "\u201cIt gave me something big in my life to wonder and think about which took over the space\u2026 and not MS\u201d: managing well-being in multiple sclerosis through art-making"
-apa7: "Hunt, L., Nikopoulou-Smyrni, P., & Reynolds, F. (2014). \u201cIt gave me something big in my life to wonder and think about which took over the space\u2026 and not MS\u201d: managing well-being in multiple sclerosis through art-making. *Disability & Rehabilitation*, 36(14), 1139-1147. https://doi.org/10.3109/09638288.2013.870466"
-doi: https://doi.org/10.3109/09638288.2013.870466
+apa7: "Hunt, L., Nikopoulou-Smyrni, P., & Reynolds, F. (2014). “It gave me something big in my life to wonder and think about which took over the space … and not MS”: managing well-being in multiple sclerosis through art-making. *Disability and Rehabilitation*. https://doi.org/10.3109/09638288.2013.833303"
+doi: https://doi.org/10.3109/09638288.2013.833303
 appearances:
   - unit: FXA302
     week: "10"

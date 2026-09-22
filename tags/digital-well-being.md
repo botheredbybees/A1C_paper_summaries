@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-well-being
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Digital Well Being

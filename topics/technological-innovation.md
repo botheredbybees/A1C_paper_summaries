@@ -7,7 +7,8 @@ tags: ["technological-innovation"]
 sources:
   - fxa101-week00-traditional-craft-conservation-and-technological-innovation
   - fxa202-week13-shifting-perspectives-exploring-the-intersection-of
-updated: 2026-08-08
+  - fxa302-week11-web-article-wong-2020
+updated: 2026-09-22
 ---
 
 ## Technological Innovation and Traditional Practices
@@ -27,3 +28,4 @@ The integration of technological innovation with traditional practices presents 
 
 - [fxa101-week00-traditional-craft-conservation-and-technological-innovation](../sources/fxa101-week00-traditional-craft-conservation-and-technological-innovation.md)
 - [fxa202-week13-shifting-perspectives-exploring-the-intersection-of](../sources/fxa202-week13-shifting-perspectives-exploring-the-intersection-of.md)
+- [fxa302-week11-web-article-wong-2020](../sources/fxa302-week11-web-article-wong-2020.md)

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Approaches and Models of Music Therapy"
-apa7: "Edwards, J. (2017). Approaches and models of music therapy. In J. Edwards (Ed.), The Oxford handbook of music therapy (pp. 532-544). Oxford University Press. https://ebookcentral.proquest.com/lib/utas/detail.action?docID=6380354"
-doi: https://doi.org/10.1093/oxfordhb/9780199926955.001.0001
+apa7: "Edwards, J. (2016). Approaches and Models of Music Therapy. https://doi.org/10.1093/OXFORDHB/9780199639755.013.38"
+doi: https://doi.org/10.1093/OXFORDHB/9780199639755.013.38
 appearances:
   - unit: FXA302
     week: "10"

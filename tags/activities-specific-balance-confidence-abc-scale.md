@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: activities-specific-balance-confidence-abc-scale
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Activities Specific Balance Confidence Abc Scale

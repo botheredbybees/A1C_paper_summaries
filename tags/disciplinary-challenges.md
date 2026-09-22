@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disciplinary-challenges
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Disciplinary Challenges

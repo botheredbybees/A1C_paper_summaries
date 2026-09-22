@@ -8,6 +8,7 @@ sources:
   - fxa300-week10-the-influence-of-solo-performance-opportunities-on-self
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
   - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
+  - fxa302-week11-artistic-activities-and-psychological-well-being-perceived
   - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
   - psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach
   - psy214-week02-lesson-psy214-week02-week-3-introduction
@@ -17,7 +18,7 @@ tags:
 - psychological-well-being
 title: Psychological Well-Being through Creative and Expressive Activities
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Psychological Well-Being through Creative and Expressive Activities
@@ -41,6 +42,7 @@ The integration of creative activities such as music, expressive writing, and th
 - [fxa300-week10-the-influence-of-solo-performance-opportunities-on-self](../sources/fxa300-week10-the-influence-of-solo-performance-opportunities-on-self.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)
 - [fxa301-week08-health-related-effects-of-creative-and-expressive-writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
+- [fxa302-week11-artistic-activities-and-psychological-well-being-perceived](../sources/fxa302-week11-artistic-activities-and-psychological-well-being-perceived.md)
 - [fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective](../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective.md)
 - [psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach](../sources/psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach.md)
 - [psy214-week02-lesson-psy214-week02-week-3-introduction](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)

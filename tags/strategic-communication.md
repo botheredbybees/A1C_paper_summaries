@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: strategic-communication
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Strategic Communication

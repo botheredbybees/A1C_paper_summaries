@@ -8,7 +8,8 @@ sources:
   - fxa301-week03-arts-health-and-well-being-in-america
   - fxa301-week03-executive-summary-and-recommendations-why-creative-health
   - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
-updated: 2026-08-07
+  - fxa302-week11-fxa302-week-11-welcome
+updated: 2026-09-22
 ---
 
 ## Community Well-being Through Arts Engagement
@@ -30,3 +31,4 @@ The integration of arts into community well-being initiatives is widely recogniz
 - [fxa301-week03-arts-health-and-well-being-in-america](../sources/fxa301-week03-arts-health-and-well-being-in-america.md)
 - [fxa301-week03-executive-summary-and-recommendations-why-creative-health](../sources/fxa301-week03-executive-summary-and-recommendations-why-creative-health.md)
 - [fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities](../sources/fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities.md)
+- [fxa302-week11-fxa302-week-11-welcome](../sources/fxa302-week11-fxa302-week-11-welcome.md)

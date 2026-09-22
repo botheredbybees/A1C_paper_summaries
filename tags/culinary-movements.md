@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: culinary-movements
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Culinary Movements

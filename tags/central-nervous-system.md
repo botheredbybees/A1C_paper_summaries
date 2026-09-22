@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: central-nervous-system
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Central Nervous System

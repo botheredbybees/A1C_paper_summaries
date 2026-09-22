@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotion-focused-coping
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Emotion Focused Coping

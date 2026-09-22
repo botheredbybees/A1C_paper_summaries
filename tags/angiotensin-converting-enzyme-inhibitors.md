@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: angiotensin-converting-enzyme-inhibitors
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Angiotensin Converting Enzyme Inhibitors

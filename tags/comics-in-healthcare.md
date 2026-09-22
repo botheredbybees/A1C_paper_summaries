@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: comics-in-healthcare
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Comics In Healthcare

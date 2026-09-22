@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: career-barriers
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Career Barriers

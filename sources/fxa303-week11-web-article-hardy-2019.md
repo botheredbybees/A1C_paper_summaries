@@ -11,7 +11,7 @@ tags: ["anti-oppressive-practices", "art-therapy", "co-tinkering", "creative-art
 key_concepts: ["co-tinkering", "anti-oppressive practices", "intersectionality"]
 methods: []
 slug: fxa303-week11-web-article-hardy-2019
-related: ["art-therapy", "creative-arts", "gender-diversity", "music-therapy", "youth-development"]
+related: ["art-therapy", "creative-arts", "gender-diversity", "intersectionality", "music-therapy", "youth-development"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -45,5 +45,6 @@ This article explores the development and implementation of a creative arts prog
 - [art-therapy](../topics/art-therapy.md)
 - [creative-arts](../topics/creative-arts.md)
 - [gender-diversity](../topics/gender-diversity.md)
+- [intersectionality](../topics/intersectionality.md)
 - [music-therapy](../topics/music-therapy.md)
 - [youth-development](../topics/youth-development.md)

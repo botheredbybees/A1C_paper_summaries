@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Intergenerational Continuity of Taste: Parental and Adolescent Music Preferences"
-apa7: "ter Bogt, T. F., Delsing, M., van Zalk, M., Christenson, P. G., & Meeus, W. (2011). Intergenerational continuity of taste: Parental and adolescent music preferences. Social Forces, 90(1), 297-320. https://doi.org/10.1093/sf/sqr068"
-doi: https://doi.org/10.1093/sf/sqr068
+apa7: "Bogt, T., Delsing, M., Zalk, M., Christenson, P., & Meeus, W. (2011). Intergenerational Continuity of Taste: Parental and Adolescent Music Preferences. https://doi.org/10.1093/SF/90.1.297"
+doi: https://doi.org/10.1093/SF/90.1.297
 appearances:
   - unit: FXA300
     week: "05"

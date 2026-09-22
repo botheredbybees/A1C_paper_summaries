@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: long-term-follow-up
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Long Term Follow Up

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: storytelling-in-portfolios
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Storytelling In Portfolios

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Music Therapy
@@ -206,6 +206,10 @@ updated: 2026-09-15
 - [Sonification of Arm Movements in Stroke Rehabilitation \u2013 A Novel Approach in Neurologic Music Therapy](../sources/fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a.md)
 - [The effects of music therapy for older people with dementia](../sources/fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia.md)
 - [VOCAL PSYCHOTHERAPY: Discovering Yourself through the Voice](../sources/fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice.md)
+- [Creative Adaptations in Performance: Perspectives on Health and Wellbeing Through the Arts](../sources/fxa302-week11-lesson-fxa302-week11-page-3.md)
+- [Music Therapy and Parkinson\u2019s Disease: A Systematic Review from 2015\u20132020](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)
+- [The effects of music intervention on burn patients during treatment procedures: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
+- [The role of music therapy in physical rehabilitation: a systematic literature review](../sources/fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a.md)
 - [Music and Mental Health Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [Addressing Issues of Mental Health in Schools through the Arts](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - ['Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)

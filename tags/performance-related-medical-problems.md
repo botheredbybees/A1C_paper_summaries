@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: performance-related-medical-problems
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Performance Related Medical Problems

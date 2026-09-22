@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-regulation-wisdom
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Emotional Regulation Wisdom

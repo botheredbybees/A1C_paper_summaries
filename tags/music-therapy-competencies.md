@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy-competencies
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Music Therapy Competencies

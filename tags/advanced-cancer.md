@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: advanced-cancer
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Advanced Cancer

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflective-observational-methods
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Reflective Observational Methods

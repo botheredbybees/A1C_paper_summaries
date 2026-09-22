@@ -8,7 +8,8 @@ sources:
   - fxa300-week05-intergenerational-continuity-of-taste-parental-and
   - fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model
   - fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization
-updated: 2026-08-03
+  - fxa302-week11-factory-music-how-the-industrial-geography-and-working
+updated: 2026-09-22
 ---
 
 ## Musical Genres and Emotional Responses
@@ -30,3 +31,4 @@ The study of musical genres intersects with theories on intergenerational contin
 - [fxa300-week05-intergenerational-continuity-of-taste-parental-and](../sources/fxa300-week05-intergenerational-continuity-of-taste-parental-and.md)
 - [fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model](../sources/fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model.md)
 - [fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization](../sources/fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization.md)
+- [fxa302-week11-factory-music-how-the-industrial-geography-and-working](../sources/fxa302-week11-factory-music-how-the-industrial-geography-and-working.md)

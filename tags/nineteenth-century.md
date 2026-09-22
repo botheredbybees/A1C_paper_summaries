@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nineteenth-century
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Nineteenth Century

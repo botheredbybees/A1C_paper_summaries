@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: modifiable-risk-factors
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Modifiable Risk Factors

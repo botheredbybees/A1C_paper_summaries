@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: time-perception-in-consciousness
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Time Perception In Consciousness

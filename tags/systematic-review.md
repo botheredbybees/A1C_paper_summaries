@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: systematic-review
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Systematic Review
@@ -40,6 +40,8 @@ updated: 2026-09-15
 - [A Systematic Review of the Efficacy of Creative Arts Therapies in the Treatment of Adults With PTSD](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
 - [Effects of Creative Art Therapy in Stroke Rehabilitation: A Systematic Review](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)
 - [Effects of music therapy and music-based interventions in the treatment of substance use disorders: A systematic review](../sources/fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in.md)
+- [Music Therapy and Parkinson\u2019s Disease: A Systematic Review from 2015\u20132020](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)
+- [The effects of music intervention on burn patients during treatment procedures: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
 - [The Physiological and Psychological Benefits of Dance and its Effects on Children and Adolescents: A Systematic Review](../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and.md)
 - [Dramatherapy for Children and Adolescents with Autism Spectrum Disorder: A Systematic Integrative Review](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)

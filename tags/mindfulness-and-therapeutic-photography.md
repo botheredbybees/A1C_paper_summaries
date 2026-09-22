@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-and-therapeutic-photography
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Mindfulness And Therapeutic Photography

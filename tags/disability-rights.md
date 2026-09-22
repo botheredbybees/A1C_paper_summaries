@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-rights
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Disability Rights
@@ -9,4 +9,5 @@ updated: 2026-09-15
 - [Planning for Inclusiveness in Arts Projects](../sources/fxa301-week09-lesson-fxa301-week09-page-2.md)
 - [Calcedonies](../sources/fxa302-week10-calcedonies.md)
 - [Standout](../sources/fxa302-week10-standout.md)
+- [Equity: the Arts and Disability Associated Plan](../sources/fxa302-week11-equity-the-arts-and-disability-associated-plan.md)
 - [Exploring the critiques of the social model of disability: the transformative possibility of Arendt\u2019s notion of power](../sources/fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability.md)

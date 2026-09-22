@@ -11,7 +11,7 @@ tags: ["alzheimer-s-disease", "artistic-ability", "neurological-cognitive-functi
 key_concepts: ["Alzheimer's disease", "visuospatial skills", "cognitive decline"]
 methods: ["case study"]
 slug: fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an
-related: ["alzheimer-s-disease"]
+related: ["alzheimer-s-disease", "artistic-ability"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The article explores the relationship between Alzheimer's disease and artistic a
 ## See Also
 
 - [alzheimer-s-disease](../topics/alzheimer-s-disease.md)
+- [artistic-ability](../topics/artistic-ability.md)

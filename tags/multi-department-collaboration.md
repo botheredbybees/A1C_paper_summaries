@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multi-department-collaboration
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Multi Department Collaboration

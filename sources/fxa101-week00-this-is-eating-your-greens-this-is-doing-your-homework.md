@@ -10,7 +10,7 @@ tags: ["stand-up-comedy", "comedy-studies", "performance-art", "fxa101", "know-w
 key_concepts: ["know-what", "tacit knowledge", "documentary strategies"]
 methods: []
 slug: fxa101-week00-this-is-eating-your-greens-this-is-doing-your-homework
-related: ["stand-up-comedy"]
+related: ["performance-art", "stand-up-comedy"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -40,4 +40,5 @@ This article explores the creative processes used in stand-up comedy through an 
 
 ## See Also
 
+- [performance-art](../topics/performance-art.md)
 - [stand-up-comedy](../topics/stand-up-comedy.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: left-brain-right-brain-dominance-myth
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Left Brain Right Brain Dominance Myth

@@ -7,7 +7,8 @@ tags: ["musical-innovation"]
 sources:
   - fxa300-week08-music-business-and-health
   - fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation
-updated: 2026-09-15
+  - fxa302-week11-transcript-duration-20-40-nb-the-section-discussing-his
+updated: 2026-09-22
 ---
 
 ## Musical Innovation
@@ -28,3 +29,4 @@ The exploration of musical innovation spans various contexts, including its impa
 
 - [fxa300-week08-music-business-and-health](../sources/fxa300-week08-music-business-and-health.md)
 - [fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation](../sources/fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation.md)
+- [fxa302-week11-transcript-duration-20-40-nb-the-section-discussing-his](../sources/fxa302-week11-transcript-duration-20-40-nb-the-section-discussing-his.md)

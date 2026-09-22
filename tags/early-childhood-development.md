@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-childhood-development
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Early Childhood Development

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychology-assignments
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Psychology Assignments

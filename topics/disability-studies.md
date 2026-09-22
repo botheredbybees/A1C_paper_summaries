@@ -16,7 +16,10 @@ sources:
   - fxa302-week10-disability-in-two-doctor-stories
   - fxa302-week10-music-and-disability
   - fxa302-week10-standout
-updated: 2026-09-15
+  - fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring
+  - fxa302-week11-psychological-effects-of-amputation-a-review-of-studies
+  - fxa302-week11-transcript-youtube-wbe2l5hg8-y
+updated: 2026-09-22
 ---
 
 ## Inclusive Arts Practices in Disability Studies
@@ -46,3 +49,6 @@ The integration of inclusive arts practices within disability studies is charact
 - [fxa302-week10-disability-in-two-doctor-stories](../sources/fxa302-week10-disability-in-two-doctor-stories.md)
 - [fxa302-week10-music-and-disability](../sources/fxa302-week10-music-and-disability.md)
 - [fxa302-week10-standout](../sources/fxa302-week10-standout.md)
+- [fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring](../sources/fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring.md)
+- [fxa302-week11-psychological-effects-of-amputation-a-review-of-studies](../sources/fxa302-week11-psychological-effects-of-amputation-a-review-of-studies.md)
+- [fxa302-week11-transcript-youtube-wbe2l5hg8-y](../sources/fxa302-week11-transcript-youtube-wbe2l5hg8-y.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spatial-attention
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Spatial Attention

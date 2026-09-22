@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dimensional-approach
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Dimensional Approach

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: language-of-music-theory
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Language Of Music Theory

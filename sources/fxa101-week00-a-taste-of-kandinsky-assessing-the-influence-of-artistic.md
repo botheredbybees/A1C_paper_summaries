@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "A taste of Kandinsky: Assessing the Influence of Artistic Visual Presentation on Dining Experience"
-apa7: "Michel, C., Velasco, C., Gatti, E., & Spence, C. (2014). A taste of Kandinsky: assessing the influence of the artistic visual presentation of food on the dining experience. Flavour, 3(1), 7. https://doi.org/10.1186/s13411-014-0007-5"
-doi: https://doi.org/10.1186/s13411-014-0007-5
+apa7: "Michel, C., Velasco, C., Gatti, E., & Spence, C. (2014). A taste of Kandinsky: assessing the influence of the artistic visual presentation of food on the dining experience. *Flavour*. https://doi.org/10.1186/2044-7248-3-7"
+doi: https://doi.org/10.1186/2044-7248-3-7
 appearances:
   - unit: FXA101
 tags: ["food-perception", "art-influence-on-food", "multisensory-experience", "fxa101", "visual-cues-influence-taste-perception"]

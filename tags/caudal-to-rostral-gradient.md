@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: caudal-to-rostral-gradient
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Caudal To Rostral Gradient

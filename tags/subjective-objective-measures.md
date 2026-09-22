@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: subjective-objective-measures
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Subjective Objective Measures

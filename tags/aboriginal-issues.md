@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aboriginal-issues
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Aboriginal Issues

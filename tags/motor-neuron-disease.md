@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motor-neuron-disease
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Motor Neuron Disease

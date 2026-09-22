@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Music: Drug for the mind, body, and soul"
-apa7: "Chhabra, S., Pathak, R., & Mohammed, S. (2024). Music: A healing force. The Indian Anaesthetists' Forum, 25(2), 59-60. https://doi.org/10.21307/iaf-2024-028"
-doi: https://doi.org/10.21307/iaf-2024-028
+apa7: "Chhabra, S., Pathak, R., & Mohammed, S. (2024). Music: Drug for the mind, body, and soul. *The Indian Anaesthetists Forum*. https://doi.org/10.4103/theiaforum.theiaforum_118_24"
+doi: https://doi.org/10.4103/theiaforum.theiaforum_118_24
 appearances:
   - unit: FXA300
     week: "02"

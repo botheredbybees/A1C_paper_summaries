@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: women-in-science
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Women In Science

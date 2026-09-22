@@ -5,6 +5,7 @@ slug: identity-formation-through-music-and-trauma
 sources:
   - fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age
   - fxa301-week01-music-and-meaning-in-community-contexts
+  - fxa302-week11-trauma-as-site-of-identity-the-case-of-jeanette-winterson
   - fxa303-week02-web-article-orenstein-2022
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
   - fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
@@ -12,7 +13,7 @@ tags:
 - identity-formation
 title: Identity Formation Through Music and Trauma
 type: topic
-updated: 2026-08-03
+updated: 2026-09-22
 ---
 
 ## Identity Formation Through Music and Trauma
@@ -32,6 +33,7 @@ Music's profound impact on adolescent identity formation is highlighted in the f
 
 - [fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age](../sources/fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age.md)
 - [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
+- [fxa302-week11-trauma-as-site-of-identity-the-case-of-jeanette-winterson](../sources/fxa302-week11-trauma-as-site-of-identity-the-case-of-jeanette-winterson.md)
 - [fxa303-week02-web-article-orenstein-2022](../sources/fxa303-week02-web-article-orenstein-2022.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
 - [fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma](../sources/fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuropsychological-measures
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neuropsychological Measures

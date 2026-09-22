@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: omnivorous-tastes
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Omnivorous Tastes

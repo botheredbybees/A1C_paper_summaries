@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-art-accessibility
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Visual Art Accessibility

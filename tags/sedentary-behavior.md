@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sedentary-behavior
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Sedentary Behavior

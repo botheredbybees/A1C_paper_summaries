@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-behavioral-approach
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cognitive Behavioral Approach

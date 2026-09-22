@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: figural-torrance-test-of-creative-thinking
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Figural Torrance Test Of Creative Thinking

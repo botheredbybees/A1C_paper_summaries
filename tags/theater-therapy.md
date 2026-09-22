@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theater-therapy
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Theater Therapy

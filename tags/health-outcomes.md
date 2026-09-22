@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-outcomes
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Health Outcomes
@@ -25,4 +25,5 @@ updated: 2026-09-15
 - [Week 9 Lecture - Dr Brendan Lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [Dancing for Parkinson\u2019s Disease Online: Clinical Trial Process Evaluation](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)
+- [Music Therapy and Parkinson\u2019s Disease: A Systematic Review from 2015\u20132020](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)
 - [Inclusive communication with LGBTIQ+ clients](../sources/fxa303-week11-inclusive-communication-with-lgbtiq-clients.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spirituality-as-transformation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Spirituality As Transformation

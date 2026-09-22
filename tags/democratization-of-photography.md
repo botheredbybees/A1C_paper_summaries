@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: democratization-of-photography
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Democratization Of Photography

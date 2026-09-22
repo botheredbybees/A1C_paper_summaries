@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stand-up-comedy
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Stand Up Comedy

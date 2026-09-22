@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "A synthesis process model of creative thinking in music composition"
-apa7: "Collins, D. (2005). A synthesis process model of creative thinking in music composition. *Psychology of Music*, 33(2), 193-216. https://doi.org/10.1177/0305735605056651"
-doi: https://doi.org/10.1177/0305735605056651
+apa7: "Collins, D. (2005). A synthesis process model of creative thinking in music composition. https://doi.org/10.1177/0305735605050651"
+doi: https://doi.org/10.1177/0305735605050651
 appearances:
   - unit: FXA300
     week: "07"

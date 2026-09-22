@@ -11,7 +11,7 @@ tags: ["music-improvisation", "classical-music", "musical-expression", "collabor
 key_concepts: ["improvisation", "live-performance", "musical-expression"]
 methods: ["case-study"]
 slug: fxa300-week07-class-notes-freeing-music-improvisation
-related: ["classical-music", "musical-expression"]
+related: ["classical-music", "live-performance", "musical-expression"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -43,4 +43,5 @@ In this class session led by Alison Young, the concept of musical improvisation 
 ## See Also
 
 - [classical-music](../topics/classical-music.md)
+- [live-performance](../topics/live-performance.md)
 - [musical-expression](../topics/musical-expression.md)

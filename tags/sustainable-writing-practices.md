@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sustainable-writing-practices
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Sustainable Writing Practices

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Listening to music and physiological and psychological functioning: The mediating role of emotion regulation and stress reactivity"
-apa7: "Thoma, M. V., Scholzb, U., Ehlertc, U., & Naterd, U. M. (2012). Listening to music and physiological and psychological functioning: The mediating role of emotion regulation and stress reactivity. *Psychology & Health*, 27(2), 227-241. https://doi.org/10.1080/08870446.2011.607568"
-doi: https://doi.org/10.1080/08870446.2011.607568
+apa7: "Thoma, M., Scholz, U., Ehlert, U., & Nater, U. (2012). Listening to music and physiological and psychological functioning: The mediating role of emotion regulation and stress reactivity. *Psychology and Health*. https://doi.org/10.1080/08870446.2011.575225"
+doi: https://doi.org/10.1080/08870446.2011.575225
 appearances:
   - unit: FXA300
     week: "09"

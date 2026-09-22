@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Arts
@@ -35,6 +35,8 @@ updated: 2026-09-15
 - [Week 10 Activities - Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week10-lesson-fxa302-week10-page-4-activities.md)
 - [Artistic Creativity in Neurological Illnesses](../sources/fxa302-week10-lesson-fxa302-week10-welcome-to-week-10.md)
 - [More Body: A Performance for Five (or More) Bodies](../sources/fxa302-week10-more-body-a-performance-for-five-or-more-bodies.md)
+- [FXA302 Week 11 Refigured Bodies](../sources/fxa302-week11-lesson-fxa302-week11-welcome-to-week-11.md)
+- [The Power of Auditory-Motor Synchronization in Sports: Enhancing Running Performance by Coupling Cadence with the Right Beats](../sources/fxa302-week11-the-power-of-auditory-motor-synchronization-in-sports.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [FXA303 Week 2: Child Development and Creative Arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [FXA303 Week 3: Introduction to Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)

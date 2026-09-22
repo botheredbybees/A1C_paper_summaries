@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-movement-therapy-dmt
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Dance Movement Therapy Dmt

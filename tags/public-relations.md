@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-relations
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Public Relations

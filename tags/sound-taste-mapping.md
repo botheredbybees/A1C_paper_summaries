@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sound-taste-mapping
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Sound Taste Mapping

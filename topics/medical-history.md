@@ -8,7 +8,8 @@ sources:
   - fxa302-week04-earliest-evidence-of-malignant-breast-cancer-in-renaissance
   - fxa302-week04-the-diagnosis-of-art-caravaggios-jaundiced-bacchus
   - fxa302-week08-fxa302-week-8-welcome
-updated: 2026-08-31
+  - fxa302-week11-now-i-live-on-a-painful-planet-frida-kahlo-revisited
+updated: 2026-09-22
 ---
 
 ## Medical Diagnosis in Renaissance Art
@@ -30,3 +31,4 @@ Renaissance art offers a unique window into the medical practices and understand
 - [fxa302-week04-earliest-evidence-of-malignant-breast-cancer-in-renaissance](../sources/fxa302-week04-earliest-evidence-of-malignant-breast-cancer-in-renaissance.md)
 - [fxa302-week04-the-diagnosis-of-art-caravaggios-jaundiced-bacchus](../sources/fxa302-week04-the-diagnosis-of-art-caravaggios-jaundiced-bacchus.md)
 - [fxa302-week08-fxa302-week-8-welcome](../sources/fxa302-week08-fxa302-week-8-welcome.md)
+- [fxa302-week11-now-i-live-on-a-painful-planet-frida-kahlo-revisited](../sources/fxa302-week11-now-i-live-on-a-painful-planet-frida-kahlo-revisited.md)

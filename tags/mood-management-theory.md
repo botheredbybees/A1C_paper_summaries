@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mood-management-theory
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Mood Management Theory

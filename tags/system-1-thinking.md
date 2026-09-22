@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: system-1-thinking
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## System 1 Thinking

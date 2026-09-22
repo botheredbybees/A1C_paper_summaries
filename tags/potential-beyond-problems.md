@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: potential-beyond-problems
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Potential Beyond Problems

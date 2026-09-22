@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-care
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Patient Care
@@ -23,5 +23,7 @@ updated: 2026-09-15
 - [The Medical Humanities in Medical Education](../sources/fxa302-week10-the-medical-humanities-in-medical-education.md)
 - [The Use of Art and Music Therapy in Substance Abuse Treatment Programs](../sources/fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse.md)
 - [The Why, the What, and the How of the Medical/Health Humanities](../sources/fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities.md)
+- [Artistic activities and psychological well-being perceived by patients with spinal cord injury](../sources/fxa302-week11-artistic-activities-and-psychological-well-being-perceived.md)
+- [The effects of music intervention on burn patients during treatment procedures: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
 - [Behavioral and psychological symptoms of dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)
 - [The MINWii Project: Renarcissization of Patients Suffering from Alzheimer\u2019s Disease Through Video Game-Based Music Therapy](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

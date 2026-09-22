@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: picture-quality
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Picture Quality

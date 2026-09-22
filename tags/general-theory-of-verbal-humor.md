@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: general-theory-of-verbal-humor
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## General Theory Of Verbal Humor

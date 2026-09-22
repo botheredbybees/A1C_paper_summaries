@@ -9,13 +9,15 @@ appearances:
     week: "05"
   - unit: FXA301
     week: "05"
-tags: ["transcript-issue", "youtube-video", "caption-file", "fxa303", "fxa301"]
+  - unit: FXA302
+    week: "11"
+tags: ["transcript-issue", "youtube-video", "caption-file", "fxa303", "fxa301", "fxa302"]
 key_concepts: ["automatic-transcription-failure", "caption-unavailability"]
 methods: []
 slug: fxa303-week05-transcript-duration-9-39-url-only
 related: ["youtube-video"]
 created: 2026-05-03
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week05-transcript-duration-9-39-url-only.md_

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cluster-randomized-trial
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cluster Randomized Trial

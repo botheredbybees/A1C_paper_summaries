@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: content-strategy-adaptation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Content Strategy Adaptation

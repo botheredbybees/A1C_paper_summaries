@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-and-emotional-development
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cognitive And Emotional Development

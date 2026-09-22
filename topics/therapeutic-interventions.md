@@ -17,6 +17,7 @@ sources:
   - fxa302-week01-health-humanities-and-the-creative-disciplines
   - fxa302-week10-essentials-of-cognitive-neuroscience-(20)
   - fxa302-week10-neural-bases-of-memory
+  - fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a
   - fxa303-puppet-assisted-play-therapy-ch06-139-weedn
   - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
   - fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet
@@ -27,7 +28,7 @@ tags:
 - therapeutic-interventions
 title: Music Therapy and Creative Arts Interventions
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Music Therapy and Creative Arts Interventions
@@ -61,6 +62,7 @@ The integration of music therapy and creative arts interventions across various 
 - [fxa302-week01-health-humanities-and-the-creative-disciplines](../sources/fxa302-week01-health-humanities-and-the-creative-disciplines.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(20)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
 - [fxa302-week10-neural-bases-of-memory](../sources/fxa302-week10-neural-bases-of-memory.md)
+- [fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a](../sources/fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a.md)
 - [fxa303-puppet-assisted-play-therapy-ch06-139-weedn](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [fxa303-week04-play-therapy-in-children-with-autism-its-role-implications](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)
 - [fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)

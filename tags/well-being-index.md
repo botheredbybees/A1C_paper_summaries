@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-index
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Well Being Index

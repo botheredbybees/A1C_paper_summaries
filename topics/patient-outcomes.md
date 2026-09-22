@@ -10,13 +10,14 @@ sources:
   - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
   - fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke
   - fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with
+  - fxa302-week11-relationship-of-therapeutic-recreation-inpatient
   - fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
   - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
 tags:
 - patient-outcomes
 title: Patient Outcomes in Dementia Care
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Patient Outcomes in Dementia Care
@@ -42,5 +43,6 @@ The provided sources explore various interventions aimed at improving patient ou
 - [fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health](../sources/fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health.md)
 - [fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)
 - [fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with](../sources/fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with.md)
+- [fxa302-week11-relationship-of-therapeutic-recreation-inpatient](../sources/fxa302-week11-relationship-of-therapeutic-recreation-inpatient.md)
 - [fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)
 - [fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

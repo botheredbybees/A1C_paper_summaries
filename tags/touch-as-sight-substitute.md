@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: touch-as-sight-substitute
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Touch As Sight Substitute

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-puppet-play
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Therapeutic Puppet Play

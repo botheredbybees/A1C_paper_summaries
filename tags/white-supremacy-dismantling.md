@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: white-supremacy-dismantling
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## White Supremacy Dismantling

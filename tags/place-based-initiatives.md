@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: place-based-initiatives
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Place Based Initiatives

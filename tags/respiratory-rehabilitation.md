@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: respiratory-rehabilitation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Respiratory Rehabilitation

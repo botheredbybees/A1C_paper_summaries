@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: relationship-between-nature-and-culture
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Relationship Between Nature And Culture

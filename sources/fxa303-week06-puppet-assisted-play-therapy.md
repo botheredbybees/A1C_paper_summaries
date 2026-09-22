@@ -11,7 +11,7 @@ tags: ["puppet-therapy", "play-therapy", "child-psychology", "creative-intervent
 key_concepts: ["play therapy", "puppetry techniques", "emotional challenges", "psychological challenges", "trust building"]
 methods: ["case study"]
 slug: fxa303-week06-puppet-assisted-play-therapy
-related: ["child-psychology", "creative-interventions", "mental-health-support", "play-therapy-in-child-development", "puppet-assisted-play-therapy-for-children", "therapeutic-tools"]
+related: ["child-psychology", "creative-interventions", "mental-health-support", "play-therapy-in-child-development", "psychological-challenges", "puppet-assisted-play-therapy-for-children", "therapeutic-tools"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -50,5 +50,6 @@ Cheryl Hulburd's book 'Puppet-Assisted Play Therapy' is an innovative guide that
 - [creative-interventions](../topics/creative-interventions.md)
 - [mental-health-support](../topics/mental-health-support.md)
 - [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
+- [psychological-challenges](../topics/psychological-challenges.md)
 - [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)
 - [therapeutic-tools](../topics/therapeutic-tools.md)

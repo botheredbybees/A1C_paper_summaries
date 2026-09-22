@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: echoic-memory
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Echoic Memory

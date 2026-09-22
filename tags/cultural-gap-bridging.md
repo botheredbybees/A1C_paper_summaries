@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-gap-bridging
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cultural Gap Bridging

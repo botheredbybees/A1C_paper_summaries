@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lgbt-youth
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Lgbt Youth

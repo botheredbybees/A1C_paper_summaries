@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-health
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Arts In Health

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spiritual-healing-practices
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Spiritual Healing Practices

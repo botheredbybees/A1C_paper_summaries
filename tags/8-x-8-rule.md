@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 8-x-8-rule
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## 8 X 8 Rule

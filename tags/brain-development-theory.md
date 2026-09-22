@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-development-theory
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Brain Development Theory

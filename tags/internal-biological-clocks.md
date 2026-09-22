@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internal-biological-clocks
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Internal Biological Clocks

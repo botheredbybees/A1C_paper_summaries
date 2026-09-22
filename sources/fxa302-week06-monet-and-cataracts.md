@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Monet and Cataracts"
-apa7: "Hajar, R. (2016). Eye disease and visual perspective in painting. *Heart Views*, 17(1), 40-41. https://doi.org/10.4103/1995-7062.178486"
-doi: https://doi.org/10.4103/1995-7062.178486
+apa7: "Hajar, R. (2016). Monet and Cataracts. *Heart Views*. https://doi.org/10.4103/1995-705X.182650"
+doi: https://doi.org/10.4103/1995-705X.182650
 appearances:
   - unit: FXA302
     week: "06"

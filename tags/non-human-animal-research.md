@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-human-animal-research
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Non Human Animal Research

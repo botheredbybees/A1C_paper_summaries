@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pre-attentive-processing
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Pre Attentive Processing

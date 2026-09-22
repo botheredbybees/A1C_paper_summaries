@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: three-picture-story
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Three Picture Story

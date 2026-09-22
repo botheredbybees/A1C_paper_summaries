@@ -11,7 +11,7 @@ tags: ["parkinsons-disease", "cueing-effects", "sensor-technology", "rehabilitat
 key_concepts: ["cognitive-overload", "perceptual-rhythmicity", "intelligent-cueing-system", "real-time-feedback"]
 methods: ["systematic-review", "case-control-study", "RCT", "training-program"]
 slug: fxa300-week08-cueing-effects-in-parkinsons-disease-benefits-and-drawbacks
-related: ["parkinsons-disease"]
+related: ["parkinsons-disease", "rehabilitation-medicine"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -50,3 +50,4 @@ This study explores the use of cueing, including auditory and rhythmic signals, 
 ## See Also
 
 - [parkinsons-disease](../topics/parkinsons-disease.md)
+- [rehabilitation-medicine](../topics/rehabilitation-medicine.md)

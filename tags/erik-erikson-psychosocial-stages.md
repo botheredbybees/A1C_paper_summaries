@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: erik-erikson-psychosocial-stages
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Erik Erikson Psychosocial Stages

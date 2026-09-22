@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-arts
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Inclusive Arts
@@ -12,3 +12,4 @@ updated: 2026-09-15
 - [Week 9 Lecture - Dr Brendan Lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [Firstdraft exhibition brings artists together to better understand intellectual disability](../sources/fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better.md)
 - [Projects \u2013 Art Beyond Sight](../sources/fxa301-week11-projects-art-beyond-sight.md)
+- [Nothing About Us Without Us: Disability Arts Now](../sources/fxa302-week11-nothing-about-us-without-us-disability-arts-now.md)

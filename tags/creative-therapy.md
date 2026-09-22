@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-therapy
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Therapy
@@ -10,4 +10,5 @@ updated: 2026-09-15
 - [Creativity and Communication in Persons with Dementia](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia.md)
 - [Critical Reflection: My Photo Essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)
 - [The Handbook of Phototherapy and Therapeutic Photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
+- [Creative Responses to Physical Disability through Visual Arts](../sources/fxa302-week11-lesson-fxa302-week11-page-2.md)
 - [Creative Puppet Therapy Reduces Hallucinations in Patients Diagnosed with Schizophrenia: Preliminary Findings](../sources/fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients.md)

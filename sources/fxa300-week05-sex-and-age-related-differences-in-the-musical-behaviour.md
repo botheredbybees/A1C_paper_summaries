@@ -11,7 +11,7 @@ tags: ["gender-differences", "musical-attitudes", "secondary-education", "fxa300
 key_concepts: ["gender-stereotypes", "musical-behavior", "cultural-expectations"]
 methods: ["cross-sectional-survey"]
 slug: fxa300-week05-sex-and-age-related-differences-in-the-musical-behaviour
-related: ["gender-differences", "musical-behavior"]
+related: ["gender-differences", "gender-stereotypes", "musical-behavior"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -43,4 +43,5 @@ This study explores sex- and age-related differences in musical behavior, intere
 ## See Also
 
 - [gender-differences](../topics/gender-differences.md)
+- [gender-stereotypes](../topics/gender-stereotypes.md)
 - [musical-behavior](../topics/musical-behavior.md)

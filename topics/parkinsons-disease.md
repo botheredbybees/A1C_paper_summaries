@@ -22,11 +22,12 @@ sources:
   - fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial
   - fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons
   - fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms
+  - fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review
 tags:
 - parkinsons-disease
 title: Lewy Body Dementia
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Lewy Body Dementia
@@ -64,3 +65,4 @@ The sources emphasize the pivotal role of Lewy bodies and their primary componen
 - [fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)
 - [fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons](../sources/fxa302-week10-effects-of-dance-on-gait-and-dual-task-gait-in-parkinsons.md)
 - [fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms](../sources/fxa302-week10-optimal-dose-and-type-of-exercise-to-improve-motor-symptoms.md)
+- [fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)

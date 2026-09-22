@@ -37,6 +37,8 @@ sources:
   - fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
   - fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a
   - fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in
+  - fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review
+  - fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
   - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
   - fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
@@ -63,7 +65,7 @@ tags:
 - systematic-review
 title: Systematic Reviews of Arts-Based Interventions
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Systematic Reviews of Arts-Based Interventions
@@ -116,6 +118,8 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
 - [fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)
 - [fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in](../sources/fxa302-week10-effects-of-music-therapy-and-music-based-interventions-in.md)
+- [fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)
+- [fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
 - [fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and](../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and.md)
 - [fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)

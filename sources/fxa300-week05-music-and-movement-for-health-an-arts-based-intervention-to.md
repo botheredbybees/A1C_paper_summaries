@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland"
-apa7: "Clifford, A., NiBhriain, O., Byrne, S., Cheung, P. S., Louw, Q., Glynn, L., ... & Thabane, L. (2023). Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland. European Journal of Public Health, 33(Supplement_1), ckad133.093. https://doi.org/10.1093/eurpub/ckad133"
-doi: https://doi.org/10.1093/eurpub/ckad133
+apa7: "Clifford, A., NiBhriain, O., Byrne, S., Cheung, P., Louw, Q., Glynn, L., Moss, H., O'Neill, D., Woods, C., Sheikhi, A., Gowran, R., Maher, C., Kennelly, B., Salsberg, J., & Thabane, L. (2023). O.1.2-6 Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland. *European Journal of Public Health*. https://doi.org/10.1093/eurpub/ckad133.093"
+doi: https://doi.org/10.1093/eurpub/ckad133.093
 appearances:
   - unit: FXA300
     week: "05"

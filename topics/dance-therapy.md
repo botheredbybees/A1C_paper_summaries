@@ -39,11 +39,12 @@ sources:
   - fxa302-week10-dance-and-creativity-within-dance-movement-therapy
   - fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with
   - fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial
+  - fxa302-week11-lesson-fxa302-week11-page-3
 tags:
 - dance-therapy
 title: Dance Therapy
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Dance Therapy
@@ -102,3 +103,4 @@ While the therapeutic benefits of dance therapy are widely recognized, its integ
 - [fxa302-week10-dance-and-creativity-within-dance-movement-therapy](../sources/fxa302-week10-dance-and-creativity-within-dance-movement-therapy.md)
 - [fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
 - [fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)
+- [fxa302-week11-lesson-fxa302-week11-page-3](../sources/fxa302-week11-lesson-fxa302-week11-page-3.md)

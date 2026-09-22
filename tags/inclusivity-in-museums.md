@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusivity-in-museums
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Inclusivity In Museums

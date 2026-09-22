@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: specialized-medical-care
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Specialized Medical Care

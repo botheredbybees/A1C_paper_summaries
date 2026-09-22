@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transtheoretical-model-of-stages-of-change
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Transtheoretical Model Of Stages Of Change

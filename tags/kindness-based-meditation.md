@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: kindness-based-meditation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Kindness Based Meditation

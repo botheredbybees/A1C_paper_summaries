@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: performance-quality
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Performance Quality

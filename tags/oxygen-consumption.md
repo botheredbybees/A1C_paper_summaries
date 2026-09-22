@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: oxygen-consumption
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Oxygen Consumption

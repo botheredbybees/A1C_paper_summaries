@@ -203,6 +203,10 @@ sources:
   - fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a
   - fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia
   - fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice
+  - fxa302-week11-lesson-fxa302-week11-page-3
+  - fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review
+  - fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during
+  - fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
   - fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
@@ -224,7 +228,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Music Therapy
@@ -443,6 +447,10 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a](../sources/fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a.md)
 - [fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia](../sources/fxa302-week10-the-effects-of-music-therapy-for-older-people-with-dementia.md)
 - [fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice](../sources/fxa302-week10-vocal-psychotherapy-discovering-yourself-through-the-voice.md)
+- [fxa302-week11-lesson-fxa302-week11-page-3](../sources/fxa302-week11-lesson-fxa302-week11-page-3.md)
+- [fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)
+- [fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
+- [fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a](../sources/fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)

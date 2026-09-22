@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-outcomes
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Patient Outcomes
@@ -13,5 +13,6 @@ updated: 2026-09-15
 - [Is There Compelling Evidence for Using the Arts in Health Care?](../sources/fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health.md)
 - [Creative art therapy to enhance rehabilitation for stroke patients: a randomized controlled trial](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)
 - [Improvement of spontaneous language in stroke patients with chronic aphasia treated with music therapy: a randomized controlled trial](../sources/fxa302-week10-improvement-of-spontaneous-language-in-stroke-patients-with.md)
+- [Relationship of therapeutic recreation inpatient rehabilitation interventions and patient characteristics to outcomes following spinal cord injury: The SCIRehab project](../sources/fxa302-week11-relationship-of-therapeutic-recreation-inpatient.md)
 - [Evaluation of a standardized humor group in a clinical setting: a feasibility study for older patients with depression](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)
 - [SveDem, the Swedish Dementia Registry \u2013 A Tool for Improving the Quality of Diagnostics, Treatment and Care of Dementia Patients in Clinical Practice](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: implicit-bias-reduction
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Implicit Bias Reduction

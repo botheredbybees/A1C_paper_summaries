@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: home-studio-setup
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Home Studio Setup

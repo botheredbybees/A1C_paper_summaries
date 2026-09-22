@@ -32,6 +32,8 @@ sources:
   - fxa302-week10-lesson-fxa302-week10-page-4-activities
   - fxa302-week10-lesson-fxa302-week10-welcome-to-week-10
   - fxa302-week10-more-body-a-performance-for-five-or-more-bodies
+  - fxa302-week11-lesson-fxa302-week11-welcome-to-week-11
+  - fxa302-week11-the-power-of-auditory-motor-synchronization-in-sports
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
@@ -71,7 +73,7 @@ tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Music Interventions and Cognitive Health
@@ -118,6 +120,8 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa302-week10-lesson-fxa302-week10-page-4-activities](../sources/fxa302-week10-lesson-fxa302-week10-page-4-activities.md)
 - [fxa302-week10-lesson-fxa302-week10-welcome-to-week-10](../sources/fxa302-week10-lesson-fxa302-week10-welcome-to-week-10.md)
 - [fxa302-week10-more-body-a-performance-for-five-or-more-bodies](../sources/fxa302-week10-more-body-a-performance-for-five-or-more-bodies.md)
+- [fxa302-week11-lesson-fxa302-week11-welcome-to-week-11](../sources/fxa302-week11-lesson-fxa302-week11-welcome-to-week-11.md)
+- [fxa302-week11-the-power-of-auditory-motor-synchronization-in-sports](../sources/fxa302-week11-the-power-of-auditory-motor-synchronization-in-sports.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: guitar-solo-expression
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Guitar Solo Expression

@@ -8,12 +8,13 @@ sources:
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
   - fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing
+  - fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing
   - fxa303-week01-trauma-aps
 tags:
 - emotional-healing
 title: Emotional Healing Through Therapeutic Modalities
 type: topic
-updated: 2026-07-06
+updated: 2026-09-22
 ---
 
 ## Emotional Healing Through Therapeutic Modalities
@@ -37,4 +38,5 @@ The integration of therapeutic modalities such as expressive writing, art therap
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
 - [fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)
 - [fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing](../sources/fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing.md)
+- [fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing](../sources/fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing.md)
 - [fxa303-week01-trauma-aps](../sources/fxa303-week01-trauma-aps.md)

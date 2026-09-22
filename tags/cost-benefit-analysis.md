@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cost-benefit-analysis
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cost Benefit Analysis

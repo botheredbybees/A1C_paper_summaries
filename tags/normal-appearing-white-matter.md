@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: normal-appearing-white-matter
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Normal Appearing White Matter

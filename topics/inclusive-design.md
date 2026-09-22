@@ -11,11 +11,12 @@ sources:
   - fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency
   - fxa301-week11-transcript-youtube-cnjl-fsurmduration
   - fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional
+  - fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring
 tags:
 - inclusive-design
 title: Inclusive Design
 type: topic
-updated: 2026-08-10
+updated: 2026-09-22
 ---
 
 ## Inclusive Design
@@ -42,3 +43,4 @@ The sources collectively underscore the importance of inclusive design in enhanc
 - [fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency](../sources/fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency.md)
 - [fxa301-week11-transcript-youtube-cnjl-fsurmduration](../sources/fxa301-week11-transcript-youtube-cnjl-fsurmduration.md)
 - [fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional](../sources/fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional.md)
+- [fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring](../sources/fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurorehabilitation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neurorehabilitation
@@ -15,3 +15,4 @@ updated: 2026-09-15
 - [Dance Is an Accessible Physical Activity for People with Parkinson\u2019s Disease](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)
 - [Music Therapy in Early Neurorehabilitation with People Who Have Experienced Traumatic Brain Injury](../sources/fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who.md)
+- [Music Therapy and Parkinson\u2019s Disease: A Systematic Review from 2015\u20132020](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)

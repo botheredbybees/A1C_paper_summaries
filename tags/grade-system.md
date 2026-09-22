@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: grade-system
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Grade System

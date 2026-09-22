@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: observation-skills-in-medicine
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Observation Skills In Medicine

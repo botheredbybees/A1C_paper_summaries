@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: accessibility-in-the-arts
 sources:
-- fxa301-week09-web-article-australia-2018
+  - fxa101-week00-making-it-easy-to-do-hard-things-how-experts-help-novices
+  - fxa301-week09-web-article-australia-2018
+  - fxa302-week11-nothing-about-us-without-us-disability-arts-now
 tags:
 - accessibility
 title: Accessibility in the Arts
 type: topic
-updated: 2026-05-04
+updated: 2026-09-22
 ---
 
 ## Accessibility in the Arts
@@ -27,4 +29,6 @@ The provided sources highlight the critical role of accessibility in enhancing r
 
 ## Sources
 
+- [fxa101-week00-making-it-easy-to-do-hard-things-how-experts-help-novices](../sources/fxa101-week00-making-it-easy-to-do-hard-things-how-experts-help-novices.md)
 - [fxa301-week09-web-article-australia-2018](../sources/fxa301-week09-web-article-australia-2018.md)
+- [fxa302-week11-nothing-about-us-without-us-disability-arts-now](../sources/fxa302-week11-nothing-about-us-without-us-disability-arts-now.md)

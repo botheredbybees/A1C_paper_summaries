@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: the-power-of-music-on-emotional-cognition
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## The Power Of Music On Emotional Cognition

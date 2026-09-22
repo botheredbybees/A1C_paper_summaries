@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-art-therapy-cat
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Community Art Therapy Cat

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mere-exposure-effect
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Mere Exposure Effect

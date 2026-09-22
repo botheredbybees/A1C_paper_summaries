@@ -11,7 +11,7 @@ tags: ["music-therapy", "cognitive-behavior-therapy", "substance-abuse-treatment
 key_concepts: ["cognitive behavior therapy", "music therapy", "patient engagement", "substance abuse treatment"]
 methods: ["clinical study", "survey"]
 slug: fxa302-week10-can-music-therapy-engage-patients-in-group-cognitive
-related: ["group-therapy", "mental-health-interventions", "music-therapy", "patient-engagement", "substance-abuse-treatment"]
+related: ["cognitive-behavior-therapy", "group-therapy", "mental-health-interventions", "music-therapy", "patient-engagement", "substance-abuse-treatment"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -44,6 +44,7 @@ This clinical study explores the effectiveness of integrating music therapy as a
 
 ## See Also
 
+- [cognitive-behavior-therapy](../topics/cognitive-behavior-therapy.md)
 - [group-therapy](../topics/group-therapy.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [music-therapy](../topics/music-therapy.md)

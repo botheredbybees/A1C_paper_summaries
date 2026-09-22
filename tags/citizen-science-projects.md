@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: citizen-science-projects
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Citizen Science Projects

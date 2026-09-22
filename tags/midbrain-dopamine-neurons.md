@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: midbrain-dopamine-neurons
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Midbrain Dopamine Neurons

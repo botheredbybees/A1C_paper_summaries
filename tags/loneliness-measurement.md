@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: loneliness-measurement
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Loneliness Measurement

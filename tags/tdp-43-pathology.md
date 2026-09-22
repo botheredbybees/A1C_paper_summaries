@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tdp-43-pathology
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Tdp 43 Pathology

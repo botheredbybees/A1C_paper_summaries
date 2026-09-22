@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: symbolic-client-projection
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Symbolic Client Projection

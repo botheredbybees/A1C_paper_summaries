@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: individual-differences-in-social-anxiety
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Individual Differences In Social Anxiety

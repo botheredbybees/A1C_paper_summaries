@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-promotion-campaigns
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Health Promotion Campaigns

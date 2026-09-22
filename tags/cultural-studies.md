@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-studies
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cultural Studies
@@ -14,4 +14,5 @@ updated: 2026-09-15
 - [\u201cDo You Remember Me?\u201d Constructions of Alzheimer\u2019s Disease in Literature and Film](../sources/fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in.md)
 - [Historical and cultural aspects of man's relationship with addictive drugs](../sources/fxa302-week10-historical-and-cultural-aspects-of-mans-relationship-with.md)
 - [I Am Gula, Hear Me Roar: On Gender and Medicine](../sources/fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine.md)
+- [Frida Kahlo\u2019s Bodily Geographies](../sources/fxa302-week11-frida-kahlos-bodily-geographies.md)
 - [Music-making for health and wellbeing in youth justice settings](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)

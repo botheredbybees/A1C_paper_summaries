@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Art Therapy
@@ -87,6 +87,9 @@ updated: 2026-09-15
 - [\u201cIt gave me something big in my life to wonder and think about which took over the space\u2026 and not MS\u201d: managing well-being in multiple sclerosis through art-making](../sources/fxa302-week10-it-gave-me-something-big-in-my-life-to-wonder-and-think.md)
 - [Neurological Disorders and the Visual Arts](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
 - [Moving Towards Gray: Art Therapy and Ambivalence in Substance Abuse Treatment](../sources/fxa302-week10-moving-towards-gray-art-therapy-and-ambivalence-in.md)
+- [Art Therapy in Burn Cases: A Review and Case Examples](../sources/fxa302-week11-art-therapy-in-burn-cases-a-review-and-case-examples.md)
+- [Artistic activities and psychological well-being perceived by patients with spinal cord injury](../sources/fxa302-week11-artistic-activities-and-psychological-well-being-perceived.md)
+- [Burn Survivor Artist Changes Artistic Approach by Sharing How Other Survivors of Traumatic Events Can Use Art to Heal Themselves by Helping Others Heal](../sources/fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing.md)
 - [THRiVE and the Body Map Activity](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing.md)
 - [Ethical Considerations and Collaborative Practices in International Art Therapy for Disaster Recovery](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
 - [Evaluation of 'Images of Self,' an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders (ASD)](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)

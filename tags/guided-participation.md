@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: guided-participation
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Guided Participation

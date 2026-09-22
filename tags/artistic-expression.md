@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artistic-expression
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Artistic Expression
@@ -13,4 +13,5 @@ updated: 2026-09-15
 - [Mental Illness, Music and Literature: Perspectives on Health and Wellbeing](../sources/fxa302-week08-lesson-fxa302-week08-page-3.md)
 - [The rewards of chronic illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
+- [Trauma as Site of Identity: The Case of Jeanette Winterson and Frida Kahlo](../sources/fxa302-week11-trauma-as-site-of-identity-the-case-of-jeanette-winterson.md)
 - [Artistic expression as a source of resilience for transgender and gender diverse young people](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

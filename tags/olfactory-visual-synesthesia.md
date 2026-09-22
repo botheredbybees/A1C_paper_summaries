@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: olfactory-visual-synesthesia
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Olfactory Visual Synesthesia

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-system-processing
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Visual System Processing

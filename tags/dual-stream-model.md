@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dual-stream-model
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Dual Stream Model

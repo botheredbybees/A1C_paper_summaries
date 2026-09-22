@@ -9,13 +9,15 @@ appearances:
     week: "08"
   - unit: FXA302
     week: "09"
+  - unit: FXA302
+    week: "11"
 tags: ["authentication", "internet-security", "shibboleth", "single-sign-on", "web-applications", "fxa302", "single-sign-on-sso"]
 key_concepts: ["Single Sign-On (SSO)", "Shibboleth"]
 methods: []
 slug: fxa302-week08-web-article-daverio-2001
 related: ["authentication", "internet-security", "shibboleth", "single-sign-on-sso"]
 created: 2026-08-31
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week08-web-article-daverio-2001.md_

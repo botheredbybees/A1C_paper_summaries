@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Visual Arts
@@ -17,3 +17,5 @@ updated: 2026-09-15
 - [Visual Loss and Painting: Monet, Bramblitt, Arma\u011fan](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)
 - [Neurological Disorders and the Visual Arts](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
 - [Understanding Suffering: Utermohlen\u2019s Self-portraits and Alzheimer\u2019s Disease](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)
+- [Assistive technology for disabled visual artists: exploring the impact of digital technologies on artistic practice](../sources/fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring.md)
+- [Creative Responses to Physical Disability through Visual Arts](../sources/fxa302-week11-lesson-fxa302-week11-page-2.md)

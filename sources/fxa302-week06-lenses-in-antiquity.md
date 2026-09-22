@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Lenses in Antiquity"
-apa7: "Sines, G., & Sakellarakis, Y. A. (1987). Lenses in antiquity. American Journal of Archaeology, 91(2), 191-196. https://www.jstor.org/stable/505216"
-doi: https://www.jstor.org/stable/505216
+apa7: "Sines, G., & Sakellarakis, Y. (1987). Lenses in Antiquity. *American Journal of Archaeology*. https://doi.org/10.2307/505216"
+doi: https://doi.org/10.2307/505216
 appearances:
   - unit: FXA302
     week: "06"

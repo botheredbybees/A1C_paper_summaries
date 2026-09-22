@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: discrimination-in-science
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Discrimination In Science

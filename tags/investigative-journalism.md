@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: investigative-journalism
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Investigative Journalism

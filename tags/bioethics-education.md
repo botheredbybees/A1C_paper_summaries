@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bioethics-education
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Bioethics Education

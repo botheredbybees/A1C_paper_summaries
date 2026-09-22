@@ -9,11 +9,12 @@ sources:
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
   - fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better
   - fxa301-week11-projects-art-beyond-sight
+  - fxa302-week11-nothing-about-us-without-us-disability-arts-now
 tags:
 - inclusive-arts
 title: Inclusive Arts
 type: topic
-updated: 2026-05-11
+updated: 2026-09-22
 ---
 
 ## Inclusive Arts
@@ -42,3 +43,4 @@ Throughout these sources, there is a consistent emphasis on designing interventi
 - [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better](../sources/fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better.md)
 - [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)
+- [fxa302-week11-nothing-about-us-without-us-disability-arts-now](../sources/fxa302-week11-nothing-about-us-without-us-disability-arts-now.md)

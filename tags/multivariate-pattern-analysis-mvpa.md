@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multivariate-pattern-analysis-mvpa
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Multivariate Pattern Analysis Mvpa

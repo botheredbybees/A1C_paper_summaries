@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: antisocial-behaviors
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Antisocial Behaviors

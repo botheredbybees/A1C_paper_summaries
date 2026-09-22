@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: group-based-choir-singing
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Group Based Choir Singing

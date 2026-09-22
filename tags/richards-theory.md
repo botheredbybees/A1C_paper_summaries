@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: richards-theory
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Richards Theory

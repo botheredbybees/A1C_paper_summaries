@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-robot-interaction
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Social Robot Interaction

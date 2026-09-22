@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care-initiatives
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Dementia Care Initiatives

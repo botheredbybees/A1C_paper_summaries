@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "A Music and Health Perspective on Music's Perceived \u2018Goodness\u2019"
-apa7: "Edwards, J. (2011). A music and health perspective on music\u2019s perceived \u201cgoodness\u201d. Nordic Journal of Music Therapy, 20(1), 90-101. https://doi.org/10.1080/08098130903305085"
-doi: https://doi.org/10.1080/080981309033085
+apa7: "Edwards, J. (2011). A music and health perspective on music's perceived “goodness”. https://doi.org/10.1080/08098130903305085"
+doi: https://doi.org/10.1080/08098130903305085
 appearances:
   - unit: FXA301
     week: "06"

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: post-pandemic-society
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Post Pandemic Society

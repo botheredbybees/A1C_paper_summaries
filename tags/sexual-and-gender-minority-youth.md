@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sexual-and-gender-minority-youth
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Sexual And Gender Minority Youth

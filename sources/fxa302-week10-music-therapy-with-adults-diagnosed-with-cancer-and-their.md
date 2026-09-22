@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Music Therapy with Adults Diagnosed with Cancer and Their Families"
-apa7: "O\u2019Callaghan, C., & Magill, L. (2017). Music therapy with adults diagnosed with cancer and their families. In J. Edwards (Ed.), The Oxford Handbook of Music Therapy (pp. 160-188). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199680806.013.0006"
-doi: https://doi.org/10.1093/oxfordhb/9780199680806.013.0006
+apa7: "O'Callaghan, C., & Magill, L. (2016). Music Therapy with Adults Diagnosed with Cancer and Their Families. https://doi.org/10.1093/OXFORDHB/9780199639755.013.44"
+doi: https://doi.org/10.1093/OXFORDHB/9780199639755.013.44
 appearances:
   - unit: FXA302
     week: "10"

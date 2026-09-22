@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: audio-motor-synchronization
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Audio Motor Synchronization

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimer-s-poetry-project
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Alzheimer S Poetry Project

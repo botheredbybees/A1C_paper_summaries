@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rorschach-test
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Rorschach Test

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: levitin-chapter8
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Levitin Chapter8

@@ -15,6 +15,7 @@ sources:
   - fxa301-week10-lesson-fxa301-week10-page-2
   - fxa302-week01-the-routledge-companion-to-health-humanities-part-2
   - fxa302-week10-essentials-of-cognitive-neuroscience-(6)
+  - fxa302-week11-lesson-fxa302-week11-welcome-to-week-11
   - fxa303-week03-arts-in-adolescence
   - fxa303-week06-emotional-expression-through-puppetry
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
@@ -23,7 +24,7 @@ tags:
 - therapeutic-arts
 title: Therapeutic Arts
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Therapeutic Arts
@@ -54,6 +55,7 @@ The therapeutic arts encompass a range of creative practices that promote well-b
 - [fxa301-week10-lesson-fxa301-week10-page-2](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
 - [fxa302-week01-the-routledge-companion-to-health-humanities-part-2](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(6)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%286%29.md)
+- [fxa302-week11-lesson-fxa302-week11-welcome-to-week-11](../sources/fxa302-week11-lesson-fxa302-week11-welcome-to-week-11.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [fxa303-week06-emotional-expression-through-puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)

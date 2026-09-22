@@ -8,11 +8,15 @@ sources:
   - fxa300-week08-neurologic-music-therapy-training-for-mobility-and
   - fxa302-week10-lesson-fxa302-week10-page-2
   - fxa302-week10-lesson-fxa302-week10-welcome-to-week-10
+  - fxa302-week11-artistic-activities-and-psychological-well-being-perceived
+  - fxa302-week11-lesson-fxa302-week11-welcome-to-week-11
+  - fxa302-week11-psychosocial-aspects-of-burn-injuries
+  - fxa302-week11-relationship-of-therapeutic-recreation-inpatient
 tags:
 - rehabilitation
 title: Rehabilitation for Cognitive Decline
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Rehabilitation for Cognitive Decline
@@ -36,3 +40,7 @@ The sources collectively highlight the importance of cognitive stimulation and s
 - [fxa300-week08-neurologic-music-therapy-training-for-mobility-and](../sources/fxa300-week08-neurologic-music-therapy-training-for-mobility-and.md)
 - [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
 - [fxa302-week10-lesson-fxa302-week10-welcome-to-week-10](../sources/fxa302-week10-lesson-fxa302-week10-welcome-to-week-10.md)
+- [fxa302-week11-artistic-activities-and-psychological-well-being-perceived](../sources/fxa302-week11-artistic-activities-and-psychological-well-being-perceived.md)
+- [fxa302-week11-lesson-fxa302-week11-welcome-to-week-11](../sources/fxa302-week11-lesson-fxa302-week11-welcome-to-week-11.md)
+- [fxa302-week11-psychosocial-aspects-of-burn-injuries](../sources/fxa302-week11-psychosocial-aspects-of-burn-injuries.md)
+- [fxa302-week11-relationship-of-therapeutic-recreation-inpatient](../sources/fxa302-week11-relationship-of-therapeutic-recreation-inpatient.md)

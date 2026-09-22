@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: substance-use-disorders
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Substance Use Disorders

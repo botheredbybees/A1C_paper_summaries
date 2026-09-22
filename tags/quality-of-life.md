@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Quality Of Life
@@ -94,6 +94,7 @@ updated: 2026-09-15
 - [Effects of Creative Art Therapy in Stroke Rehabilitation: A Systematic Review](../sources/fxa302-week10-effects-of-creative-art-therapy-in-stroke-rehabilitation-a.md)
 - [Music Therapy for People Who Have Alzheimer\u2019s Disease](../sources/fxa302-week10-music-therapy-for-people-who-have-alzheimers-disease.md)
 - [Music Therapy with Adults Diagnosed with Cancer and Their Families](../sources/fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their.md)
+- [Relationship of therapeutic recreation inpatient rehabilitation interventions and patient characteristics to outcomes following spinal cord injury: The SCIRehab project](../sources/fxa302-week11-relationship-of-therapeutic-recreation-inpatient.md)
 - [\"I made you a small room in my heart\": how therapeutic clowns meet the needs of older adults in nursing homes](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
 - [Application of cognitive stimulation in the care of institutionalized elderly people with dementia](../sources/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md)
 - [Der Demenz-Clown: Ein Konzept zur Kultivierung von Humor und Heiterkeit in der Demenzpflege](../sources/fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und.md)

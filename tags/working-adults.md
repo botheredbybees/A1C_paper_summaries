@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: working-adults
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Working Adults

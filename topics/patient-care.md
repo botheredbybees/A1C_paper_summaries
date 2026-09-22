@@ -20,13 +20,15 @@ sources:
   - fxa302-week10-the-medical-humanities-in-medical-education
   - fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse
   - fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities
+  - fxa302-week11-artistic-activities-and-psychological-well-being-perceived
+  - fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during
   - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
 tags:
 - patient-care
 title: Art Therapy in Patient Care
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Art Therapy in Patient Care
@@ -62,5 +64,7 @@ The integration of art therapy into patient care emerges as a multifaceted inter
 - [fxa302-week10-the-medical-humanities-in-medical-education](../sources/fxa302-week10-the-medical-humanities-in-medical-education.md)
 - [fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse](../sources/fxa302-week10-the-use-of-art-and-music-therapy-in-substance-abuse.md)
 - [fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities](../sources/fxa302-week10-the-why-the-what-and-the-how-of-the-medicalhealth-humanities.md)
+- [fxa302-week11-artistic-activities-and-psychological-well-being-perceived](../sources/fxa302-week11-artistic-activities-and-psychological-well-being-perceived.md)
+- [fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
 - [fxa303-week13-behavioral-and-psychological-symptoms-of-dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)
 - [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

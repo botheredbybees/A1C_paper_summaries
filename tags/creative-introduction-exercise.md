@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-introduction-exercise
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Introduction Exercise

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: baddeleys-model-of-working-memory
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Baddeleys Model Of Working Memory

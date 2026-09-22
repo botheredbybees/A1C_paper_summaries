@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medieval-theology
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Medieval Theology

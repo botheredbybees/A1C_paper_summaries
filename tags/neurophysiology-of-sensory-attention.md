@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurophysiology-of-sensory-attention
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neurophysiology Of Sensory Attention

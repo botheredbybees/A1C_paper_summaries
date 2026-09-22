@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: daily-living-skills
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Daily Living Skills

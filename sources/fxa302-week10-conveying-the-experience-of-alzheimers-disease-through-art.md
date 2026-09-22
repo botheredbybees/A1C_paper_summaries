@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Conveying the Experience of Alzheimer\u2019s Disease through Art: The Later Paintings of William Utermohlen"
-apa7: "Polini, P. (2015). Conveying the experience of Alzheimer\u2019s disease through art: The later paintings of William Utermohlen. In D. F. E. E. J. L. P. (Ed.), Mainly dementia (pp. 298-305). Cambridge University Press."
+apa7: "Polini, P. (2007). Conveying the experience of Alzheimer\u2019s disease through art: The later paintings of William Utermohlen. In R. Davenhill (Ed.), Looking into later life: A psychoanalytic approach to depression and dementia in old age (pp. 298\u2013318). Routledge."
 doi: null
 appearances:
   - unit: FXA302
@@ -13,7 +13,7 @@ methods: ["case study"]
 slug: fxa302-week10-conveying-the-experience-of-alzheimers-disease-through-art
 related: ["alzheimer-art", "dementia-experience", "self-representation"]
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week10-conveying-the-experience-of-alzheimers-disease-through-art.md_

@@ -7,6 +7,8 @@ sources:
   - fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the
   - fxa302-week09-lesson-fxa302-week09-page-3
   - fxa302-week09-lesson-fxa302-week09-welcome-to-week-9
+  - fxa302-week11-psychosocial-aspects-of-burn-injuries
+  - fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
   - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
@@ -14,7 +16,7 @@ tags:
 - pain-management
 title: Hospital Clowning in Pediatric Pain Management
 type: topic
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 ## Hospital Clowning in Pediatric Pain Management
@@ -37,6 +39,8 @@ Both sources investigate the impact of hospital clowning on pediatric patients, 
 - [fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the](../sources/fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the.md)
 - [fxa302-week09-lesson-fxa302-week09-page-3](../sources/fxa302-week09-lesson-fxa302-week09-page-3.md)
 - [fxa302-week09-lesson-fxa302-week09-welcome-to-week-9](../sources/fxa302-week09-lesson-fxa302-week09-welcome-to-week-9.md)
+- [fxa302-week11-psychosocial-aspects-of-burn-injuries](../sources/fxa302-week11-psychosocial-aspects-of-burn-injuries.md)
+- [fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
 - [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and](../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and.md)
 - [fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)

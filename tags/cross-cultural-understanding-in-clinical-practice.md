@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-cultural-understanding-in-clinical-practice
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Cross Cultural Understanding In Clinical Practice

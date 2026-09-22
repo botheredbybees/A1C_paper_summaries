@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: john-tavener-composition
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## John Tavener Composition

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nursing-home-intervention
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Nursing Home Intervention

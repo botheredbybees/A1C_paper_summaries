@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-criminal-justice
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Arts In Criminal Justice

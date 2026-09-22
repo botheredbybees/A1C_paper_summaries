@@ -10,7 +10,7 @@ tags: ["craft", "expert-novice-dynamics", "engagement", "maker-movement", "acces
 key_concepts: ["creative craft approach", "enchantment", "scaffolding"]
 methods: ["interviews", "observational data"]
 slug: fxa101-week00-making-it-easy-to-do-hard-things-how-experts-help-novices
-related: ["craft"]
+related: ["accessibility", "craft"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -43,4 +43,5 @@ This paper explores how novices in the maker movement perceive craft as accessib
 
 ## See Also
 
+- [accessibility](../topics/accessibility.md)
 - [craft](../topics/craft.md)

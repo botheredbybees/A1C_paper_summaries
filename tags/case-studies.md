@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: case-studies
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Case Studies
@@ -12,3 +12,4 @@ updated: 2026-09-15
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2811%29.md)
 - [Neurological Disorders and the Visual Arts](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
 - [Upper limb rehabilitation in chronic stroke using neurologic music therapy: Two contrasting case studies to inform on treatment delivery and patient suitability](../sources/fxa302-week10-upper-limb-rehabilitation-in-chronic-stroke-using.md)
+- [Art Therapy in Burn Cases: A Review and Case Examples](../sources/fxa302-week11-art-therapy-in-burn-cases-a-review-and-case-examples.md)

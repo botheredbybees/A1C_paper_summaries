@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-pain-management-through-creative-therapies
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Chronic Pain Management Through Creative Therapies
@@ -13,3 +13,4 @@ updated: 2026-09-15
 - [Arts Therapy and Its Implications in Chronic Pain Management: A Narrative Review](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)
 - [How music can help relieve chronic pain](../sources/fxa302-week09-how-music-can-help-relieve-chronic-pain.md)
 - [Activities for Week 9: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
+- [Mind-Body Interventions for Treatment of Phantom Limb Pain in Persons with Amputation](../sources/fxa302-week11-mind-body-interventions-for-treatment-of-phantom-limb-pain.md)

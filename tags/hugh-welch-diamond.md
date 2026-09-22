@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hugh-welch-diamond
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Hugh Welch Diamond

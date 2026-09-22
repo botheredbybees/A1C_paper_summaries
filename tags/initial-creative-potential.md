@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: initial-creative-potential
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Initial Creative Potential

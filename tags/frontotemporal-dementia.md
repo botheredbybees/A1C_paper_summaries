@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: frontotemporal-dementia
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Frontotemporal Dementia

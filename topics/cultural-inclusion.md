@@ -8,7 +8,8 @@ sources:
   - fxa100-week07-access-programs-art-gallery-of-nsw
   - fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii
   - fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a
-updated: 2026-09-15
+  - fxa302-week11-equity-the-arts-and-disability-associated-plan
+updated: 2026-09-22
 ---
 
 ## Cultural Inclusion in Arts
@@ -30,3 +31,4 @@ The concept of cultural inclusion in arts is explored through two distinct but r
 - [fxa100-week07-access-programs-art-gallery-of-nsw](../sources/fxa100-week07-access-programs-art-gallery-of-nsw.md)
 - [fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii.md)
 - [fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a](../sources/fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a.md)
+- [fxa302-week11-equity-the-arts-and-disability-associated-plan](../sources/fxa302-week11-equity-the-arts-and-disability-associated-plan.md)

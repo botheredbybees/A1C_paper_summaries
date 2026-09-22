@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anxiety-reduction
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Anxiety Reduction
@@ -9,6 +9,7 @@ updated: 2026-09-15
 - [Critical Reflection on Present Mindedness and Mindfulness Practices](../sources/fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness.md)
 - [The Effects of Music Intervention in the Management of Chronic Pain](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
 - [Music interventions for mechanically ventilated patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)
+- [The effects of music intervention on burn patients during treatment procedures: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa302-week11-the-effects-of-music-intervention-on-burn-patients-during.md)
 - [The Use of Puppets in Psychodynamic Child Therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
 - [Puppet play therapy in emergency pediatric dental clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
 - [A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)

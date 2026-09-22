@@ -11,7 +11,7 @@ tags: ["music-therapy", "mental-health-interventions", "physical-rehabilitation"
 key_concepts: ["music therapy benefits", "registered music therapists (RMTs)", "range of conditions"]
 methods: []
 slug: fxa100-week04-what-is-music-therapy-flyer
-related: ["mental-health-interventions", "music-therapy"]
+related: ["mental-health-interventions", "music-therapy", "physical-rehabilitation"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -44,3 +44,4 @@ The document outlines the benefits and application of music therapy, a research-
 
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [music-therapy](../topics/music-therapy.md)
+- [physical-rehabilitation](../topics/physical-rehabilitation.md)

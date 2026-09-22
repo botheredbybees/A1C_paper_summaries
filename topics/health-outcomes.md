@@ -22,12 +22,13 @@ sources:
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
   - fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial
+  - fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review
   - fxa303-week11-inclusive-communication-with-lgbtiq-clients
 tags:
 - health-outcomes
 title: Health Outcomes of Arts Programs
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Health Outcomes of Arts Programs
@@ -65,4 +66,5 @@ The provided sources illustrate the impact of arts-based interventions on health
 - [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial](../sources/fxa302-week10-dancing-for-parkinsons-disease-online-clinical-trial.md)
+- [fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review](../sources/fxa302-week11-music-therapy-and-parkinsons-disease-a-systematic-review.md)
 - [fxa303-week11-inclusive-communication-with-lgbtiq-clients](../sources/fxa303-week11-inclusive-communication-with-lgbtiq-clients.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: awareness-effects
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Awareness Effects

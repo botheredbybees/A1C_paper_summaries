@@ -8,11 +8,12 @@ sources:
   - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
   - fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb
   - fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation
+  - fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons
 tags:
 - rhythmic-auditory-stimulation
 title: Rhythmic Auditory Stimulation
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Rhythmic Auditory Stimulation
@@ -36,3 +37,4 @@ The provided sources highlight the therapeutic benefits of rhythmic auditory sti
 - [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
 - [fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb](../sources/fxa302-week10-home-based-neurologic-music-therapy-for-upper-limb.md)
 - [fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation](../sources/fxa302-week10-neurologic-music-therapy-in-stroke-rehabilitation.md)
+- [fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons](../sources/fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons.md)

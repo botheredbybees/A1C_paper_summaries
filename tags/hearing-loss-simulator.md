@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hearing-loss-simulator
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Hearing Loss Simulator

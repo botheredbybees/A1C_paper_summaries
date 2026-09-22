@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mushroom-identification
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Mushroom Identification

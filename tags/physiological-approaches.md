@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physiological-approaches
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Physiological Approaches

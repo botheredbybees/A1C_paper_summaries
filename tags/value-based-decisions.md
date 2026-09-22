@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: value-based-decisions
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Value Based Decisions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: progressive-aphasia
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Progressive Aphasia

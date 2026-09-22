@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Creativity from Constraints: What can we learn from Motherwell? From Modrian? From Klee?"
-apa7: "Stokes, P. D. (2008). Creativity from constraints: What can we learn from Motherwell? From Mondrian? From Klee?. Journal of Creative Behavior, 42(4), 223-241. https://doi.org/10.1002/jcb.201297"
-doi: https://doi.org/10.1002/jcb.201297
+apa7: "Stokes, P. (2008). Creativity from Constraints: What Can We Learn from Motherwell? From Modrian? From Klee?.. https://doi.org/10.1002/J.2162-6057.2008.TB01297.X"
+doi: https://doi.org/10.1002/J.2162-6057.2008.TB01297.X
 appearances:
   - unit: FXA101
     week: "05"

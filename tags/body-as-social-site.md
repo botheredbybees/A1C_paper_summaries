@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-as-social-site
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Body As Social Site

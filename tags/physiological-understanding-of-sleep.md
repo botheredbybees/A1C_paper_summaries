@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physiological-understanding-of-sleep
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Physiological Understanding Of Sleep

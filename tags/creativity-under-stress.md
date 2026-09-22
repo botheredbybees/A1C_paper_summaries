@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-under-stress
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creativity Under Stress

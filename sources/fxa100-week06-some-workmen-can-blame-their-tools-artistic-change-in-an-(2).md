@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Some workmen can blame their tools: artistic change in an individual with Alzheimer\u2019s disease"
-apa7: "Crutch, S. J., Isaacs, R., & Rossor, M. N. (2001). Some workmen can blame their tools: artistic change in an individual with Alzheimer's disease. The Lancet, 357(9264), 2129-2133."
-doi: https://doi.org/10.1016/S0140-6736(00)04584-X
+apa7: "Crutch, S., Isaacs, R., & Rossor, M. (2001). Some workmen can blame their tools: artistic change in an individual with Alzheimer's disease.. *The Lancet*. https://doi.org/10.1016/S0140-6736(00)05187-4"
+doi: https://doi.org/10.1016/S0140-6736(00)05187-4
 appearances:
   - unit: FXA100
     week: "06"

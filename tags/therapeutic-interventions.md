@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-interventions
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Therapeutic Interventions
@@ -20,6 +20,7 @@ updated: 2026-09-15
 - [HEALTH HUMANITIES AND THE CREATIVE DISCIPLINES](../sources/fxa302-week01-health-humanities-and-the-creative-disciplines.md)
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
 - [Neural Bases of Memory](../sources/fxa302-week10-neural-bases-of-memory.md)
+- [The role of music therapy in physical rehabilitation: a systematic literature review](../sources/fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a.md)
 - [Introduction to Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [Play therapy in children with autism: Its role, implications, and limitations](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)
 - [Puppet Play Therapy: A Practical Guidebook - Section IV Puppet Therapy Techniques](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-expression
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Expression
@@ -46,6 +46,8 @@ updated: 2026-09-15
 - [Francisco Jos\u00e9 de Goya y Lucientes, 1746\u20131828](../sources/fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828.md)
 - [Poised in the Creative Now: Principles of Nordoff-Robbins Music Therapy](../sources/fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins.md)
 - [The Rock Guitar Solo: From Expression to Simulation](../sources/fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation.md)
+- [Burn Survivor Artist Changes Artistic Approach by Sharing How Other Survivors of Traumatic Events Can Use Art to Heal Themselves by Helping Others Heal](../sources/fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing.md)
+- [The Role of Assistive Technology in Enhancing Disability Arts](../sources/fxa302-week11-web-article-wong-2020.md)
 - [Arts On Prescription Meets Sir Quentin Blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [From helplessness to a renewed sense of agency: The integration of puppets in the Art & Storytelling school-based creative expression program with immigrant and refugee children](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
 - [FXA303 Week 6: Puppetry in Therapeutic Contexts](../sources/fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts.md)

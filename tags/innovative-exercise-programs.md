@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: innovative-exercise-programs
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Innovative Exercise Programs

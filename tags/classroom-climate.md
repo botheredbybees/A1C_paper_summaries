@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: classroom-climate
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Classroom Climate

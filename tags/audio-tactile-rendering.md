@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: audio-tactile-rendering
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Audio Tactile Rendering

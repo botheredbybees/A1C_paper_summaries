@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: waveform-parameters
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Waveform Parameters

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: methodological-transparency
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Methodological Transparency

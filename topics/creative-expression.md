@@ -43,6 +43,8 @@ sources:
   - fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828
   - fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins
   - fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation
+  - fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing
+  - fxa302-week11-web-article-wong-2020
   - fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
   - fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts
@@ -56,7 +58,7 @@ tags:
 - creative-expression
 title: Creative Expression
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Expression
@@ -115,6 +117,8 @@ The concept of creative expression encompasses a variety of therapeutic interven
 - [fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828](../sources/fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828.md)
 - [fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins](../sources/fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins.md)
 - [fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation](../sources/fxa302-week10-the-rock-guitar-solo-from-expression-to-simulation.md)
+- [fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing](../sources/fxa302-week11-burn-survivor-artist-changes-artistic-approach-by-sharing.md)
+- [fxa302-week11-web-article-wong-2020](../sources/fxa302-week11-web-article-wong-2020.md)
 - [fxa303-week03-arts-on-prescription-meets-sir-quentin-blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
 - [fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts](../sources/fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts.md)

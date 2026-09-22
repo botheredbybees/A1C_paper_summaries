@@ -7,7 +7,8 @@ tags: ["accessibility-in-arts"]
 sources:
   - fxa301-week11-choose-art
   - fxa301-week11-glossary-choose-art
-updated: 2026-05-18
+  - fxa302-week11-disability-arts-now
+updated: 2026-09-22
 ---
 
 ## Accessibility In Arts
@@ -28,3 +29,4 @@ The sources provided emphasize the critical role of accessibility in enhancing t
 
 - [fxa301-week11-choose-art](../sources/fxa301-week11-choose-art.md)
 - [fxa301-week11-glossary-choose-art](../sources/fxa301-week11-glossary-choose-art.md)
+- [fxa302-week11-disability-arts-now](../sources/fxa302-week11-disability-arts-now.md)

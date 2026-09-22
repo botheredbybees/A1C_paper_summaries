@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ableist-language-in-communication-about-disability
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Ableist Language In Communication About Disability

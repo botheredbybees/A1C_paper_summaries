@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: small-c-creativity
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Small C Creativity

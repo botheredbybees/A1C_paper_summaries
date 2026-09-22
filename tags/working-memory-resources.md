@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: working-memory-resources
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Working Memory Resources

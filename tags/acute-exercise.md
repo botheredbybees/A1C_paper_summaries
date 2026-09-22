@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: acute-exercise
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Acute Exercise

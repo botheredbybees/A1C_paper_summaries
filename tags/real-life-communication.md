@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: real-life-communication
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Real Life Communication

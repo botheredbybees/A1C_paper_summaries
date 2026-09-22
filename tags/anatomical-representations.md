@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anatomical-representations
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Anatomical Representations

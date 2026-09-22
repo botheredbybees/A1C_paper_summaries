@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroplasticity
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neuroplasticity
@@ -33,5 +33,6 @@ updated: 2026-09-15
 - [Chapter 17: Emotion](../sources/fxa302-week10-chapter-17-emotion.md)
 - [Sonification of Arm Movements in Stroke Rehabilitation \u2013 A Novel Approach in Neurologic Music Therapy](../sources/fxa302-week10-sonification-of-arm-movements-in-stroke-rehabilitation-a.md)
 - [The Neural Basis of Addiction: A Pathology of Motivation and Choice](../sources/fxa302-week10-the-neural-basis-of-addiction-a-pathology-of-motivation-and.md)
+- [Mind-Body Interventions for Treatment of Phantom Limb Pain in Persons with Amputation](../sources/fxa302-week11-mind-body-interventions-for-treatment-of-phantom-limb-pain.md)
 - [Child Development - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [Adolescent Development](../sources/fxa303-week03-adolescent-development.md)

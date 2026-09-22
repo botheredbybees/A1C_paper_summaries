@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tulvings-states
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Tulvings States

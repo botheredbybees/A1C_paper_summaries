@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vagus-nerve
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Vagus Nerve

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intersection-literature-medical-education
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Intersection Literature Medical Education

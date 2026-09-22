@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-health
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Behavioral Health
