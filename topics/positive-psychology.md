@@ -27,11 +27,20 @@ sources:
   - psy214-week10-lesson-psy214-week10-week-7-wrap-up
   - psy214-week10-positive-psychology-overview
   - psy214-week10-positive-psychology-overview-(2)
+  - psy214-week11-340-ways-to-use-via-character-strengths
+  - psy214-week11-character-strengths
+  - psy214-week11-character-strengths-notes-slides
+  - psy214-week11-lesson-psy214-week11-character-strengths
+  - psy214-week11-lesson-psy214-week11-character-strengths-research-and
+  - psy214-week11-lesson-psy214-week11-meaning-humanistic-approaches
+  - psy214-week11-lesson-psy214-week11-week-8-introduction
+  - psy214-week11-tips-for-applying-character-strengths
+  - psy214-week11-via-total-24-character-strengths-report
 tags:
 - positive-psychology
 title: Positive Psychology and Resilience
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Positive Psychology and Resilience
@@ -74,3 +83,12 @@ Positive psychology focuses on fostering resilience and well-being through the d
 - [psy214-week10-lesson-psy214-week10-week-7-wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
 - [psy214-week10-positive-psychology-overview](../sources/psy214-week10-positive-psychology-overview.md)
 - [psy214-week10-positive-psychology-overview-(2)](../sources/psy214-week10-positive-psychology-overview-%282%29.md)
+- [psy214-week11-340-ways-to-use-via-character-strengths](../sources/psy214-week11-340-ways-to-use-via-character-strengths.md)
+- [psy214-week11-character-strengths](../sources/psy214-week11-character-strengths.md)
+- [psy214-week11-character-strengths-notes-slides](../sources/psy214-week11-character-strengths-notes-slides.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths-research-and](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
+- [psy214-week11-lesson-psy214-week11-meaning-humanistic-approaches](../sources/psy214-week11-lesson-psy214-week11-meaning-humanistic-approaches.md)
+- [psy214-week11-lesson-psy214-week11-week-8-introduction](../sources/psy214-week11-lesson-psy214-week11-week-8-introduction.md)
+- [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
+- [psy214-week11-via-total-24-character-strengths-report](../sources/psy214-week11-via-total-24-character-strengths-report.md)

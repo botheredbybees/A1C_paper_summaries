@@ -7,7 +7,8 @@ tags: ["well-being-measurement"]
 sources:
   - fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s
   - fxa303-week11-promoting-mental-well-being-and-social-inclusion-through
-updated: 2026-05-11
+  - psy214-week11-the-meaning-in-life-questionnaire
+updated: 2026-09-22
 ---
 
 ## Measurement of Well-Being
@@ -28,3 +29,4 @@ The evaluation of quality of life and mental well-being involves various approac
 
 - [fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s](../sources/fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s.md)
 - [fxa303-week11-promoting-mental-well-being-and-social-inclusion-through](../sources/fxa303-week11-promoting-mental-well-being-and-social-inclusion-through.md)
+- [psy214-week11-the-meaning-in-life-questionnaire](../sources/psy214-week11-the-meaning-in-life-questionnaire.md)

@@ -12,3 +12,4 @@ updated: 2026-09-22
 - [Web Lecture 2, Week 2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [Age-related differences in white matter diffusion measures in autism spectrum condition](../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures.md)
 - [The effect of Gestalt play therapy in addressing symptoms associated with trauma in children in middle childhood](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)
+- [Introduction to Behavioral Neuroscience](../sources/psy214-week11-introduction-to-behavioral-neuroscience.md)

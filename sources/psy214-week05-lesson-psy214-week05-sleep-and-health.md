@@ -11,7 +11,7 @@ tags: ["sleep-health", "lifespan-development", "stress-management", "physical-ac
 key_concepts: ["HPA axis", "sympathetic nervous system"]
 methods: []
 slug: psy214-week05-lesson-psy214-week05-sleep-and-health
-related: ["hpa-axis", "physical-activity", "sleep-health", "stress-management"]
+related: ["hpa-axis", "lifespan-development", "physical-activity", "sleep-health", "stress-management"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -43,6 +43,7 @@ This lesson covers the importance of sleep for health across the lifespan. It di
 ## See Also
 
 - [hpa-axis](../topics/hpa-axis.md)
+- [lifespan-development](../topics/lifespan-development.md)
 - [physical-activity](../topics/physical-activity.md)
 - [sleep-health](../topics/sleep-health.md)
 - [stress-management](../topics/stress-management.md)

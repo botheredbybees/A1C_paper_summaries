@@ -11,7 +11,7 @@ tags: ["arts-education", "community-engagement", "therapeutic-interventions", "f
 key_concepts: ["social-inclusion", "holistic-development", "empowerment-through-art"]
 methods: ["case-study", "qualitative-research"]
 slug: fxa301-week01-editors-introduction-arts-and-community-engagement
-related: ["arts-education", "community-engagement", "therapeutic-interventions"]
+related: ["arts-education", "community-engagement", "holistic-development", "therapeutic-interventions"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -44,4 +44,5 @@ This editor's introduction to a special issue of Wacana Seni Journal of Arts Dis
 
 - [arts-education](../topics/arts-education.md)
 - [community-engagement](../topics/community-engagement.md)
+- [holistic-development](../topics/holistic-development.md)
 - [therapeutic-interventions](../topics/therapeutic-interventions.md)

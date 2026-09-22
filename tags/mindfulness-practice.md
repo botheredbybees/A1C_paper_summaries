@@ -33,3 +33,4 @@ updated: 2026-09-22
 - [Sitting Meditation Script](../sources/psy214-week08-sitting-meditation-script.md)
 - [Critical thinking about mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
 - [Mindfulness and Balanced Positive Emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)
+- [Meaning: History](../sources/psy214-week11-meaning-history.md)

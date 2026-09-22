@@ -41,6 +41,11 @@ sources:
   - psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the
   - psy214-week10-positive-psychology-overview
   - psy214-week10-positive-psychology-overview-(2)
+  - psy214-week11-340-ways-to-use-via-character-strengths
+  - psy214-week11-character-strengths
+  - psy214-week11-lesson-psy214-week11-character-strengths
+  - psy214-week11-lesson-psy214-week11-character-strengths-research-and
+  - psy214-week11-tips-for-applying-character-strengths
 tags:
 - well-being
 title: Well-Being Through Creative Arts
@@ -102,3 +107,8 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the](../sources/psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the.md)
 - [psy214-week10-positive-psychology-overview](../sources/psy214-week10-positive-psychology-overview.md)
 - [psy214-week10-positive-psychology-overview-(2)](../sources/psy214-week10-positive-psychology-overview-%282%29.md)
+- [psy214-week11-340-ways-to-use-via-character-strengths](../sources/psy214-week11-340-ways-to-use-via-character-strengths.md)
+- [psy214-week11-character-strengths](../sources/psy214-week11-character-strengths.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths-research-and](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
+- [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)

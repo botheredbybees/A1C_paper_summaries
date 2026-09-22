@@ -11,7 +11,7 @@ tags: ["cognition", "music-perception", "brain-regions", "neural-processing", "f
 key_concepts: ["sensation-and-perception", "bottom-up-processing", "top-down-processing"]
 methods: []
 slug: fxa300-week04-lesson-fxa300-week04-welcome-to-week-41
-related: ["brain-regions", "music-perception", "neural-processing", "top-down-processing"]
+related: ["brain-regions", "cognition", "music-perception", "neural-processing", "top-down-processing"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -43,6 +43,7 @@ In this week's lesson on sensation and perception within cognition, Dr Brendan L
 ## See Also
 
 - [brain-regions](../topics/brain-regions.md)
+- [cognition](../topics/cognition.md)
 - [music-perception](../topics/music-perception.md)
 - [neural-processing](../topics/neural-processing.md)
 - [top-down-processing](../topics/top-down-processing.md)

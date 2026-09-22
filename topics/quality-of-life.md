@@ -111,6 +111,7 @@ sources:
   - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
   - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
   - fxa303-week13-reminiscence-therapy-for-dementia
+  - psy214-week11-the-meaning-in-life-questionnaire
 tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
@@ -242,3 +243,4 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa303-week13-play-and-people-living-with-dementia-a-humanities-based](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)
 - [fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)
 - [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)
+- [psy214-week11-the-meaning-in-life-questionnaire](../sources/psy214-week11-the-meaning-in-life-questionnaire.md)

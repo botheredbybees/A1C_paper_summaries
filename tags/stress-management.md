@@ -66,3 +66,5 @@ updated: 2026-09-22
 - [Self-Compassion and Coping: a Meta-Analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 10 Wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
 - [Positive Affect Interventions to Reduce Stress: Harnessing the Benefit While Avoiding the Pollyanna Trap](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)
+- [Stress, Self-Care and Mindfulness: Meaning Practices and Outcomes](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)
+- [Meaning: History](../sources/psy214-week11-meaning-history.md)

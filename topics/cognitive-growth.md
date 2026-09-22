@@ -6,11 +6,12 @@ sources:
   - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week03-adolescent-health
+  - psy214-week11-lifespan-development
 tags:
 - cognitive-growth
 title: Cognitive Growth Across Developmental Stages
 type: topic
-updated: 2026-07-13
+updated: 2026-09-22
 ---
 
 ## Cognitive Growth Across Developmental Stages
@@ -32,3 +33,4 @@ The concept of cognitive growth is explored across different developmental stage
 - [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [fxa303-week03-adolescent-health](../sources/fxa303-week03-adolescent-health.md)
+- [psy214-week11-lifespan-development](../sources/psy214-week11-lifespan-development.md)

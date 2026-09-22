@@ -13,3 +13,4 @@ updated: 2026-09-22
 - [A New Context Affording for Regulation: The Case of Musical Play](../sources/fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical.md)
 - [Accessing the Inaccessible: Redefining Play as a Spectrum](../sources/fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum.md)
 - [Addressing Issues of Mental Health in Schools through the Arts](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
+- [Lifespan Development](../sources/psy214-week11-lifespan-development.md)

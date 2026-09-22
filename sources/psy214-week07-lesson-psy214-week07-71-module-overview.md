@@ -11,7 +11,7 @@ tags: ["mindfulness", "self-care", "stress-management", "psychology-education", 
 key_concepts: ["mindfulness", "autopilot", "compassion", "self-compassion", "langerian-mindfulness"]
 methods: []
 slug: psy214-week07-lesson-psy214-week07-71-module-overview
-related: ["everyday-mindfulness", "informal-mindfulness", "langerian-mindfulness", "mindfulness", "self-care", "stress-management"]
+related: ["everyday-mindfulness", "informal-mindfulness", "langerian-mindfulness", "mindfulness", "psychology-education", "self-care", "stress-management"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -51,5 +51,6 @@ This lesson introduces the concept of mindfulness, focusing on its general defin
 - [informal-mindfulness](../topics/informal-mindfulness.md)
 - [langerian-mindfulness](../topics/langerian-mindfulness.md)
 - [mindfulness](../topics/mindfulness.md)
+- [psychology-education](../topics/psychology-education.md)
 - [self-care](../topics/self-care.md)
 - [stress-management](../topics/stress-management.md)

@@ -11,7 +11,7 @@ tags: ["positive-psychology", "well-being", "gratitude", "acts-of-kindness", "ps
 key_concepts: ["Positive Activity Model", "Hedonic Adaptation Prevention Model", "Negativity Bias"]
 methods: []
 slug: psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well
-related: ["acts-of-kindness", "gratitude", "positive-psychology", "well-being"]
+related: ["acts-of-kindness", "gratitude", "positive-activity-model", "positive-psychology", "well-being"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -45,5 +45,6 @@ This lesson explores the models and mechanisms of positive psychology activities
 
 - [acts-of-kindness](../topics/acts-of-kindness.md)
 - [gratitude](../topics/gratitude.md)
+- [positive-activity-model](../topics/positive-activity-model.md)
 - [positive-psychology](../topics/positive-psychology.md)
 - [well-being](../topics/well-being.md)

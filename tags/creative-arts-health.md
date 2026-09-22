@@ -15,3 +15,4 @@ updated: 2026-09-22
 - [Coping Notes Slides](../sources/psy214-week01-coping-notes-slides.md)
 - [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
 - [The How, Why, What, When, and Who of Happiness: Mechanisms Underlying the Success of Positive Activity Interventions](../sources/psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms.md)
+- [The Meaning in Life Questionnaire](../sources/psy214-week11-the-meaning-in-life-questionnaire.md)

@@ -44,3 +44,8 @@ updated: 2026-09-22
 - [Positive Emotions: The Good, The Bad, The Inert, and The Complicated](../sources/psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the.md)
 - [Positive Psychology: Overview](../sources/psy214-week10-positive-psychology-overview.md)
 - [Positive Psychology Overview](../sources/psy214-week10-positive-psychology-overview-%282%29.md)
+- [340 Ways to Use VIA Character Strengths](../sources/psy214-week11-340-ways-to-use-via-character-strengths.md)
+- [Character Strengths](../sources/psy214-week11-character-strengths.md)
+- [Character Strengths in Positive Psychology](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
+- [Signature Strengths Activity: Applying Character Strengths for Well-being](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
+- [Tips for Applying Character Strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)

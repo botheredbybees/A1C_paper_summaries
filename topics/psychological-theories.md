@@ -5,11 +5,12 @@ slug: neurodiversity-and-psychoanalytical-theories
 sources:
   - fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
   - fxa303-week08-lesson-fxa303-week08-page-1-overview
+  - psy214-week11-lifespan-development
 tags:
 - psychological-theories
 title: Neurodiversity and Psychoanalytical Theories
 type: topic
-updated: 2026-05-11
+updated: 2026-09-22
 ---
 
 ## Neurodiversity and Psychoanalytical Theories
@@ -29,3 +30,4 @@ This synthesis integrates insights from two distinct areas of psychological theo
 
 - [fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism](../sources/fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism.md)
 - [fxa303-week08-lesson-fxa303-week08-page-1-overview](../sources/fxa303-week08-lesson-fxa303-week08-page-1-overview.md)
+- [psy214-week11-lifespan-development](../sources/psy214-week11-lifespan-development.md)

@@ -11,7 +11,7 @@ tags: ["existential-debt", "creativity-and-meaning", "psychological-well-being",
 key_concepts: ["meaning-in-life", "creative-problem-solving", "evolutionary-debt"]
 methods: ["theoretical-analysis"]
 slug: fxa101-week02-on-creativity-and-meaning-the-intricate-relationship
-related: ["psychological-well-being"]
+related: ["meaning-in-life", "psychological-well-being"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -42,4 +42,5 @@ The article explores the intricate relationship between creativity and meaning i
 
 ## See Also
 
+- [meaning-in-life](../topics/meaning-in-life.md)
 - [psychological-well-being](../topics/psychological-well-being.md)

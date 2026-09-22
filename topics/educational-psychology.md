@@ -10,11 +10,12 @@ sources:
   - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
   - fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
   - fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the
+  - psy214-week11-lifespan-development
 tags:
 - educational-psychology
 title: Educational Psychology in Trauma-Informed Care
 type: topic
-updated: 2026-08-17
+updated: 2026-09-22
 ---
 
 ## Educational Psychology in Trauma-Informed Care
@@ -40,3 +41,4 @@ The integration of educational psychology with trauma-informed care and the supp
 - [fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical](../sources/fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical.md)
 - [fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum](../sources/fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum.md)
 - [fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
+- [psy214-week11-lifespan-development](../sources/psy214-week11-lifespan-development.md)

@@ -16,3 +16,4 @@ updated: 2026-09-22
 - [I Am Gula, Hear Me Roar: On Gender and Medicine](../sources/fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine.md)
 - [Frida Kahlo\u2019s Bodily Geographies](../sources/fxa302-week11-frida-kahlos-bodily-geographies.md)
 - [Music-making for health and wellbeing in youth justice settings](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)
+- [Introduction to Sociology 3e](../sources/psy214-week11-introduction-to-sociology-3e.md)

@@ -3,12 +3,20 @@ confidence: low
 domain: theory
 slug: character-strengths-and-resilience
 sources:
-- fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+  - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+  - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
+  - psy214-week11-character-strengths
+  - psy214-week11-character-strengths-notes-slides
+  - psy214-week11-lesson-psy214-week11-character-strengths
+  - psy214-week11-lesson-psy214-week11-character-strengths-research-and
+  - psy214-week11-lesson-psy214-week11-week-8-introduction
+  - psy214-week11-tips-for-applying-character-strengths
+  - psy214-week11-via-total-24-character-strengths-report
 tags:
 - character-strengths
 title: Character Strengths and Resilience
 type: topic
-updated: 2026-05-04
+updated: 2026-09-22
 ---
 
 ## Character Strengths and Resilience
@@ -28,3 +36,11 @@ The sources collectively underscore the importance of character strengths in fos
 ## Sources
 
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
+- [psy214-week00-the-impact-of-signature-character-strengths-interventions-a](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)
+- [psy214-week11-character-strengths](../sources/psy214-week11-character-strengths.md)
+- [psy214-week11-character-strengths-notes-slides](../sources/psy214-week11-character-strengths-notes-slides.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths-research-and](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
+- [psy214-week11-lesson-psy214-week11-week-8-introduction](../sources/psy214-week11-lesson-psy214-week11-week-8-introduction.md)
+- [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
+- [psy214-week11-via-total-24-character-strengths-report](../sources/psy214-week11-via-total-24-character-strengths-report.md)

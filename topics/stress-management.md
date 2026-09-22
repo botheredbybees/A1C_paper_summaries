@@ -63,6 +63,8 @@ sources:
   - psy214-week09-self-compassion-and-coping-a-meta-analysis
   - psy214-week10-lesson-psy214-week10-week-7-wrap-up
   - psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing
+  - psy214-week11-lesson-psy214-week11-meaning-existential-approaches
+  - psy214-week11-meaning-history
 tags:
 - stress-management
 title: Stress Management Interventions
@@ -146,3 +148,5 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
 - [psy214-week10-lesson-psy214-week10-week-7-wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
 - [psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)
+- [psy214-week11-lesson-psy214-week11-meaning-existential-approaches](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)
+- [psy214-week11-meaning-history](../sources/psy214-week11-meaning-history.md)

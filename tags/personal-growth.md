@@ -15,3 +15,5 @@ updated: 2026-09-22
 - [The Wellbeing Workout: How to Manage Stress and Develop Resilience](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
 - [Leisure and well-being: the DRAMMA model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
 - [Critical Thinking About Mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness-%283%29.md)
+- [340 Ways to Use VIA Character Strengths](../sources/psy214-week11-340-ways-to-use-via-character-strengths.md)
+- [Tips for Applying Character Strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)

@@ -11,7 +11,7 @@ tags: ["illness-narrative", "existential-psychology", "caregiver-ethics", "dehum
 key_concepts: ["identity transformation", "social alienation", "existential crisis", "narrative medicine"]
 methods: ["literary analysis"]
 slug: fxa302-week10-illuminating-the-it-thee-and-we-of-disease-and-illness
-related: ["creative-arts-health", "identity-transformation", "illness-narrative"]
+related: ["creative-arts-health", "existential-psychology", "identity-transformation", "illness-narrative"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -46,5 +46,6 @@ The chapter discusses Franz Kafka’s 'The Metamorphosis' as a metaphor for the 
 ## See Also
 
 - [creative-arts-health](../topics/creative-arts-health.md)
+- [existential-psychology](../topics/existential-psychology.md)
 - [identity-transformation](../topics/identity-transformation.md)
 - [illness-narrative](../topics/illness-narrative.md)

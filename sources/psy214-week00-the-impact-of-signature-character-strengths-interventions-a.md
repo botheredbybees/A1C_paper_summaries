@@ -7,13 +7,15 @@ doi: https://doi.org/10.1007/s10902-018-9990-2
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "11"
 tags: ["positive-affect", "character-strengths", "meta-analysis", "well-being-interventions", "depression-reduction", "psy214", "signature-character-strengths"]
 key_concepts: ["signature-character-strengths", "intervention-effectiveness", "psychological-well-being"]
 methods: ["meta-analysis"]
 slug: psy214-week00-the-impact-of-signature-character-strengths-interventions-a
-related: ["meta-analysis", "positive-affect", "well-being-interventions"]
+related: ["character-strengths", "meta-analysis", "positive-affect", "well-being-interventions"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-09-22
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md_
@@ -43,6 +45,7 @@ This meta-analysis evaluates the impact of interventions focused on using signat
 
 ## See Also
 
+- [character-strengths](../topics/character-strengths.md)
 - [meta-analysis](../topics/meta-analysis.md)
 - [positive-affect](../topics/positive-affect.md)
 - [well-being-interventions](../topics/well-being-interventions.md)

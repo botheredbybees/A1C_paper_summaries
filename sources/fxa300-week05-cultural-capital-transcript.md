@@ -11,7 +11,7 @@ tags: ["cultural-capital", "social-stratification", "bourdieu-theory", "sociolog
 key_concepts: ["cultural capital", "social stratification"]
 methods: ["case study"]
 slug: fxa300-week05-cultural-capital-transcript
-related: ["cultural-capital"]
+related: ["cultural-capital", "social-stratification"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -42,3 +42,4 @@ The concept of cultural capital, developed by Pierre Bourdieu, is explored in th
 ## See Also
 
 - [cultural-capital](../topics/cultural-capital.md)
+- [social-stratification](../topics/social-stratification.md)

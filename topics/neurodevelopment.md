@@ -9,11 +9,12 @@ sources:
   - fxa303-week02-web-lecture-2-week-2
   - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+  - psy214-week11-introduction-to-behavioral-neuroscience
 tags:
 - neurodevelopment
 title: Neurodevelopmental Differences in Autism and Trauma
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Neurodevelopmental Differences in Autism and Trauma
@@ -37,3 +38,4 @@ The neurodevelopmental differences discussed in both sources underscore the comp
 - [fxa303-week02-web-lecture-2-week-2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [fxa303-week04-age-related-differences-in-white-matter-diffusion-measures](../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures.md)
 - [fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)
+- [psy214-week11-introduction-to-behavioral-neuroscience](../sources/psy214-week11-introduction-to-behavioral-neuroscience.md)

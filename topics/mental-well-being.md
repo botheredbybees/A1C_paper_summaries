@@ -12,11 +12,12 @@ sources:
   - psy214-week00-self-compassion-theory-method-research-and-intervention
   - psy214-week06-nature-experience-reduces-rumination-and-subgenual
   - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
+  - psy214-week11-character-strengths-notes-slides
 tags:
 - mental-well-being
 title: Mental Well-being Through Creative Practices
 type: topic
-updated: 2026-08-31
+updated: 2026-09-22
 ---
 
 ## Mental Well-being Through Creative Practices
@@ -44,3 +45,4 @@ The integration of creative practices such as art therapy and journaling into me
 - [psy214-week00-self-compassion-theory-method-research-and-intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
 - [psy214-week06-nature-experience-reduces-rumination-and-subgenual](../sources/psy214-week06-nature-experience-reduces-rumination-and-subgenual.md)
 - [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
+- [psy214-week11-character-strengths-notes-slides](../sources/psy214-week11-character-strengths-notes-slides.md)

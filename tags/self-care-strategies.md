@@ -31,3 +31,4 @@ updated: 2026-09-22
 - [Self-Care Skills to Prevent Burnout: A Pilot Study Embedding Mindfulness in an Undergraduate Nursing Course](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)
 - [Stress, Self-Care and Mindfulness and Stress, Self-Care and Mindfulness](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 10 Wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
+- [Meaning: History](../sources/psy214-week11-meaning-history.md)

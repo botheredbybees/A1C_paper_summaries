@@ -21,11 +21,12 @@ sources:
   - fxa302-week08-the-rewards-of-chronic-illness
   - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
+  - psy214-week11-tips-for-applying-character-strengths
 tags:
 - creativity
 title: Creativity
 type: topic
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 ## Creativity
@@ -62,3 +63,4 @@ The concept of creativity is examined across multiple perspectives in these sour
 - [fxa302-week08-the-rewards-of-chronic-illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)
+- [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)

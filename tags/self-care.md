@@ -21,3 +21,6 @@ updated: 2026-09-22
 - [Gratitude: Interpersonal, Circumstantial, Transcendental, and Interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)
 - [Positive Activities: Moderators and Critiques](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
 - [Positive Psychology 1: Concepts, Models, and Interventions](../sources/psy214-week10-lesson-psy214-week10-week-7-introduction.md)
+- [Character Strengths in Positive Psychology](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
+- [Signature Strengths Activity: Applying Character Strengths for Well-being](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
+- [Stress, Self-Care and Mindfulness: Meaning Practices and Outcomes](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)

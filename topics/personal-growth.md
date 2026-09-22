@@ -12,11 +12,13 @@ sources:
   - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
   - psy214-week05-leisure-and-well-being-the-dramma-model
   - psy214-week09-critical-thinking-about-mindfulness-(3)
+  - psy214-week11-340-ways-to-use-via-character-strengths
+  - psy214-week11-tips-for-applying-character-strengths
 tags:
 - personal-growth
 title: Therapeutic Creative Arts for Mental Health
 type: topic
-updated: 2026-09-08
+updated: 2026-09-22
 ---
 
 ## Therapeutic Creative Arts for Mental Health
@@ -44,3 +46,5 @@ The case studies of therapeutic creative arts interventions underscore their rol
 - [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
 - [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
 - [psy214-week09-critical-thinking-about-mindfulness-(3)](../sources/psy214-week09-critical-thinking-about-mindfulness-%283%29.md)
+- [psy214-week11-340-ways-to-use-via-character-strengths](../sources/psy214-week11-340-ways-to-use-via-character-strengths.md)
+- [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)

@@ -8,3 +8,4 @@ updated: 2026-09-22
 
 - [Quality of Life Assessment: Key Issues in the 1990s](../sources/fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s.md)
 - [Promoting Mental Well-Being and Social Inclusion Through Art: Evaluation of an Arts and Mental Health Project](../sources/fxa303-week11-promoting-mental-well-being-and-social-inclusion-through.md)
+- [The Meaning in Life Questionnaire](../sources/psy214-week11-the-meaning-in-life-questionnaire.md)

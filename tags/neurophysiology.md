@@ -11,3 +11,4 @@ updated: 2026-09-22
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%285%29.md)
 - [The influence of low and moderate carotid stenosis on neurophysiologic status of patients undergoing on-pump coronary artery bypass grafting](../sources/fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on.md)
 - [The Effects of Acute Exercise on Mood, Cognition, Neurophysiology, and Neurochemical Pathways: A Review](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)
+- [Introduction to Behavioral Neuroscience](../sources/psy214-week11-introduction-to-behavioral-neuroscience.md)

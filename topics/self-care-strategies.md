@@ -28,11 +28,12 @@ sources:
   - psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding
   - psy214-week08-lesson-psy214-week08-week-10-introduction
   - psy214-week10-lesson-psy214-week10-week-7-wrap-up
+  - psy214-week11-meaning-history
 tags:
 - self-care-strategies
 title: Self-Care Strategies
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Self-Care Strategies
@@ -75,3 +76,4 @@ The sources explore different self-care strategies that individuals can adopt to
 - [psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)
 - [psy214-week08-lesson-psy214-week08-week-10-introduction](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
 - [psy214-week10-lesson-psy214-week10-week-7-wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
+- [psy214-week11-meaning-history](../sources/psy214-week11-meaning-history.md)

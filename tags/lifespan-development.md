@@ -7,3 +7,4 @@ updated: 2026-09-22
 ## Lifespan Development
 
 - [Sleep and Health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
+- [Lifespan Development](../sources/psy214-week11-lifespan-development.md)

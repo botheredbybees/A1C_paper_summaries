@@ -5,11 +5,12 @@ slug: human-development-theories
 sources:
   - fxa303-week02-the-psychosocial-development-theory-of-erik-erikson
   - fxa303-week03-chapter-11-human-development-how-and-why-we-change
+  - psy214-week11-lifespan-development
 tags:
 - human-development
 title: Human Development Theories
 type: topic
-updated: 2026-05-11
+updated: 2026-09-22
 ---
 
 ## Human Development Theories
@@ -30,3 +31,4 @@ The exploration of human development theories through Erikson's psychosocial the
 
 - [fxa303-week02-the-psychosocial-development-theory-of-erik-erikson](../sources/fxa303-week02-the-psychosocial-development-theory-of-erik-erikson.md)
 - [fxa303-week03-chapter-11-human-development-how-and-why-we-change](../sources/fxa303-week03-chapter-11-human-development-how-and-why-we-change.md)
+- [psy214-week11-lifespan-development](../sources/psy214-week11-lifespan-development.md)

@@ -19,13 +19,15 @@ appearances:
     week: "07"
   - unit: PSY214
     week: "08"
+  - unit: PSY214
+    week: "11"
 tags: ["stress-management", "self-care-strategies", "mindfulness-practices", "psy214", "weekly-quizzes", "workbook-activities"]
 key_concepts: ["weekly-quizzes", "workbook-activities"]
 methods: []
 slug: psy214-week01-lesson-psy214-week01-week-1-wrap-up
 related: ["mindfulness-practices", "self-care-strategies", "stress-management"]
 created: 2026-07-06
-updated: 2026-08-31
+updated: 2026-09-22
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md_

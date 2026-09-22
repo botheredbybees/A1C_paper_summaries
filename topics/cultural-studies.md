@@ -13,6 +13,7 @@ sources:
   - fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine
   - fxa302-week11-frida-kahlos-bodily-geographies
   - fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
+  - psy214-week11-introduction-to-sociology-3e
 tags:
 - cultural-studies
 title: Cultural Studies and Applied Music
@@ -46,3 +47,4 @@ This synthesis explores the intersection of cultural studies with applied music 
 - [fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine](../sources/fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine.md)
 - [fxa302-week11-frida-kahlos-bodily-geographies](../sources/fxa302-week11-frida-kahlos-bodily-geographies.md)
 - [fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)
+- [psy214-week11-introduction-to-sociology-3e](../sources/psy214-week11-introduction-to-sociology-3e.md)

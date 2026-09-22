@@ -11,7 +11,7 @@ tags: ["biopsychology", "neuroscience-research", "brain-function-study", "behavi
 key_concepts: ["biopsychology", "neuroplasticity", "evolutionary-perspective"]
 methods: ["case-study"]
 slug: fxa300-week02-biopsychology-as-a-neuroscience
-related: ["neuroscience-research"]
+related: ["biopsychology", "neuroscience-research"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -42,4 +42,5 @@ The text introduces the field of biopsychology, which focuses on understanding t
 
 ## See Also
 
+- [biopsychology](../topics/biopsychology.md)
 - [neuroscience-research](../topics/neuroscience-research.md)

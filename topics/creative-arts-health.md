@@ -12,11 +12,12 @@ sources:
   - psy214-week01-coping-notes-slides
   - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
   - psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms
+  - psy214-week11-the-meaning-in-life-questionnaire
 tags:
 - creative-arts-health
 title: Creative Arts in Health Interventions
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Creative Arts in Health Interventions
@@ -44,3 +45,4 @@ The integration of creative arts into health interventions presents a multifacet
 - [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)
 - [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
 - [psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms](../sources/psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms.md)
+- [psy214-week11-the-meaning-in-life-questionnaire](../sources/psy214-week11-the-meaning-in-life-questionnaire.md)

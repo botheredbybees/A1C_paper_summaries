@@ -7,3 +7,4 @@ updated: 2026-09-22
 ## Psychology Education
 
 - [Mindfulness: Overview and Everyday Practices](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
+- [Psychology 2e](../sources/psy214-week11-psychology-2e.md)

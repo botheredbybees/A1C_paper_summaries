@@ -19,11 +19,14 @@ sources:
   - psy214-week10-lesson-psy214-week10-positive-interventions
   - psy214-week10-lesson-psy214-week10-positive-psychology-interventions
   - psy214-week10-lesson-psy214-week10-week-7-introduction
+  - psy214-week11-lesson-psy214-week11-character-strengths
+  - psy214-week11-lesson-psy214-week11-character-strengths-research-and
+  - psy214-week11-lesson-psy214-week11-meaning-existential-approaches
 tags:
 - self-care
 title: Self-Care for Caregivers
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Self-Care for Caregivers
@@ -58,3 +61,6 @@ The provided sources highlight the critical importance of self-care for individu
 - [psy214-week10-lesson-psy214-week10-positive-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)
 - [psy214-week10-lesson-psy214-week10-positive-psychology-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
 - [psy214-week10-lesson-psy214-week10-week-7-introduction](../sources/psy214-week10-lesson-psy214-week10-week-7-introduction.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths-research-and](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
+- [psy214-week11-lesson-psy214-week11-meaning-existential-approaches](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)

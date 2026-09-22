@@ -13,11 +13,12 @@ sources:
   - fxa303-week06-therapeutic-puppetry-and-wellbeing
   - fxa303-week11-bell-shakespeares-youth-justice-program
   - fxa303-week11-youth-justice-program-bell-shakespeare
+  - psy214-week11-the-meaning-in-life-questionnaire
 tags:
 - self-reflection
 title: Self-Reflection Through Creative Therapies
 type: topic
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 ## Self-Reflection Through Creative Therapies
@@ -46,3 +47,4 @@ The synthesis of the provided sources highlights self-reflection through various
 - [fxa303-week06-therapeutic-puppetry-and-wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)
 - [fxa303-week11-bell-shakespeares-youth-justice-program](../sources/fxa303-week11-bell-shakespeares-youth-justice-program.md)
 - [fxa303-week11-youth-justice-program-bell-shakespeare](../sources/fxa303-week11-youth-justice-program-bell-shakespeare.md)
+- [psy214-week11-the-meaning-in-life-questionnaire](../sources/psy214-week11-the-meaning-in-life-questionnaire.md)

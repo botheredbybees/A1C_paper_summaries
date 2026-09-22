@@ -11,7 +11,7 @@ tags: ["medical-history", "creative-arts", "romantic-era", "mental-health", "phi
 key_concepts: ["theory-of-humours", "melancholia", "creativity-as-emotional-regulation"]
 methods: ["case-study"]
 slug: fxa302-week08-fxa302-week-8-welcome
-related: ["case-study", "creative-arts", "medical-history", "mental-health", "romantic-era", "theory-of-humours"]
+related: ["case-study", "creative-arts", "medical-history", "mental-health", "philosophy", "romantic-era", "theory-of-humours"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -49,5 +49,6 @@ This document is a welcome message for the eighth week of the FXA302 course, whi
 - [creative-arts](../topics/creative-arts.md)
 - [medical-history](../topics/medical-history.md)
 - [mental-health](../topics/mental-health.md)
+- [philosophy](../topics/philosophy.md)
 - [romantic-era](../topics/romantic-era.md)
 - [theory-of-humours](../topics/theory-of-humours.md)

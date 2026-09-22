@@ -26,3 +26,4 @@ updated: 2026-09-22
 - [Langerian Mindfulness: Noticing and Engagement](../sources/psy214-week07-lesson-psy214-week07-mindfulness-as-noticing.md)
 - [Limitations of the Evidence Base for Mindfulness](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)
 - [Mindfulness research: Limitations](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)
+- [Introduction to Sociology 3e](../sources/psy214-week11-introduction-to-sociology-3e.md)

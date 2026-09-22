@@ -11,7 +11,7 @@ tags: ["performance-anxiety", "stage-fright", "stress-management", "public-speak
 key_concepts: ["stress-response", "nervous-system", "memory-techniques"]
 methods: []
 slug: fxa300-week10-transcript-duration-450
-related: ["health-psychology", "performance-anxiety", "public-speaking", "stage-fright", "stress-management"]
+related: ["health-psychology", "nervous-system", "performance-anxiety", "public-speaking", "stage-fright", "stress-management"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -45,6 +45,7 @@ This transcript discusses eight signs of performance anxiety, also known as stag
 ## See Also
 
 - [health-psychology](../topics/health-psychology.md)
+- [nervous-system](../topics/nervous-system.md)
 - [performance-anxiety](../topics/performance-anxiety.md)
 - [public-speaking](../topics/public-speaking.md)
 - [stage-fright](../topics/stage-fright.md)

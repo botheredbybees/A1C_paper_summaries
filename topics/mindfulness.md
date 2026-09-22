@@ -27,11 +27,14 @@ sources:
   - psy214-week10-lesson-psy214-week10-altruism
   - psy214-week10-lesson-psy214-week10-positive-interventions
   - psy214-week10-lesson-psy214-week10-positive-psychology-interventions
+  - psy214-week11-lesson-psy214-week11-character-strengths
+  - psy214-week11-lesson-psy214-week11-character-strengths-research-and
+  - psy214-week11-lesson-psy214-week11-meaning-existential-approaches
 tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography
 type: topic
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 ## Mindfulness and Therapeutic Photography
@@ -74,3 +77,6 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 - [psy214-week10-lesson-psy214-week10-altruism](../sources/psy214-week10-lesson-psy214-week10-altruism.md)
 - [psy214-week10-lesson-psy214-week10-positive-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)
 - [psy214-week10-lesson-psy214-week10-positive-psychology-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
+- [psy214-week11-lesson-psy214-week11-character-strengths-research-and](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
+- [psy214-week11-lesson-psy214-week11-meaning-existential-approaches](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)

@@ -8,7 +8,8 @@ sources:
   - fxa101-week07-textures-as-probes-of-visual-processing
   - fxa300-week02-biopsychology-preface
   - fxa303-week03-adolescent-neurodevelopment
-updated: 2026-08-17
+  - psy214-week11-introduction-to-behavioral-neuroscience
+updated: 2026-09-22
 ---
 
 ## Behavioral Neuroscience
@@ -30,3 +31,4 @@ Behavioral neuroscience synthesizes biological and psychological perspectives to
 - [fxa101-week07-textures-as-probes-of-visual-processing](../sources/fxa101-week07-textures-as-probes-of-visual-processing.md)
 - [fxa300-week02-biopsychology-preface](../sources/fxa300-week02-biopsychology-preface.md)
 - [fxa303-week03-adolescent-neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)
+- [psy214-week11-introduction-to-behavioral-neuroscience](../sources/psy214-week11-introduction-to-behavioral-neuroscience.md)

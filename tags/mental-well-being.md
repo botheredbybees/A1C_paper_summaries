@@ -15,3 +15,4 @@ updated: 2026-09-22
 - [Self-Compassion: Theory, Method, Research, and Intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
 - [Nature Experience Reduces Rumination and Subgenual Prefrontal Cortex Activation](../sources/psy214-week06-nature-experience-reduces-rumination-and-subgenual.md)
 - [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
+- [Character Strengths Notes Slides](../sources/psy214-week11-character-strengths-notes-slides.md)

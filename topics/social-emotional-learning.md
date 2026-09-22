@@ -7,11 +7,12 @@ sources:
   - fxa301-week03-investigating-the-causal-effects-of-arts-education
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
   - fxa303-week05-supporting-expressive-communication-for-social-and
+  - psy214-week11-lifespan-development
 tags:
 - social-emotional-learning
 title: Social-Emotional Learning
 type: topic
-updated: 2026-08-07
+updated: 2026-09-22
 ---
 
 ## Social-Emotional Learning
@@ -38,3 +39,4 @@ While these sources focus on different aspects—community engagement versus neu
 - [fxa301-week03-investigating-the-causal-effects-of-arts-education](../sources/fxa301-week03-investigating-the-causal-effects-of-arts-education.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
 - [fxa303-week05-supporting-expressive-communication-for-social-and](../sources/fxa303-week05-supporting-expressive-communication-for-social-and.md)
+- [psy214-week11-lifespan-development](../sources/psy214-week11-lifespan-development.md)

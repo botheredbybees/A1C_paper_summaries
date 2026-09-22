@@ -11,7 +11,7 @@ tags: ["positive-psychology", "well-being-theories", "mental-health-models", "ps
 key_concepts: ["PERMA model", "complete mental health model", "cultural bias in well-being research"]
 methods: []
 slug: psy214-week02-lesson-psy214-week02-necessary-versus-sufficient
-related: ["positive-psychology", "well-being-theories"]
+related: ["perma-model", "positive-psychology", "well-being-theories"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -42,5 +42,6 @@ This lesson explores the PERMA model developed by Martin Seligman for well-being
 
 ## See Also
 
+- [perma-model](../topics/perma-model.md)
 - [positive-psychology](../topics/positive-psychology.md)
 - [well-being-theories](../topics/well-being-theories.md)

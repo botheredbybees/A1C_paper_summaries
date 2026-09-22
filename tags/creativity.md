@@ -24,3 +24,4 @@ updated: 2026-09-22
 - [The rewards of chronic illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
 - [Creativity and Mental Health](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [Applying Creativity in Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)
+- [Tips for Applying Character Strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)

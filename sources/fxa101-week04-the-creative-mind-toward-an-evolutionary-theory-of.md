@@ -11,7 +11,7 @@ tags: ["evolutionary-theory", "creativity-research", "biocultural-dynamics", "co
 key_concepts: ["biocultural dynamics", "joint inheritance theory", "semantic network organization"]
 methods: ["systematic review"]
 slug: fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of
-related: ["cognitive-neuroscience", "creativity-research"]
+related: ["cognitive-neuroscience", "creativity-research", "social-structure"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -50,3 +50,4 @@ The article concludes by considering how diverse forms of human creativity can b
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [creativity-research](../topics/creativity-research.md)
+- [social-structure](../topics/social-structure.md)

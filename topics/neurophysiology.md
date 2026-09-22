@@ -10,7 +10,8 @@ sources:
   - fxa302-week10-essentials-of-cognitive-neuroscience-(5)
   - fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on
   - psy214-week06-the-effects-of-acute-exercise-on-mood-cognition
-updated: 2026-09-15
+  - psy214-week11-introduction-to-behavioral-neuroscience
+updated: 2026-09-22
 ---
 
 ## Neurophysiological Effects and Influences
@@ -33,3 +34,4 @@ The exploration of neurophysiology encompasses diverse facets, as illustrated by
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(5)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%285%29.md)
 - [fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on](../sources/fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on.md)
 - [psy214-week06-the-effects-of-acute-exercise-on-mood-cognition](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)
+- [psy214-week11-introduction-to-behavioral-neuroscience](../sources/psy214-week11-introduction-to-behavioral-neuroscience.md)

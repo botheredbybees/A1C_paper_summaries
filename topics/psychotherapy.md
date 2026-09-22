@@ -8,7 +8,8 @@ sources:
   - fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
   - psy214-week08-how-mindfulness-works-the-big-picture
   - psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic
-updated: 2026-08-31
+  - psy214-week11-meaning-history-notes
+updated: 2026-09-22
 ---
 
 ## Mindfulness-Based Psychotherapy
@@ -30,3 +31,4 @@ Mindfulness-based interventions have emerged as a pivotal component in contempor
 - [fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission](../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md)
 - [psy214-week08-how-mindfulness-works-the-big-picture](../sources/psy214-week08-how-mindfulness-works-the-big-picture.md)
 - [psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)
+- [psy214-week11-meaning-history-notes](../sources/psy214-week11-meaning-history-notes.md)

@@ -23,11 +23,12 @@ sources:
   - psy214-week07-lesson-psy214-week07-mindfulness-as-noticing
   - psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base
   - psy214-week08-mindfulness-research-limitations-(2)
+  - psy214-week11-introduction-to-sociology-3e
 tags:
 - research-methods
 title: Research Methods in Healthcare Evaluation
 type: topic
-updated: 2026-09-07
+updated: 2026-09-22
 ---
 
 ## Research Methods in Healthcare Evaluation
@@ -66,3 +67,4 @@ The sources collectively emphasize the importance of various research methodolog
 - [psy214-week07-lesson-psy214-week07-mindfulness-as-noticing](../sources/psy214-week07-lesson-psy214-week07-mindfulness-as-noticing.md)
 - [psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)
 - [psy214-week08-mindfulness-research-limitations-(2)](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)
+- [psy214-week11-introduction-to-sociology-3e](../sources/psy214-week11-introduction-to-sociology-3e.md)
