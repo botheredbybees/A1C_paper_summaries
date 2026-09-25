@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pebblepad-workbook-submission-process
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Pebblepad Workbook Submission Process

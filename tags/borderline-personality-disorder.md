@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: borderline-personality-disorder
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Borderline Personality Disorder

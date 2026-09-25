@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-and-verbal-communication
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Visual And Verbal Communication

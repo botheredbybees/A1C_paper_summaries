@@ -5,9 +5,10 @@ title: "Education Methods"
 confidence: medium
 tags: ["education-methods"]
 sources:
+  - fxa101-week11-learning-critical-reflection-experiences-of-the
   - fxa302-week03-fxa302-week-3-welcome
   - fxa303-week02-the-psychosocial-development-of-children-implications-for
-updated: 2026-07-20
+updated: 2026-09-26
 ---
 
 ## Education Methods
@@ -26,5 +27,6 @@ The sources explore educational methods that emphasize different aspects of chil
 
 ## Sources
 
+- [fxa101-week11-learning-critical-reflection-experiences-of-the](../sources/fxa101-week11-learning-critical-reflection-experiences-of-the.md)
 - [fxa302-week03-fxa302-week-3-welcome](../sources/fxa302-week03-fxa302-week-3-welcome.md)
 - [fxa303-week02-the-psychosocial-development-of-children-implications-for](../sources/fxa303-week02-the-psychosocial-development-of-children-implications-for.md)

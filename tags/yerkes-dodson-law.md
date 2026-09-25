@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: yerkes-dodson-law
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Yerkes Dodson Law

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intellectual-functioning
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Intellectual Functioning

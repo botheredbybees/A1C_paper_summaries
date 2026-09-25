@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dream-theories
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Dream Theories

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: court-fools-fashion
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Court Fools Fashion

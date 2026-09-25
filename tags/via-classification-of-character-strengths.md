@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: via-classification-of-character-strengths
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Via Classification Of Character Strengths

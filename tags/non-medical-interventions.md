@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-medical-interventions
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Non Medical Interventions

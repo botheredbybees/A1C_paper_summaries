@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: economic-growth
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Economic Growth

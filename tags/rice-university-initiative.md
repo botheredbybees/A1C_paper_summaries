@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rice-university-initiative
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Rice University Initiative

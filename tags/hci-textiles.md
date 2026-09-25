@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hci-textiles
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Hci Textiles

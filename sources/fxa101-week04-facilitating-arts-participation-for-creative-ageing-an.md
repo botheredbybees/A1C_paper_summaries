@@ -11,7 +11,7 @@ tags: ["creative-ageing", "arts-participation", "south-korea", "action-research"
 key_concepts: ["creative ageing", "arts facilitation", "community wellbeing"]
 methods: ["action research"]
 slug: fxa101-week04-facilitating-arts-participation-for-creative-ageing-an
-related: ["arts-participation", "creative-ageing"]
+related: ["action-research", "arts-participation", "creative-ageing"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -41,5 +41,6 @@ This study examines the facilitation of arts participation among older adults wh
 
 ## See Also
 
+- [action-research](../topics/action-research.md)
 - [arts-participation](../topics/arts-participation.md)
 - [creative-ageing](../topics/creative-ageing.md)

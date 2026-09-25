@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: large-language-models-llms
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Large Language Models Llms

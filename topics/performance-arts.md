@@ -4,12 +4,13 @@ domain: intervention
 slug: theatrical-performances-and-audience-feedback
 sources:
   - fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
+  - fxa101-week11-becoming-a-reflective-practitioner
   - fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
 tags:
 - performance-arts
 title: Theatrical Performances and Audience Feedback
 type: topic
-updated: 2026-05-11
+updated: 2026-09-26
 ---
 
 ## Theatrical Performances and Audience Feedback
@@ -29,4 +30,5 @@ This synthesis examines how theatrical performances, particularly those involvin
 ## Sources
 
 - [fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts](../sources/fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts.md)
+- [fxa101-week11-becoming-a-reflective-practitioner](../sources/fxa101-week11-becoming-a-reflective-practitioner.md)
 - [fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet](../sources/fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet.md)

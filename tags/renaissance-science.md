@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: renaissance-science
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Renaissance Science

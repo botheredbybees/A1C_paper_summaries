@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: first-nations-arts
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## First Nations Arts

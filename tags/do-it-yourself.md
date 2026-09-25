@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: do-it-yourself
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Do It Yourself

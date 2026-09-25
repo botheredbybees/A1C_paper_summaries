@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: latent-profile-analysis
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Latent Profile Analysis

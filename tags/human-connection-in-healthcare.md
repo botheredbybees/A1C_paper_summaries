@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-connection-in-healthcare
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Human Connection In Healthcare

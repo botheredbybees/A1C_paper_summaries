@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vibratory-motor-arrays
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Vibratory Motor Arrays

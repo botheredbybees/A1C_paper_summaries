@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-model-challenge
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Medical Model Challenge

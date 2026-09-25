@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensory-substitution-systems
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Sensory Substitution Systems

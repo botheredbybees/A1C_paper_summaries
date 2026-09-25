@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dietary-risks
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Dietary Risks

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motivational-interviewing
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Motivational Interviewing

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: enhanced-patient-care
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Enhanced Patient Care

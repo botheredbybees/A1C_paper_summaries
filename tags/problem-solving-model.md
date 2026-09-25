@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: problem-solving-model
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Problem Solving Model

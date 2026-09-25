@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aging-and-obesity
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Aging And Obesity

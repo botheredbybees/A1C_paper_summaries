@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autobiographical-narratives
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Autobiographical Narratives

@@ -4,7 +4,9 @@ domain: theory
 slug: critical-reflection-models
 sources:
   - fxa101-week11-fxa101-week-11-welcome
+  - fxa101-week11-learning-critical-reflection-experiences-of-the
   - fxa101-week11-lesson-fxa101-week11-page-2-preparing-for-written
+  - fxa101-week11-toward-transformative-reflective-practice-in-teacher
   - fxa202-week03-at4-critical-reflection
   - fxa202-week09-critical-reflection-the-photo-essay
   - fxa202-week10-lesson-fxa202-week10-page-2
@@ -13,7 +15,7 @@ tags:
 - critical-reflection
 title: Critical Reflection Models
 type: topic
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Critical Reflection Models
@@ -33,7 +35,9 @@ The concept of critical reflection is explored across multiple sources, each pro
 ## Sources
 
 - [fxa101-week11-fxa101-week-11-welcome](../sources/fxa101-week11-fxa101-week-11-welcome.md)
+- [fxa101-week11-learning-critical-reflection-experiences-of-the](../sources/fxa101-week11-learning-critical-reflection-experiences-of-the.md)
 - [fxa101-week11-lesson-fxa101-week11-page-2-preparing-for-written](../sources/fxa101-week11-lesson-fxa101-week11-page-2-preparing-for-written.md)
+- [fxa101-week11-toward-transformative-reflective-practice-in-teacher](../sources/fxa101-week11-toward-transformative-reflective-practice-in-teacher.md)
 - [fxa202-week03-at4-critical-reflection](../sources/fxa202-week03-at4-critical-reflection.md)
 - [fxa202-week09-critical-reflection-the-photo-essay](../sources/fxa202-week09-critical-reflection-the-photo-essay.md)
 - [fxa202-week10-lesson-fxa202-week10-page-2](../sources/fxa202-week10-lesson-fxa202-week10-page-2.md)

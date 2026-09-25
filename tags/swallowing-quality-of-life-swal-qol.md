@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: swallowing-quality-of-life-swal-qol
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Swallowing Quality Of Life Swal Qol

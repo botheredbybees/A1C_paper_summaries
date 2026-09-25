@@ -11,7 +11,7 @@ tags: ["child-development", "educational-research", "play-therapy", "early-child
 key_concepts: ["self-regulation", "play-based-learning"]
 methods: ["case-study"]
 slug: fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david
-related: ["child-development", "early-childhood-education", "educational-research", "play-therapy-in-child-development"]
+related: ["child-development", "early-childhood-education", "educational-research", "pedagogy", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-08-02
 ---
@@ -45,4 +45,5 @@ This article is a tribute to David Whitebread, an esteemed researcher and educat
 - [child-development](../topics/child-development.md)
 - [early-childhood-education](../topics/early-childhood-education.md)
 - [educational-research](../topics/educational-research.md)
+- [pedagogy](../topics/pedagogy.md)
 - [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

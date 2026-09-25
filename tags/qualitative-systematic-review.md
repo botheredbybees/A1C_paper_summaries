@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: qualitative-systematic-review
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Qualitative Systematic Review

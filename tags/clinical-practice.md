@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: clinical-practice
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Clinical Practice
 
 - [AGE AND SEX DO NOT BIAS THE USE OF ANGIOTENSIN-CONVERTING ENZYME INHIBITORS IN ACUTE MYOCARDIAL INFARCTION AND CONGESTIVE HEART FAILURE](../sources/fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting.md)
 - [Reading Anna Freud: Advocacy and Relevance in Child Mental Health](../sources/fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental.md)
+- [Nuances of Reflection](../sources/fxa101-week11-nuances-of-reflection.md)
 - [Continuum Model of Music and Therapy Within Music Therapy](../sources/fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy.md)
 - [Effectiveness of music interventions on dental anxiety in paediatric and adult patients: a systematic review](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
 - [The future of music therapy and mental health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)

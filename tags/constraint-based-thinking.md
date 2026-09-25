@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: constraint-based-thinking
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Constraint Based Thinking

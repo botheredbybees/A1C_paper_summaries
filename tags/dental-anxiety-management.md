@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dental-anxiety-management
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Dental Anxiety Management

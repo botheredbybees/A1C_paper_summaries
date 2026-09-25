@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: distal-and-proximal-stressors
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Distal And Proximal Stressors

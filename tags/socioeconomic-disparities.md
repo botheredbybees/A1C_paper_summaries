@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socioeconomic-disparities
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Socioeconomic Disparities

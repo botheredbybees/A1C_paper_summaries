@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eriksons-psychosocial-development-theory
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Eriksons Psychosocial Development Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-behavior
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Human Behavior

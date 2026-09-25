@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: feast-of-fools
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Feast Of Fools

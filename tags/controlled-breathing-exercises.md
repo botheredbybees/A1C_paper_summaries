@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: controlled-breathing-exercises
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Controlled Breathing Exercises

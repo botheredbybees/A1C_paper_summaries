@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: van-gogh-studies
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Van Gogh Studies

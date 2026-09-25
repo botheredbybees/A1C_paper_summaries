@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: technology-in-mindfulness
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Technology In Mindfulness

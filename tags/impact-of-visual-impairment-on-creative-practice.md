@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: impact-of-visual-impairment-on-creative-practice
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Impact Of Visual Impairment On Creative Practice

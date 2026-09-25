@@ -6,8 +6,9 @@ confidence: medium
 tags: ["educational-theory"]
 sources:
   - fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking
+  - fxa101-week11-toward-transformative-reflective-practice-in-teacher
   - fxa301-week10-flow-the-joy-of-reading
-updated: 2026-08-07
+updated: 2026-09-26
 ---
 
 ## Educational Theory in Reflective Thinking and Flow
@@ -27,4 +28,5 @@ Reflective thinking and the concept of 'flow' are both integral to educational t
 ## Sources
 
 - [fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking](../sources/fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking.md)
+- [fxa101-week11-toward-transformative-reflective-practice-in-teacher](../sources/fxa101-week11-toward-transformative-reflective-practice-in-teacher.md)
 - [fxa301-week10-flow-the-joy-of-reading](../sources/fxa301-week10-flow-the-joy-of-reading.md)

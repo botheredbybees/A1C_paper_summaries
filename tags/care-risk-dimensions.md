@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: care-risk-dimensions
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Care Risk Dimensions

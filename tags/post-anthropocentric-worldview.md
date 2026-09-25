@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: post-anthropocentric-worldview
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Post Anthropocentric Worldview

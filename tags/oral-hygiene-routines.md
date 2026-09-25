@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: oral-hygiene-routines
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Oral Hygiene Routines

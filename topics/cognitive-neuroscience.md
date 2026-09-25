@@ -23,6 +23,7 @@ sources:
   - fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode
   - fxa101-week09-the-brains-default-network-anatomy-function-and-relevance
   - fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and
+  - fxa101-week11-fxa101-web-lecture-6-finale
   - fxa300-week01-lesson-fxa300-week01-week-1-1
   - fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
   - fxa300-week02-epilogue-ruminations-on-music-psychology
@@ -77,7 +78,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-09-15
+updated: 2026-09-26
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -116,6 +117,7 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode](../sources/fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode.md)
 - [fxa101-week09-the-brains-default-network-anatomy-function-and-relevance](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
 - [fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and](../sources/fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and.md)
+- [fxa101-week11-fxa101-web-lecture-6-finale](../sources/fxa101-week11-fxa101-web-lecture-6-finale.md)
 - [fxa300-week01-lesson-fxa300-week01-week-1-1](../sources/fxa300-week01-lesson-fxa300-week01-week-1-1.md)
 - [fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)

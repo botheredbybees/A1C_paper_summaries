@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mass-action-principle
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mass Action Principle

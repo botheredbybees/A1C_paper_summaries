@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-control-networks
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Cognitive Control Networks

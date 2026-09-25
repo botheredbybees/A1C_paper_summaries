@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: place-making-event
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Place Making Event

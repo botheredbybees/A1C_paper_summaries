@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: falls-prevention-in-older-adults
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Falls Prevention In Older Adults

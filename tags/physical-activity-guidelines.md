@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-activity-guidelines
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Physical Activity Guidelines

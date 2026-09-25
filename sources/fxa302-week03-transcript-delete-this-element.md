@@ -11,7 +11,7 @@ tags: ["visual-thinking-strategies", "art-education-methodology", "gallery-inter
 key_concepts: ["Visual Thinking Strategies", "Student-Centered Learning"]
 methods: []
 slug: fxa302-week03-transcript-delete-this-element
-related: ["visual-thinking-strategies"]
+related: ["student-centered-learning", "visual-thinking-strategies"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -40,4 +40,5 @@ The transcript captures a demonstration of the visual thinking strategies teachi
 
 ## See Also
 
+- [student-centered-learning](../topics/student-centered-learning.md)
 - [visual-thinking-strategies](../topics/visual-thinking-strategies.md)

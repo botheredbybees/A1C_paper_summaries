@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: choral-singing-benefits
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Choral Singing Benefits

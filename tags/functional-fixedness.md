@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: functional-fixedness
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Functional Fixedness

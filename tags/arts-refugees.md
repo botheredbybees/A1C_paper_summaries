@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-refugees
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Arts Refugees

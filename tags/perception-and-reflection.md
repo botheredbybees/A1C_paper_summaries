@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perception-and-reflection
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Perception And Reflection

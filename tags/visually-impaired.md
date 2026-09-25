@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visually-impaired
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Visually Impaired

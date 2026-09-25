@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: capability-opportunity-motivation-behaviour-model
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Capability Opportunity Motivation Behaviour Model

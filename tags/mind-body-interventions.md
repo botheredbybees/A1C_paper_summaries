@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mind-body-interventions
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mind Body Interventions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anxiety-management
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Anxiety Management

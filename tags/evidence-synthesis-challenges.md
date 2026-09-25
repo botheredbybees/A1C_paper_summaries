@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evidence-synthesis-challenges
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Evidence Synthesis Challenges

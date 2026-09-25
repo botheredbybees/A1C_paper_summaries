@@ -5,9 +5,10 @@ title: "Education Reform Through Flow Theory"
 confidence: medium
 tags: ["education-reform"]
 sources:
+  - fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods
   - fxa301-week10-flow-the-joy-of-reading
   - fxa301-week10-introduction-to-the-volume
-updated: 2026-08-07
+updated: 2026-09-26
 ---
 
 ## Education Reform Through Flow Theory
@@ -26,5 +27,6 @@ Flow theory emerges as a critical framework in education reform through enhancin
 
 ## Sources
 
+- [fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods](../sources/fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods.md)
 - [fxa301-week10-flow-the-joy-of-reading](../sources/fxa301-week10-flow-the-joy-of-reading.md)
 - [fxa301-week10-introduction-to-the-volume](../sources/fxa301-week10-introduction-to-the-volume.md)

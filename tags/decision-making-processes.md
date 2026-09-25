@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: decision-making-processes
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Decision Making Processes

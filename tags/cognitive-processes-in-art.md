@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-processes-in-art
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Cognitive Processes In Art

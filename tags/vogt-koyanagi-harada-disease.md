@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vogt-koyanagi-harada-disease
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Vogt Koyanagi Harada Disease

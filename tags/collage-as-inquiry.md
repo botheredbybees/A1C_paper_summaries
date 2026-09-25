@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collage-as-inquiry
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Collage As Inquiry

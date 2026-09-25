@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neanderthals-cognitive-capabilities
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Neanderthals Cognitive Capabilities

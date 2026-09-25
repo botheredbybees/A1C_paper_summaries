@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: form-and-texture
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Form And Texture

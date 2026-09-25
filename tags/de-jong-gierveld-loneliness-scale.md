@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: de-jong-gierveld-loneliness-scale
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## De Jong Gierveld Loneliness Scale

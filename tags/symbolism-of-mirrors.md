@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: symbolism-of-mirrors
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Symbolism Of Mirrors

@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: self-reflection
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Self Reflection
 
 - [Week 8 Lecture: Art Therapy in Dementia Care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
 - [What Sort of Creative Are You?](../sources/fxa101-week02-what-sort-of-creative-are-you.md)
+- [Becoming a Reflective Practitioner](../sources/fxa101-week11-becoming-a-reflective-practitioner.md)
 - [Critical Reflection on Visual Storytelling Through Photography](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
 - [Winding paths](../sources/fxa202-week06-winding-paths.md)
 - [Healing Through Art and Music](../sources/fxa202-week09-healing-through-art-and-music.md)

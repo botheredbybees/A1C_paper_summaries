@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: daily-living
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Daily Living

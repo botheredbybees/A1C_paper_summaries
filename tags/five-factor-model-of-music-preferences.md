@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: five-factor-model-of-music-preferences
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Five Factor Model Of Music Preferences

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychometric-validation
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Psychometric Validation

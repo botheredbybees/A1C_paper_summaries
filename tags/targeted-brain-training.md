@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: targeted-brain-training
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Targeted Brain Training

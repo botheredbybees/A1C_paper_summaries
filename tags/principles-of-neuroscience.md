@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: principles-of-neuroscience
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Principles Of Neuroscience

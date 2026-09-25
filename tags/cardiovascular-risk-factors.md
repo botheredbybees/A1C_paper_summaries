@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cardiovascular-risk-factors
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Cardiovascular Risk Factors

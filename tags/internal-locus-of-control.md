@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internal-locus-of-control
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Internal Locus Of Control

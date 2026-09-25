@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: work-life-balance
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Work Life Balance

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-reserve-theory
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Cognitive Reserve Theory

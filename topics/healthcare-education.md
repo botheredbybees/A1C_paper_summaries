@@ -5,10 +5,13 @@ title: "Healthcare Education and Emotional Skills"
 confidence: medium
 tags: ["healthcare-education"]
 sources:
+  - fxa101-week11-becoming-a-reflective-practitioner
+  - fxa101-week11-framing-insights
+  - fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods
   - fxa302-week01-expanding-clinical-empathy-an-activist-perspective
   - fxa302-week03-creating-alignment-how-the-humanities-can-help-heal
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
-updated: 2026-07-20
+updated: 2026-09-26
 ---
 
 ## Healthcare Education and Emotional Skills
@@ -26,6 +29,9 @@ The integration of emotional engagement strategies in healthcare education highl
 
 ## Sources
 
+- [fxa101-week11-becoming-a-reflective-practitioner](../sources/fxa101-week11-becoming-a-reflective-practitioner.md)
+- [fxa101-week11-framing-insights](../sources/fxa101-week11-framing-insights.md)
+- [fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods](../sources/fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods.md)
 - [fxa302-week01-expanding-clinical-empathy-an-activist-perspective](../sources/fxa302-week01-expanding-clinical-empathy-an-activist-perspective.md)
 - [fxa302-week03-creating-alignment-how-the-humanities-can-help-heal](../sources/fxa302-week03-creating-alignment-how-the-humanities-can-help-heal.md)
 - [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)

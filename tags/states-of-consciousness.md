@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: states-of-consciousness
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## States Of Consciousness

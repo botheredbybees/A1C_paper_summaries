@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-systems-debate
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Memory Systems Debate

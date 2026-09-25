@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Visual Arts
@@ -12,6 +12,7 @@ updated: 2026-09-22
 - [Art and Place: Crossing Borders in the Work of Perejaume](../sources/fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume.md)
 - [The Role of Arts in Childhood and Adolescence](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
 - [Color Harmony](../sources/fxa101-week07-color-harmony.md)
+- [FXA101 Web Lecture 6 - Finale](../sources/fxa101-week11-fxa101-web-lecture-6-finale.md)
 - [Engaging with Visual Arts: Community-Based Projects](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
 - [The Art of Observation: A Pedagogical Framework](../sources/fxa302-week03-the-art-of-observation-a-pedagogical-framework.md)
 - [Visual Loss and Painting: Monet, Bramblitt, Arma\u011fan](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)

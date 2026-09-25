@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gustatory-perception
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Gustatory Perception

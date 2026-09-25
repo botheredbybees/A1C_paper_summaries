@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-and-coping-mechanisms
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mindfulness And Coping Mechanisms

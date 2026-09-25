@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: integrity-in-practice
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Integrity In Practice

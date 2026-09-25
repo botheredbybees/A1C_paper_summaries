@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: allocentric-reference-frames
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Allocentric Reference Frames

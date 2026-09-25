@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: grammar-elements
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Grammar Elements

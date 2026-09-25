@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: noticing-practice
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Noticing Practice

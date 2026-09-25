@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: secretory-immunoglobulin-a
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Secretory Immunoglobulin A

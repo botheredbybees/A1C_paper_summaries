@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-in-aging
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mental Health In Aging

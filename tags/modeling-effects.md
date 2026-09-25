@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: modeling-effects
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Modeling Effects

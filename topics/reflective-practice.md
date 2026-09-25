@@ -4,7 +4,19 @@ domain: intervention
 slug: reflective-practice-in-creative-and-therapeutic-contexts
 sources:
   - fxa101-week09-reflectivity-creativity-and-the-space-for-silence
+  - fxa101-week11-action-research-and-reflective-practice
   - fxa101-week11-adult-learners-learning-from-experience-using-a-reflective
+  - fxa101-week11-becoming-a-reflective-practitioner
+  - fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements
+  - fxa101-week11-engaging-the-reflective-spiral-the-second-dialogical
+  - fxa101-week11-framing-insights
+  - fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods
+  - fxa101-week11-nuances-of-reflection
+  - fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its
+  - fxa101-week11-reflective-practice-in-teacher-professional-standards
+  - fxa101-week11-reflective-theory-and-practice-in-teacher-education
+  - fxa101-week11-the-online-space-developing-strong-pedagogy-for-online
+  - fxa101-week11-writing-self
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa301-week01-culture-of-inquiry
   - fxa302-week01-medical-humanities-in-medical-education-and-practice
@@ -13,7 +25,7 @@ tags:
 - reflective-practice
 title: Reflective Practice in Creative and Therapeutic Contexts
 type: topic
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Reflective Practice in Creative and Therapeutic Contexts
@@ -33,7 +45,19 @@ Reflective practice emerges as a pivotal intervention across creative arts educa
 ## Sources
 
 - [fxa101-week09-reflectivity-creativity-and-the-space-for-silence](../sources/fxa101-week09-reflectivity-creativity-and-the-space-for-silence.md)
+- [fxa101-week11-action-research-and-reflective-practice](../sources/fxa101-week11-action-research-and-reflective-practice.md)
 - [fxa101-week11-adult-learners-learning-from-experience-using-a-reflective](../sources/fxa101-week11-adult-learners-learning-from-experience-using-a-reflective.md)
+- [fxa101-week11-becoming-a-reflective-practitioner](../sources/fxa101-week11-becoming-a-reflective-practitioner.md)
+- [fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements](../sources/fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements.md)
+- [fxa101-week11-engaging-the-reflective-spiral-the-second-dialogical](../sources/fxa101-week11-engaging-the-reflective-spiral-the-second-dialogical.md)
+- [fxa101-week11-framing-insights](../sources/fxa101-week11-framing-insights.md)
+- [fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods](../sources/fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods.md)
+- [fxa101-week11-nuances-of-reflection](../sources/fxa101-week11-nuances-of-reflection.md)
+- [fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its](../sources/fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its.md)
+- [fxa101-week11-reflective-practice-in-teacher-professional-standards](../sources/fxa101-week11-reflective-practice-in-teacher-professional-standards.md)
+- [fxa101-week11-reflective-theory-and-practice-in-teacher-education](../sources/fxa101-week11-reflective-theory-and-practice-in-teacher-education.md)
+- [fxa101-week11-the-online-space-developing-strong-pedagogy-for-online](../sources/fxa101-week11-the-online-space-developing-strong-pedagogy-for-online.md)
+- [fxa101-week11-writing-self](../sources/fxa101-week11-writing-self.md)
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa302-week01-medical-humanities-in-medical-education-and-practice](../sources/fxa302-week01-medical-humanities-in-medical-education-and-practice.md)

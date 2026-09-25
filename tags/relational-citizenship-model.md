@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: relational-citizenship-model
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Relational Citizenship Model

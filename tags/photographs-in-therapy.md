@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photographs-in-therapy
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Photographs In Therapy

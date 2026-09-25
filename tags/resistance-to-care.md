@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resistance-to-care
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Resistance To Care

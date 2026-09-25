@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: parallel-distributed-processing
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Parallel Distributed Processing

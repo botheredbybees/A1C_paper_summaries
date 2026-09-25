@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: seasonal-cycles
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Seasonal Cycles

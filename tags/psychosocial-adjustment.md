@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychosocial-adjustment
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Psychosocial Adjustment

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multicomponent-singing-intervention
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Multicomponent Singing Intervention

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: subjective-perspectives
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Subjective Perspectives

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: thinking-in-action
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Thinking In Action

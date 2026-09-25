@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: activity-personalization
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Activity Personalization

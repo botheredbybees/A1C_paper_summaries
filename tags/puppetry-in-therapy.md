@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppetry-in-therapy
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Puppetry In Therapy

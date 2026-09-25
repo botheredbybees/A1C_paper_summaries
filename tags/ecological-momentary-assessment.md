@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ecological-momentary-assessment
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Ecological Momentary Assessment

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-well-being-model
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Psychological Well Being Model

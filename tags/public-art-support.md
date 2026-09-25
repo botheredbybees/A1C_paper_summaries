@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-art-support
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Public Art Support

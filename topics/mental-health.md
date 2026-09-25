@@ -13,6 +13,7 @@ sources:
   - fxa100-week13-mini-mental-state-a-practical-method-for-grading-the
   - fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can
   - fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older
+  - fxa101-week11-fxa101-web-lecture-6-finale
   - fxa202-week03-lesson-fxa202-week03-page-2
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week03-week-three-lecture-transcript-photography-and-health
@@ -107,7 +108,7 @@ tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Creative Therapies for Mental Health
@@ -138,6 +139,7 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa100-week13-mini-mental-state-a-practical-method-for-grading-the](../sources/fxa100-week13-mini-mental-state-a-practical-method-for-grading-the.md)
 - [fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can](../sources/fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can.md)
 - [fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
+- [fxa101-week11-fxa101-web-lecture-6-finale](../sources/fxa101-week11-fxa101-web-lecture-6-finale.md)
 - [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)

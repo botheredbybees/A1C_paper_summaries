@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indirect-quote
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Indirect Quote

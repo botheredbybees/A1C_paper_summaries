@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traumatic-amputation
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Traumatic Amputation

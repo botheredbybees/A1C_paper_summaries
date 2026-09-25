@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: post-war-britain
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Post War Britain

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anesthesia-pain-management
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Anesthesia Pain Management

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trait-emotional-intelligence
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Trait Emotional Intelligence

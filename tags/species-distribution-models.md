@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: species-distribution-models
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Species Distribution Models

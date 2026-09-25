@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: professionalization-of-gynecology
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Professionalization Of Gynecology

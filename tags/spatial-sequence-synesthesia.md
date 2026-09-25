@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spatial-sequence-synesthesia
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Spatial Sequence Synesthesia

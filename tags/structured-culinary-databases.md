@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: structured-culinary-databases
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Structured Culinary Databases

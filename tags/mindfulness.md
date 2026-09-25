@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: mindfulness
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mindfulness
 
 - [A Multisensory Mindfulness Experience: Exploring the Promotion of Sensory Awareness as a Mindfulness Practice](../sources/fxa101-week00-a-multisensory-mindfulness-experience-exploring-the.md)
 - [Group Nature-Based Mindfulness Interventions: Nature-Based Mindfulness Training for College Students with Anxiety](../sources/fxa101-week00-group-nature-based-mindfulness-interventions-nature-based.md)
+- [Writing Self](../sources/fxa101-week11-writing-self.md)
 - [Week 3 Activities: Mindfulness Photo Walk](../sources/fxa202-week03-lesson-fxa202-week03-page-4.md)
 - [Week 3 Lecture - Photography and Health](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [Critical Reflection on Visual Storytelling Through Photography](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)

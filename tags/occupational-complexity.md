@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: occupational-complexity
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Occupational Complexity

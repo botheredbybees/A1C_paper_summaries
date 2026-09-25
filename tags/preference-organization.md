@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: preference-organization
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Preference Organization

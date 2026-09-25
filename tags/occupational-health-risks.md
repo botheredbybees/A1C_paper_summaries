@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: occupational-health-risks
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Occupational Health Risks

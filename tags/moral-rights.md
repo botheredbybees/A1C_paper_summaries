@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: moral-rights
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Moral Rights

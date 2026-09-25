@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stereotypes-of-ageing
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Stereotypes Of Ageing

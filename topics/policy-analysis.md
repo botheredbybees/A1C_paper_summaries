@@ -5,9 +5,10 @@ title: "Arts Policies for Health and Wellbeing"
 confidence: medium
 tags: ["policy-analysis"]
 sources:
+  - fxa101-week11-reflective-practice-in-teacher-professional-standards
   - fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy
   - fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
-updated: 2026-08-07
+updated: 2026-09-26
 ---
 
 ## Arts Policies for Health and Wellbeing
@@ -26,5 +27,6 @@ The introduction to arts, health, and wellbeing policy discusses the multifacete
 
 ## Sources
 
+- [fxa101-week11-reflective-practice-in-teacher-professional-standards](../sources/fxa101-week11-reflective-practice-in-teacher-professional-standards.md)
 - [fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy](../sources/fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy.md)
 - [fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and](../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and.md)

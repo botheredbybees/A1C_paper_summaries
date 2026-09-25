@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: risk-assessment-systems
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Risk Assessment Systems

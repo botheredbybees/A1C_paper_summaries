@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-thinking-strategies
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Visual Thinking Strategies

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dialogic-model-of-design
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Dialogic Model Of Design

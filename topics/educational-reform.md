@@ -7,7 +7,8 @@ tags: ["educational-reform"]
 sources:
   - fxa101-week09-reflectivity-creativity-and-the-space-for-silence
   - fxa101-week09-teaching-for-creativity-the-sounds-of-silence
-updated: 2026-09-07
+  - fxa101-week11-reflective-practice-in-teacher-professional-standards
+updated: 2026-09-26
 ---
 
 ## Educational Reform Through Reflectivity and Creativity
@@ -28,3 +29,4 @@ The integration of reflectivity and creativity in educational reform is explored
 
 - [fxa101-week09-reflectivity-creativity-and-the-space-for-silence](../sources/fxa101-week09-reflectivity-creativity-and-the-space-for-silence.md)
 - [fxa101-week09-teaching-for-creativity-the-sounds-of-silence](../sources/fxa101-week09-teaching-for-creativity-the-sounds-of-silence.md)
+- [fxa101-week11-reflective-practice-in-teacher-professional-standards](../sources/fxa101-week11-reflective-practice-in-teacher-professional-standards.md)

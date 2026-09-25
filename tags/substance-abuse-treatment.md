@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: substance-abuse-treatment
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Substance Abuse Treatment

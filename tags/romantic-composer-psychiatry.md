@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: romantic-composer-psychiatry
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Romantic Composer Psychiatry

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: representation-in-literature
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Representation In Literature

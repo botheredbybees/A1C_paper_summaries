@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perception-of-art
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Perception Of Art

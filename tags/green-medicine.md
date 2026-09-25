@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: green-medicine
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Green Medicine

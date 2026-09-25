@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-model-approach
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Social Model Approach

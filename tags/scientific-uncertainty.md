@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientific-uncertainty
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Scientific Uncertainty

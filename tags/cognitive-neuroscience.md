@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-neuroscience
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Cognitive Neuroscience
@@ -26,6 +26,7 @@ updated: 2026-09-22
 - [Dynamic subcortical modulators of human default mode network function](../sources/fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode.md)
 - [The Brain\u2019s Default Network: Anatomy, Function, and Relevance to Disease](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
 - [The Effect of Mental Arithmetic on Cerebral Circulation and Metabolism](../sources/fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and.md)
+- [FXA101 Web Lecture 6 - Finale](../sources/fxa101-week11-fxa101-web-lecture-6-finale.md)
 - [Introduction to FXA300 Music, Mind and Body](../sources/fxa300-week01-lesson-fxa300-week01-week-1-1.md)
 - [Current Advances in the Cognitive Neuroscience of Music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [Epilogue: Ruminations on Music Psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personal-resilience
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Personal Resilience

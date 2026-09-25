@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-health-issues
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Public Health Issues

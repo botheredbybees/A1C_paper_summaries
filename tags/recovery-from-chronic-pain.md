@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recovery-from-chronic-pain
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Recovery From Chronic Pain

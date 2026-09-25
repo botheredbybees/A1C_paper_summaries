@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physiological-effects
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Physiological Effects

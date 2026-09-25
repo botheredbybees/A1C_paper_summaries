@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: structural-equation-modeling
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Structural Equation Modeling

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anatomy-of-the-brain
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Anatomy Of The Brain

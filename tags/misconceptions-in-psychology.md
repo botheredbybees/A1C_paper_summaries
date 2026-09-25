@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: misconceptions-in-psychology
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Misconceptions In Psychology

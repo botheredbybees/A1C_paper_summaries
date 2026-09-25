@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: australian-psychological-society
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Australian Psychological Society

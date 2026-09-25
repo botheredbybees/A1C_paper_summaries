@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-measurement
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Well Being Measurement

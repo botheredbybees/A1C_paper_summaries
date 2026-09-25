@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: storytelling-traditions
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Storytelling Traditions

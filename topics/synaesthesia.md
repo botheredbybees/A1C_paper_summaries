@@ -8,7 +8,8 @@ sources:
   - fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward
   - fxa101-week02-web-article-lunke-2018
   - fxa101-week02-week-2-welcome
-updated: 2026-07-13
+  - fxa101-week11-fxa101-web-lecture-6-finale
+updated: 2026-09-26
 ---
 
 ## Synaesthesia
@@ -30,3 +31,4 @@ The topic of synaesthesia encompasses a range of cognitive and neuroscientific i
 - [fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward](../sources/fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward.md)
 - [fxa101-week02-web-article-lunke-2018](../sources/fxa101-week02-web-article-lunke-2018.md)
 - [fxa101-week02-week-2-welcome](../sources/fxa101-week02-week-2-welcome.md)
+- [fxa101-week11-fxa101-web-lecture-6-finale](../sources/fxa101-week11-fxa101-web-lecture-6-finale.md)

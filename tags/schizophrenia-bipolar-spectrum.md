@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: schizophrenia-bipolar-spectrum
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Schizophrenia Bipolar Spectrum

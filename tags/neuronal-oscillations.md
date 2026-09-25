@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuronal-oscillations
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Neuronal Oscillations

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: barrier-free-accessibility
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Barrier Free Accessibility

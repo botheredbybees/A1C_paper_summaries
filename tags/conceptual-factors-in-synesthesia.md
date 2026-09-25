@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conceptual-factors-in-synesthesia
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Conceptual Factors In Synesthesia

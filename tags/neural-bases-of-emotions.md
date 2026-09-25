@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-bases-of-emotions
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Neural Bases Of Emotions

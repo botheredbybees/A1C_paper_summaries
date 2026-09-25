@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nature-based-art-therapy
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Nature Based Art Therapy

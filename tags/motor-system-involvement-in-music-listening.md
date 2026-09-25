@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motor-system-involvement-in-music-listening
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Motor System Involvement In Music Listening

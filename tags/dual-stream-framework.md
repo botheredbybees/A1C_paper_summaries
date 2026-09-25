@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dual-stream-framework
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Dual Stream Framework

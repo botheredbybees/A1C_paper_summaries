@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fundamental-human-rights
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Fundamental Human Rights

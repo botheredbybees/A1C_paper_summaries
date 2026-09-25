@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: language-use-in-media
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Language Use In Media

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resilience-literature
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Resilience Literature

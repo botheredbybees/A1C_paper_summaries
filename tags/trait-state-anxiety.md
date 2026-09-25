@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trait-state-anxiety
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Trait State Anxiety

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: single-sign-on-sso
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Single Sign On Sso

@@ -6,6 +6,14 @@ sources:
   - fxa100-week02-history-of-music-therapy
   - fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking
   - fxa101-week11-adult-learners-learning-from-experience-using-a-reflective
+  - fxa101-week11-applying-q-methodology-in-higher-teacher-education-for-pre
+  - fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements
+  - fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods
+  - fxa101-week11-learning-critical-reflection-experiences-of-the
+  - fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its
+  - fxa101-week11-reflective-theory-and-practice-in-teacher-education
+  - fxa101-week11-toward-transformative-reflective-practice-in-teacher
+  - fxa101-week11-writing-self
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa301-week01-arts-projects-for-individuals-and-groups
   - fxa301-week11-projects-art-beyond-sight
@@ -17,7 +25,7 @@ tags:
 - professional-development
 title: Professional Development in Music Therapy
 type: topic
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Professional Development in Music Therapy
@@ -38,6 +46,14 @@ The integration of professional development within the framework of music therap
 - [fxa100-week02-history-of-music-therapy](../sources/fxa100-week02-history-of-music-therapy.md)
 - [fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking](../sources/fxa101-week05-models-of-reflection-core-concepts-for-reflective-thinking.md)
 - [fxa101-week11-adult-learners-learning-from-experience-using-a-reflective](../sources/fxa101-week11-adult-learners-learning-from-experience-using-a-reflective.md)
+- [fxa101-week11-applying-q-methodology-in-higher-teacher-education-for-pre](../sources/fxa101-week11-applying-q-methodology-in-higher-teacher-education-for-pre.md)
+- [fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements](../sources/fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements.md)
+- [fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods](../sources/fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods.md)
+- [fxa101-week11-learning-critical-reflection-experiences-of-the](../sources/fxa101-week11-learning-critical-reflection-experiences-of-the.md)
+- [fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its](../sources/fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its.md)
+- [fxa101-week11-reflective-theory-and-practice-in-teacher-education](../sources/fxa101-week11-reflective-theory-and-practice-in-teacher-education.md)
+- [fxa101-week11-toward-transformative-reflective-practice-in-teacher](../sources/fxa101-week11-toward-transformative-reflective-practice-in-teacher.md)
+- [fxa101-week11-writing-self](../sources/fxa101-week11-writing-self.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa301-week01-arts-projects-for-individuals-and-groups](../sources/fxa301-week01-arts-projects-for-individuals-and-groups.md)
 - [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)

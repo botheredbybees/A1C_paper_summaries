@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-as-emotional-regulation
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Creativity As Emotional Regulation

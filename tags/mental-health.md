@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mental Health
@@ -16,6 +16,7 @@ updated: 2026-09-22
 - ['MINI-MENTAL STATE': A PRACTICAL METHOD FOR GRADING THE COGNITIVE STATE OF PATIENTS FOR THE CLINICIAN](../sources/fxa100-week13-mini-mental-state-a-practical-method-for-grading-the.md)
 - [Physical activity to improve cognition in older adults: can physical activity programs enriched with cognitive challenges enhance the effects? A systematic review and meta-analysis](../sources/fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can.md)
 - [The use of commercial computerised cognitive games in older adults: a meta-analysis](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
+- [FXA101 Web Lecture 6 - Finale](../sources/fxa101-week11-fxa101-web-lecture-6-finale.md)
 - [How Can Photography Help Wellbeing?](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
 - [Week 3 Lecture - Photography and Health](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [Week Three Lecture Transcript: Photography and Health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)

@@ -4,6 +4,7 @@ domain: intervention
 slug: creative-arts-in-health-interventions
 sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
+  - fxa101-week11-engaging-the-reflective-spiral-the-second-dialogical
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an
   - fxa301-week08-wisdom-poetry-trialogue
@@ -17,7 +18,7 @@ tags:
 - creative-arts-health
 title: Creative Arts in Health Interventions
 type: topic
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Creative Arts in Health Interventions
@@ -37,6 +38,7 @@ The integration of creative arts into health interventions presents a multifacet
 ## Sources
 
 - [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [fxa101-week11-engaging-the-reflective-spiral-the-second-dialogical](../sources/fxa101-week11-engaging-the-reflective-spiral-the-second-dialogical.md)
 - [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an](../sources/fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an.md)
 - [fxa301-week08-wisdom-poetry-trialogue](../sources/fxa301-week08-wisdom-poetry-trialogue.md)

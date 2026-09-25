@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: guilfords-alternative-uses-task
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Guilfords Alternative Uses Task

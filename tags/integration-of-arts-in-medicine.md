@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: integration-of-arts-in-medicine
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Integration Of Arts In Medicine

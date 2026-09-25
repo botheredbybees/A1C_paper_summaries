@@ -1,10 +1,11 @@
 ---
 type: tag
 tag: empathy-building
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Empathy Building
 
 - [Transforming Dementia Care Through Theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
+- [Becoming a Reflective Practitioner](../sources/fxa101-week11-becoming-a-reflective-practitioner.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)

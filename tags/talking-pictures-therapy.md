@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: talking-pictures-therapy
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Talking Pictures Therapy

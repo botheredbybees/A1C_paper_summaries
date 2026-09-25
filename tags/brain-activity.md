@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-activity
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Brain Activity

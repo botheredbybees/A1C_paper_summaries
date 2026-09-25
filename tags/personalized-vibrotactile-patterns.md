@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personalized-vibrotactile-patterns
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Personalized Vibrotactile Patterns

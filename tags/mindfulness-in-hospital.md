@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-in-hospital
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mindfulness In Hospital

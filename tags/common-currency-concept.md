@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: common-currency-concept
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Common Currency Concept

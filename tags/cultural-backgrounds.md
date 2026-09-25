@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-backgrounds
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Cultural Backgrounds

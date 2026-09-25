@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: n-back-task
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## N Back Task

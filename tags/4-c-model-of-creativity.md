@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 4-c-model-of-creativity
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## 4 C Model Of Creativity

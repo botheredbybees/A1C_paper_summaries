@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: creative-arts-health
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Creative Arts Health
 
 - [Association of Music Interventions With Health-Related Quality of Life](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [Engaging the Reflective Spiral: The Second Dialogical Movement](../sources/fxa101-week11-engaging-the-reflective-spiral-the-second-dialogical.md)
 - [Storytelling with Image and Text: A Photo Essay on Donna's Journey](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [Psychoneuroendocrine Research on Music and Health: An Overview](../sources/fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an.md)
 - [Wisdom poetry trialogue](../sources/fxa301-week08-wisdom-poetry-trialogue.md)

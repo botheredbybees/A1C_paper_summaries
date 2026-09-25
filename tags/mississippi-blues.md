@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mississippi-blues
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mississippi Blues

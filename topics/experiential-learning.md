@@ -5,9 +5,11 @@ title: "Experiential Learning"
 confidence: medium
 tags: ["experiential-learning"]
 sources:
+  - fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods
+  - fxa101-week11-promoting-reflection-in-learning-a-model
   - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
   - fxa302-week10-training-education-and-professional-issues-in-music-therapy
-updated: 2026-09-15
+updated: 2026-09-26
 ---
 
 ## Experiential Learning
@@ -26,5 +28,7 @@ Experiential learning is a method that immerses participants in real-world scena
 
 ## Sources
 
+- [fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods](../sources/fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods.md)
+- [fxa101-week11-promoting-reflection-in-learning-a-model](../sources/fxa101-week11-promoting-reflection-in-learning-a-model.md)
 - [fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions](../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions.md)
 - [fxa302-week10-training-education-and-professional-issues-in-music-therapy](../sources/fxa302-week10-training-education-and-professional-issues-in-music-therapy.md)

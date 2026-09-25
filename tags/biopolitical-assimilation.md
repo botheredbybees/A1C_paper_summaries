@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: biopolitical-assimilation
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Biopolitical Assimilation

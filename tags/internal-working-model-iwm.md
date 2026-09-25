@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internal-working-model-iwm
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Internal Working Model Iwm

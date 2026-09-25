@@ -6,8 +6,9 @@ confidence: medium
 tags: ["teaching-methods"]
 sources:
   - fxa101-week09-teaching-for-creativity-the-sounds-of-silence
+  - fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods
   - fxa302-week10-understanding-suffering-utermohlens-self-portraits-and
-updated: 2026-09-15
+updated: 2026-09-26
 ---
 
 ## Teaching Methods for Creativity and Empathy
@@ -27,4 +28,5 @@ The integration of teaching methods to foster creativity and empathy is explored
 ## Sources
 
 - [fxa101-week09-teaching-for-creativity-the-sounds-of-silence](../sources/fxa101-week09-teaching-for-creativity-the-sounds-of-silence.md)
+- [fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods](../sources/fxa101-week11-learning-by-doing-a-guide-to-teaching-and-learning-methods.md)
 - [fxa302-week10-understanding-suffering-utermohlens-self-portraits-and](../sources/fxa302-week10-understanding-suffering-utermohlens-self-portraits-and.md)

@@ -4,6 +4,7 @@ domain: intervention
 slug: educational-psychology-in-trauma-informed-care
 sources:
   - fxa101-week05-creativity-and-innovation
+  - fxa101-week11-promoting-reflection-in-learning-a-model
   - fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic
   - fxa301-week10-intrinsic-motivation-and-effective-teaching
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
@@ -15,7 +16,7 @@ tags:
 - educational-psychology
 title: Educational Psychology in Trauma-Informed Care
 type: topic
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Educational Psychology in Trauma-Informed Care
@@ -35,6 +36,7 @@ The integration of educational psychology with trauma-informed care and the supp
 ## Sources
 
 - [fxa101-week05-creativity-and-innovation](../sources/fxa101-week05-creativity-and-innovation.md)
+- [fxa101-week11-promoting-reflection-in-learning-a-model](../sources/fxa101-week11-promoting-reflection-in-learning-a-model.md)
 - [fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic](../sources/fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic.md)
 - [fxa301-week10-intrinsic-motivation-and-effective-teaching](../sources/fxa301-week10-intrinsic-motivation-and-effective-teaching.md)
 - [fxa303-week01-teachers-perspectives-on-providing-support-to-children](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)

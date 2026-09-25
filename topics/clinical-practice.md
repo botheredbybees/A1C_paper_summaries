@@ -7,6 +7,7 @@ tags: ["clinical-practice"]
 sources:
   - fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting
   - fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental
+  - fxa101-week11-nuances-of-reflection
   - fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy
   - fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in
   - fxa300-week09-the-future-of-music-therapy-and-mental-health
@@ -17,7 +18,7 @@ sources:
   - fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to
   - fxa302-week10-social-studies-the-humanities-narrative-and-the-social
   - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
-updated: 2026-09-15
+updated: 2026-09-26
 ---
 
 ## Clinical Practice Guidelines and Registries
@@ -37,6 +38,7 @@ The provided sources emphasize the importance of clinical practice guidelines an
 
 - [fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting](../sources/fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting.md)
 - [fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental](../sources/fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental.md)
+- [fxa101-week11-nuances-of-reflection](../sources/fxa101-week11-nuances-of-reflection.md)
 - [fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy](../sources/fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy.md)
 - [fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
 - [fxa300-week09-the-future-of-music-therapy-and-mental-health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)

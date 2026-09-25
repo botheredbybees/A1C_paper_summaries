@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: treatment-duration-correlation
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Treatment Duration Correlation

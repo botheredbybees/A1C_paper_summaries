@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sustainability-in-arts
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Sustainability In Arts

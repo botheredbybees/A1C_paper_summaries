@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: very-mild-dementia
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Very Mild Dementia

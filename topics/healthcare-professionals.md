@@ -5,11 +5,12 @@ title: "Mindfulness and Multidisciplinary Care for Healthcare Professionals"
 confidence: medium
 tags: ["healthcare-professionals"]
 sources:
+  - fxa101-week11-writing-self
   - fxa300-week10-perspectives-in-performing-arts-medicine-practice-a
   - fxa302-week10-chapter-1-background-understanding-motor-neuron-disease
   - fxa302-week10-teaching-autism-through-naturalized-narrative-ethics
   - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
-updated: 2026-09-15
+updated: 2026-09-26
 ---
 
 ## Mindfulness and Multidisciplinary Care for Healthcare Professionals
@@ -28,6 +29,7 @@ The sources highlight the importance of comprehensive care strategies for health
 
 ## Sources
 
+- [fxa101-week11-writing-self](../sources/fxa101-week11-writing-self.md)
 - [fxa300-week10-perspectives-in-performing-arts-medicine-practice-a](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-a.md)
 - [fxa302-week10-chapter-1-background-understanding-motor-neuron-disease](../sources/fxa302-week10-chapter-1-background-understanding-motor-neuron-disease.md)
 - [fxa302-week10-teaching-autism-through-naturalized-narrative-ethics](../sources/fxa302-week10-teaching-autism-through-naturalized-narrative-ethics.md)

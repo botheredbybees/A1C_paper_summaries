@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurological-basis-of-musical-perception
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Neurological Basis Of Musical Perception

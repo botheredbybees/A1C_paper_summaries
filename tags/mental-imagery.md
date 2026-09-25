@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-imagery
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Mental Imagery

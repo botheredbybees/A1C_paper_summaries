@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perceptual-skills
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Perceptual Skills

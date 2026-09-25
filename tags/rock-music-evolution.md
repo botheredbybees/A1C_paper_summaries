@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rock-music-evolution
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Rock Music Evolution

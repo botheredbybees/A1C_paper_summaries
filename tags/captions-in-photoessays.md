@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: captions-in-photoessays
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Captions In Photoessays

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: toxic-versus-positive-stress
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Toxic Versus Positive Stress

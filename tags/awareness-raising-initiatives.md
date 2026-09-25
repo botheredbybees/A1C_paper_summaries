@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: awareness-raising-initiatives
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Awareness Raising Initiatives

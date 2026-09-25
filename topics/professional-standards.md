@@ -5,9 +5,10 @@ title: "Professional Standards in Music Therapy"
 confidence: medium
 tags: ["professional-standards"]
 sources:
+  - fxa101-week11-reflective-practice-in-teacher-professional-standards
   - fxa301-week03-noah-code-of-ethics-2023
   - fxa302-week10-music-therapy-training-requirements
-updated: 2026-09-15
+updated: 2026-09-26
 ---
 
 ## Professional Standards in Music Therapy
@@ -26,5 +27,6 @@ The NOAH Code of Ethics 2023 outlines ethical principles that guide the practice
 
 ## Sources
 
+- [fxa101-week11-reflective-practice-in-teacher-professional-standards](../sources/fxa101-week11-reflective-practice-in-teacher-professional-standards.md)
 - [fxa301-week03-noah-code-of-ethics-2023](../sources/fxa301-week03-noah-code-of-ethics-2023.md)
 - [fxa302-week10-music-therapy-training-requirements](../sources/fxa302-week10-music-therapy-training-requirements.md)

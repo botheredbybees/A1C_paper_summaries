@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bpsi-in-nursing-homes
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Bpsi In Nursing Homes

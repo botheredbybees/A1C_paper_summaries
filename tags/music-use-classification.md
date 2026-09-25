@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-use-classification
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Music Use Classification

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: symbolic-representation-in-play
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Symbolic Representation In Play

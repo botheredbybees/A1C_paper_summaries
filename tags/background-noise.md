@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: background-noise
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Background Noise

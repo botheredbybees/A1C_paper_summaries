@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: specialized-therapeutic-approaches
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Specialized Therapeutic Approaches

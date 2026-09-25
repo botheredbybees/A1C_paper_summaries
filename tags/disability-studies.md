@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-studies
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Disability Studies

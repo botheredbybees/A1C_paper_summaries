@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: semantic-script-theory-of-humor
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Semantic Script Theory Of Humor

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: active-voice-writing
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Active Voice Writing

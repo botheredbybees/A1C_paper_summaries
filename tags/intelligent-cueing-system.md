@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intelligent-cueing-system
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Intelligent Cueing System

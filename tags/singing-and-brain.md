@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: singing-and-brain
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Singing And Brain

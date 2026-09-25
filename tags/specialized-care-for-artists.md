@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: specialized-care-for-artists
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Specialized Care For Artists

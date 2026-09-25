@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: symptom-management
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Symptom Management

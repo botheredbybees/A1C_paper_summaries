@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: six-factor-model-of-psychological-well-being
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Six Factor Model Of Psychological Well Being

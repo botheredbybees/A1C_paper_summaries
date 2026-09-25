@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: deliberate-metaphor
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Deliberate Metaphor

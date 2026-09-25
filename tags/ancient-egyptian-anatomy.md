@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-egyptian-anatomy
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Ancient Egyptian Anatomy

@@ -6,8 +6,9 @@ confidence: medium
 tags: ["education-research"]
 sources:
   - fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
+  - fxa101-week11-action-research-and-reflective-practice
   - fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical
-updated: 2026-08-17
+updated: 2026-09-26
 ---
 
 ## Creative Therapies in Education
@@ -27,4 +28,5 @@ The integration of creative therapies in educational settings highlights their p
 ## Sources
 
 - [fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
+- [fxa101-week11-action-research-and-reflective-practice](../sources/fxa101-week11-action-research-and-reflective-practice.md)
 - [fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical](../sources/fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical.md)

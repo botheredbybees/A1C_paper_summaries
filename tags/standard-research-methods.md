@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: standard-research-methods
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Standard Research Methods

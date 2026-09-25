@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-emotional-social-outcomes
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Cognitive Emotional Social Outcomes

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: classical-anatomy
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Classical Anatomy

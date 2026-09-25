@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ultra-processed-foods
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Ultra Processed Foods

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: long-term-potentiation
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Long Term Potentiation

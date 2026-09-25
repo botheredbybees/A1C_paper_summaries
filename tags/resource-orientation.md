@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resource-orientation
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Resource Orientation

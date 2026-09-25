@@ -3,6 +3,8 @@ confidence: medium
 domain: intervention
 slug: child-centered-play-therapy-and-puppet-use-in-autism-interventions
 sources:
+  - fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements
+  - fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its
   - fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a
   - fxa300-week10-musicians-postural-quality-and-musculoskeletal-health-a
   - fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a
@@ -12,7 +14,7 @@ tags:
 - literature-review
 title: Child-Centered Play Therapy and Puppet Use in Autism Interventions
 type: topic
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Child-Centered Play Therapy and Puppet Use in Autism Interventions
@@ -31,6 +33,8 @@ This literature review synthesizes findings from interventions aimed at supporti
 
 ## Sources
 
+- [fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements](../sources/fxa101-week11-deepening-insights-the-third-and-fourth-dialogical-movements.md)
+- [fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its](../sources/fxa101-week11-on-critical-reflection-a-review-of-mezirows-theory-and-its.md)
 - [fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a](../sources/fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a.md)
 - [fxa300-week10-musicians-postural-quality-and-musculoskeletal-health-a](../sources/fxa300-week10-musicians-postural-quality-and-musculoskeletal-health-a.md)
 - [fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a](../sources/fxa302-week11-the-role-of-music-therapy-in-physical-rehabilitation-a.md)

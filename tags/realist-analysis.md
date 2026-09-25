@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: realist-analysis
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Realist Analysis

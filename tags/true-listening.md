@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: true-listening
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## True Listening

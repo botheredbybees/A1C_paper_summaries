@@ -1,12 +1,14 @@
 ---
 type: tag
 tag: personal-growth
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Personal Growth
 
 - [What Sort of Creative Are You?](../sources/fxa101-week02-what-sort-of-creative-are-you.md)
+- [Learning Critical Reflection: Experiences of the Transformative Learning Process](../sources/fxa101-week11-learning-critical-reflection-experiences-of-the.md)
+- [Reach, Touch, and Teach: Student Concerns and Process Education by Terry Borton](../sources/fxa101-week11-reach-touch-and-teach-student-concerns-and-process.md)
 - [Critical Reflection \u2013 The Photo Essay](../sources/fxa202-week09-critical-reflection-the-photo-essay.md)
 - ['Taking Pictures is Like Treasure Hunting': Exploring the Therapeutic Value of Photography as a Qualitative Research Method](../sources/fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the.md)
 - [Through Creative Lenses: Investigating the Personal Growth and Well-being Benefits of Photography and Videography](../sources/fxa202-week13-through-creative-lenses-investigating-the-personal-growth.md)

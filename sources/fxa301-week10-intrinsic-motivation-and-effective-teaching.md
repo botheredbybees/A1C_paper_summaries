@@ -11,7 +11,7 @@ tags: ["intrinsic-motivation", "teaching-effectiveness", "learning-theories", "h
 key_concepts: ["intrinsic motivation", "lifelong learning", "environmental support for intrinsic motivation"]
 methods: ["case study"]
 slug: fxa301-week10-intrinsic-motivation-and-effective-teaching
-related: ["educational-psychology", "intrinsic-motivation"]
+related: ["educational-psychology", "higher-education", "intrinsic-motivation"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -44,4 +44,5 @@ The chapter 'Intrinsic Motivation and Effective Teaching' by Mihaly Csikszentmih
 ## See Also
 
 - [educational-psychology](../topics/educational-psychology.md)
+- [higher-education](../topics/higher-education.md)
 - [intrinsic-motivation](../topics/intrinsic-motivation.md)

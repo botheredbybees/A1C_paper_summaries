@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sex-and-gender-education
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Sex And Gender Education

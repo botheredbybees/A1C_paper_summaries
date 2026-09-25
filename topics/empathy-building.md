@@ -6,12 +6,13 @@ sources:
   - fxa100-week04-engaging-in-community-music-an-introduction
   - fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
   - fxa100-week10-transforming-dementia-care-through-theatre
+  - fxa101-week11-becoming-a-reflective-practitioner
   - psy214-week09-lesson-psy214-week09-compassion-2
 tags:
 - empathy-building
 title: Empathy Building
 type: topic
-updated: 2026-09-08
+updated: 2026-09-26
 ---
 
 ## Empathy Building
@@ -33,4 +34,5 @@ The concept of empathy building is a central theme in both community music and d
 - [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
 - [fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy](../sources/fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy.md)
 - [fxa100-week10-transforming-dementia-care-through-theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
+- [fxa101-week11-becoming-a-reflective-practitioner](../sources/fxa101-week11-becoming-a-reflective-practitioner.md)
 - [psy214-week09-lesson-psy214-week09-compassion-2](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)

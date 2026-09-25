@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: drum-tech
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Drum Tech

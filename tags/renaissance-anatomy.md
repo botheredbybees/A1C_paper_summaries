@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: renaissance-anatomy
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Renaissance Anatomy

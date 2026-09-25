@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: identity-signaling
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Identity Signaling

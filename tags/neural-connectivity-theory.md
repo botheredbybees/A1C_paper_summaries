@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-connectivity-theory
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Neural Connectivity Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: compensatory-effect
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Compensatory Effect

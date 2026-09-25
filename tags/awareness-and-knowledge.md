@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: awareness-and-knowledge
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Awareness And Knowledge

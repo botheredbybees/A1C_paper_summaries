@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: penetrating-arrow-wound
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Penetrating Arrow Wound

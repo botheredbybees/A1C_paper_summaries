@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensory-stimulation
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Sensory Stimulation

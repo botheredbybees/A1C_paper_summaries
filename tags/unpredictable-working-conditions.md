@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: unpredictable-working-conditions
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Unpredictable Working Conditions

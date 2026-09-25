@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethics-in-healthcare
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Ethics In Healthcare

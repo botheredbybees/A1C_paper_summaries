@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: propensity-score-matching
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Propensity Score Matching

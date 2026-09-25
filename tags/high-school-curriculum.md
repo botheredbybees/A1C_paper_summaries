@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: high-school-curriculum
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## High School Curriculum

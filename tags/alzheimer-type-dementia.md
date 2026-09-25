@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimer-type-dementia
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Alzheimer Type Dementia

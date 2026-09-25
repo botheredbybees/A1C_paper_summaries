@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socio-political-dimensions-of-healthcare
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Socio Political Dimensions Of Healthcare

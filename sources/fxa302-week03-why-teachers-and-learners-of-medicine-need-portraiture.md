@@ -11,7 +11,7 @@ tags: ["medical-education", "portraiture-in-medicine", "teacher-student-interact
 key_concepts: ["perceptual-skills", "empathetic-understanding", "clinical-decision-making"]
 methods: ["case-study"]
 slug: fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture
-related: ["medical-education"]
+related: ["medical-education", "teacher-student-interaction"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -42,3 +42,4 @@ The article by Maxwell F. Lydiatt and William M. Lydiatt examines how incorporat
 ## See Also
 
 - [medical-education](../topics/medical-education.md)
+- [teacher-student-interaction](../topics/teacher-student-interaction.md)

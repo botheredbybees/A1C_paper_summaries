@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cerebral-cortex-anatomy
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 ## Cerebral Cortex Anatomy
