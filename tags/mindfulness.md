@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mindfulness
@@ -34,3 +34,5 @@ updated: 2026-09-26
 - [Character Strengths in Positive Psychology](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
 - [Signature Strengths Activity: Applying Character Strengths for Well-being](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
 - [Stress, Self-Care and Mindfulness: Meaning Practices and Outcomes](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)
+- [Creativity: Overview and Stress Management](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [Dark Flow: The Potential Negative Consequences of Flow Experiences](../sources/psy214-week12-lesson-psy214-week12-dark-flow.md)

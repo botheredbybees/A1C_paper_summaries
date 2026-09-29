@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: superior-temporal-gyrus
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Superior Temporal Gyrus

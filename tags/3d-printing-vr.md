@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 3d-printing-vr
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## 3D Printing Vr

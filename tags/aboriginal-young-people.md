@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aboriginal-young-people
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Aboriginal Young People

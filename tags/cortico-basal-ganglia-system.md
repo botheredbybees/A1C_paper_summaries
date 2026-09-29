@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cortico-basal-ganglia-system
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Cortico Basal Ganglia System

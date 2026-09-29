@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vocal-fold-dysfunction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Vocal Fold Dysfunction

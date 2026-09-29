@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-determination-theory
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Self Determination Theory
@@ -9,3 +9,4 @@ updated: 2026-09-26
 - [Fine arts participation, self-determination, and locus of control among persons with developmental disabilities](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [Fine arts participation, self-determination, and locus of control among persons with developmental disabilities](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of-%282%29.md)
 - [Eudaimonia continued: Psychological Needs and Well-being](../sources/psy214-week02-lesson-psy214-week02-motivation.md)
+- [Flow as a Component of Well-being and Its Impact on Motivation, Stress, and Self-care](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-expression-rehabilitation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Creative Expression Rehabilitation

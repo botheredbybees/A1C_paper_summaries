@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthcare-clowning-strategy
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Healthcare Clowning Strategy

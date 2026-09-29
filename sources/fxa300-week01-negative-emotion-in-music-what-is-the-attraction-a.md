@@ -13,7 +13,7 @@ tags: ["negative-emotion-music", "emotional-arousal", "mood-management-theory", 
 key_concepts: ["absorption", "dissociation", "psychological-benefits"]
 methods: ["qualitative-study"]
 slug: fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a
-related: ["absorption", "qualitative-research"]
+related: ["absorption", "dissociation", "qualitative-research"]
 created: 2026-07-06
 updated: 2026-07-21
 ---
@@ -46,4 +46,5 @@ The paper explores why individuals seek out and enjoy listening to music that ev
 ## See Also
 
 - [absorption](../topics/absorption.md)
+- [dissociation](../topics/dissociation.md)
 - [qualitative-research](../topics/qualitative-research.md)

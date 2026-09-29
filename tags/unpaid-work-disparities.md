@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: unpaid-work-disparities
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Unpaid Work Disparities

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-arts-programming
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Inclusive Arts Programming

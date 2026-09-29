@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spontaneous-musical-interaction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Spontaneous Musical Interaction

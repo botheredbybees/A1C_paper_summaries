@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evolutionary-psychology
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Evolutionary Psychology
@@ -12,3 +12,4 @@ updated: 2026-09-26
 - [Singing and social bonding: changes in connectivity and pain threshold as a function of group size](../sources/fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain.md)
 - [Does Being Human Matter?](../sources/fxa301-week10-does-being-human-matter.md)
 - [The Persisting Conflict of Interpretations of Shamanism](../sources/fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism.md)
+- [Using the VIA Classification to Advance a Psychological Science of Virtue](../sources/psy214-week12-using-the-via-classification-to-advance-a-psychological.md)

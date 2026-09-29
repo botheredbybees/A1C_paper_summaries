@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: primary-progressive-aphasia
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Primary Progressive Aphasia

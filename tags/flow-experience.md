@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: flow-experience
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Flow Experience
@@ -13,3 +13,7 @@ updated: 2026-09-26
 - [FXA301 Week 10 Lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [Introduction to the Volume](../sources/fxa301-week10-introduction-to-the-volume.md)
 - [Learning, \u2018\u2018Flow,\u2019\u2019 and Happiness](../sources/fxa301-week10-learning-flow-and-happiness.md)
+- [Dark Flow: The Potential Negative Consequences of Flow Experiences](../sources/psy214-week12-lesson-psy214-week12-dark-flow.md)
+- [Flow as a Component of Well-being and Its Impact on Motivation, Stress, and Self-care](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Positive Psychology 3](../sources/psy214-week12-lesson-psy214-week12-week-12-introduction.md)
+- [The Experience of Flow: Theory and Research](../sources/psy214-week12-the-experience-of-flow-theory-and-research.md)

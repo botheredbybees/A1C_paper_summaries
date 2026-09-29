@@ -227,11 +227,12 @@ sources:
   - fxa303-week11-web-article-hardy-2019
   - fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
+  - psy214-week12-meaning-oriented-music-therapy
 tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Music Therapy
@@ -474,3 +475,4 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)
 - [fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational](../sources/fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational.md)
 - [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)
+- [psy214-week12-meaning-oriented-music-therapy](../sources/psy214-week12-meaning-oriented-music-therapy.md)

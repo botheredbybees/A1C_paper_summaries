@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurofibromatosis-type-1
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Neurofibromatosis Type 1

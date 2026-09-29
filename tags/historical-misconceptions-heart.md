@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-misconceptions-heart
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Historical Misconceptions Heart

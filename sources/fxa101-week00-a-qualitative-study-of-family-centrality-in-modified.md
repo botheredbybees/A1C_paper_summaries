@@ -10,7 +10,7 @@ tags: ["dignity-therapy", "advanced-cancer", "korean-culture", "qualitative-rese
 key_concepts: ["ego integrity", "cultural sensitivity", "visual thematic analysis"]
 methods: ["integrated reflexive thematic analysis", "photo-collage intervention"]
 slug: fxa101-week00-a-qualitative-study-of-family-centrality-in-modified
-related: ["palliative-care", "qualitative-research"]
+related: ["advanced-cancer", "palliative-care", "qualitative-research"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -44,5 +44,6 @@ This qualitative study explored the modified dignity therapy (mDT) intervention 
 
 ## See Also
 
+- [advanced-cancer](../topics/advanced-cancer.md)
 - [palliative-care](../topics/palliative-care.md)
 - [qualitative-research](../topics/qualitative-research.md)

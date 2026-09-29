@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stegers-three-element-model-of-meaning
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Stegers Three Element Model Of Meaning

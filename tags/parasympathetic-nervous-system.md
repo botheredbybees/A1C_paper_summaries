@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: parasympathetic-nervous-system
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Parasympathetic Nervous System

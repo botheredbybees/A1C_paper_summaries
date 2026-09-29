@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: symbolic-use-of-mirrors
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Symbolic Use Of Mirrors

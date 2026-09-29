@@ -21,11 +21,12 @@ sources:
   - fxa302-week10-love-in-the-time-of-dementia
   - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
   - fxa303-week11-arts-in-criminal-justice-and-corrections-international
+  - psy214-week12-meaning-oriented-music-therapy
 tags:
 - creative-therapies
 title: Creative Therapies
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Creative Therapies
@@ -62,3 +63,4 @@ Creative therapies encompass various interventions that use the arts to enhance 
 - [fxa302-week10-love-in-the-time-of-dementia](../sources/fxa302-week10-love-in-the-time-of-dementia.md)
 - [fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)
 - [fxa303-week11-arts-in-criminal-justice-and-corrections-international](../sources/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md)
+- [psy214-week12-meaning-oriented-music-therapy](../sources/psy214-week12-meaning-oriented-music-therapy.md)

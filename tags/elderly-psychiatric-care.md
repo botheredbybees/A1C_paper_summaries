@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: elderly-psychiatric-care
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Elderly Psychiatric Care

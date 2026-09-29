@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-of-decision-making
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Neuroscience Of Decision Making

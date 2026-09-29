@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-status-and-taste-eclecticism
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Social Status And Taste Eclecticism

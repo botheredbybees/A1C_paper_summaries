@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: posterior-parietal-cortex
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Posterior Parietal Cortex

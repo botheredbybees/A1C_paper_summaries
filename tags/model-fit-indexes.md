@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: model-fit-indexes
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Model Fit Indexes

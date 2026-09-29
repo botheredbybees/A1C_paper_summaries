@@ -46,11 +46,18 @@ sources:
   - psy214-week11-lesson-psy214-week11-character-strengths
   - psy214-week11-lesson-psy214-week11-character-strengths-research-and
   - psy214-week11-tips-for-applying-character-strengths
+  - psy214-week12-do-character-strengths-based-interventions-change-character
+  - psy214-week12-lesson-psy214-week12-creativity-activity
+  - psy214-week12-lesson-psy214-week12-creativity-introduction
+  - psy214-week12-lesson-psy214-week12-finding-flow
+  - psy214-week12-meaning-oriented-music-therapy
+  - psy214-week12-theory-of-character-strengths-and-its-applications
+  - psy214-week12-via-character-strengths-research-and-practice-the-first-10
 tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Well-Being Through Creative Arts
@@ -112,3 +119,10 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
 - [psy214-week11-lesson-psy214-week11-character-strengths-research-and](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
 - [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
+- [psy214-week12-do-character-strengths-based-interventions-change-character](../sources/psy214-week12-do-character-strengths-based-interventions-change-character.md)
+- [psy214-week12-lesson-psy214-week12-creativity-activity](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)
+- [psy214-week12-lesson-psy214-week12-creativity-introduction](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [psy214-week12-lesson-psy214-week12-finding-flow](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)
+- [psy214-week12-meaning-oriented-music-therapy](../sources/psy214-week12-meaning-oriented-music-therapy.md)
+- [psy214-week12-theory-of-character-strengths-and-its-applications](../sources/psy214-week12-theory-of-character-strengths-and-its-applications.md)
+- [psy214-week12-via-character-strengths-research-and-practice-the-first-10](../sources/psy214-week12-via-character-strengths-research-and-practice-the-first-10.md)

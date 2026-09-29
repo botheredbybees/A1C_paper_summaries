@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: experiential-learning-methods
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Experiential Learning Methods

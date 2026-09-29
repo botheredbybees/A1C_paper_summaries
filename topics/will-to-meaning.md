@@ -7,7 +7,8 @@ tags: ["will-to-meaning"]
 sources:
   - psy214-week11-meaning-history
   - psy214-week11-meaning-history-notes
-updated: 2026-09-22
+  - psy214-week12-logotherapy-how-meaningcentered-therapy-can-transform-your
+updated: 2026-09-30
 ---
 
 ## Will To Meaning
@@ -28,3 +29,4 @@ The concept of the 'will to meaning' emerged within the framework of logotherapy
 
 - [psy214-week11-meaning-history](../sources/psy214-week11-meaning-history.md)
 - [psy214-week11-meaning-history-notes](../sources/psy214-week11-meaning-history-notes.md)
+- [psy214-week12-logotherapy-how-meaningcentered-therapy-can-transform-your](../sources/psy214-week12-logotherapy-how-meaningcentered-therapy-can-transform-your.md)

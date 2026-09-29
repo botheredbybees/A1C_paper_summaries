@@ -22,11 +22,14 @@ sources:
   - psy214-week11-lesson-psy214-week11-character-strengths
   - psy214-week11-lesson-psy214-week11-character-strengths-research-and
   - psy214-week11-lesson-psy214-week11-meaning-existential-approaches
+  - psy214-week12-lesson-psy214-week12-creativity-introduction
+  - psy214-week12-lesson-psy214-week12-dark-flow
+  - psy214-week12-lesson-psy214-week12-week-12-introduction
 tags:
 - self-care
 title: Self-Care for Caregivers
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Self-Care for Caregivers
@@ -64,3 +67,6 @@ The provided sources highlight the critical importance of self-care for individu
 - [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
 - [psy214-week11-lesson-psy214-week11-character-strengths-research-and](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
 - [psy214-week11-lesson-psy214-week11-meaning-existential-approaches](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)
+- [psy214-week12-lesson-psy214-week12-creativity-introduction](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [psy214-week12-lesson-psy214-week12-dark-flow](../sources/psy214-week12-lesson-psy214-week12-dark-flow.md)
+- [psy214-week12-lesson-psy214-week12-week-12-introduction](../sources/psy214-week12-lesson-psy214-week12-week-12-introduction.md)

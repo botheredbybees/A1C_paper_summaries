@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gender-differences-in-preference
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Gender Differences In Preference

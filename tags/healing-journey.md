@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healing-journey
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Healing Journey

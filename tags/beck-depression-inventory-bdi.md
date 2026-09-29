@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beck-depression-inventory-bdi
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Beck Depression Inventory Bdi

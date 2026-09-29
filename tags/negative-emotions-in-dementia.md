@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: negative-emotions-in-dementia
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Negative Emotions In Dementia

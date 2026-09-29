@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sleep-stages
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Sleep Stages

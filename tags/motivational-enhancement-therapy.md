@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motivational-enhancement-therapy
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Motivational Enhancement Therapy

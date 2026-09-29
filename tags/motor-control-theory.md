@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motor-control-theory
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Motor Control Theory

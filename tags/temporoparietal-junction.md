@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: temporoparietal-junction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Temporoparietal Junction

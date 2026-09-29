@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: face-recognition-evolution
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Face Recognition Evolution

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Well Being
@@ -49,3 +49,10 @@ updated: 2026-09-26
 - [Character Strengths in Positive Psychology](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
 - [Signature Strengths Activity: Applying Character Strengths for Well-being](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
 - [Tips for Applying Character Strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
+- [Do Character Strengths-Based Interventions Change Character Strengths? Two Randomized Controlled Intervention Studies](../sources/psy214-week12-do-character-strengths-based-interventions-change-character.md)
+- [Creative Activities for Stress Reduction and Mindfulness](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)
+- [Creativity: Overview and Stress Management](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [Flow as a Component of Well-being and Its Impact on Motivation, Stress, and Self-care](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)
+- [Meaning-Oriented Music Therapy](../sources/psy214-week12-meaning-oriented-music-therapy.md)
+- [Theory of Character Strengths and Its Applications](../sources/psy214-week12-theory-of-character-strengths-and-its-applications.md)
+- [VIA Character Strengths - Research and Practice: The First 10 Years](../sources/psy214-week12-via-character-strengths-research-and-practice-the-first-10.md)

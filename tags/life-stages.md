@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: life-stages
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Life Stages

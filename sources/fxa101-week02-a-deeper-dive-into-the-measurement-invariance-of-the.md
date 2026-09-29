@@ -11,7 +11,7 @@ tags: ["creative-thinking-assessment", "measurement-invariance", "torrance-test"
 key_concepts: ["confirmatory-factor-analysis", "exploratory-factor-analysis", "innovative-adaptive-model"]
 methods: ["confirmatory factor analysis", "exploratory factor analysis"]
 slug: fxa101-week02-a-deeper-dive-into-the-measurement-invariance-of-the
-related: ["creative-thinking-assessment"]
+related: ["creative-thinking-assessment", "measurement-invariance"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,3 +44,4 @@ Yoojoong Kim's study examines the measurement invariance of the Torrance Test of
 ## See Also
 
 - [creative-thinking-assessment](../topics/creative-thinking-assessment.md)
+- [measurement-invariance](../topics/measurement-invariance.md)

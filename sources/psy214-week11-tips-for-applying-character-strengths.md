@@ -11,7 +11,7 @@ tags: ["character-strengths", "personal-growth", "well-being", "positive-psychol
 key_concepts: ["VIA Classification of Character Strengths", "signature strengths", "personal well-being"]
 methods: ["web-based intervention"]
 slug: psy214-week11-tips-for-applying-character-strengths
-related: ["character-strengths", "creativity", "personal-growth", "personal-well-being", "positive-psychology", "signature-strengths", "well-being"]
+related: ["character-strengths", "creativity", "personal-growth", "personal-well-being", "positive-psychology", "signature-strengths", "via-classification-of-character-strengths", "well-being"]
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -51,4 +51,5 @@ This webpage, authored by Dr. Ryan Niemiec, provides a series of tips for indivi
 - [personal-well-being](../topics/personal-well-being.md)
 - [positive-psychology](../topics/positive-psychology.md)
 - [signature-strengths](../topics/signature-strengths.md)
+- [via-classification-of-character-strengths](../topics/via-classification-of-character-strengths.md)
 - [well-being](../topics/well-being.md)

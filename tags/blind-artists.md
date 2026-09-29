@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: blind-artists
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Blind Artists

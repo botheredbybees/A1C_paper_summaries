@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theories-of-change
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Theories Of Change

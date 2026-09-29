@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-context
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Cultural Context
@@ -11,3 +11,4 @@ updated: 2026-09-26
 - [What is musical genius?](../sources/fxa300-week07-what-is-musical-genius.md)
 - [Importance of Cultural Context in Designing Arts Programs for Mental Health](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
 - [Arts in Criminal Justice and Corrections: International Perspectives on Methods](../sources/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md)
+- [The politics of virtue: An Aristotelian-Thomistic engagement with the VIA classification of character strengths](../sources/psy214-week12-the-politics-of-virtue-an-aristotelian-thomistic-engagement.md)

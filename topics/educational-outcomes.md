@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: educational-outcomes
 sources:
-- fxa301-week03-creating-our-future-results-of-the-national-arts
+  - fxa301-week03-creating-our-future-results-of-the-national-arts
+  - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+  - psy214-week12-the-relationship-between-character-strengths-and-academic
 tags:
 - educational-outcomes
 title: Educational Outcomes
 type: topic
-updated: 2026-05-04
+updated: 2026-09-30
 ---
 
 ## Educational Outcomes
@@ -28,3 +30,5 @@ The sources indicate that educational outcomes are positively influenced by vari
 ## Sources
 
 - [fxa301-week03-creating-our-future-results-of-the-national-arts](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)
+- [fxa301-week06-statistical-analysis-of-educational-outcomes-among-big](../sources/fxa301-week06-statistical-analysis-of-educational-outcomes-among-big.md)
+- [psy214-week12-the-relationship-between-character-strengths-and-academic](../sources/psy214-week12-the-relationship-between-character-strengths-and-academic.md)

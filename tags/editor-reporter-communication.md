@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: editor-reporter-communication
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Editor Reporter Communication

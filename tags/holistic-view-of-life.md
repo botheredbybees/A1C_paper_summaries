@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-view-of-life
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Holistic View Of Life

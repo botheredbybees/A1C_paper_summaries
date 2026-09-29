@@ -11,7 +11,7 @@ tags: ["technology-use", "sleep-displacement", "attention-economy", "screen-time
 key_concepts: ["attention economy", "variable ratio reinforcement", "positive reinforcement"]
 methods: ["case study"]
 slug: psy214-week05-technology-and-sleep-displacement-slides-notes
-related: ["positive-reinforcement", "sleep-displacement"]
+related: ["attention-economy", "positive-reinforcement", "sleep-displacement"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -43,5 +43,6 @@ The document discusses how technology use can displace other activities, particu
 
 ## See Also
 
+- [attention-economy](../topics/attention-economy.md)
 - [positive-reinforcement](../topics/positive-reinforcement.md)
 - [sleep-displacement](../topics/sleep-displacement.md)

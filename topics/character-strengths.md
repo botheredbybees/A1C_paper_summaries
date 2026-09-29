@@ -12,11 +12,21 @@ sources:
   - psy214-week11-lesson-psy214-week11-week-8-introduction
   - psy214-week11-tips-for-applying-character-strengths
   - psy214-week11-via-total-24-character-strengths-report
+  - psy214-week12-do-character-strengths-based-interventions-change-character
+  - psy214-week12-measurement-invariance-in-translations-of-the-via-inventory
+  - psy214-week12-positive-psychology-on-character-strengths-and-virtues-a
+  - psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality
+  - psy214-week12-the-mutual-support-model-of-mindfulness-and-character
+  - psy214-week12-the-relationship-between-character-strengths-and-academic
+  - psy214-week12-theory-of-character-strengths-and-its-applications
+  - psy214-week12-using-the-via-classification-to-advance-a-psychological
+  - psy214-week12-values-in-action-scale-and-the-big-5-an-empirical
+  - psy214-week12-via-character-strengths-research-and-practice-the-first-10
 tags:
 - character-strengths
 title: Character Strengths and Resilience
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Character Strengths and Resilience
@@ -44,3 +54,13 @@ The sources collectively underscore the importance of character strengths in fos
 - [psy214-week11-lesson-psy214-week11-week-8-introduction](../sources/psy214-week11-lesson-psy214-week11-week-8-introduction.md)
 - [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
 - [psy214-week11-via-total-24-character-strengths-report](../sources/psy214-week11-via-total-24-character-strengths-report.md)
+- [psy214-week12-do-character-strengths-based-interventions-change-character](../sources/psy214-week12-do-character-strengths-based-interventions-change-character.md)
+- [psy214-week12-measurement-invariance-in-translations-of-the-via-inventory](../sources/psy214-week12-measurement-invariance-in-translations-of-the-via-inventory.md)
+- [psy214-week12-positive-psychology-on-character-strengths-and-virtues-a](../sources/psy214-week12-positive-psychology-on-character-strengths-and-virtues-a.md)
+- [psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality](../sources/psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality.md)
+- [psy214-week12-the-mutual-support-model-of-mindfulness-and-character](../sources/psy214-week12-the-mutual-support-model-of-mindfulness-and-character.md)
+- [psy214-week12-the-relationship-between-character-strengths-and-academic](../sources/psy214-week12-the-relationship-between-character-strengths-and-academic.md)
+- [psy214-week12-theory-of-character-strengths-and-its-applications](../sources/psy214-week12-theory-of-character-strengths-and-its-applications.md)
+- [psy214-week12-using-the-via-classification-to-advance-a-psychological](../sources/psy214-week12-using-the-via-classification-to-advance-a-psychological.md)
+- [psy214-week12-values-in-action-scale-and-the-big-5-an-empirical](../sources/psy214-week12-values-in-action-scale-and-the-big-5-an-empirical.md)
+- [psy214-week12-via-character-strengths-research-and-practice-the-first-10](../sources/psy214-week12-via-character-strengths-research-and-practice-the-first-10.md)

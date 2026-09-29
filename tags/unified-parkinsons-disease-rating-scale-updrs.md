@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: unified-parkinsons-disease-rating-scale-updrs
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Unified Parkinsons Disease Rating Scale Updrs

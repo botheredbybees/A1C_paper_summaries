@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-health-care
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Holistic Health Care

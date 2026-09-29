@@ -7,11 +7,12 @@ sources:
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - psy214-week11-character-strengths-notes-slides
   - psy214-week11-via-total-24-character-strengths-report
+  - psy214-week12-theory-of-character-strengths-and-its-applications
 tags:
 - personal-development
 title: Journaling and Personal Development
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Journaling and Personal Development
@@ -34,3 +35,4 @@ The integration of reflective journaling and expressive writing reveals a consis
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [psy214-week11-character-strengths-notes-slides](../sources/psy214-week11-character-strengths-notes-slides.md)
 - [psy214-week11-via-total-24-character-strengths-report](../sources/psy214-week11-via-total-24-character-strengths-report.md)
+- [psy214-week12-theory-of-character-strengths-and-its-applications](../sources/psy214-week12-theory-of-character-strengths-and-its-applications.md)

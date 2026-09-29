@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nun-healthcare
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Nun Healthcare

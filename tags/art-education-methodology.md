@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-education-methodology
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Art Education Methodology

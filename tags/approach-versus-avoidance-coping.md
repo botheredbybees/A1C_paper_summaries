@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: approach-versus-avoidance-coping
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Approach Versus Avoidance Coping

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: standardized-root-mean-squared-residual
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Standardized Root Mean Squared Residual

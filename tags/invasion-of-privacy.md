@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: invasion-of-privacy
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Invasion Of Privacy

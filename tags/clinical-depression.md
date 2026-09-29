@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-depression
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Clinical Depression

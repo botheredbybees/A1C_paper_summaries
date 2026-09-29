@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: voxel-based-lesion-symptom-mapping
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Voxel Based Lesion Symptom Mapping

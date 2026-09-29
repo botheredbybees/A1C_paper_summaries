@@ -7,7 +7,8 @@ tags: ["happiness-research"]
 sources:
   - psy214-week02-positive-psychology-the-basics
   - psy214-week06-handbook-of-well-being
-updated: 2026-08-10
+  - psy214-week12-positive-psychology-the-science-of-happiness-and-human
+updated: 2026-09-30
 ---
 
 ## Happiness Research
@@ -28,3 +29,4 @@ The studies on happiness or subjective well-being span theoretical perspectives 
 
 - [psy214-week02-positive-psychology-the-basics](../sources/psy214-week02-positive-psychology-the-basics.md)
 - [psy214-week06-handbook-of-well-being](../sources/psy214-week06-handbook-of-well-being.md)
+- [psy214-week12-positive-psychology-the-science-of-happiness-and-human](../sources/psy214-week12-positive-psychology-the-science-of-happiness-and-human.md)

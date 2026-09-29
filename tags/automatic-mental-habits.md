@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: automatic-mental-habits
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Automatic Mental Habits

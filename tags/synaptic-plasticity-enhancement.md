@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: synaptic-plasticity-enhancement
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Synaptic Plasticity Enhancement

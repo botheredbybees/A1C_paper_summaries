@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: imagination-in-health-humanities
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Imagination In Health Humanities

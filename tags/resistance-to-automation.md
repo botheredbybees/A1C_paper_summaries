@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resistance-to-automation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Resistance To Automation

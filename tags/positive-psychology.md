@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: positive-psychology
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Positive Psychology
@@ -39,3 +39,14 @@ updated: 2026-09-26
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Positive Psychology 2](../sources/psy214-week11-lesson-psy214-week11-week-8-introduction.md)
 - [Tips for Applying Character Strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
 - [VIA Total 24 Character Strengths Report](../sources/psy214-week11-via-total-24-character-strengths-report.md)
+- [Do Character Strengths-Based Interventions Change Character Strengths? Two Randomized Controlled Intervention Studies](../sources/psy214-week12-do-character-strengths-based-interventions-change-character.md)
+- [Creative Activities for Stress Reduction and Mindfulness](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Positive Psychology 3](../sources/psy214-week12-lesson-psy214-week12-week-12-introduction.md)
+- [Positive Psychology on Character Strengths and Virtues: A Disquieting Suggestion](../sources/psy214-week12-positive-psychology-on-character-strengths-and-virtues-a.md)
+- [Positive Psychology: The Science of Happiness and Human Strengths (Second Edition)](../sources/psy214-week12-positive-psychology-the-science-of-happiness-and-human.md)
+- [The Decoding of the Human Spirit: A Synergy of Spirituality and Character Strengths Toward Wholeness](../sources/psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality.md)
+- [The Experience of Flow: Theory and Research](../sources/psy214-week12-the-experience-of-flow-theory-and-research.md)
+- [The Mutual Support Model of Mindfulness and Character Strengths](../sources/psy214-week12-the-mutual-support-model-of-mindfulness-and-character.md)
+- [The politics of virtue: An Aristotelian-Thomistic engagement with the VIA classification of character strengths](../sources/psy214-week12-the-politics-of-virtue-an-aristotelian-thomistic-engagement.md)
+- [Theory of Character Strengths and Its Applications](../sources/psy214-week12-theory-of-character-strengths-and-its-applications.md)
+- [VIA Character Strengths - Research and Practice: The First 10 Years](../sources/psy214-week12-via-character-strengths-research-and-practice-the-first-10.md)

@@ -11,7 +11,7 @@ tags: ["motivation-theory", "academic-achievement", "personality-psychology", "i
 key_concepts: ["intrinsic motivation", "task commitment", "extrinsic goals", "immediate enjoyment", "scholastic success"]
 methods: ["case study"]
 slug: fxa301-week10-motivation-and-academic-achievement-the-effects-of
-related: ["intrinsic-motivation", "motivation-theory", "personality-psychology"]
+related: ["academic-achievement", "intrinsic-motivation", "motivation-theory", "personality-psychology"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -45,6 +45,7 @@ This chapter explores motivational and personality factors influencing academic 
 
 ## See Also
 
+- [academic-achievement](../topics/academic-achievement.md)
 - [intrinsic-motivation](../topics/intrinsic-motivation.md)
 - [motivation-theory](../topics/motivation-theory.md)
 - [personality-psychology](../topics/personality-psychology.md)

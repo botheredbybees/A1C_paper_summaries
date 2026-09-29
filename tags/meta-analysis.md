@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: meta-analysis
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Meta Analysis
@@ -29,3 +29,4 @@ updated: 2026-09-26
 - [The Impact of Signature Character Strengths Interventions: A Meta-analysis](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)
 - [Effect of Kindness-Based Meditation on Health and Well-Being: A Systematic Review and Meta-Analysis](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)
 - [Self-Compassion and Coping: a Meta-Analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
+- [Efficacy of Meaning-Centered Psychotherapy in adult patients with advanced cancer: A systematic review and meta-analysis](../sources/psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: audio-motor-coupling
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Audio Motor Coupling

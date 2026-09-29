@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transtheoretical-model
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Transtheoretical Model

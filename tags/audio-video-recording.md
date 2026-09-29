@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: audio-video-recording
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Audio Video Recording

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: myths-in-science
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Myths In Science

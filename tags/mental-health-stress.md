@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-stress
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mental Health Stress

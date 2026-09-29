@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-well-being
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Psychological Well Being
@@ -14,3 +14,4 @@ updated: 2026-09-26
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Well-being and Happiness](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)
 - [Self-Compassion and Coping: a Meta-Analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Bringing it together](../sources/psy214-week12-lesson-psy214-week12-creativity-case-study.md)

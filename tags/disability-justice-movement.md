@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-justice-movement
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Disability Justice Movement

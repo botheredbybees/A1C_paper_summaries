@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescence-to-adulthood
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Adolescence To Adulthood

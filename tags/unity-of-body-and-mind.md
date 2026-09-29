@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: unity-of-body-and-mind
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Unity Of Body And Mind

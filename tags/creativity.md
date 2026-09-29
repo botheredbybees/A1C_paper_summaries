@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Creativity
@@ -25,3 +25,5 @@ updated: 2026-09-26
 - [Creativity and Mental Health](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [Applying Creativity in Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)
 - [Tips for Applying Character Strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
+- [Creativity: Overview and Stress Management](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Positive Psychology 3](../sources/psy214-week12-lesson-psy214-week12-week-12-introduction.md)

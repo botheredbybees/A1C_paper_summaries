@@ -11,7 +11,7 @@ tags: ["positive-psychology", "character-strengths", "virtues", "personality-ass
 key_concepts: ["character-strengths", "virtues", "values-in-action-via"]
 methods: ["literature-review", "conceptual-framework"]
 slug: psy214-week11-character-strengths
-related: ["character-strengths", "personality-assessment", "philosophy", "positive-psychology", "virtues", "well-being"]
+related: ["character-strengths", "personality-assessment", "philosophy", "positive-psychology", "values-in-action-via", "virtues", "well-being"]
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -48,5 +48,6 @@ The document explores the concept of character strengths, emphasizing their impo
 - [personality-assessment](../topics/personality-assessment.md)
 - [philosophy](../topics/philosophy.md)
 - [positive-psychology](../topics/positive-psychology.md)
+- [values-in-action-via](../topics/values-in-action-via.md)
 - [virtues](../topics/virtues.md)
 - [well-being](../topics/well-being.md)

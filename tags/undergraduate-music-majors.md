@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: undergraduate-music-majors
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Undergraduate Music Majors

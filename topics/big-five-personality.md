@@ -9,7 +9,8 @@ sources:
   - fxa300-week05-personality-and-uses-of-music-as-predictors-of-preferences
   - fxa300-week05-toward-a-better-understanding-of-the-relation-between-music
   - fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
-updated: 2026-08-03
+  - psy214-week12-values-in-action-scale-and-the-big-5-an-empirical
+updated: 2026-09-30
 ---
 
 ## Big Five Personality and Musical Taste
@@ -32,3 +33,4 @@ Research on the relationship between personality traits as measured by the Big F
 - [fxa300-week05-personality-and-uses-of-music-as-predictors-of-preferences](../sources/fxa300-week05-personality-and-uses-of-music-as-predictors-of-preferences.md)
 - [fxa300-week05-toward-a-better-understanding-of-the-relation-between-music](../sources/fxa300-week05-toward-a-better-understanding-of-the-relation-between-music.md)
 - [fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art](../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art.md)
+- [psy214-week12-values-in-action-scale-and-the-big-5-an-empirical](../sources/psy214-week12-values-in-action-scale-and-the-big-5-an-empirical.md)

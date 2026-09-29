@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: maxim-violation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Maxim Violation

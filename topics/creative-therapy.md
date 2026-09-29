@@ -9,11 +9,12 @@ sources:
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa302-week11-lesson-fxa302-week11-page-2
   - fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients
+  - psy214-week12-lesson-psy214-week12-creativity-activity
 tags:
 - creative-therapy
 title: Creative Therapy
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Creative Therapy
@@ -38,3 +39,4 @@ Creative therapy is an innovative approach to enhancing self-expression and comm
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [fxa302-week11-lesson-fxa302-week11-page-2](../sources/fxa302-week11-lesson-fxa302-week11-page-2.md)
 - [fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients](../sources/fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients.md)
+- [psy214-week12-lesson-psy214-week12-creativity-activity](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mini-projects-learning
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mini Projects Learning

@@ -10,7 +10,8 @@ sources:
   - fxa301-week10-intrinsic-motivation-and-effective-teaching
   - fxa301-week10-learning-flow-and-happiness
   - fxa301-week10-motivation-and-academic-achievement-the-effects-of
-updated: 2026-08-07
+  - psy214-week12-the-experience-of-flow-theory-and-research
+updated: 2026-09-30
 ---
 
 ## Intrinsic Motivation
@@ -34,3 +35,4 @@ The concept of intrinsic motivation is prevalent across the sources and undersco
 - [fxa301-week10-intrinsic-motivation-and-effective-teaching](../sources/fxa301-week10-intrinsic-motivation-and-effective-teaching.md)
 - [fxa301-week10-learning-flow-and-happiness](../sources/fxa301-week10-learning-flow-and-happiness.md)
 - [fxa301-week10-motivation-and-academic-achievement-the-effects-of](../sources/fxa301-week10-motivation-and-academic-achievement-the-effects-of.md)
+- [psy214-week12-the-experience-of-flow-theory-and-research](../sources/psy214-week12-the-experience-of-flow-theory-and-research.md)

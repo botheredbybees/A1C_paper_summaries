@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 21st-century-skills
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## 21St Century Skills

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: functional-connectivity-differences
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Functional Connectivity Differences

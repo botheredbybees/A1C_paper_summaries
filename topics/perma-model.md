@@ -7,7 +7,8 @@ tags: ["perma-model"]
 sources:
   - psy214-week02-lesson-psy214-week02-necessary-versus-sufficient
   - psy214-week11-lesson-psy214-week11-meaning-humanistic-approaches
-updated: 2026-09-22
+  - psy214-week12-lesson-psy214-week12-finding-flow
+updated: 2026-09-30
 ---
 
 ## Perma Model
@@ -28,3 +29,4 @@ The PERMA model of well-being, introduced by Martin Seligman, is a framework for
 
 - [psy214-week02-lesson-psy214-week02-necessary-versus-sufficient](../sources/psy214-week02-lesson-psy214-week02-necessary-versus-sufficient.md)
 - [psy214-week11-lesson-psy214-week11-meaning-humanistic-approaches](../sources/psy214-week11-lesson-psy214-week11-meaning-humanistic-approaches.md)
+- [psy214-week12-lesson-psy214-week12-finding-flow](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)

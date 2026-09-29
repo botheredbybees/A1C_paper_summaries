@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mbsr-mindfulness-based-stress-reduction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mbsr Mindfulness Based Stress Reduction

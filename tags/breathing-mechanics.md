@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: breathing-mechanics
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Breathing Mechanics

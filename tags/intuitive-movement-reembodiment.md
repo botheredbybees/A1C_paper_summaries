@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intuitive-movement-reembodiment
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Intuitive Movement Reembodiment

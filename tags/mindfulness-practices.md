@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practices
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mindfulness Practices
@@ -19,3 +19,4 @@ updated: 2026-09-26
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Formal Relaxation](../sources/psy214-week05-lesson-psy214-week05-formal-relaxation.md)
 - [Mindfulness as a Self-Care Strategy for Healthcare Professionals to Reduce Stress and Implicit Bias](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)
+- [Creative Activities for Stress Reduction and Mindfulness](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)

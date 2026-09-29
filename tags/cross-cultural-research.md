@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-cultural-research
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Cross Cultural Research
@@ -13,3 +13,5 @@ updated: 2026-09-26
 - [The Quest for Universals in Temporal Processing in Music](../sources/fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music.md)
 - [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units: Translation and Validation of the Italian Version of the Arts Observational Scale (ArtsObS)](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [Indigenous and Traditional Visual Artistic Practices: Implications for Art Therapy Clinical Practice and Research](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)
+- [Measurement Invariance in Translations of the VIA Inventory of Strengths](../sources/psy214-week12-measurement-invariance-in-translations-of-the-via-inventory.md)
+- [VIA Character Strengths - Research and Practice: The First 10 Years](../sources/psy214-week12-via-character-strengths-research-and-practice-the-first-10.md)

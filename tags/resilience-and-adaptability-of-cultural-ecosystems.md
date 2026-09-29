@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resilience-and-adaptability-of-cultural-ecosystems
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Resilience And Adaptability Of Cultural Ecosystems

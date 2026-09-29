@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-cultural-perspective
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Social Cultural Perspective

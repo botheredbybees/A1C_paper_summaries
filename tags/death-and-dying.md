@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: death-and-dying
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Death And Dying

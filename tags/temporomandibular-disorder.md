@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: temporomandibular-disorder
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Temporomandibular Disorder

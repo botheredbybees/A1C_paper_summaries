@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mucosal-immunity
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mucosal Immunity

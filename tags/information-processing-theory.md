@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: information-processing-theory
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Information Processing Theory

@@ -11,7 +11,7 @@ tags: ["mindfulness-practice", "emotional-wellbeing", "positive-emotions", "psyc
 key_concepts: ["mindfulness", "balanced-positive-emotion", "dispositional-mindfulness", "emotional-resilience"]
 methods: ["systematic-review", "case-study"]
 slug: psy214-week10-mindfulness-and-balanced-positive-emotion
-related: ["dispositional-mindfulness", "emotional-wellbeing", "mindfulness-practice", "positive-emotions", "therapeutic-benefits"]
+related: ["dispositional-mindfulness", "emotional-wellbeing", "mindfulness-practice", "positive-emotions", "psychological-distress", "therapeutic-benefits"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -49,4 +49,5 @@ The chapter discusses the concept of mindfulness and its role in enhancing emoti
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)
 - [mindfulness-practice](../topics/mindfulness-practice.md)
 - [positive-emotions](../topics/positive-emotions.md)
+- [psychological-distress](../topics/psychological-distress.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

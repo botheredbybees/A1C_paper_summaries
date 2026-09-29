@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 4e-cognition-theory
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## 4E Cognition Theory

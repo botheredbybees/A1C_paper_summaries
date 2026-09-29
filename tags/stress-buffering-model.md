@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-buffering-model
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Stress Buffering Model

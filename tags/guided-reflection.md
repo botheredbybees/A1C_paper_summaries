@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: guided-reflection
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Guided Reflection

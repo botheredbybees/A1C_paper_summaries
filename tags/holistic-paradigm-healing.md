@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-paradigm-healing
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Holistic Paradigm Healing

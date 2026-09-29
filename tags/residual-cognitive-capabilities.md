@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: residual-cognitive-capabilities
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Residual Cognitive Capabilities

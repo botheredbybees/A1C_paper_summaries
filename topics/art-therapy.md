@@ -107,7 +107,8 @@ sources:
   - fxa303-week11-the-power-of-art-to-transform-and-restore
   - fxa303-week11-web-article-hardy-2019
   - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
-updated: 2026-09-22
+  - psy214-week12-lesson-psy214-week12-creativity-activity
+updated: 2026-09-30
 ---
 
 ## Art Therapy for Dementia
@@ -228,3 +229,4 @@ Art therapy emerges as a multifaceted intervention that significantly impacts co
 - [fxa303-week11-the-power-of-art-to-transform-and-restore](../sources/fxa303-week11-the-power-of-art-to-transform-and-restore.md)
 - [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)
 - [fxa303-week13-play-and-people-living-with-dementia-a-humanities-based](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)
+- [psy214-week12-lesson-psy214-week12-creativity-activity](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)

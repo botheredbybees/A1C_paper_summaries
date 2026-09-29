@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: developmental-disconnection-syndrome
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Developmental Disconnection Syndrome

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: migration-influence-on-art
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Migration Influence On Art

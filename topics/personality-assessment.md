@@ -7,7 +7,8 @@ tags: ["personality-assessment"]
 sources:
   - psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being
   - psy214-week11-character-strengths
-updated: 2026-09-22
+  - psy214-week12-via-character-strengths-research-and-practice-the-first-10
+updated: 2026-09-30
 ---
 
 ## Personality Assessment Through Well-being and Character Strengths
@@ -28,3 +29,4 @@ The exploration of personality assessment through the lens of well-being and cha
 
 - [psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being](../sources/psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being.md)
 - [psy214-week11-character-strengths](../sources/psy214-week11-character-strengths.md)
+- [psy214-week12-via-character-strengths-research-and-practice-the-first-10](../sources/psy214-week12-via-character-strengths-research-and-practice-the-first-10.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychology
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Psychology
@@ -15,3 +15,4 @@ updated: 2026-09-26
 - [Understanding Sleep: From Dreams to REM](../sources/psy214-week05-transcript-to-sleep-perchance-to-dream.md)
 - [Measuring Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-measuring-compassion-and-self.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Week 9 Assessment Overview](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
+- [Dark Flow: The Potential Negative Consequences of Flow Experiences](../sources/psy214-week12-lesson-psy214-week12-dark-flow.md)

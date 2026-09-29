@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: versatile-extra-sensory-transducer-vest
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Versatile Extra Sensory Transducer Vest

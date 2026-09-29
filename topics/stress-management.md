@@ -65,11 +65,14 @@ sources:
   - psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing
   - psy214-week11-lesson-psy214-week11-meaning-existential-approaches
   - psy214-week11-meaning-history
+  - psy214-week12-lesson-psy214-week12-creativity-activity
+  - psy214-week12-lesson-psy214-week12-creativity-introduction
+  - psy214-week12-lesson-psy214-week12-finding-flow
 tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Stress Management Interventions
@@ -150,3 +153,6 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)
 - [psy214-week11-lesson-psy214-week11-meaning-existential-approaches](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)
 - [psy214-week11-meaning-history](../sources/psy214-week11-meaning-history.md)
+- [psy214-week12-lesson-psy214-week12-creativity-activity](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)
+- [psy214-week12-lesson-psy214-week12-creativity-introduction](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [psy214-week12-lesson-psy214-week12-finding-flow](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)

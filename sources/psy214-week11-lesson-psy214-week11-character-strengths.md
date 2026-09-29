@@ -11,7 +11,7 @@ tags: ["positive-psychology", "character-strengths", "well-being", "self-care", 
 key_concepts: ["character strengths", "VIA classification", "virtues"]
 methods: []
 slug: psy214-week11-lesson-psy214-week11-character-strengths
-related: ["character-strengths", "mindfulness", "positive-psychology", "self-care", "virtues", "well-being"]
+related: ["character-strengths", "mindfulness", "positive-psychology", "self-care", "via-classification", "virtues", "well-being"]
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -47,5 +47,6 @@ This lesson introduces the concept of character strengths within the field of po
 - [mindfulness](../topics/mindfulness.md)
 - [positive-psychology](../topics/positive-psychology.md)
 - [self-care](../topics/self-care.md)
+- [via-classification](../topics/via-classification.md)
 - [virtues](../topics/virtues.md)
 - [well-being](../topics/well-being.md)

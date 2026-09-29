@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: graeco-roman-medicine
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Graeco Roman Medicine

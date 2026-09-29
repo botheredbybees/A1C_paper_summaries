@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: street-art-intervention
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Street Art Intervention

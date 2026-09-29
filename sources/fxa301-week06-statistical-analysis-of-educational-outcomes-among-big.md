@@ -11,7 +11,7 @@ tags: ["big-noise-raploch", "socioeconomic-impact", "educational-outcomes", "you
 key_concepts: ["Big Noise Raploch programme", "positive post-school outcomes", "adjusted analysis", "employment rates"]
 methods: ["statistical analysis"]
 slug: fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
-related: ["public-health", "youth-development"]
+related: ["educational-outcomes", "public-health", "youth-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,5 +45,6 @@ This report presents the statistical analysis of educational outcomes for partic
 
 ## See Also
 
+- [educational-outcomes](../topics/educational-outcomes.md)
 - [public-health](../topics/public-health.md)
 - [youth-development](../topics/youth-development.md)

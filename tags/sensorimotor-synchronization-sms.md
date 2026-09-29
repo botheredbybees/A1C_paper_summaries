@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensorimotor-synchronization-sms
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Sensorimotor Synchronization Sms

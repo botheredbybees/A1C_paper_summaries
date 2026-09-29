@@ -17,11 +17,12 @@ sources:
   - fxa302-week01-horticultural-arts
   - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
   - psy214-week02-concepts-related-to-hedonia-or-happiness-(2)
+  - psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality
 tags:
 - well-being-research
 title: Well-Being Research
 type: topic
-updated: 2026-08-07
+updated: 2026-09-30
 ---
 
 ## Well-Being Research
@@ -54,3 +55,4 @@ Research on well-being through the lens of arts and health intersects social-pol
 - [fxa302-week01-horticultural-arts](../sources/fxa302-week01-horticultural-arts.md)
 - [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
 - [psy214-week02-concepts-related-to-hedonia-or-happiness-(2)](../sources/psy214-week02-concepts-related-to-hedonia-or-happiness-%282%29.md)
+- [psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality](../sources/psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality.md)

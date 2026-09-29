@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: american-psychiatric-association
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## American Psychiatric Association

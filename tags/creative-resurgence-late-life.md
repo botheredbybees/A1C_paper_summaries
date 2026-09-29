@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-resurgence-late-life
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Creative Resurgence Late Life

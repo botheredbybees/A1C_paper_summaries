@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: practical-utilitarianism
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Practical Utilitarianism

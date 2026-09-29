@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aesthetic-judgment
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Aesthetic Judgment

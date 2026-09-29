@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: event-related-potentials-erp
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Event Related Potentials Erp

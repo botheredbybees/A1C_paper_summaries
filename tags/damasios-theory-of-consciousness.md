@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: damasios-theory-of-consciousness
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Damasios Theory Of Consciousness

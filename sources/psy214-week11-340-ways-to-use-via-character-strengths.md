@@ -11,7 +11,7 @@ tags: ["via-character-strengths", "personal-growth", "well-being", "positive-psy
 key_concepts: ["VIA character strengths", "core virtues", "personal growth", "resilience"]
 methods: ["practical applications"]
 slug: psy214-week11-340-ways-to-use-via-character-strengths
-related: ["personal-growth", "positive-psychology", "via-character-strengths", "well-being"]
+related: ["core-virtues", "personal-growth", "positive-psychology", "via-character-strengths", "well-being"]
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -43,6 +43,7 @@ This document presents a comprehensive guide to leveraging VIA (Values in Action
 
 ## See Also
 
+- [core-virtues](../topics/core-virtues.md)
 - [personal-growth](../topics/personal-growth.md)
 - [positive-psychology](../topics/positive-psychology.md)
 - [via-character-strengths](../topics/via-character-strengths.md)

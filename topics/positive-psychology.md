@@ -36,11 +36,22 @@ sources:
   - psy214-week11-lesson-psy214-week11-week-8-introduction
   - psy214-week11-tips-for-applying-character-strengths
   - psy214-week11-via-total-24-character-strengths-report
+  - psy214-week12-do-character-strengths-based-interventions-change-character
+  - psy214-week12-lesson-psy214-week12-creativity-activity
+  - psy214-week12-lesson-psy214-week12-week-12-introduction
+  - psy214-week12-positive-psychology-on-character-strengths-and-virtues-a
+  - psy214-week12-positive-psychology-the-science-of-happiness-and-human
+  - psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality
+  - psy214-week12-the-experience-of-flow-theory-and-research
+  - psy214-week12-the-mutual-support-model-of-mindfulness-and-character
+  - psy214-week12-the-politics-of-virtue-an-aristotelian-thomistic-engagement
+  - psy214-week12-theory-of-character-strengths-and-its-applications
+  - psy214-week12-via-character-strengths-research-and-practice-the-first-10
 tags:
 - positive-psychology
 title: Positive Psychology and Resilience
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Positive Psychology and Resilience
@@ -92,3 +103,14 @@ Positive psychology focuses on fostering resilience and well-being through the d
 - [psy214-week11-lesson-psy214-week11-week-8-introduction](../sources/psy214-week11-lesson-psy214-week11-week-8-introduction.md)
 - [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
 - [psy214-week11-via-total-24-character-strengths-report](../sources/psy214-week11-via-total-24-character-strengths-report.md)
+- [psy214-week12-do-character-strengths-based-interventions-change-character](../sources/psy214-week12-do-character-strengths-based-interventions-change-character.md)
+- [psy214-week12-lesson-psy214-week12-creativity-activity](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)
+- [psy214-week12-lesson-psy214-week12-week-12-introduction](../sources/psy214-week12-lesson-psy214-week12-week-12-introduction.md)
+- [psy214-week12-positive-psychology-on-character-strengths-and-virtues-a](../sources/psy214-week12-positive-psychology-on-character-strengths-and-virtues-a.md)
+- [psy214-week12-positive-psychology-the-science-of-happiness-and-human](../sources/psy214-week12-positive-psychology-the-science-of-happiness-and-human.md)
+- [psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality](../sources/psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality.md)
+- [psy214-week12-the-experience-of-flow-theory-and-research](../sources/psy214-week12-the-experience-of-flow-theory-and-research.md)
+- [psy214-week12-the-mutual-support-model-of-mindfulness-and-character](../sources/psy214-week12-the-mutual-support-model-of-mindfulness-and-character.md)
+- [psy214-week12-the-politics-of-virtue-an-aristotelian-thomistic-engagement](../sources/psy214-week12-the-politics-of-virtue-an-aristotelian-thomistic-engagement.md)
+- [psy214-week12-theory-of-character-strengths-and-its-applications](../sources/psy214-week12-theory-of-character-strengths-and-its-applications.md)
+- [psy214-week12-via-character-strengths-research-and-practice-the-first-10](../sources/psy214-week12-via-character-strengths-research-and-practice-the-first-10.md)

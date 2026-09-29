@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: passivogenic-environment
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Passivogenic Environment

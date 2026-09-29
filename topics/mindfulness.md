@@ -31,11 +31,13 @@ sources:
   - psy214-week11-lesson-psy214-week11-character-strengths
   - psy214-week11-lesson-psy214-week11-character-strengths-research-and
   - psy214-week11-lesson-psy214-week11-meaning-existential-approaches
+  - psy214-week12-lesson-psy214-week12-creativity-introduction
+  - psy214-week12-lesson-psy214-week12-dark-flow
 tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography
 type: topic
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mindfulness and Therapeutic Photography
@@ -82,3 +84,5 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 - [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
 - [psy214-week11-lesson-psy214-week11-character-strengths-research-and](../sources/psy214-week11-lesson-psy214-week11-character-strengths-research-and.md)
 - [psy214-week11-lesson-psy214-week11-meaning-existential-approaches](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)
+- [psy214-week12-lesson-psy214-week12-creativity-introduction](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [psy214-week12-lesson-psy214-week12-dark-flow](../sources/psy214-week12-lesson-psy214-week12-dark-flow.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: yersinia-pestis
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Yersinia Pestis

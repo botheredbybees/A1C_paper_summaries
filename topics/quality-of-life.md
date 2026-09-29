@@ -112,11 +112,13 @@ sources:
   - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
   - fxa303-week13-reminiscence-therapy-for-dementia
   - psy214-week11-the-meaning-in-life-questionnaire
+  - psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult
+  - psy214-week12-finding-meaning-in-the-face-of-suffering
 tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Music Therapy in Dementia Care
@@ -244,3 +246,5 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)
 - [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)
 - [psy214-week11-the-meaning-in-life-questionnaire](../sources/psy214-week11-the-meaning-in-life-questionnaire.md)
+- [psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult](../sources/psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult.md)
+- [psy214-week12-finding-meaning-in-the-face-of-suffering](../sources/psy214-week12-finding-meaning-in-the-face-of-suffering.md)

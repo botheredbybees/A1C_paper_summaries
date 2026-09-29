@@ -10,11 +10,15 @@ sources:
   - fxa301-week10-fxa301-week-10-lecture
   - fxa301-week10-introduction-to-the-volume
   - fxa301-week10-learning-flow-and-happiness
+  - psy214-week12-lesson-psy214-week12-dark-flow
+  - psy214-week12-lesson-psy214-week12-finding-flow
+  - psy214-week12-lesson-psy214-week12-week-12-introduction
+  - psy214-week12-the-experience-of-flow-theory-and-research
 tags:
 - flow-experience
 title: Flow Experience
 type: topic
-updated: 2026-09-15
+updated: 2026-09-30
 ---
 
 ## Flow Experience
@@ -40,3 +44,7 @@ Mihaly Csikszentmihalyi's concept of the 'flow' experience has been a cornerston
 - [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [fxa301-week10-introduction-to-the-volume](../sources/fxa301-week10-introduction-to-the-volume.md)
 - [fxa301-week10-learning-flow-and-happiness](../sources/fxa301-week10-learning-flow-and-happiness.md)
+- [psy214-week12-lesson-psy214-week12-dark-flow](../sources/psy214-week12-lesson-psy214-week12-dark-flow.md)
+- [psy214-week12-lesson-psy214-week12-finding-flow](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)
+- [psy214-week12-lesson-psy214-week12-week-12-introduction](../sources/psy214-week12-lesson-psy214-week12-week-12-introduction.md)
+- [psy214-week12-the-experience-of-flow-theory-and-research](../sources/psy214-week12-the-experience-of-flow-theory-and-research.md)

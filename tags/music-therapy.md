@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Music Therapy
@@ -230,3 +230,4 @@ updated: 2026-09-26
 - [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)
 - [Rethinking musicality in dementia as embodied and relational](../sources/fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational.md)
 - [The MINWii Project: Renarcissization of Patients Suffering from Alzheimer\u2019s Disease Through Video Game-Based Music Therapy](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)
+- [Meaning-Oriented Music Therapy](../sources/psy214-week12-meaning-oriented-music-therapy.md)

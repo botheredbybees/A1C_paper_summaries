@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spatial-localization-pathway
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Spatial Localization Pathway

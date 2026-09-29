@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: basal-forebrain
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Basal Forebrain

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Art Therapy
@@ -108,3 +108,4 @@ updated: 2026-09-26
 - [The Power of Art to Transform and Restore](../sources/fxa303-week11-the-power-of-art-to-transform-and-restore.md)
 - [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)
 - [\u201cPlay\u201d and People Living With Dementia: A Humanities-Based Inquiry of TimeSlips and the Alzheimer\u2019s Poetry Project](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)
+- [Creative Activities for Stress Reduction and Mindfulness](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)

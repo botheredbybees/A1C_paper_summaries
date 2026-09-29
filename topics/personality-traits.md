@@ -8,11 +8,12 @@ sources:
   - fxa300-week05-lesson-fxa300-week05-page-2-1
   - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
   - fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
+  - psy214-week12-the-mutual-support-model-of-mindfulness-and-character
 tags:
 - personality-traits
 title: Personality Traits and Music
 type: topic
-updated: 2026-08-03
+updated: 2026-09-30
 ---
 
 ## Personality Traits and Music
@@ -36,3 +37,4 @@ The relationship between personality traits and music is explored in the provide
 - [fxa300-week05-lesson-fxa300-week05-page-2-1](../sources/fxa300-week05-lesson-fxa300-week05-page-2-1.md)
 - [fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social](../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social.md)
 - [fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality](../sources/fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality.md)
+- [psy214-week12-the-mutual-support-model-of-mindfulness-and-character](../sources/psy214-week12-the-mutual-support-model-of-mindfulness-and-character.md)

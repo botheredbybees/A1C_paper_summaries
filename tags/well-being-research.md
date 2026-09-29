@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-research
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Well Being Research
@@ -20,3 +20,4 @@ updated: 2026-09-26
 - [Horticultural Arts](../sources/fxa302-week01-horticultural-arts.md)
 - [Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
 - [Concepts related to hedonia or \u2018happiness\u2019](../sources/psy214-week02-concepts-related-to-hedonia-or-happiness-%282%29.md)
+- [The Decoding of the Human Spirit: A Synergy of Spirituality and Character Strengths Toward Wholeness](../sources/psy214-week12-the-decoding-of-the-human-spirit-a-synergy-of-spirituality.md)

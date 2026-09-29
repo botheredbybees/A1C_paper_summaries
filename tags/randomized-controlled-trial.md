@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: randomized-controlled-trial
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Randomized Controlled Trial
@@ -11,3 +11,4 @@ updated: 2026-09-26
 - [Rhythmic auditory stimulation for gait training in persons with unilateral transtibial amputation: A randomized-controlled trial](../sources/fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons.md)
 - [Efficacy of an Evidence-Based Cognitive Stimulation Therapy Programme for People With Dementia: A Randomised Controlled Trial](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)
 - [Effect of Kindness-Based Meditation on Health and Well-Being: A Systematic Review and Meta-Analysis](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)
+- [Do Character Strengths-Based Interventions Change Character Strengths? Two Randomized Controlled Intervention Studies](../sources/psy214-week12-do-character-strengths-based-interventions-change-character.md)

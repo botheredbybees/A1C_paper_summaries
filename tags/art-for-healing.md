@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-for-healing
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Art For Healing

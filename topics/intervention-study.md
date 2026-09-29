@@ -8,7 +8,8 @@ sources:
   - fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the
   - fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
   - psy214-week08-mindfulness-research-limitations-(2)
-updated: 2026-08-31
+  - psy214-week12-do-character-strengths-based-interventions-change-character
+updated: 2026-09-30
 ---
 
 ## Intervention Studies in Dementia and Autism
@@ -32,3 +33,4 @@ Both studies utilize a pilot study design, indicating their exploratory nature a
 - [fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the](../sources/fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the.md)
 - [fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the](../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the.md)
 - [psy214-week08-mindfulness-research-limitations-(2)](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)
+- [psy214-week12-do-character-strengths-based-interventions-change-character](../sources/psy214-week12-do-character-strengths-based-interventions-change-character.md)

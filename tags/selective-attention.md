@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: selective-attention
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Selective Attention

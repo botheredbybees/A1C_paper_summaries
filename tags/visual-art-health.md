@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-art-health
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Visual Art Health

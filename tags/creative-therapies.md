@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-therapies
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Creative Therapies
@@ -24,3 +24,4 @@ updated: 2026-09-26
 - [Love in the Time of Dementia](../sources/fxa302-week10-love-in-the-time-of-dementia.md)
 - [Effectiveness of the Puppet Show and Storytelling Methods on Children\u2019s Behavioral Problems](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)
 - [Arts in Criminal Justice and Corrections: International Perspectives on Methods](../sources/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md)
+- [Meaning-Oriented Music Therapy](../sources/psy214-week12-meaning-oriented-music-therapy.md)

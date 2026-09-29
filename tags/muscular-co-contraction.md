@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: muscular-co-contraction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Muscular Co Contraction

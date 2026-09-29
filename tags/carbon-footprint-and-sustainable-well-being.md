@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: carbon-footprint-and-sustainable-well-being
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Carbon Footprint And Sustainable Well Being

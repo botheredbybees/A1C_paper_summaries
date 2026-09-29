@@ -14,11 +14,12 @@ sources:
   - psy214-week02-lesson-psy214-week02-week-3-introduction
   - psy214-week09-lesson-psy214-week09-compassion-2
   - psy214-week09-self-compassion-and-coping-a-meta-analysis
+  - psy214-week12-lesson-psy214-week12-creativity-case-study
 tags:
 - psychological-well-being
 title: Psychological Well-Being through Creative and Expressive Activities
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Psychological Well-Being through Creative and Expressive Activities
@@ -48,3 +49,4 @@ The integration of creative activities such as music, expressive writing, and th
 - [psy214-week02-lesson-psy214-week02-week-3-introduction](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
 - [psy214-week09-lesson-psy214-week09-compassion-2](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)
 - [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
+- [psy214-week12-lesson-psy214-week12-creativity-case-study](../sources/psy214-week12-lesson-psy214-week12-creativity-case-study.md)

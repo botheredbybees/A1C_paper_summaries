@@ -10,7 +10,7 @@ tags: ["implicit-religion", "knitting-community", "spirituality", "fxa101", "sub
 key_concepts: ["Implicit Religion", "Subjective Wellbeing"]
 methods: ["Participant Observation", "Focus Groups", "Interviews"]
 slug: fxa101-week00-knitting-as-implicit-spirituality
-related: ["subjective-wellbeing"]
+related: ["spirituality", "subjective-wellbeing"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -41,4 +41,5 @@ The paper explores the resurgence of knitting as a craft practice and its signif
 
 ## See Also
 
+- [spirituality](../topics/spirituality.md)
 - [subjective-wellbeing](../topics/subjective-wellbeing.md)

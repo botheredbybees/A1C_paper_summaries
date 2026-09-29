@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intersection-disability-creativity
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Intersection Disability Creativity

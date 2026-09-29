@@ -3,12 +3,14 @@ confidence: low
 domain: population
 slug: academic-achievement
 sources:
-- fxa100-week07-transcript-youtube-qvnfj1otdyc
+  - fxa100-week07-transcript-youtube-qvnfj1otdyc
+  - fxa301-week10-motivation-and-academic-achievement-the-effects-of
+  - psy214-week12-the-relationship-between-character-strengths-and-academic
 tags:
 - academic-achievement
 title: Academic Achievement
 type: topic
-updated: 2026-05-04
+updated: 2026-09-30
 ---
 
 ## Academic Achievement
@@ -27,3 +29,5 @@ The provided source discusses aspects related to photography sessions rather tha
 ## Sources
 
 - [fxa100-week07-transcript-youtube-qvnfj1otdyc](../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc.md)
+- [fxa301-week10-motivation-and-academic-achievement-the-effects-of](../sources/fxa301-week10-motivation-and-academic-achievement-the-effects-of.md)
+- [psy214-week12-the-relationship-between-character-strengths-and-academic](../sources/psy214-week12-the-relationship-between-character-strengths-and-academic.md)

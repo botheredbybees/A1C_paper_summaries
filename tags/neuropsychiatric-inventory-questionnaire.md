@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuropsychiatric-inventory-questionnaire
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Neuropsychiatric Inventory Questionnaire

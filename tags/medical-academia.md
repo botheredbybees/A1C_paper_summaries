@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-academia
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Medical Academia

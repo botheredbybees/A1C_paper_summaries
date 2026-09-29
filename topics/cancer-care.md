@@ -7,7 +7,8 @@ tags: ["cancer-care"]
 sources:
   - fxa300-week11-singing-modulates-mood-stress-cortisol-cytokine-and
   - fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their
-updated: 2026-09-22
+  - psy214-week12-finding-meaning-in-the-face-of-suffering
+updated: 2026-09-30
 ---
 
 ## Music and Singing in Cancer Care
@@ -28,3 +29,4 @@ The integration of music and singing as therapeutic interventions in cancer care
 
 - [fxa300-week11-singing-modulates-mood-stress-cortisol-cytokine-and](../sources/fxa300-week11-singing-modulates-mood-stress-cortisol-cytokine-and.md)
 - [fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their](../sources/fxa302-week10-music-therapy-with-adults-diagnosed-with-cancer-and-their.md)
+- [psy214-week12-finding-meaning-in-the-face-of-suffering](../sources/psy214-week12-finding-meaning-in-the-face-of-suffering.md)

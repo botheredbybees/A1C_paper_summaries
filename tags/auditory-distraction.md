@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-distraction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Auditory Distraction

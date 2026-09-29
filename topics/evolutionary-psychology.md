@@ -11,7 +11,8 @@ sources:
   - fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain
   - fxa301-week10-does-being-human-matter
   - fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism
-updated: 2026-09-22
+  - psy214-week12-using-the-via-classification-to-advance-a-psychological
+updated: 2026-09-30
 ---
 
 ## Evolutionary Psychology of Sensory Perception
@@ -36,3 +37,4 @@ The sources collectively delve into the theoretical frameworks within evolutiona
 - [fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain](../sources/fxa300-week11-singing-and-social-bonding-changes-in-connectivity-and-pain.md)
 - [fxa301-week10-does-being-human-matter](../sources/fxa301-week10-does-being-human-matter.md)
 - [fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism](../sources/fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism.md)
+- [psy214-week12-using-the-via-classification-to-advance-a-psychological](../sources/psy214-week12-using-the-via-classification-to-advance-a-psychological.md)

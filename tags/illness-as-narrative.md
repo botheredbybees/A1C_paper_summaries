@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: illness-as-narrative
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Illness As Narrative

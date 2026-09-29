@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-in-athens
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Music In Athens

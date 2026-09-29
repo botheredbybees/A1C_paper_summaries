@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anterior-temporal-lobe
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Anterior Temporal Lobe

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: learning-by-doing
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Learning By Doing

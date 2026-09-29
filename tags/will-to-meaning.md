@@ -1,10 +1,11 @@
 ---
 type: tag
 tag: will-to-meaning
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Will To Meaning
 
 - [Meaning: History](../sources/psy214-week11-meaning-history.md)
 - [Meaning: History Notes](../sources/psy214-week11-meaning-history-notes.md)
+- [Logotherapy: How Meaning\u2013Centered Therapy Can Transform Your Life: Benefits, Techniques & How It Works](../sources/psy214-week12-logotherapy-how-meaningcentered-therapy-can-transform-your.md)

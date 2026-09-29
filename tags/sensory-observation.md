@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensory-observation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Sensory Observation

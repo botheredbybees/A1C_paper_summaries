@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-rights
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Disability Rights

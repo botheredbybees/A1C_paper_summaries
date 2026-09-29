@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: psychological-distress
 sources:
-- fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+  - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+  - psy214-week10-mindfulness-and-balanced-positive-emotion
+  - psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult
 tags:
 - psychological-distress
 title: Psychological Distress
 type: topic
-updated: 2026-05-04
+updated: 2026-09-30
 ---
 
 ## Psychological Distress
@@ -28,3 +30,5 @@ The provided sources explore the concept of psychological distress from a therap
 ## Sources
 
 - [fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of](../sources/fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of.md)
+- [psy214-week10-mindfulness-and-balanced-positive-emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)
+- [psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult](../sources/psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult.md)

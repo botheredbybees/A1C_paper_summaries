@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anthropometric-assessments
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Anthropometric Assessments

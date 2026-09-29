@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ottawa-charter-for-health-promotion
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Ottawa Charter For Health Promotion

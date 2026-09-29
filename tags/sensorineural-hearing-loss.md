@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensorineural-hearing-loss
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Sensorineural Hearing Loss

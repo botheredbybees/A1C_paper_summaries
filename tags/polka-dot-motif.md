@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: polka-dot-motif
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Polka Dot Motif

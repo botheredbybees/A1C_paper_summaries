@@ -8,7 +8,8 @@ sources:
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2)
   - psy214-week02-lesson-psy214-week02-motivation
-updated: 2026-07-13
+  - psy214-week12-lesson-psy214-week12-finding-flow
+updated: 2026-09-30
 ---
 
 ## Self-Determination Theory
@@ -29,3 +30,4 @@ The sources under review explore the concept of Self-Determination Theory (SDT) 
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2)](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of-%282%29.md)
 - [psy214-week02-lesson-psy214-week02-motivation](../sources/psy214-week02-lesson-psy214-week02-motivation.md)
+- [psy214-week12-lesson-psy214-week12-finding-flow](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)

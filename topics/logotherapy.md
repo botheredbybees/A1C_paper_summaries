@@ -7,7 +7,10 @@ tags: ["logotherapy"]
 sources:
   - psy214-week11-meaning-history
   - psy214-week11-meaning-history-notes
-updated: 2026-09-22
+  - psy214-week12-logotherapy-how-meaningcentered-therapy-can-transform-your
+  - psy214-week12-meaning-oriented-music-therapy
+  - psy214-week12-viktor-frankls-search-for-meaning-key-ideas-how-to-apply
+updated: 2026-09-30
 ---
 
 ## Logotherapy
@@ -28,3 +31,6 @@ Logotherapy, an existentialist theory developed by Viktor Frankl, centers around
 
 - [psy214-week11-meaning-history](../sources/psy214-week11-meaning-history.md)
 - [psy214-week11-meaning-history-notes](../sources/psy214-week11-meaning-history-notes.md)
+- [psy214-week12-logotherapy-how-meaningcentered-therapy-can-transform-your](../sources/psy214-week12-logotherapy-how-meaningcentered-therapy-can-transform-your.md)
+- [psy214-week12-meaning-oriented-music-therapy](../sources/psy214-week12-meaning-oriented-music-therapy.md)
+- [psy214-week12-viktor-frankls-search-for-meaning-key-ideas-how-to-apply](../sources/psy214-week12-viktor-frankls-search-for-meaning-key-ideas-how-to-apply.md)

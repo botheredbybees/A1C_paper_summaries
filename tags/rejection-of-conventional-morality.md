@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rejection-of-conventional-morality
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Rejection Of Conventional Morality

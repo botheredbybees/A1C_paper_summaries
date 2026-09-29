@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindful-attitudes
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mindful Attitudes

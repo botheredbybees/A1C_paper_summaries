@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: amyotrophic-lateral-sclerosis
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Amyotrophic Lateral Sclerosis

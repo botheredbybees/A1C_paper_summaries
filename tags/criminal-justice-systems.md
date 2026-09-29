@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: criminal-justice-systems
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Criminal Justice Systems

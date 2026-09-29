@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empirical-approach-to-medicine
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Empirical Approach To Medicine

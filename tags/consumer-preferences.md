@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: consumer-preferences
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Consumer Preferences

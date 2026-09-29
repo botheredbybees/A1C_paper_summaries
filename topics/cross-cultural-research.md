@@ -10,11 +10,13 @@ sources:
   - fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music
   - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
+  - psy214-week12-measurement-invariance-in-translations-of-the-via-inventory
+  - psy214-week12-via-character-strengths-research-and-practice-the-first-10
 tags:
 - cross-cultural-research
 title: Cross-Cultural Research Invariants
 type: topic
-updated: 2026-07-21
+updated: 2026-09-30
 ---
 
 ## Cross-Cultural Research Invariants
@@ -39,3 +41,5 @@ The investigation into cross-cultural research highlights the universality of ce
 - [fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music](../sources/fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music.md)
 - [fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [fxa303-week10-indigenous-and-traditional-visual-artistic-practices](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)
+- [psy214-week12-measurement-invariance-in-translations-of-the-via-inventory](../sources/psy214-week12-measurement-invariance-in-translations-of-the-via-inventory.md)
+- [psy214-week12-via-character-strengths-research-and-practice-the-first-10](../sources/psy214-week12-via-character-strengths-research-and-practice-the-first-10.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: moral-imagination
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Moral Imagination

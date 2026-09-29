@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: forum-theatre
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Forum Theatre

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethics-of-care
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Ethics Of Care

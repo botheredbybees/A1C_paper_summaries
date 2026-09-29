@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sustainable-food-systems
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Sustainable Food Systems

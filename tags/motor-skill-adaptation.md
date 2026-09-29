@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motor-skill-adaptation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Motor Skill Adaptation

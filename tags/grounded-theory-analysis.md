@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: grounded-theory-analysis
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Grounded Theory Analysis

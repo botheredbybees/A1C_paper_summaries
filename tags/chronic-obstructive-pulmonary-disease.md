@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-obstructive-pulmonary-disease
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Chronic Obstructive Pulmonary Disease

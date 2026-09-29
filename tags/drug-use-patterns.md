@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: drug-use-patterns
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Drug Use Patterns

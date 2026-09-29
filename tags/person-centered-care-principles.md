@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: person-centered-care-principles
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Person Centered Care Principles

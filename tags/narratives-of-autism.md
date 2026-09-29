@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: narratives-of-autism
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Narratives Of Autism

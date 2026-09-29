@@ -11,7 +11,7 @@ tags: ["connectedness-to-nature", "environmental-attitudes", "well-being", "pers
 key_concepts: ["Connectedness to Nature Scale (CNS)", "Environmental Responsibility", "Subjective Well-Being"]
 methods: ["scale development"]
 slug: psy214-week06-the-connectedness-to-nature-scale-cns
-related: ["connectedness-to-nature", "well-being"]
+related: ["connectedness-to-nature", "psychological-assessment", "well-being"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -44,4 +44,5 @@ The Connectedness to Nature Scale (CNS) is a measurement tool designed to assess
 ## See Also
 
 - [connectedness-to-nature](../topics/connectedness-to-nature.md)
+- [psychological-assessment](../topics/psychological-assessment.md)
 - [well-being](../topics/well-being.md)

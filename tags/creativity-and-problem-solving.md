@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-and-problem-solving
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Creativity And Problem Solving

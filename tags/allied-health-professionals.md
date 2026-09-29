@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: allied-health-professionals
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Allied Health Professionals

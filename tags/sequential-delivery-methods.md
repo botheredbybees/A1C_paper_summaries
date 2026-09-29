@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sequential-delivery-methods
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Sequential Delivery Methods

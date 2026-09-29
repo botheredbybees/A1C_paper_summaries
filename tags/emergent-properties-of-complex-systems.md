@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emergent-properties-of-complex-systems
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Emergent Properties Of Complex Systems

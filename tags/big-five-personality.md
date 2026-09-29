@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: big-five-personality
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Big Five Personality
@@ -10,3 +10,4 @@ updated: 2026-09-26
 - [Personality and Uses of Music as Predictors of Preferences for Music Consensually Classified as Happy, Sad, Complex, and Social](../sources/fxa300-week05-personality-and-uses-of-music-as-predictors-of-preferences.md)
 - [Toward a better understanding of the relation between music preference, listening behavior, and personality](../sources/fxa300-week05-toward-a-better-understanding-of-the-relation-between-music.md)
 - [Personality Correlates of Aesthetic Preferences for Art, Architecture, and Music](../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art.md)
+- [Values in Action Scale and the Big 5: An Empirical Indication of Structure](../sources/psy214-week12-values-in-action-scale-and-the-big-5-an-empirical.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-applications-of-arts
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Therapeutic Applications Of Arts

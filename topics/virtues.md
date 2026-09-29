@@ -7,7 +7,8 @@ tags: ["virtues"]
 sources:
   - psy214-week11-character-strengths
   - psy214-week11-lesson-psy214-week11-character-strengths
-updated: 2026-09-22
+  - psy214-week12-theory-of-character-strengths-and-its-applications
+updated: 2026-09-30
 ---
 
 ## Character Strengths and Virtues
@@ -28,3 +29,4 @@ The concept of character strengths and virtues is central to positive psychology
 
 - [psy214-week11-character-strengths](../sources/psy214-week11-character-strengths.md)
 - [psy214-week11-lesson-psy214-week11-character-strengths](../sources/psy214-week11-lesson-psy214-week11-character-strengths.md)
+- [psy214-week12-theory-of-character-strengths-and-its-applications](../sources/psy214-week12-theory-of-character-strengths-and-its-applications.md)

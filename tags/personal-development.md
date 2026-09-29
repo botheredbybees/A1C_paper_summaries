@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personal-development
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Personal Development
@@ -10,3 +10,4 @@ updated: 2026-09-26
 - [Beyond Expressive Writing: Evolving Models of Developmental Creative Writing](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [Character Strengths Notes Slides](../sources/psy214-week11-character-strengths-notes-slides.md)
 - [VIA Total 24 Character Strengths Report](../sources/psy214-week11-via-total-24-character-strengths-report.md)
+- [Theory of Character Strengths and Its Applications](../sources/psy214-week12-theory-of-character-strengths-and-its-applications.md)

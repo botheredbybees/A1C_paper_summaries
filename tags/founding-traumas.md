@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: founding-traumas
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Founding Traumas

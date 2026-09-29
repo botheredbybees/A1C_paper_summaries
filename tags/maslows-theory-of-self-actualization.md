@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: maslows-theory-of-self-actualization
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Maslows Theory Of Self Actualization

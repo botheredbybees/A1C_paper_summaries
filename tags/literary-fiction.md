@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literary-fiction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Literary Fiction

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mortality-prediction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mortality Prediction

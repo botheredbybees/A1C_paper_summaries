@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: semantic-processing-in-perception
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Semantic Processing In Perception

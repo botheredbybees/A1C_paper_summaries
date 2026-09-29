@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-education-materials
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Patient Education Materials

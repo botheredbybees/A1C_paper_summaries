@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: graded-salience-hypothesis
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Graded Salience Hypothesis

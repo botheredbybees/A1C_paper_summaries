@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practice
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Mindfulness Practice
@@ -34,3 +34,4 @@ updated: 2026-09-26
 - [Critical thinking about mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
 - [Mindfulness and Balanced Positive Emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)
 - [Meaning: History](../sources/psy214-week11-meaning-history.md)
+- [The Mutual Support Model of Mindfulness and Character Strengths](../sources/psy214-week12-the-mutual-support-model-of-mindfulness-and-character.md)

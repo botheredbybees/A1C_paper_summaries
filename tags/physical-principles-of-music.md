@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-principles-of-music
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Physical Principles Of Music

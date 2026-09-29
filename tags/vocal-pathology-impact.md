@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vocal-pathology-impact
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Vocal Pathology Impact

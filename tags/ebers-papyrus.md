@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ebers-papyrus
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Ebers Papyrus

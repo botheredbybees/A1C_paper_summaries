@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fmri-study-brown-et-al
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Fmri Study Brown Et Al

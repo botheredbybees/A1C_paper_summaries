@@ -8,7 +8,8 @@ sources:
   - fxa100-how-we-thnk-about-dementia-ch15-chapter-9
   - fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
   - fxa302-week10-seeing-bodies-in-pain
-updated: 2026-09-15
+  - psy214-week12-the-experience-of-flow-theory-and-research
+updated: 2026-09-30
 ---
 
 ## Subjective Experience in Dementia and Consciousness
@@ -30,3 +31,4 @@ The exploration of subjective experience through the lens of dementia and consci
 - [fxa100-how-we-thnk-about-dementia-ch15-chapter-9](../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9.md)
 - [fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
 - [fxa302-week10-seeing-bodies-in-pain](../sources/fxa302-week10-seeing-bodies-in-pain.md)
+- [psy214-week12-the-experience-of-flow-theory-and-research](../sources/psy214-week12-the-experience-of-flow-theory-and-research.md)

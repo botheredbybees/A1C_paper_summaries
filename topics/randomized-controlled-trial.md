@@ -8,11 +8,12 @@ sources:
   - fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons
   - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
   - psy214-week09-effect-of-kindness-based-meditation-on-health-and-well
+  - psy214-week12-do-character-strengths-based-interventions-change-character
 tags:
 - randomized-controlled-trial
 title: Randomized Controlled Trials
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Randomized Controlled Trials
@@ -35,3 +36,4 @@ The sources highlight the utility and multifaceted application of randomized con
 - [fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons](../sources/fxa302-week11-rhythmic-auditory-stimulation-for-gait-training-in-persons.md)
 - [fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)
 - [psy214-week09-effect-of-kindness-based-meditation-on-health-and-well](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)
+- [psy214-week12-do-character-strengths-based-interventions-change-character](../sources/psy214-week12-do-character-strengths-based-interventions-change-character.md)

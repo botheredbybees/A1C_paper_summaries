@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: symptoms-of-dementia
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Symptoms Of Dementia

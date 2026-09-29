@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: consistency-in-live-performance
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Consistency In Live Performance

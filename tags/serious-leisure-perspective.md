@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: serious-leisure-perspective
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Serious Leisure Perspective

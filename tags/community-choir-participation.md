@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-choir-participation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Community Choir Participation

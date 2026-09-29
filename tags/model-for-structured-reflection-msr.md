@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: model-for-structured-reflection-msr
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Model For Structured Reflection Msr

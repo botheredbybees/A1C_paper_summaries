@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gait-improvement
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Gait Improvement

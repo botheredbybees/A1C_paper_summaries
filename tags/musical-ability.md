@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-ability
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Musical Ability

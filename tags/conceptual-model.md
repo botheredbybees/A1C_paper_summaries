@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conceptual-model
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Conceptual Model

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: freelance-writing
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Freelance Writing

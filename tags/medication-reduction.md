@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medication-reduction
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Medication Reduction

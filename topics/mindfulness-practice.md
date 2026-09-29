@@ -31,11 +31,12 @@ sources:
   - psy214-week09-critical-thinking-about-mindfulness
   - psy214-week10-mindfulness-and-balanced-positive-emotion
   - psy214-week11-meaning-history
+  - psy214-week12-the-mutual-support-model-of-mindfulness-and-character
 tags:
 - mindfulness-practice
 title: Mindfulness Practice Through Photography
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Mindfulness Practice Through Photography
@@ -82,3 +83,4 @@ The integration of mindfulness practices with the act of photography reveals a u
 - [psy214-week09-critical-thinking-about-mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
 - [psy214-week10-mindfulness-and-balanced-positive-emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)
 - [psy214-week11-meaning-history](../sources/psy214-week11-meaning-history.md)
+- [psy214-week12-the-mutual-support-model-of-mindfulness-and-character](../sources/psy214-week12-the-mutual-support-model-of-mindfulness-and-character.md)

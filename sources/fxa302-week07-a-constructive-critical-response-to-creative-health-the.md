@@ -11,7 +11,7 @@ tags: ["arts-health", "wellbeing-interventions", "philosophical-critique", "fxa3
 key_concepts: ["evidence-based-approaches", "methodological-transparency"]
 methods: ["systematic-review"]
 slug: fxa302-week07-a-constructive-critical-response-to-creative-health-the
-related: ["arts-health", "evidence-based-approaches", "wellbeing-interventions"]
+related: ["arts-health", "evidence-based-approaches", "philosophical-critique", "wellbeing-interventions"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -43,4 +43,5 @@ Kate Phillips critiques the report 'Creative Health: The Arts for Health and Wel
 
 - [arts-health](../topics/arts-health.md)
 - [evidence-based-approaches](../topics/evidence-based-approaches.md)
+- [philosophical-critique](../topics/philosophical-critique.md)
 - [wellbeing-interventions](../topics/wellbeing-interventions.md)

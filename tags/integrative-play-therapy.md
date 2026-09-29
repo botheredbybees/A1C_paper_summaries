@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: integrative-play-therapy
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Integrative Play Therapy

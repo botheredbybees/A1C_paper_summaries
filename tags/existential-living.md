@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: existential-living
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Existential Living

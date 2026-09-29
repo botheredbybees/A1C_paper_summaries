@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: color-signals-dominance
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Color Signals Dominance

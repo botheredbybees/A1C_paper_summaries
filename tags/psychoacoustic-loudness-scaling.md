@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychoacoustic-loudness-scaling
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Psychoacoustic Loudness Scaling

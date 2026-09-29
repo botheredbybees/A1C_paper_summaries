@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: positive-and-negative-affect-schedule
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Positive And Negative Affect Schedule

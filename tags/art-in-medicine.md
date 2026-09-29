@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-in-medicine
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Art In Medicine

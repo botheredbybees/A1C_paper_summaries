@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spatial-representation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Spatial Representation

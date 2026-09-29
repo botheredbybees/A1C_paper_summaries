@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: jaundice-types
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Jaundice Types

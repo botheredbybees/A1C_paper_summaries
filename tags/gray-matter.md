@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gray-matter
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Gray Matter

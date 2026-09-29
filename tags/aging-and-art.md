@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aging-and-art
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Aging And Art

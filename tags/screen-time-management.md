@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: screen-time-management
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Screen Time Management

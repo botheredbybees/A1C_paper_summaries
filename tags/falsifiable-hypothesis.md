@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: falsifiable-hypothesis
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Falsifiable Hypothesis

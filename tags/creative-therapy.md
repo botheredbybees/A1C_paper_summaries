@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-therapy
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Creative Therapy
@@ -12,3 +12,4 @@ updated: 2026-09-26
 - [The Handbook of Phototherapy and Therapeutic Photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [Creative Responses to Physical Disability through Visual Arts](../sources/fxa302-week11-lesson-fxa302-week11-page-2.md)
 - [Creative Puppet Therapy Reduces Hallucinations in Patients Diagnosed with Schizophrenia: Preliminary Findings](../sources/fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients.md)
+- [Creative Activities for Stress Reduction and Mindfulness](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)

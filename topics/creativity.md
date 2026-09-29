@@ -22,11 +22,13 @@ sources:
   - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
   - psy214-week11-tips-for-applying-character-strengths
+  - psy214-week12-lesson-psy214-week12-creativity-introduction
+  - psy214-week12-lesson-psy214-week12-week-12-introduction
 tags:
 - creativity
 title: Creativity
 type: topic
-updated: 2026-09-22
+updated: 2026-09-30
 ---
 
 ## Creativity
@@ -64,3 +66,5 @@ The concept of creativity is examined across multiple perspectives in these sour
 - [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)
 - [psy214-week11-tips-for-applying-character-strengths](../sources/psy214-week11-tips-for-applying-character-strengths.md)
+- [psy214-week12-lesson-psy214-week12-creativity-introduction](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [psy214-week12-lesson-psy214-week12-week-12-introduction](../sources/psy214-week12-lesson-psy214-week12-week-12-introduction.md)

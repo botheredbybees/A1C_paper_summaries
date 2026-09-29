@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: repetitive-transcranial-magnetic-stimulation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Repetitive Transcranial Magnetic Stimulation

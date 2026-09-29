@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motion-blur
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Motion Blur

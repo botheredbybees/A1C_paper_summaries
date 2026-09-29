@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lived-experience-healthcare
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Lived Experience Healthcare

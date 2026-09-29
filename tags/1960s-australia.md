@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 1960s-australia
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## 1960S Australia

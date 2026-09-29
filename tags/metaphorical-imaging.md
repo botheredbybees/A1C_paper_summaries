@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: metaphorical-imaging
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Metaphorical Imaging

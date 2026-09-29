@@ -26,11 +26,12 @@ sources:
   - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
   - psy214-week09-effect-of-kindness-based-meditation-on-health-and-well
   - psy214-week09-self-compassion-and-coping-a-meta-analysis
+  - psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult
 tags:
 - meta-analysis
 title: Effectiveness of Therapeutic Interventions in Specific Populations
 type: topic
-updated: 2026-09-08
+updated: 2026-09-30
 ---
 
 ## Effectiveness of Therapeutic Interventions in Specific Populations
@@ -72,3 +73,4 @@ The meta-analyses explore the effectiveness of dance and music interventions for
 - [psy214-week00-the-impact-of-signature-character-strengths-interventions-a](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)
 - [psy214-week09-effect-of-kindness-based-meditation-on-health-and-well](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)
 - [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
+- [psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult](../sources/psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult.md)

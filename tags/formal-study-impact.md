@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: formal-study-impact
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Formal Study Impact

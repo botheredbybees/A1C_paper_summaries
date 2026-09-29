@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reticular-activating-system
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Reticular Activating System

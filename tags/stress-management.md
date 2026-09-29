@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Stress Management
@@ -68,3 +68,6 @@ updated: 2026-09-26
 - [Positive Affect Interventions to Reduce Stress: Harnessing the Benefit While Avoiding the Pollyanna Trap](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)
 - [Stress, Self-Care and Mindfulness: Meaning Practices and Outcomes](../sources/psy214-week11-lesson-psy214-week11-meaning-existential-approaches.md)
 - [Meaning: History](../sources/psy214-week11-meaning-history.md)
+- [Creative Activities for Stress Reduction and Mindfulness](../sources/psy214-week12-lesson-psy214-week12-creativity-activity.md)
+- [Creativity: Overview and Stress Management](../sources/psy214-week12-lesson-psy214-week12-creativity-introduction.md)
+- [Flow as a Component of Well-being and Its Impact on Motivation, Stress, and Self-care](../sources/psy214-week12-lesson-psy214-week12-finding-flow.md)

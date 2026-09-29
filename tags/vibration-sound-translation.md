@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vibration-sound-translation
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Vibration Sound Translation

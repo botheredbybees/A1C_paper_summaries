@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-experience-influence
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Early Experience Influence

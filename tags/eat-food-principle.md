@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eat-food-principle
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Eat Food Principle

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: langer-mindfulness-scale
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Langer Mindfulness Scale

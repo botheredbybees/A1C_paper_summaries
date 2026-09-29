@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lockdown-history
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Lockdown History

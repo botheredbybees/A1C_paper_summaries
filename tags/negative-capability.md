@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: negative-capability
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Negative Capability

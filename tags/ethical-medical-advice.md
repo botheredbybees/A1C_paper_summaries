@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-medical-advice
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Ethical Medical Advice

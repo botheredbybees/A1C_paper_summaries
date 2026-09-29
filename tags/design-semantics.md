@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: design-semantics
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Design Semantics

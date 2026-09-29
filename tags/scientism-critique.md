@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientism-critique
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Scientism Critique

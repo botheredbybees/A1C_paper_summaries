@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: silence-in-learning
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Silence In Learning

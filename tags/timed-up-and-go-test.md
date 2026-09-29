@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: timed-up-and-go-test
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Timed Up And Go Test

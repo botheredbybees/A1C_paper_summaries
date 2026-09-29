@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: teaching-and-performing-experience
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Teaching And Performing Experience

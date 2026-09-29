@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: legumes-nutrition
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Legumes Nutrition

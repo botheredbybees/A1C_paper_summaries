@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: publishing-industry
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Publishing Industry

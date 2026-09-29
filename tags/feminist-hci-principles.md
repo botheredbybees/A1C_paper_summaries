@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: feminist-hci-principles
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Feminist Hci Principles

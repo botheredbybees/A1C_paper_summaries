@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interactive-stress-progression
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Interactive Stress Progression

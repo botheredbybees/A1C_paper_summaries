@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lateral-intraparietal-neurons
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Lateral Intraparietal Neurons

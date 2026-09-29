@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: first-person-narration
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## First Person Narration

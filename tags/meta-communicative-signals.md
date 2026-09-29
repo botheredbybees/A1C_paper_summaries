@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: meta-communicative-signals
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Meta Communicative Signals

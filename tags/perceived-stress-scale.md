@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perceived-stress-scale
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Perceived Stress Scale

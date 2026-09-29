@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-censorship
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Musical Censorship

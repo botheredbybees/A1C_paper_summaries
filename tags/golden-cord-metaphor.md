@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: golden-cord-metaphor
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Golden Cord Metaphor

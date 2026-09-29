@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: complexity-in-aesthetics
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Complexity In Aesthetics

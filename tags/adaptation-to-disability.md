@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adaptation-to-disability
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Adaptation To Disability

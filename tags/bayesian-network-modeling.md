@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bayesian-network-modeling
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Bayesian Network Modeling

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroplasticity-in-artists
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Neuroplasticity In Artists

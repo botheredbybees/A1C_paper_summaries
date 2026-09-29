@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Quality Of Life
@@ -115,3 +115,5 @@ updated: 2026-09-26
 - [Remembering Yesterday, Caring Today: Reminiscence in Dementia Care](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)
 - [Reminiscence Therapy for Dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)
 - [The Meaning in Life Questionnaire](../sources/psy214-week11-the-meaning-in-life-questionnaire.md)
+- [Efficacy of Meaning-Centered Psychotherapy in adult patients with advanced cancer: A systematic review and meta-analysis](../sources/psy214-week12-efficacy-of-meaning-centered-psychotherapy-in-adult.md)
+- [Finding Meaning in the Face of Suffering](../sources/psy214-week12-finding-meaning-in-the-face-of-suffering.md)

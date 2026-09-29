@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brazilian-theater
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Brazilian Theater

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: deaf-auditory-device
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Deaf Auditory Device

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ergot-poisoning-theory
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Ergot Poisoning Theory

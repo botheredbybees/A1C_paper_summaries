@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-support-tools
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Creativity Support Tools

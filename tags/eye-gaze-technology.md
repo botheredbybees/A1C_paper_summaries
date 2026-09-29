@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eye-gaze-technology
-updated: 2026-09-26
+updated: 2026-09-30
 ---
 
 ## Eye Gaze Technology

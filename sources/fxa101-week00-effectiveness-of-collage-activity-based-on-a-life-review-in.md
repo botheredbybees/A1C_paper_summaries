@@ -10,7 +10,7 @@ tags: ["elderly-cancer-patients", "palliative-care", "life-review", "collage-act
 key_concepts: ["spiritual well-being", "anxiety and depression reduction", "self-efficacy improvement"]
 methods: ["life review intervention", "collage creation"]
 slug: fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in
-related: ["palliative-care", "quality-of-life"]
+related: ["palliative-care", "quality-of-life", "spiritual-well-being"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -46,3 +46,4 @@ This preliminary study examines the efficacy of collage activities combined with
 
 - [palliative-care](../topics/palliative-care.md)
 - [quality-of-life](../topics/quality-of-life.md)
+- [spiritual-well-being](../topics/spiritual-well-being.md)
