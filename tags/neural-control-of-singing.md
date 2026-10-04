@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-control-of-singing
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Neural Control Of Singing

@@ -13,7 +13,7 @@ tags: ["disorders-of-consciousness", "sensory-stimulation", "music-therapy", "br
 key_concepts: ["environmental-enrichment", "neuroplasticity", "consciousness-recovery", "behavioral-evidence", "neuroimaging-evidence"]
 methods: ["systematic-review", "case-study"]
 slug: fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
-related: ["brain-recovery", "environmental-enrichment", "music-therapy", "neuroplasticity", "sensory-stimulation", "therapeutic-interventions"]
+related: ["brain-recovery", "disorders-of-consciousness", "environmental-enrichment", "music-therapy", "neuroplasticity", "sensory-stimulation", "therapeutic-interventions"]
 created: 2026-08-31
 updated: 2026-09-07
 ---
@@ -50,6 +50,7 @@ This article discusses sensory stimulation and music therapy as potential treatm
 ## See Also
 
 - [brain-recovery](../topics/brain-recovery.md)
+- [disorders-of-consciousness](../topics/disorders-of-consciousness.md)
 - [environmental-enrichment](../topics/environmental-enrichment.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neuroplasticity](../topics/neuroplasticity.md)

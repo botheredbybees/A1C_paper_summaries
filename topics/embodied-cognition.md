@@ -7,13 +7,15 @@ sources:
   - fxa100-week06-visual-arts-and-the-brain
   - fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
   - fxa300-week07-imagination-and-creativity-in-science-an-embodied
+  - fxa302-week00-is-perceiving-bodily-action
+  - fxa302-week00-locked-in-syndrome-a-challenge-for-embodied-cognitive
   - fxa302-week10-essentials-of-cognitive-neuroscience-(11)
   - fxa302-week10-essentials-of-cognitive-neuroscience-(3)
 tags:
 - embodied-cognition
 title: Embodied Cognition
 type: topic
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Embodied Cognition
@@ -36,5 +38,7 @@ The concept of embodied cognition highlights the interplay between bodily experi
 - [fxa100-week06-visual-arts-and-the-brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)
 - [fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic](../sources/fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic.md)
 - [fxa300-week07-imagination-and-creativity-in-science-an-embodied](../sources/fxa300-week07-imagination-and-creativity-in-science-an-embodied.md)
+- [fxa302-week00-is-perceiving-bodily-action](../sources/fxa302-week00-is-perceiving-bodily-action.md)
+- [fxa302-week00-locked-in-syndrome-a-challenge-for-embodied-cognitive](../sources/fxa302-week00-locked-in-syndrome-a-challenge-for-embodied-cognitive.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(11)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2811%29.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(3)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)

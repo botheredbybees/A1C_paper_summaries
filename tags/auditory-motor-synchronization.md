@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-motor-synchronization
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Auditory Motor Synchronization

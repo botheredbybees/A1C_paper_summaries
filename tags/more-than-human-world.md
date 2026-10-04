@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: more-than-human-world
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## More Than Human World

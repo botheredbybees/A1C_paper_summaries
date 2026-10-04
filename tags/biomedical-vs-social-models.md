@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: biomedical-vs-social-models
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Biomedical Vs Social Models

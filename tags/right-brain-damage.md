@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: right-brain-damage
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Right Brain Damage

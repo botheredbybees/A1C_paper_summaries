@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anxiety-and-depression
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Anxiety And Depression

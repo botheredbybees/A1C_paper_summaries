@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-regions-in-improvisation
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Brain Regions In Improvisation

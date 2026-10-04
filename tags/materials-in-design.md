@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: materials-in-design
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Materials In Design

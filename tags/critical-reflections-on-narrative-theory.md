@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-reflections-on-narrative-theory
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Critical Reflections On Narrative Theory

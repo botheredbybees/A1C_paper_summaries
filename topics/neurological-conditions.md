@@ -7,7 +7,8 @@ tags: ["neurological-conditions"]
 sources:
   - fxa101-week02-an-interdisciplinary-approach-of-synaesthesia-a-brain
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
-updated: 2026-07-13
+  - fxa302-week00-the-diving-bell-and-the-butterfly-le-scaphandre-et-le
+updated: 2026-10-05
 ---
 
 ## Neurological Conditions and Sensory Integration
@@ -28,3 +29,4 @@ This synthesis explores the integration of various sensory modalities in address
 
 - [fxa101-week02-an-interdisciplinary-approach-of-synaesthesia-a-brain](../sources/fxa101-week02-an-interdisciplinary-approach-of-synaesthesia-a-brain.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
+- [fxa302-week00-the-diving-bell-and-the-butterfly-le-scaphandre-et-le](../sources/fxa302-week00-the-diving-bell-and-the-butterfly-le-scaphandre-et-le.md)

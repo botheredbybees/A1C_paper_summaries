@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurophysiologic-status
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Neurophysiologic Status

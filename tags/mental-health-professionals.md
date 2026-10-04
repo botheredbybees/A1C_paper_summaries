@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-professionals
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Mental Health Professionals

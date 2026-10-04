@@ -7,6 +7,9 @@ sources:
   - fxa101-week02-web-article-grossenbacher-2001
   - fxa101-week03-brain-development-during-childhood-and-adolescence-a
   - fxa101-week09-the-brains-default-network-anatomy-function-and-relevance
+  - fxa302-week00-a-fate-worse-than-death-the-well-being-of-patients
+  - fxa302-week00-empowering-the-voiceless-disorders-of-consciousness
+  - fxa302-week00-roald-dahl-and-the-complete-locked-in-syndrome-cold-dead
   - fxa302-week10-essentials-of-cognitive-neuroscience-(11)
   - fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative
   - fxa303-week02-imaging-structural-and-functional-brain-development-in
@@ -14,7 +17,7 @@ tags:
 - neuroimaging
 title: Neuroimaging in Music Therapy
 type: topic
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Neuroimaging in Music Therapy
@@ -37,6 +40,9 @@ The use of neuroimaging techniques to explore the mechanisms of music therapy an
 - [fxa101-week02-web-article-grossenbacher-2001](../sources/fxa101-week02-web-article-grossenbacher-2001.md)
 - [fxa101-week03-brain-development-during-childhood-and-adolescence-a](../sources/fxa101-week03-brain-development-during-childhood-and-adolescence-a.md)
 - [fxa101-week09-the-brains-default-network-anatomy-function-and-relevance](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
+- [fxa302-week00-a-fate-worse-than-death-the-well-being-of-patients](../sources/fxa302-week00-a-fate-worse-than-death-the-well-being-of-patients.md)
+- [fxa302-week00-empowering-the-voiceless-disorders-of-consciousness](../sources/fxa302-week00-empowering-the-voiceless-disorders-of-consciousness.md)
+- [fxa302-week00-roald-dahl-and-the-complete-locked-in-syndrome-cold-dead](../sources/fxa302-week00-roald-dahl-and-the-complete-locked-in-syndrome-cold-dead.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(11)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2811%29.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-chapter-11-declarative.md)
 - [fxa303-week02-imaging-structural-and-functional-brain-development-in](../sources/fxa303-week02-imaging-structural-and-functional-brain-development-in.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: declarative-long-term-memory
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Declarative Long Term Memory

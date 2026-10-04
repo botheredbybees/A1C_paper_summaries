@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musicians-wellness-plan
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Musicians Wellness Plan

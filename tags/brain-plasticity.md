@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-plasticity
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Brain Plasticity
@@ -30,6 +30,7 @@ updated: 2026-09-30
 - [From singing to speaking: facilitating recovery from nonfluent aphasia](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
 - [Temporal Entrainment of Cognitive Functions: Musical Mnemonics Induce Brain Plasticity and Oscillatory Synchrony in Neural Networks Underlying Memory](../sources/fxa300-week11-temporal-entrainment-of-cognitive-functions-musical.md)
 - [Brain Structures Differ between Musicians and Non-Musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
+- [Expanding Senses using Neurotechnology](../sources/fxa302-week00-expanding-senses-using-neurotechnology.md)
 - [Infancy and the early years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [Adolescence as a Sensitive Period of Brain Development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)
 - [Hormones and the Adolescent Brain](../sources/fxa303-week03-hormones-and-the-adolescent-brain.md)

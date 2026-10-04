@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: five-facet-mindfulness-questionnaire
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Five Facet Mindfulness Questionnaire

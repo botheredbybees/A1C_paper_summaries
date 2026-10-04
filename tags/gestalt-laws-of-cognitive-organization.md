@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gestalt-laws-of-cognitive-organization
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Gestalt Laws Of Cognitive Organization

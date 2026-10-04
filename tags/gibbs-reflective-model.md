@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gibbs-reflective-model
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Gibbs Reflective Model

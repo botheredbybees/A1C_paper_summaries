@@ -11,7 +11,7 @@ tags: ["tobii-pceye", "artistic-ability", "physical-disability", "communication-
 key_concepts: ["eye-gaze-technology", "adaptation-to-disability", "social-connectivity"]
 methods: []
 slug: fxa302-week11-transcript-tobii-aac-2013-eyegaze-artist-francis-tsai-and
-related: ["artistic-ability", "eye-gaze-technology", "physical-disability"]
+related: ["artistic-ability", "communication-technology", "eye-gaze-technology", "physical-disability"]
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -45,5 +45,6 @@ The transcript discusses Francis Tsai, an artist who uses the Tobii PCEye eye ga
 ## See Also
 
 - [artistic-ability](../topics/artistic-ability.md)
+- [communication-technology](../topics/communication-technology.md)
 - [eye-gaze-technology](../topics/eye-gaze-technology.md)
 - [physical-disability](../topics/physical-disability.md)

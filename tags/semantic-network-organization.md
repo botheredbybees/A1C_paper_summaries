@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: semantic-network-organization
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Semantic Network Organization

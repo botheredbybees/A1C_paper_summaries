@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: integration-of-visual-art-forms-in-medical-curricula
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Integration Of Visual Art Forms In Medical Curricula

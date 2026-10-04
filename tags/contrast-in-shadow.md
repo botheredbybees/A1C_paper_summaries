@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: contrast-in-shadow
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Contrast In Shadow

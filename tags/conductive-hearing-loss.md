@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conductive-hearing-loss
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Conductive Hearing Loss

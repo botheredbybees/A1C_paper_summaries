@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spirituality-in-medicine
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Spirituality In Medicine

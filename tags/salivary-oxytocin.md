@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: salivary-oxytocin
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Salivary Oxytocin

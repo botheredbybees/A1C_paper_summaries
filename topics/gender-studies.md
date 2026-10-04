@@ -5,9 +5,10 @@ title: "Gender and Medicine in Literature and Education"
 confidence: medium
 tags: ["gender-studies"]
 sources:
+  - fxa302-week00-untouchable-disabling-cinemas-contract-on-contact-in-the
   - fxa302-week10-comics-in-the-health-humanities-a-new-approach-to-sex-and
   - fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Gender and Medicine in Literature and Education
@@ -26,5 +27,6 @@ The integration of gender studies in literature and education is explored throug
 
 ## Sources
 
+- [fxa302-week00-untouchable-disabling-cinemas-contract-on-contact-in-the](../sources/fxa302-week00-untouchable-disabling-cinemas-contract-on-contact-in-the.md)
 - [fxa302-week10-comics-in-the-health-humanities-a-new-approach-to-sex-and](../sources/fxa302-week10-comics-in-the-health-humanities-a-new-approach-to-sex-and.md)
 - [fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine](../sources/fxa302-week10-i-am-gula-hear-me-roar-on-gender-and-medicine.md)

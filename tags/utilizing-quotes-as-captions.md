@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: utilizing-quotes-as-captions
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Utilizing Quotes As Captions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fear-of-clowns-in-hospitalized-children
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Fear Of Clowns In Hospitalized Children

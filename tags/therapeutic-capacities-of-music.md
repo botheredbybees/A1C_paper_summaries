@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-capacities-of-music
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Therapeutic Capacities Of Music

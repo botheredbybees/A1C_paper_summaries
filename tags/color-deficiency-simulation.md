@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: color-deficiency-simulation
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Color Deficiency Simulation

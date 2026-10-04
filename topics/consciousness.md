@@ -5,11 +5,13 @@ title: "Consciousness"
 confidence: high
 tags: ["consciousness"]
 sources:
+  - fxa302-week00-neural-correlates-of-consciousness
+  - fxa302-week00-the-locked-in-syndrome-what-is-it-like-to-be-conscious-but
   - fxa302-week10-essentials-of-cognitive-neuroscience-(20)
   - fxa302-week10-essentials-of-cognitive-neuroscience-(5)
   - fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking
   - fxa302-week10-the-most-complex-object-in-the-universe
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Consciousness
@@ -28,6 +30,8 @@ The exploration of consciousness within cognitive neuroscience is characterized 
 
 ## Sources
 
+- [fxa302-week00-neural-correlates-of-consciousness](../sources/fxa302-week00-neural-correlates-of-consciousness.md)
+- [fxa302-week00-the-locked-in-syndrome-what-is-it-like-to-be-conscious-but](../sources/fxa302-week00-the-locked-in-syndrome-what-is-it-like-to-be-conscious-but.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(20)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2820%29.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(5)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%285%29.md)
 - [fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking](../sources/fxa302-week10-introduction-to-section-i-the-neurobiology-of-thinking.md)

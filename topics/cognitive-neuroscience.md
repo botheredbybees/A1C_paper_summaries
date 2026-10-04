@@ -34,6 +34,7 @@ sources:
   - fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
   - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
+  - fxa302-week00-locked-in-syndrome-a-challenge-for-embodied-cognitive
   - fxa302-week10-chapter-17-emotion
   - fxa302-week10-cognitive-control
   - fxa302-week10-essentials-of-cognitive-neuroscience
@@ -78,7 +79,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-09-26
+updated: 2026-10-05
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -128,6 +129,7 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
 - [fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
+- [fxa302-week00-locked-in-syndrome-a-challenge-for-embodied-cognitive](../sources/fxa302-week00-locked-in-syndrome-a-challenge-for-embodied-cognitive.md)
 - [fxa302-week10-chapter-17-emotion](../sources/fxa302-week10-chapter-17-emotion.md)
 - [fxa302-week10-cognitive-control](../sources/fxa302-week10-cognitive-control.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience.md)

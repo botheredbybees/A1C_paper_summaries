@@ -4,6 +4,7 @@ domain: intervention
 slug: coping-strategies
 sources:
   - fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
+  - fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
   - fxa303-week06-lesson-fxa303-week06-page-1-overview
   - psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological
@@ -14,7 +15,7 @@ tags:
 - coping-strategies
 title: Coping Strategies
 type: topic
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Coping Strategies
@@ -34,6 +35,7 @@ The concept of coping strategies is examined across various therapeutic and educ
 ## Sources
 
 - [fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities](../sources/fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities.md)
+- [fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome](../sources/fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome.md)
 - [fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children](../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children.md)
 - [fxa303-week06-lesson-fxa303-week06-page-1-overview](../sources/fxa303-week06-lesson-fxa303-week06-page-1-overview.md)
 - [psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological](../sources/psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological.md)

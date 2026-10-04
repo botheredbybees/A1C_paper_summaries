@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-storytelling-elements
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Visual Storytelling Elements

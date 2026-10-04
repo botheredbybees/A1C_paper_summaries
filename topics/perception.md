@@ -6,8 +6,9 @@ confidence: medium
 tags: ["perception"]
 sources:
   - fxa300-week03-transcript-youtube-vjg698u2mvo
+  - fxa302-week00-is-perceiving-bodily-action
   - fxa302-week10-introduction-to-section-ii-sensation-perception-attention
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Selective Attention and Perception
@@ -27,4 +28,5 @@ The concept of selective attention, as demonstrated in the 'Selective Attention 
 ## Sources
 
 - [fxa300-week03-transcript-youtube-vjg698u2mvo](../sources/fxa300-week03-transcript-youtube-vjg698u2mvo.md)
+- [fxa302-week00-is-perceiving-bodily-action](../sources/fxa302-week00-is-perceiving-bodily-action.md)
 - [fxa302-week10-introduction-to-section-ii-sensation-perception-attention](../sources/fxa302-week10-introduction-to-section-ii-sensation-perception-attention.md)

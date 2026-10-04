@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-modal-experience
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Cross Modal Experience

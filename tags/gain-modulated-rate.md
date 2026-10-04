@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gain-modulated-rate
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Gain Modulated Rate

@@ -7,6 +7,7 @@ sources:
   - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
   - fxa300-week08-neurologic-music-therapy-training-for-mobility-and
   - fxa300-week11-the-effect-of-singing-training-on-voice-quality-for-people
+  - fxa302-week00-technology-transfer-of-brain-computer-interfaces-as
   - fxa302-week10-lesson-fxa302-week10-page-2
   - fxa302-week10-lesson-fxa302-week10-welcome-to-week-10
   - fxa302-week11-artistic-activities-and-psychological-well-being-perceived
@@ -17,7 +18,7 @@ tags:
 - rehabilitation
 title: Rehabilitation for Cognitive Decline
 type: topic
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 ## Rehabilitation for Cognitive Decline
@@ -40,6 +41,7 @@ The sources collectively highlight the importance of cognitive stimulation and s
 - [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
 - [fxa300-week08-neurologic-music-therapy-training-for-mobility-and](../sources/fxa300-week08-neurologic-music-therapy-training-for-mobility-and.md)
 - [fxa300-week11-the-effect-of-singing-training-on-voice-quality-for-people](../sources/fxa300-week11-the-effect-of-singing-training-on-voice-quality-for-people.md)
+- [fxa302-week00-technology-transfer-of-brain-computer-interfaces-as](../sources/fxa302-week00-technology-transfer-of-brain-computer-interfaces-as.md)
 - [fxa302-week10-lesson-fxa302-week10-page-2](../sources/fxa302-week10-lesson-fxa302-week10-page-2.md)
 - [fxa302-week10-lesson-fxa302-week10-welcome-to-week-10](../sources/fxa302-week10-lesson-fxa302-week10-welcome-to-week-10.md)
 - [fxa302-week11-artistic-activities-and-psychological-well-being-perceived](../sources/fxa302-week11-artistic-activities-and-psychological-well-being-perceived.md)

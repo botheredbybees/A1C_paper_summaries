@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-fluent-aphasia
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Non Fluent Aphasia

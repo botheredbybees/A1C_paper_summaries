@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-domain-criteria-rdoc
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Research Domain Criteria Rdoc

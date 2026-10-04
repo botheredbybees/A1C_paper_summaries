@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: synaptic-pruning-myelination
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Synaptic Pruning Myelination

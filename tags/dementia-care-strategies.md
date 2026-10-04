@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care-strategies
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Dementia Care Strategies

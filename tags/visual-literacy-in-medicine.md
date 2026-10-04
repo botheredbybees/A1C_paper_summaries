@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-literacy-in-medicine
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Visual Literacy In Medicine

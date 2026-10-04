@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: constraint-induced-movement-therapy
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Constraint Induced Movement Therapy

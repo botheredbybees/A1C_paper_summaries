@@ -9,11 +9,12 @@ sources:
   - fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual
   - fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-(2)
   - fxa101-week00-sensory-substitution-by-david-eagleman
+  - fxa302-week00-technology-transfer-of-brain-computer-interfaces-as
   - fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring
   - fxa302-week11-lesson-fxa302-week11-page-4-activities
   - fxa302-week11-transcript-youtube-wbe2l5hg8-y
   - fxa302-week11-web-article-wong-2020
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 ## Haptic-Assistive Technologies
@@ -36,6 +37,7 @@ Assistive technologies designed to help individuals with sensory disabilities su
 - [fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual](../sources/fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual.md)
 - [fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-(2)](../sources/fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-%282%29.md)
 - [fxa101-week00-sensory-substitution-by-david-eagleman](../sources/fxa101-week00-sensory-substitution-by-david-eagleman.md)
+- [fxa302-week00-technology-transfer-of-brain-computer-interfaces-as](../sources/fxa302-week00-technology-transfer-of-brain-computer-interfaces-as.md)
 - [fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring](../sources/fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring.md)
 - [fxa302-week11-lesson-fxa302-week11-page-4-activities](../sources/fxa302-week11-lesson-fxa302-week11-page-4-activities.md)
 - [fxa302-week11-transcript-youtube-wbe2l5hg8-y](../sources/fxa302-week11-transcript-youtube-wbe2l5hg8-y.md)

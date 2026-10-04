@@ -5,9 +5,10 @@ title: "Philosophical Foundations of Human Character"
 confidence: medium
 tags: ["philosophy"]
 sources:
+  - fxa302-week00-the-diving-bell-and-the-butterfly-as-an-emotional-event
   - fxa302-week08-fxa302-week-8-welcome
   - psy214-week11-character-strengths
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 ## Philosophical Foundations of Human Character
@@ -26,5 +27,6 @@ The philosophical and psychological theories surrounding human character present
 
 ## Sources
 
+- [fxa302-week00-the-diving-bell-and-the-butterfly-as-an-emotional-event](../sources/fxa302-week00-the-diving-bell-and-the-butterfly-as-an-emotional-event.md)
 - [fxa302-week08-fxa302-week-8-welcome](../sources/fxa302-week08-fxa302-week-8-welcome.md)
 - [psy214-week11-character-strengths](../sources/psy214-week11-character-strengths.md)

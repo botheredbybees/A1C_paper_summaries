@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: representation-in-media
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Representation In Media

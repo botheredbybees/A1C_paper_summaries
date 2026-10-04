@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: embalming-processes
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Embalming Processes

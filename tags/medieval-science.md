@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medieval-science
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Medieval Science

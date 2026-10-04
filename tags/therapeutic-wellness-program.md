@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-wellness-program
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Therapeutic Wellness Program

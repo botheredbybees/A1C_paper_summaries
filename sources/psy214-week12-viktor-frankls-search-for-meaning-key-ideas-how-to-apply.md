@@ -11,7 +11,7 @@ tags: ["victor-frankl", "logotherapy", "human-meaning", "psychological-resilienc
 key_concepts: ["logotherapy", "meaning-in-life", "human-resilience"]
 methods: ["literature-review"]
 slug: psy214-week12-viktor-frankls-search-for-meaning-key-ideas-how-to-apply
-related: ["logotherapy", "victor-frankl"]
+related: ["human-resilience", "logotherapy", "victor-frankl"]
 created: 2026-09-30
 updated: 2026-09-30
 ---
@@ -43,5 +43,6 @@ This document discusses the key ideas and practical applications of Viktor Frank
 
 ## See Also
 
+- [human-resilience](../topics/human-resilience.md)
 - [logotherapy](../topics/logotherapy.md)
 - [victor-frankl](../topics/victor-frankl.md)

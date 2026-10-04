@@ -10,12 +10,14 @@ sources:
   - fxa100-week03-transcript-the-effects-of-music-on-the-brain
   - fxa300-week04-lesson-fxa300-week04-page-3-1
   - fxa301-week01-web-article-zuckerman-2009
+  - fxa302-week00-roald-dahl-and-the-complete-locked-in-syndrome-cold-dead
+  - fxa302-week00-the-locked-in-syndrome-what-is-it-like-to-be-conscious-but
   - fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral
 tags:
 - neurology
 title: Types Of Neurological Dementias
 type: topic
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Types Of Neurological Dementias
@@ -40,4 +42,6 @@ The provided sources highlight various forms of neurological dementias, each wit
 - [fxa100-week03-transcript-the-effects-of-music-on-the-brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
 - [fxa300-week04-lesson-fxa300-week04-page-3-1](../sources/fxa300-week04-lesson-fxa300-week04-page-3-1.md)
 - [fxa301-week01-web-article-zuckerman-2009](../sources/fxa301-week01-web-article-zuckerman-2009.md)
+- [fxa302-week00-roald-dahl-and-the-complete-locked-in-syndrome-cold-dead](../sources/fxa302-week00-roald-dahl-and-the-complete-locked-in-syndrome-cold-dead.md)
+- [fxa302-week00-the-locked-in-syndrome-what-is-it-like-to-be-conscious-but](../sources/fxa302-week00-the-locked-in-syndrome-what-is-it-like-to-be-conscious-but.md)
 - [fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral](../sources/fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral.md)

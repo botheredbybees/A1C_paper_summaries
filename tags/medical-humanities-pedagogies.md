@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-humanities-pedagogies
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Medical Humanities Pedagogies

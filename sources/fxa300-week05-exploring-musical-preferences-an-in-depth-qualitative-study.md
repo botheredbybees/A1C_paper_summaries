@@ -11,7 +11,7 @@ tags: ["musical-preferences", "qualitative-research", "self-identity", "omnivoro
 key_concepts: ["musical preferences", "self-identity", "qualitative interviews"]
 methods: ["in-depth interview"]
 slug: fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study
-related: ["musical-preferences", "omnivorous-tastes", "qualitative-research"]
+related: ["musical-preferences", "omnivorous-tastes", "qualitative-research", "self-identity"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -46,3 +46,4 @@ This article reports a qualitative study investigating the breadth, content, and
 - [musical-preferences](../topics/musical-preferences.md)
 - [omnivorous-tastes](../topics/omnivorous-tastes.md)
 - [qualitative-research](../topics/qualitative-research.md)
+- [self-identity](../topics/self-identity.md)

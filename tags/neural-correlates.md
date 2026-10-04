@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-correlates
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Neural Correlates
@@ -10,4 +10,5 @@ updated: 2026-09-30
 - [Toward a neural basis of music perception \u2013 a review and updated model](../sources/fxa300-week04-toward-a-neural-basis-of-music-perception-a-review-and.md)
 - [Connecting to Create: Expertise in Musical Improvisation Is Associated with Increased Functional Connectivity between Premotor and Prefrontal Areas](../sources/fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is.md)
 - [Shared and distinct neural correlates of singing and speaking](../sources/fxa300-week11-shared-and-distinct-neural-correlates-of-singing-and.md)
+- [Neural Correlates of Consciousness](../sources/fxa302-week00-neural-correlates-of-consciousness.md)
 - [Consciousness: Key Themes](../sources/fxa302-week10-consciousness-key-themes.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Well Being
@@ -24,6 +24,7 @@ updated: 2026-09-30
 - [The Cultural Value of Older People\u2019s Experiences of Theater-making: A Review](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
 - [Writing your way to well-being: An IPA analysis of the therapeutic effects of creative writing on mental health and the processing of emotional difficulties](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
+- [A Fate Worse Than Death? The Well-Being of Patients Diagnosed as Vegetative With Covert Awareness](../sources/fxa302-week00-a-fate-worse-than-death-the-well-being-of-patients.md)
 - [Life-writing and its implications for health and well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
 - [Philosophy's Role in Health Humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
 - [How Art Museums Can Foster the Flourishing of Future Physicians](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)

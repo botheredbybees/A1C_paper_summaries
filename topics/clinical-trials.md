@@ -7,12 +7,13 @@ sources:
   - fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
+  - fxa302-week00-ethical-considerations-in-ending-exploratory-brain-computer
   - fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia
 tags:
 - clinical-trials
 title: Risk Of Bias In Clinical Trials
 type: topic
-updated: 2026-07-20
+updated: 2026-10-05
 ---
 
 ## Risk Of Bias In Clinical Trials
@@ -35,4 +36,5 @@ The analysis of risk of bias (RoB) is crucial for evaluating the validity and re
 - [fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)
 - [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully](../sources/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md)
+- [fxa302-week00-ethical-considerations-in-ending-exploratory-brain-computer](../sources/fxa302-week00-ethical-considerations-in-ending-exploratory-brain-computer.md)
 - [fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia](../sources/fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia.md)

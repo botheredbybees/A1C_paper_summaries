@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: long-term-supportive-relations
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Long Term Supportive Relations

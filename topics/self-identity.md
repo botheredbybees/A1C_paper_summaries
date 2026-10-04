@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: self-identity-through-creative-expression
 sources:
-- fxa301-week05-art-making-and-illness-two-case-studies
-- fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
+  - fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study
+  - fxa301-week05-art-making-and-illness-two-case-studies
+  - fxa302-week00-attitudes-towards-personhood-in-the-locked-in-syndrome-from
+  - fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
 tags:
 - self-identity
 title: Self-Identity Through Creative Expression
 type: topic
-updated: 2026-05-04
+updated: 2026-10-05
 ---
 
 ## Self-Identity Through Creative Expression
@@ -28,5 +30,7 @@ The concept of self-identity through creative expression is explored in two dist
 
 ## Sources
 
+- [fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study](../sources/fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study.md)
 - [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
+- [fxa302-week00-attitudes-towards-personhood-in-the-locked-in-syndrome-from](../sources/fxa302-week00-attitudes-towards-personhood-in-the-locked-in-syndrome-from.md)
 - [fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted](../sources/fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted.md)

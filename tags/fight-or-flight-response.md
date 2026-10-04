@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fight-or-flight-response
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Fight Or Flight Response

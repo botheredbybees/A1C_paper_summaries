@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theoretical-models-of-consciousness
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Theoretical Models Of Consciousness

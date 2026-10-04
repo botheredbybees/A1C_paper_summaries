@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spinal-cord-injury-rehabilitation
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Spinal Cord Injury Rehabilitation

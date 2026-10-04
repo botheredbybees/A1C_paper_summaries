@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-practice
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Clinical Practice
@@ -12,6 +12,7 @@ updated: 2026-09-30
 - [Continuum Model of Music and Therapy Within Music Therapy](../sources/fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy.md)
 - [Effectiveness of music interventions on dental anxiety in paediatric and adult patients: a systematic review](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
 - [The future of music therapy and mental health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)
+- [Interventional Nephrology: Principles and Practice](../sources/fxa302-week00-interventional-nephrology-principles-and-practice.md)
 - [Exploring the medical humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [The Role of the Imagination in the Practices of the Health Humanities](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)

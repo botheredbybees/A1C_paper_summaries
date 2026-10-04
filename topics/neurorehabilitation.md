@@ -9,6 +9,8 @@ sources:
   - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
   - fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a
+  - fxa302-week00-boosting-braincomputer-interfaces-with-functional
+  - fxa302-week00-expanding-senses-using-neurotechnology
   - fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with
   - fxa302-week10-essentials-of-cognitive-neuroscience-(3)
   - fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who
@@ -17,7 +19,7 @@ tags:
 - neurorehabilitation
 title: Neurorehabilitation Through Dance and Music
 type: topic
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 ## Neurorehabilitation Through Dance and Music
@@ -42,6 +44,8 @@ The integration of dance and music into neurorehabilitation interventions highli
 - [fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait](../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait.md)
 - [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
 - [fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a](../sources/fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a.md)
+- [fxa302-week00-boosting-braincomputer-interfaces-with-functional](../sources/fxa302-week00-boosting-braincomputer-interfaces-with-functional.md)
+- [fxa302-week00-expanding-senses-using-neurotechnology](../sources/fxa302-week00-expanding-senses-using-neurotechnology.md)
 - [fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with](../sources/fxa302-week10-dance-is-an-accessible-physical-activity-for-people-with.md)
 - [fxa302-week10-essentials-of-cognitive-neuroscience-(3)](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%283%29.md)
 - [fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who](../sources/fxa302-week10-music-therapy-in-early-neurorehabilitation-with-people-who.md)

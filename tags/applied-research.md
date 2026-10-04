@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: applied-research
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Applied Research

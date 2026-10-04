@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-health-themes
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Arts And Health Themes

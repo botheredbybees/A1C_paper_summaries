@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-activity-patterns
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Brain Activity Patterns

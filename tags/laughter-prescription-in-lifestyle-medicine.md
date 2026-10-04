@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: laughter-prescription-in-lifestyle-medicine
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Laughter Prescription In Lifestyle Medicine

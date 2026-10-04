@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: asian-adults
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Asian Adults

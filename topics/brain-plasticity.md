@@ -29,6 +29,7 @@ sources:
   - fxa300-week08-from-singing-to-speaking-facilitating-recovery-from
   - fxa300-week11-temporal-entrainment-of-cognitive-functions-musical
   - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
+  - fxa302-week00-expanding-senses-using-neurotechnology
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
   - fxa303-week03-hormones-and-the-adolescent-brain
@@ -37,7 +38,7 @@ sources:
   - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
   - psy214-week06-the-effects-of-acute-exercise-on-mood-cognition
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 ## Brain Plasticity
@@ -80,6 +81,7 @@ Research into brain plasticity reveals its profound influence on various cogniti
 - [fxa300-week08-from-singing-to-speaking-facilitating-recovery-from](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
 - [fxa300-week11-temporal-entrainment-of-cognitive-functions-musical](../sources/fxa300-week11-temporal-entrainment-of-cognitive-functions-musical.md)
 - [fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
+- [fxa302-week00-expanding-senses-using-neurotechnology](../sources/fxa302-week00-expanding-senses-using-neurotechnology.md)
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)
 - [fxa303-week03-hormones-and-the-adolescent-brain](../sources/fxa303-week03-hormones-and-the-adolescent-brain.md)

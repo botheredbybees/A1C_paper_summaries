@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: peterson-and-seligman-virtues
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Peterson And Seligman Virtues

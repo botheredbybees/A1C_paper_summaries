@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: f-m-r-i
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## F M R I

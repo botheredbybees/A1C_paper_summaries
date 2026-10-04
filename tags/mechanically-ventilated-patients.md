@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mechanically-ventilated-patients
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Mechanically Ventilated Patients

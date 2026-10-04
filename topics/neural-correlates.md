@@ -9,8 +9,9 @@ sources:
   - fxa300-week04-toward-a-neural-basis-of-music-perception-a-review-and
   - fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is
   - fxa300-week11-shared-and-distinct-neural-correlates-of-singing-and
+  - fxa302-week00-neural-correlates-of-consciousness
   - fxa302-week10-consciousness-key-themes
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 ## Neural Correlates of Therapeutic Modalities
@@ -33,4 +34,5 @@ The investigation into the mechanisms of change in dance/movement therapy and th
 - [fxa300-week04-toward-a-neural-basis-of-music-perception-a-review-and](../sources/fxa300-week04-toward-a-neural-basis-of-music-perception-a-review-and.md)
 - [fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is](../sources/fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is.md)
 - [fxa300-week11-shared-and-distinct-neural-correlates-of-singing-and](../sources/fxa300-week11-shared-and-distinct-neural-correlates-of-singing-and.md)
+- [fxa302-week00-neural-correlates-of-consciousness](../sources/fxa302-week00-neural-correlates-of-consciousness.md)
 - [fxa302-week10-consciousness-key-themes](../sources/fxa302-week10-consciousness-key-themes.md)

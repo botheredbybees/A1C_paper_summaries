@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: translated-versions-of-via-is
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Translated Versions Of Via Is

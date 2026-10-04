@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inverted-u-shaped-relationship
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Inverted U Shaped Relationship

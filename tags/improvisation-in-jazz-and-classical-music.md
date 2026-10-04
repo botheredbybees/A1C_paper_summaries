@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: improvisation-in-jazz-and-classical-music
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Improvisation In Jazz And Classical Music

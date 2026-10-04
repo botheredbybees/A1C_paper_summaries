@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dissociation-between-singing-and-speaking
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Dissociation Between Singing And Speaking

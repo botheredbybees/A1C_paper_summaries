@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anterior-planum-polare
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Anterior Planum Polare

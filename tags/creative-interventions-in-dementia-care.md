@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-interventions-in-dementia-care
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Creative Interventions In Dementia Care

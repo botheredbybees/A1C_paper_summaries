@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-expression-through-art
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Child Expression Through Art

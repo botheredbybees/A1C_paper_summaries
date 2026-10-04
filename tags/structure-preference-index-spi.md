@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: structure-preference-index-spi
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Structure Preference Index Spi

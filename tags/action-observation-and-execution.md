@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: action-observation-and-execution
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Action Observation And Execution

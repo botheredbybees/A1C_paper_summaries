@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: methodological-rigor-in-reviews
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Methodological Rigor In Reviews

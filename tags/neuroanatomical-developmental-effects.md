@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroanatomical-developmental-effects
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Neuroanatomical Developmental Effects

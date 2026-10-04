@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: negative-emotions-motivation
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Negative Emotions Motivation

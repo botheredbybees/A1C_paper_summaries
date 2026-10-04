@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-through-creative-arts
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Well Being Through Creative Arts

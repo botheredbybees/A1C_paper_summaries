@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Quality Of Life
@@ -92,6 +92,11 @@ updated: 2026-09-30
 - [Therapeutic Dancing for Parkinson\u2019s Disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
 - [Therapeutic Use of the Arts for Patients with Multiple Sclerosis](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [A Meta-Analysis of Expressive Writing on Posttraumatic Stress, Posttraumatic Growth, and Quality of Life](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
+- [A Review on the Performance of Brain-Computer Interface Systems for LIS and CLIS Patients](../sources/fxa302-week00-a-review-on-the-performance-of-brain-computer-interface.md)
+- [Attitudes towards Personhood in the Locked-in Syndrome: from Third- to First- Person Perspective and to Interpersonal Significance](../sources/fxa302-week00-attitudes-towards-personhood-in-the-locked-in-syndrome-from.md)
+- [Eye tracking communication devices in amyotrophic lateral sclerosis: Impact on disability and quality of life](../sources/fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral.md)
+- [Life can be worth living in locked-in syndrome](../sources/fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome.md)
+- [Locked Out: Ignorance and Responsibility in Brain\u2013Computer Interface Communication in Locked-in Syndrome](../sources/fxa302-week00-locked-out-ignorance-and-responsibility-in-braincomputer.md)
 - [The Stigma of Hearing Loss](../sources/fxa302-week05-the-stigma-of-hearing-loss.md)
 - [A comparison of Irish set dancing and exercises for people with Parkinson\u2019s disease: A phase II feasibility study](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
 - [Creative art therapy to enhance rehabilitation for stroke patients: a randomized controlled trial](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)

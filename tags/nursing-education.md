@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nursing-education
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Nursing Education

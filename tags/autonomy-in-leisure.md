@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autonomy-in-leisure
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Autonomy In Leisure

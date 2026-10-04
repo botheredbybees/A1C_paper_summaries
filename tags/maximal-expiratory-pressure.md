@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: maximal-expiratory-pressure
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Maximal Expiratory Pressure

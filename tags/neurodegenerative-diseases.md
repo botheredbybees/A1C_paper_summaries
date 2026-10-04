@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodegenerative-diseases
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Neurodegenerative Diseases
@@ -11,6 +11,7 @@ updated: 2026-09-30
 - [Dance therapy in rehabilitation: a two-decade bibliometric analysis (2000\u20132024)](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
 - [Environmental and Cognitive Enrichment in Childhood as Protective Factors in the Adult and Aging Brain](../sources/fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as.md)
 - [Singing and the Brain, Speech, Breathing and Swallowing](../sources/fxa300-week11-lesson-fxa300-week11-page-2-1.md)
+- [Ethical Considerations in Ending Exploratory Brain-Computer Interface Research Studies in Locked-in Syndrome](../sources/fxa302-week00-ethical-considerations-in-ending-exploratory-brain-computer.md)
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience-%2816%29.md)
 - [TDP-43 pathology in polyglutamine diseases: With reference to amyotrophic lateral sclerosis](../sources/fxa302-week10-tdp-43-pathology-in-polyglutamine-diseases-with-reference.md)
 - [Dance Movement Therapy for Neurodegenerative Diseases: A Systematic Review](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)

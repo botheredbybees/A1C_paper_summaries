@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: doctors-of-the-soul
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Doctors Of The Soul

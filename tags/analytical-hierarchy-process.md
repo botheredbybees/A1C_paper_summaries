@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: analytical-hierarchy-process
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Analytical Hierarchy Process

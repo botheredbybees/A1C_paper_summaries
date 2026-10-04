@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: synesthesia
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Synesthesia
@@ -13,3 +13,4 @@ updated: 2026-09-30
 - [Developmental Aspects of Synesthesia Across the Adult Lifespan](../sources/fxa101-week02-web-article-meier-2014.md)
 - [Week 2 Lecture Sem 2 2026](../sources/fxa101-week02-week-2-lecture-sem-2-2026.md)
 - [Week 3 Lecture: Brain Development and Cognitive Reserve](../sources/fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve.md)
+- [The Diving Bell and the Butterfly as an Emotional Event](../sources/fxa302-week00-the-diving-bell-and-the-butterfly-as-an-emotional-event.md)

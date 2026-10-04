@@ -21,6 +21,7 @@ sources:
   - fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
   - fxa301-week10-lesson-fxa301-week10-page-1
+  - fxa302-week00-a-fate-worse-than-death-the-well-being-of-patients
   - fxa302-week01-life-writing-and-its-implications-for-health-and-well-being
   - fxa302-week01-philosophys-role-in-health-humanities
   - fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future
@@ -57,7 +58,7 @@ tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Well-Being Through Creative Arts
@@ -94,6 +95,7 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
 - [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)
 - [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
+- [fxa302-week00-a-fate-worse-than-death-the-well-being-of-patients](../sources/fxa302-week00-a-fate-worse-than-death-the-well-being-of-patients.md)
 - [fxa302-week01-life-writing-and-its-implications-for-health-and-well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
 - [fxa302-week01-philosophys-role-in-health-humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
 - [fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)

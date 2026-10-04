@@ -11,7 +11,7 @@ tags: ["depression-narratives", "mental-health-theories", "biomedical-model", "p
 key_concepts: ["narrative-theory", "biopsychosocial-model", "values-based-practice"]
 methods: ["literature-review"]
 slug: fxa302-week10-narrating-our-sadness-with-a-little-help-from-the-humanities
-related: ["biomedical-model"]
+related: ["biomedical-model", "narrative-theory"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -43,3 +43,4 @@ The chapter 'Narrating Our Sadness, with a Little Help from the Humanities' by B
 ## See Also
 
 - [biomedical-model](../topics/biomedical-model.md)
+- [narrative-theory](../topics/narrative-theory.md)

@@ -5,11 +5,15 @@ title: "Amyotrophic Lateral Sclerosis"
 confidence: high
 tags: ["amyotrophic-lateral-sclerosis"]
 sources:
+  - fxa302-week00-a-review-on-the-performance-of-brain-computer-interface
+  - fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral
+  - fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome
+  - fxa302-week00-neurophysiological-aspects-of-the-completely-locked-in
   - fxa302-week10-chapter-1-background-understanding-motor-neuron-disease
   - fxa302-week10-lesson-fxa302-week10-hm-test
   - fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral
   - fxa302-week10-tdp-43-pathology-in-polyglutamine-diseases-with-reference
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Amyotrophic Lateral Sclerosis
@@ -29,6 +33,10 @@ Amyotrophic Lateral Sclerosis (ALS) is a motor neuron disease characterized by t
 
 ## Sources
 
+- [fxa302-week00-a-review-on-the-performance-of-brain-computer-interface](../sources/fxa302-week00-a-review-on-the-performance-of-brain-computer-interface.md)
+- [fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral](../sources/fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral.md)
+- [fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome](../sources/fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome.md)
+- [fxa302-week00-neurophysiological-aspects-of-the-completely-locked-in](../sources/fxa302-week00-neurophysiological-aspects-of-the-completely-locked-in.md)
 - [fxa302-week10-chapter-1-background-understanding-motor-neuron-disease](../sources/fxa302-week10-chapter-1-background-understanding-motor-neuron-disease.md)
 - [fxa302-week10-lesson-fxa302-week10-hm-test](../sources/fxa302-week10-lesson-fxa302-week10-hm-test.md)
 - [fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral](../sources/fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral.md)

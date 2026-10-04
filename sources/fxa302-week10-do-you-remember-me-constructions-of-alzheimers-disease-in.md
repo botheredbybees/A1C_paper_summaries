@@ -11,7 +11,7 @@ tags: ["alzheimer-disease", "literature-analysis", "film-study", "cultural-studi
 key_concepts: ["dementia-perception", "subjectivity", "core-self"]
 methods: ["case-study", "literature-film-analysis"]
 slug: fxa302-week10-do-you-remember-me-constructions-of-alzheimers-disease-in
-related: ["alzheimer-disease", "cultural-studies", "literature-analysis"]
+related: ["alzheimer-disease", "cultural-studies", "literature-analysis", "subjectivity"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -48,3 +48,4 @@ E. Ann Kaplan's chapter explores constructions of Alzheimer's disease through tw
 - [alzheimer-disease](../topics/alzheimer-disease.md)
 - [cultural-studies](../topics/cultural-studies.md)
 - [literature-analysis](../topics/literature-analysis.md)
+- [subjectivity](../topics/subjectivity.md)

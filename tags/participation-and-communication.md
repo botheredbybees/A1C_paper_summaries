@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participation-and-communication
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Participation And Communication

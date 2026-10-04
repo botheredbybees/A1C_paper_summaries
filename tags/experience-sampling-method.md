@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: experience-sampling-method
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Experience Sampling Method

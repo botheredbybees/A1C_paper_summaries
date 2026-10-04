@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: language-choice-in-mental-health-recovery
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Language Choice In Mental Health Recovery

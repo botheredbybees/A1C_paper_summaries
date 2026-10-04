@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: minimum-clinically-important-difference
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Minimum Clinically Important Difference

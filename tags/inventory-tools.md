@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inventory-tools
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Inventory Tools

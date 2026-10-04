@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: contextual-effectiveness-of-coping
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Contextual Effectiveness Of Coping

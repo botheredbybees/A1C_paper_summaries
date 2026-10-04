@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: noise-induced-hearing-loss
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Noise Induced Hearing Loss

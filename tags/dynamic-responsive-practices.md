@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dynamic-responsive-practices
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Dynamic Responsive Practices

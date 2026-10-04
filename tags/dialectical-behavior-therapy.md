@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dialectical-behavior-therapy
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Dialectical Behavior Therapy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: assistive-technology-in-art
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Assistive Technology In Art

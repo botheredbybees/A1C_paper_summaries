@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethics
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Ethics
@@ -10,4 +10,5 @@ updated: 2026-09-30
 - [Ethical Considerations in Psychology Research](../sources/fxa300-week09-lesson-fxa300-week09-page-3.md)
 - [Professional Responsibilities and Ethical Considerations in Research](../sources/fxa301-arts-in-health-ch76-3-responsibility.md)
 - [Weapons of Mass Happiness: Social Justice and Health Equity in the Context of the Arts](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
+- [Ethical Considerations in Ending Exploratory Brain-Computer Interface Research Studies in Locked-in Syndrome](../sources/fxa302-week00-ethical-considerations-in-ending-exploratory-brain-computer.md)
 - [Critical Thinking About Mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness-%282%29.md)

@@ -10,7 +10,7 @@ tags: ["expressive-writing", "healthcare-workers", "psychological-adjustment", "
 key_concepts: ["expressive writing intervention", "psychological distress in HCWs"]
 methods: ["randomized controlled trial"]
 slug: fxa101-week00-benefits-of-expressive-writing-on-healthcare-workers
-related: ["expressive-writing", "healthcare-workers"]
+related: ["expressive-writing", "healthcare-workers", "psychological-adjustment"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -43,3 +43,4 @@ This paper examines the psychological impact of the COVID-19 pandemic on healthc
 
 - [expressive-writing](../topics/expressive-writing.md)
 - [healthcare-workers](../topics/healthcare-workers.md)
+- [psychological-adjustment](../topics/psychological-adjustment.md)

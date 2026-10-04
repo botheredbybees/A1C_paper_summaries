@@ -6,7 +6,9 @@ confidence: medium
 tags: ["body-image-concerns"]
 sources:
   - fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the
-updated: 2026-08-07
+  - fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral
+  - fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
+updated: 2026-10-05
 ---
 
 ## Body Image Concerns
@@ -25,3 +27,5 @@ The exploration of body image concerns primarily through adjunctive museum-based
 ## Sources
 
 - [fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the](../sources/fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the.md)
+- [fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral](../sources/fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral.md)
+- [fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating](../sources/fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating.md)

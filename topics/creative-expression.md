@@ -40,6 +40,7 @@ sources:
   - fxa301-week11-choose-art
   - fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee
   - fxa301-week11-refugee-art-expressing-experience-through-creativity
+  - fxa302-week00-immobilis-in-mobili-performing-arts-bci-and-locked-in
   - fxa302-week09-lesson-fxa302-week09-welcome-to-week-9
   - fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828
   - fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins
@@ -59,7 +60,7 @@ tags:
 - creative-expression
 title: Creative Expression
 type: topic
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 ## Creative Expression
@@ -115,6 +116,7 @@ The concept of creative expression encompasses a variety of therapeutic interven
 - [fxa301-week11-choose-art](../sources/fxa301-week11-choose-art.md)
 - [fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee](../sources/fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee.md)
 - [fxa301-week11-refugee-art-expressing-experience-through-creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)
+- [fxa302-week00-immobilis-in-mobili-performing-arts-bci-and-locked-in](../sources/fxa302-week00-immobilis-in-mobili-performing-arts-bci-and-locked-in.md)
 - [fxa302-week09-lesson-fxa302-week09-welcome-to-week-9](../sources/fxa302-week09-lesson-fxa302-week09-welcome-to-week-9.md)
 - [fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828](../sources/fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828.md)
 - [fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins](../sources/fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins.md)

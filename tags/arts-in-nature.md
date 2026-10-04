@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-nature
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Arts In Nature

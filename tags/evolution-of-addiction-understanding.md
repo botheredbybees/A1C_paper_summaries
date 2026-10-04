@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evolution-of-addiction-understanding
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Evolution Of Addiction Understanding

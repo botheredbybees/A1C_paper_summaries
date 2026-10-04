@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nutritional-value-of-millets
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Nutritional Value Of Millets

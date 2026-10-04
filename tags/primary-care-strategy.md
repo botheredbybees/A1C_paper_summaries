@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: primary-care-strategy
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Primary Care Strategy

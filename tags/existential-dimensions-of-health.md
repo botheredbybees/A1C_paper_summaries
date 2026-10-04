@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: existential-dimensions-of-health
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Existential Dimensions Of Health

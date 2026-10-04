@@ -11,7 +11,7 @@ tags: ["neurobiology", "art-appreciation", "brain-stimulation", "well-being-inde
 key_concepts: ["pleasure centers in brain", "dopamine release", "beauty perception"]
 methods: []
 slug: fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
-related: ["art-appreciation", "brain-stimulation"]
+related: ["art-appreciation", "brain-stimulation", "neurobiology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ This transcript discusses recent research by Semir Zeki from University College 
 
 - [art-appreciation](../topics/art-appreciation.md)
 - [brain-stimulation](../topics/brain-stimulation.md)
+- [neurobiology](../topics/neurobiology.md)

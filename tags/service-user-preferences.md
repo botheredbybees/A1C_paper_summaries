@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: service-user-preferences
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Service User Preferences

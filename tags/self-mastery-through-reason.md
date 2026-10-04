@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-mastery-through-reason
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Self Mastery Through Reason

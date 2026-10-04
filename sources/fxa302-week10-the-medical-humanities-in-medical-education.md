@@ -11,7 +11,7 @@ tags: ["medical-humanities", "medical-education", "narrative-fiction", "patient-
 key_concepts: ["medical humanities", "democracy in medicine", "narrative fiction", "patient safety"]
 methods: ["case study"]
 slug: fxa302-week10-the-medical-humanities-in-medical-education
-related: ["empathy", "medical-education", "medical-humanities", "patient-care"]
+related: ["empathy", "medical-education", "medical-humanities", "patient-care", "patient-safety"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -48,3 +48,4 @@ The chapter discusses the role of the medical humanities in addressing structura
 - [medical-education](../topics/medical-education.md)
 - [medical-humanities](../topics/medical-humanities.md)
 - [patient-care](../topics/patient-care.md)
+- [patient-safety](../topics/patient-safety.md)

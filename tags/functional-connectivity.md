@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: functional-connectivity
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Functional Connectivity

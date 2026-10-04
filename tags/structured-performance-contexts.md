@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: structured-performance-contexts
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Structured Performance Contexts

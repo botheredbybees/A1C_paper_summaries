@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: antisocial-or-criminalized-behaviors
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Antisocial Or Criminalized Behaviors

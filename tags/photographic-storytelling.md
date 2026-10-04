@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photographic-storytelling
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Photographic Storytelling

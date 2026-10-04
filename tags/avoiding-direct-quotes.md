@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: avoiding-direct-quotes
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Avoiding Direct Quotes

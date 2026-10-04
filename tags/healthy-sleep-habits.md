@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthy-sleep-habits
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Healthy Sleep Habits

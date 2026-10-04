@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dose-response-relationship-in-mental-health-interventions
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Dose Response Relationship In Mental Health Interventions

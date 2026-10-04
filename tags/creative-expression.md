@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-expression
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Creative Expression
@@ -43,6 +43,7 @@ updated: 2026-09-30
 - [Choose Art](../sources/fxa301-week11-choose-art.md)
 - [Colouring it beautiful: artists on the loose in a refugee camp - in pictures](../sources/fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee.md)
 - [Refugee Art \u2013 Expressing Experience Through Creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)
+- [Immobilis in mobili: Performing Arts, BCI, and Locked-In Syndrome](../sources/fxa302-week00-immobilis-in-mobili-performing-arts-bci-and-locked-in.md)
 - [Week 9 - Pain and Mortality](../sources/fxa302-week09-lesson-fxa302-week09-welcome-to-week-9.md)
 - [Francisco Jos\u00e9 de Goya y Lucientes, 1746\u20131828](../sources/fxa302-week10-francisco-jos-de-goya-y-lucientes-17461828.md)
 - [Poised in the Creative Now: Principles of Nordoff-Robbins Music Therapy](../sources/fxa302-week10-poised-in-the-creative-now-principles-of-nordoff-robbins.md)

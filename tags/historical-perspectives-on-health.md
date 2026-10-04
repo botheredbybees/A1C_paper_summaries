@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-perspectives-on-health
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Historical Perspectives On Health

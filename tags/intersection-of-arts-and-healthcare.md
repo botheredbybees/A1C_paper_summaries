@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intersection-of-arts-and-healthcare
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Intersection Of Arts And Healthcare

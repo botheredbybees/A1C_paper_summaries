@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: re-authoring-experience
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Re Authoring Experience

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimers-dementia-care
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Alzheimers Dementia Care

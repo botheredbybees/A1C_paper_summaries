@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: english-as-an-additional-language-eal
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## English As An Additional Language Eal

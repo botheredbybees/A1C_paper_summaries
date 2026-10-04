@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: occupational-disorders
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Occupational Disorders

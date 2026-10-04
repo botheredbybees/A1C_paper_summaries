@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: audience-effect
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Audience Effect

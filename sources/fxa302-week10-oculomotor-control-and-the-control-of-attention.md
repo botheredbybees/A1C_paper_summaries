@@ -11,7 +11,7 @@ tags: ["eye-movements", "attention-control", "cognitive-neuroscience", "brain-re
 key_concepts: ["superior colliculus", "frontal eye field", "multivariate pattern analysis"]
 methods: ["systematic review", "microstimulation studies"]
 slug: fxa302-week10-oculomotor-control-and-the-control-of-attention
-related: ["attention-control", "brain-regions", "cognitive-neuroscience", "frontal-eye-field", "motor-control", "multivariate-pattern-analysis"]
+related: ["attention-control", "brain-regions", "cognitive-neuroscience", "eye-movements", "frontal-eye-field", "motor-control", "multivariate-pattern-analysis"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -48,6 +48,7 @@ The chapter 'Oculomotor Control and the Control of Attention' from the book 'Ess
 - [attention-control](../topics/attention-control.md)
 - [brain-regions](../topics/brain-regions.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [eye-movements](../topics/eye-movements.md)
 - [frontal-eye-field](../topics/frontal-eye-field.md)
 - [motor-control](../topics/motor-control.md)
 - [multivariate-pattern-analysis](../topics/multivariate-pattern-analysis.md)

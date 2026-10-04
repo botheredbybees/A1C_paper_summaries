@@ -11,7 +11,7 @@ tags: ["medical-clowns", "hospital-environment", "patient-satisfaction", "behavi
 key_concepts: ["satisfaction", "aggressive-tendencies", "therapeutic-benefits"]
 methods: ["case-study", "observational-research"]
 slug: fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
-related: ["behavioral-outcomes", "medical-clowns"]
+related: ["behavioral-outcomes", "body-image-concerns", "medical-clowns"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ This research article investigates the effectiveness of medical clowns in enhanc
 ## See Also
 
 - [behavioral-outcomes](../topics/behavioral-outcomes.md)
+- [body-image-concerns](../topics/body-image-concerns.md)
 - [medical-clowns](../topics/medical-clowns.md)

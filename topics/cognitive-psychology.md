@@ -24,13 +24,14 @@ sources:
   - fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa301-week10-flow-the-joy-of-reading
+  - fxa302-week00-the-diving-bell-and-the-butterfly-as-an-emotional-event
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
   - fxa303-week13-the-neural-basis-of-humour-processing
 tags:
 - cognitive-psychology
 title: Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
 type: topic
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 ## Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
@@ -70,5 +71,6 @@ The synthesis of the cognitive psychology theories from both sources reveals a n
 - [fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age](../sources/fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age.md)
 - [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [fxa301-week10-flow-the-joy-of-reading](../sources/fxa301-week10-flow-the-joy-of-reading.md)
+- [fxa302-week00-the-diving-bell-and-the-butterfly-as-an-emotional-event](../sources/fxa302-week00-the-diving-bell-and-the-butterfly-as-an-emotional-event.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
 - [fxa303-week13-the-neural-basis-of-humour-processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

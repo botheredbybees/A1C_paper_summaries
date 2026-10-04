@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-judgmental-attitude
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Non Judgmental Attitude

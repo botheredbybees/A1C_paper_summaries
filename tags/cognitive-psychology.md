@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-psychology
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Cognitive Psychology
@@ -27,5 +27,6 @@ updated: 2026-09-30
 - [The distribution of memories for popular songs in old age: An individual differences approach](../sources/fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age.md)
 - [Ten years of a model of aesthetic appreciation and aesthetic judgments: The aesthetic episode \u2013 Developments and challenges in empirical aesthetics](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [Flow: The Joy of Reading](../sources/fxa301-week10-flow-the-joy-of-reading.md)
+- [The Diving Bell and the Butterfly as an Emotional Event](../sources/fxa302-week00-the-diving-bell-and-the-butterfly-as-an-emotional-event.md)
 - [Adolescent Development and Brain Changes](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
 - [The neural basis of humour processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theory-of-character-strengths
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Theory Of Character Strengths

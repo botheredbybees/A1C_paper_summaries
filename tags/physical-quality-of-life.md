@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-quality-of-life
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Physical Quality Of Life

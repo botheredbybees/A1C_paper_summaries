@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: class-in-equality
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Class In Equality

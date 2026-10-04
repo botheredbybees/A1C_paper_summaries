@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-professional-relationships
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Patient Professional Relationships

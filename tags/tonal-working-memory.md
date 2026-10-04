@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tonal-working-memory
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Tonal Working Memory

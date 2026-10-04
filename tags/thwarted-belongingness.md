@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: thwarted-belongingness
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Thwarted Belongingness

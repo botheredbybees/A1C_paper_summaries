@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: web-based-tools
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Web Based Tools

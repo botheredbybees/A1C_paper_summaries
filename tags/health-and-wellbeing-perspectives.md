@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-and-wellbeing-perspectives
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Health And Wellbeing Perspectives

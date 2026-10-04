@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: walking-as-inquiry
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Walking As Inquiry

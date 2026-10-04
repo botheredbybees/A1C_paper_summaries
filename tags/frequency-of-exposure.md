@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: frequency-of-exposure
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Frequency Of Exposure

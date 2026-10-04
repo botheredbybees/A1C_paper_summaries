@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life-metrics
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Quality Of Life Metrics

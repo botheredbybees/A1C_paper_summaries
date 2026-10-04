@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: it-for-aging-population
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## It For Aging Population

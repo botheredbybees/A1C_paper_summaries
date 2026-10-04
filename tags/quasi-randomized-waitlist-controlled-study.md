@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quasi-randomized-waitlist-controlled-study
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Quasi Randomized Waitlist Controlled Study

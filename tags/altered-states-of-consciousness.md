@@ -1,9 +1,10 @@
 ---
 type: tag
 tag: altered-states-of-consciousness
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Altered States Of Consciousness
 
 - [Music and states of consciousness: A narrative review of the broader significance of music to understanding absorption, mind wandering and creative thought](../sources/fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the.md)
+- [Neural Correlates of Consciousness](../sources/fxa302-week00-neural-correlates-of-consciousness.md)

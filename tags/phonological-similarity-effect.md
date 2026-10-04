@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: phonological-similarity-effect
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Phonological Similarity Effect

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transdisciplinary-approaches
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Transdisciplinary Approaches

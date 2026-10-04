@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intergenerational-transmission-of-culture
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Intergenerational Transmission Of Culture

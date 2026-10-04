@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurology
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Neurology
@@ -13,4 +13,6 @@ updated: 2026-09-30
 - [The Effects of Music on the Brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
 - [Music and Regions of the Brain](../sources/fxa300-week04-lesson-fxa300-week04-page-3-1.md)
 - [The Human Brain: Facts and Information](../sources/fxa301-week01-web-article-zuckerman-2009.md)
+- [Roald Dahl and the complete locked-in syndrome: \u201cCold dead body, living brain\u201d](../sources/fxa302-week00-roald-dahl-and-the-complete-locked-in-syndrome-cold-dead.md)
+- [The locked-in syndrome : what is it like to be conscious but paralyzed and voiceless?](../sources/fxa302-week00-the-locked-in-syndrome-what-is-it-like-to-be-conscious-but.md)
 - [Population based epidemiology of amyotrophic lateral sclerosis using capture-recapture methodology](../sources/fxa302-week10-population-based-epidemiology-of-amyotrophic-lateral.md)

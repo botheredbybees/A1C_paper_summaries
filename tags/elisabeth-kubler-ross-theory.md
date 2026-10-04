@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: elisabeth-kubler-ross-theory
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Elisabeth Kubler Ross Theory

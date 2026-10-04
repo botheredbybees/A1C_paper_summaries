@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: noise-induced-hearing-impairment
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Noise Induced Hearing Impairment

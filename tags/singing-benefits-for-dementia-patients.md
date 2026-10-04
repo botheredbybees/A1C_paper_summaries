@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: singing-benefits-for-dementia-patients
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Singing Benefits For Dementia Patients

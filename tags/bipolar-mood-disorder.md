@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bipolar-mood-disorder
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Bipolar Mood Disorder

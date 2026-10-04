@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reanimation-of-discarded-objects
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Reanimation Of Discarded Objects

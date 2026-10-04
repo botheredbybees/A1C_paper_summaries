@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: person-centered-language
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Person Centered Language

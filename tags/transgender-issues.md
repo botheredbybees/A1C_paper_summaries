@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transgender-issues
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Transgender Issues

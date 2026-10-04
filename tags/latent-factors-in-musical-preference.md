@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: latent-factors-in-musical-preference
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Latent Factors In Musical Preference

@@ -7,12 +7,13 @@ sources:
   - fxa300-week09-lesson-fxa300-week09-page-3
   - fxa301-arts-in-health-ch76-3-responsibility
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
+  - fxa302-week00-ethical-considerations-in-ending-exploratory-brain-computer
   - psy214-week09-critical-thinking-about-mindfulness-(2)
 tags:
 - ethics
 title: Ethics In Healthcare And Research
 type: topic
-updated: 2026-09-08
+updated: 2026-10-05
 ---
 
 ## Ethics In Healthcare And Research
@@ -34,4 +35,5 @@ The examination of ethics within healthcare and research reveals a complex inter
 - [fxa300-week09-lesson-fxa300-week09-page-3](../sources/fxa300-week09-lesson-fxa300-week09-page-3.md)
 - [fxa301-arts-in-health-ch76-3-responsibility](../sources/fxa301-arts-in-health-ch76-3-responsibility.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
+- [fxa302-week00-ethical-considerations-in-ending-exploratory-brain-computer](../sources/fxa302-week00-ethical-considerations-in-ending-exploratory-brain-computer.md)
 - [psy214-week09-critical-thinking-about-mindfulness-(2)](../sources/psy214-week09-critical-thinking-about-mindfulness-%282%29.md)

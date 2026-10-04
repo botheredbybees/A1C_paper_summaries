@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-concordant-goals
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Self Concordant Goals

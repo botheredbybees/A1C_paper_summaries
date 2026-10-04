@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artistic-citizenship
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Artistic Citizenship

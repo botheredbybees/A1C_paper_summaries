@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: light-shadow-interplay
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Light Shadow Interplay

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intergenerational-wellness
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Intergenerational Wellness

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dorsolateral-prefrontal-cortex
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Dorsolateral Prefrontal Cortex

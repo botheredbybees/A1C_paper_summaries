@@ -11,6 +11,7 @@ sources:
   - fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy
   - fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in
   - fxa300-week09-the-future-of-music-therapy-and-mental-health
+  - fxa302-week00-interventional-nephrology-principles-and-practice
   - fxa302-week01-exploring-the-medical-humanities
   - fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
@@ -18,7 +19,7 @@ sources:
   - fxa302-week10-looking-into-later-life-a-psychoanalytic-approach-to
   - fxa302-week10-social-studies-the-humanities-narrative-and-the-social
   - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
-updated: 2026-09-26
+updated: 2026-10-05
 ---
 
 ## Clinical Practice Guidelines and Registries
@@ -42,6 +43,7 @@ The provided sources emphasize the importance of clinical practice guidelines an
 - [fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy](../sources/fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy.md)
 - [fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
 - [fxa300-week09-the-future-of-music-therapy-and-mental-health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)
+- [fxa302-week00-interventional-nephrology-principles-and-practice](../sources/fxa302-week00-interventional-nephrology-principles-and-practice.md)
 - [fxa302-week01-exploring-the-medical-humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)

@@ -89,6 +89,11 @@ sources:
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
   - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
+  - fxa302-week00-a-review-on-the-performance-of-brain-computer-interface
+  - fxa302-week00-attitudes-towards-personhood-in-the-locked-in-syndrome-from
+  - fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral
+  - fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome
+  - fxa302-week00-locked-out-ignorance-and-responsibility-in-braincomputer
   - fxa302-week05-the-stigma-of-hearing-loss
   - fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people
   - fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke
@@ -118,7 +123,7 @@ tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Music Therapy in Dementia Care
@@ -223,6 +228,11 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa301-week06-therapeutic-dancing-for-parkinsons-disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
+- [fxa302-week00-a-review-on-the-performance-of-brain-computer-interface](../sources/fxa302-week00-a-review-on-the-performance-of-brain-computer-interface.md)
+- [fxa302-week00-attitudes-towards-personhood-in-the-locked-in-syndrome-from](../sources/fxa302-week00-attitudes-towards-personhood-in-the-locked-in-syndrome-from.md)
+- [fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral](../sources/fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral.md)
+- [fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome](../sources/fxa302-week00-life-can-be-worth-living-in-locked-in-syndrome.md)
+- [fxa302-week00-locked-out-ignorance-and-responsibility-in-braincomputer](../sources/fxa302-week00-locked-out-ignorance-and-responsibility-in-braincomputer.md)
 - [fxa302-week05-the-stigma-of-hearing-loss](../sources/fxa302-week05-the-stigma-of-hearing-loss.md)
 - [fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people](../sources/fxa302-week10-a-comparison-of-irish-set-dancing-and-exercises-for-people.md)
 - [fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke](../sources/fxa302-week10-creative-art-therapy-to-enhance-rehabilitation-for-stroke.md)

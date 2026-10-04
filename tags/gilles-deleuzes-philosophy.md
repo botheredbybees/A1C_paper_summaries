@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gilles-deleuzes-philosophy
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Gilles Deleuzes Philosophy

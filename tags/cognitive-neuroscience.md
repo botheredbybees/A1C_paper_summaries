@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-neuroscience
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Cognitive Neuroscience
@@ -37,6 +37,7 @@ updated: 2026-09-30
 - [Towards a Cognitive Neuroscience of Consciousness: Basic Evidence and a Workspace Framework](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
 - [Enhancing aesthetic appreciation by priming canvases with actions that match the artist\u2019s painting style](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)
 - [Week 2 Introduction to FXA301 Arts in the Community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
+- [Locked-in syndrome: a challenge for embodied cognitive science](../sources/fxa302-week00-locked-in-syndrome-a-challenge-for-embodied-cognitive.md)
 - [Chapter 17: Emotion](../sources/fxa302-week10-chapter-17-emotion.md)
 - [Cognitive Control](../sources/fxa302-week10-cognitive-control.md)
 - [Essentials of Cognitive Neuroscience](../sources/fxa302-week10-essentials-of-cognitive-neuroscience.md)

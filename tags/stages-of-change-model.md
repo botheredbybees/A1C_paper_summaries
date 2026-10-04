@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stages-of-change-model
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Stages Of Change Model

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recurrent-processing-theory
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Recurrent Processing Theory

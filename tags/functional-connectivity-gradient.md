@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: functional-connectivity-gradient
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Functional Connectivity Gradient

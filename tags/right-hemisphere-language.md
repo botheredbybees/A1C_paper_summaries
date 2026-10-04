@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: right-hemisphere-language
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Right Hemisphere Language

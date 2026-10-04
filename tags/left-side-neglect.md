@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: left-side-neglect
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Left Side Neglect

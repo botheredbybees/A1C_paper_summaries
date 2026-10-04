@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-judgmental-awareness
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Non Judgmental Awareness

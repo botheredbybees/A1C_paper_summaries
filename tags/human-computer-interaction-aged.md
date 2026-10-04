@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-computer-interaction-aged
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 ## Human Computer Interaction Aged

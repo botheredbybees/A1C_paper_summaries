@@ -6,8 +6,9 @@ confidence: medium
 tags: ["conference-proceedings"]
 sources:
   - fxa300-week02-psychomusicology-music-mind-brain-salutes-new
+  - fxa302-week00-artsit-interactivity-and-game-creation-13th-eai
   - fxa302-week10-human-aspects-of-it-for-the-aged-population-10th
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 ## Human Aspects of Technology for Aging Populations
@@ -27,4 +28,5 @@ The integration of human aspects of technology for aging populations is a cross-
 ## Sources
 
 - [fxa300-week02-psychomusicology-music-mind-brain-salutes-new](../sources/fxa300-week02-psychomusicology-music-mind-brain-salutes-new.md)
+- [fxa302-week00-artsit-interactivity-and-game-creation-13th-eai](../sources/fxa302-week00-artsit-interactivity-and-game-creation-13th-eai.md)
 - [fxa302-week10-human-aspects-of-it-for-the-aged-population-10th](../sources/fxa302-week10-human-aspects-of-it-for-the-aged-population-10th.md)
