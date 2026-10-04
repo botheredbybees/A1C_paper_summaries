@@ -7,6 +7,7 @@ tags: ["interactive-art"]
 sources:
   - fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency
   - fxa302-week00-artsit-interactivity-and-game-creation-13th-eai
+  - fxa302-week00-the-eyewriter-project-a-collaborative-effort-in-interactive
 updated: 2026-10-05
 ---
 
@@ -28,3 +29,4 @@ Interactive art integrates various forms of artistic expression and technology t
 
 - [fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency](../sources/fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency.md)
 - [fxa302-week00-artsit-interactivity-and-game-creation-13th-eai](../sources/fxa302-week00-artsit-interactivity-and-game-creation-13th-eai.md)
+- [fxa302-week00-the-eyewriter-project-a-collaborative-effort-in-interactive](../sources/fxa302-week00-the-eyewriter-project-a-collaborative-effort-in-interactive.md)

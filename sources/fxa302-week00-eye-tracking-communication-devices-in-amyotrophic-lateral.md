@@ -10,7 +10,7 @@ tags: ["amyotrophic-lateral-sclerosis", "communication-devices", "quality-of-lif
 key_concepts: ["amyotrophic lateral sclerosis", "quality of life", "eye tracking communication devices"]
 methods: ["questionnaire", "statistical analysis"]
 slug: fxa302-week00-eye-tracking-communication-devices-in-amyotrophic-lateral
-related: ["amyotrophic-lateral-sclerosis", "body-image-concerns", "quality-of-life"]
+related: ["amyotrophic-lateral-sclerosis", "body-image-concerns", "eye-tracking", "quality-of-life"]
 created: 2026-10-05
 updated: 2026-10-05
 ---
@@ -45,4 +45,5 @@ This study evaluates the impact of Eye Tracking Communication Devices (ETCDs) on
 
 - [amyotrophic-lateral-sclerosis](../topics/amyotrophic-lateral-sclerosis.md)
 - [body-image-concerns](../topics/body-image-concerns.md)
+- [eye-tracking](../topics/eye-tracking.md)
 - [quality-of-life](../topics/quality-of-life.md)

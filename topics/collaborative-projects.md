@@ -6,11 +6,12 @@ sources:
   - fxa301-week01-making-art-with-communities-a-work-guide
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
   - fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of
+  - fxa302-week00-the-eyewriter-project-a-collaborative-effort-in-interactive
 tags:
 - collaborative-projects
 title: Collaborative Art Projects
 type: topic
-updated: 2026-05-11
+updated: 2026-10-05
 ---
 
 ## Collaborative Art Projects
@@ -32,3 +33,4 @@ The synthesis of collaborative art projects highlights the transformative power 
 - [fxa301-week01-making-art-with-communities-a-work-guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of](../sources/fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of.md)
+- [fxa302-week00-the-eyewriter-project-a-collaborative-effort-in-interactive](../sources/fxa302-week00-the-eyewriter-project-a-collaborative-effort-in-interactive.md)

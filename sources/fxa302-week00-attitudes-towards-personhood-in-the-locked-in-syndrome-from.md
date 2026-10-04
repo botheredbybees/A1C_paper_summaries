@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Attitudes towards Personhood in the Locked-in Syndrome: from Third- to First- Person Perspective and to Interpersonal Significance"
-apa7: "Nizzi, M.-C., Blandin, V., & Demertzi, A. (2018). Attitudes towards personhood in the locked-in syndrome: from third- to first-person perspective and to interpersonal significance. Neuroethics, 13(1), 193-201. https://doi.org/10.1007/s12152-018-9375-6"
+apa7: "Nizzi, M.-C., Blandin, V., & Demertzi, A. (2020). Attitudes towards personhood in the locked-in syndrome: from third- to first-person perspective and to interpersonal significance. Neuroethics, 13(1), 193-201. https://doi.org/10.1007/s12152-018-9375-6"
 doi: https://doi.org/10.1007/s12152-018-9375-6
 appearances:
   - unit: FXA302

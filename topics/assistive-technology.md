@@ -9,6 +9,7 @@ sources:
   - fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual
   - fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-(2)
   - fxa101-week00-sensory-substitution-by-david-eagleman
+  - fxa302-week00-an-artificial-intelligence-and-computer-vision-based
   - fxa302-week00-technology-transfer-of-brain-computer-interfaces-as
   - fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring
   - fxa302-week11-lesson-fxa302-week11-page-4-activities
@@ -37,6 +38,7 @@ Assistive technologies designed to help individuals with sensory disabilities su
 - [fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual](../sources/fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual.md)
 - [fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-(2)](../sources/fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-%282%29.md)
 - [fxa101-week00-sensory-substitution-by-david-eagleman](../sources/fxa101-week00-sensory-substitution-by-david-eagleman.md)
+- [fxa302-week00-an-artificial-intelligence-and-computer-vision-based](../sources/fxa302-week00-an-artificial-intelligence-and-computer-vision-based.md)
 - [fxa302-week00-technology-transfer-of-brain-computer-interfaces-as](../sources/fxa302-week00-technology-transfer-of-brain-computer-interfaces-as.md)
 - [fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring](../sources/fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring.md)
 - [fxa302-week11-lesson-fxa302-week11-page-4-activities](../sources/fxa302-week11-lesson-fxa302-week11-page-4-activities.md)

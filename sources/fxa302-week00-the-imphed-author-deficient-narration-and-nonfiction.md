@@ -1,9 +1,8 @@
 ---
 type: source
 source_type: paper
-title: "The ImpHed Author, Deficient Narration, and Nonfiction Narrative"
-apa7: "Phelan, J. (2011). The ImpHed author, deficient narration, and nonfiction narrative: Or, what's off-kilter in The Year of Magical Thinking and The Diving Bell and the Butterfly?. PMLA, 126(2), 458-472."
-doi: https://doi.org/10.1632/pmla.126.2.458
+title: "The Implied Author, Deficient Narration, and Nonfiction Narrative"
+apa7: "Phelan, J. (2011). The implied author, deficient narration, and nonfiction narrative: Or, what's off-kilter in The Year of Magical Thinking and The Diving Bell and the Butterfly? Style, 45(1), 119-137."
 appearances:
   - unit: FXA302
 tags: ["implied-author", "nonfiction-narrative", "unreliable-narration", "memoir", "autobiography", "fxa302", "deficient-narration"]
@@ -17,7 +16,7 @@ updated: 2026-10-05
 
 _All claims sourced from ../raw/pdf/fxa302-week00-the-imphed-author-deficient-narration-and-nonfiction.md_
 
-## The ImpHed Author, Deficient Narration, and Nonfiction Narrative
+## The Implied Author, Deficient Narration, and Nonfiction Narrative
 
 James Phelan from Ohio State University discusses the concept of the implied author in the context of nonfiction narratives, specifically in Joan Didion's 'The Year of Magical Thinking' and Jean-Dominique Bauby's 'The Diving Bell and the Butterfly'. Phelan argues that the implied author plays a crucial role in narrative communication, distinguishing between intentionally off-kilter (unreliable) and unintentionally off-kilter (deficient) narration. He engages in a debate with Sidonie Smith and Julia Watson regarding the implied author's role in autobiographical narratives, suggesting it helps explain shifts in narrating 'I' voices. Phelan challenges anti-intentionalist theories, asserting that the implied author concept enhances our understanding of narrative intentions.
 

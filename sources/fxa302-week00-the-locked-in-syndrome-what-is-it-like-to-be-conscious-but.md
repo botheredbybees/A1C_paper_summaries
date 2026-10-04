@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "The locked-in syndrome : what is it like to be conscious but paralyzed and voiceless?"
-apa7: "Laureys, S., Pellas, F., Van Eeckhout, P., Ghorbel, S., Schnakers, C., Perrin, F., Berr\u00e9, J., Faymonville, M.-E., Pantke, K.-H., Damas, F., Lamy, M., Moonen, G., & Goldman, S. (2005). The locked-in syndrome: what is it like to be conscious but paralyzed and voiceless? In S. Laureys (Ed.), The Boundaries of Consciousness: Neurobiology and Neuropathology (pp. 61-69). Elsevier."
+apa7: "Laureys, S., Pellas, F., Van Eeckhout, P., Ghorbel, S., Schnakers, C., Perrin, F., Berr\u00e9, J., Faymonville, M.-E., Pantke, K.-H., Damas, F., Lamy, M., Moonen, G., & Goldman, S. (2005). The locked-in syndrome: what is it like to be conscious but paralyzed and voiceless? Progress in Brain Research, 150, 495-511."
 doi: https://doi.org/10.1016/S0079-6123(05)50034-7
 appearances:
   - unit: FXA302

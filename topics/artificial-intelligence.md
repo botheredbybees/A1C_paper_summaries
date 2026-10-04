@@ -6,11 +6,12 @@ sources:
   - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
   - fxa101-week02-generative-artificial-intelligence-human-creativity-and-art
   - fxa202-week10-the-transformative-potential-of-technology
+  - fxa302-week00-an-artificial-intelligence-and-computer-vision-based
 tags:
 - artificial-intelligence
 title: Artificial Intelligence
 type: topic
-updated: 2026-07-13
+updated: 2026-10-05
 ---
 
 ## Artificial Intelligence
@@ -32,3 +33,4 @@ The transformative potential of Artificial Intelligence (AI) in enhancing the qu
 - [fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the](../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the.md)
 - [fxa101-week02-generative-artificial-intelligence-human-creativity-and-art](../sources/fxa101-week02-generative-artificial-intelligence-human-creativity-and-art.md)
 - [fxa202-week10-the-transformative-potential-of-technology](../sources/fxa202-week10-the-transformative-potential-of-technology.md)
+- [fxa302-week00-an-artificial-intelligence-and-computer-vision-based](../sources/fxa302-week00-an-artificial-intelligence-and-computer-vision-based.md)

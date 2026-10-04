@@ -11,7 +11,7 @@ tags: ["assistive-technology", "visual-arts", "digital-technology", "disability-
 key_concepts: ["digital technologies", "assistive tools", "collaborative efforts"]
 methods: ["online survey", "interview"]
 slug: fxa302-week11-assistive-technology-for-disabled-visual-artists-exploring
-related: ["assistive-technology", "disability-studies", "inclusive-design", "visual-arts"]
+related: ["assistive-technology", "digital-technology", "disability-studies", "inclusive-design", "visual-arts"]
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -47,6 +47,7 @@ This article explores the current practice of physically impaired visual artists
 ## See Also
 
 - [assistive-technology](../topics/assistive-technology.md)
+- [digital-technology](../topics/digital-technology.md)
 - [disability-studies](../topics/disability-studies.md)
 - [inclusive-design](../topics/inclusive-design.md)
 - [visual-arts](../topics/visual-arts.md)

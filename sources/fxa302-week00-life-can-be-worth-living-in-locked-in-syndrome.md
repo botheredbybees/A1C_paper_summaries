@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Life can be worth living in locked-in syndrome"
-apa7: "Lul\u00e9, D., Zickler, C., H\u00e4cker, S., Bruno, M. A., Demertzi, A., Pellas, F., Laureys, S., & K\u00fcbler, A. (2009). Life can be worth living in locked-in syndrome. Progress in Brain Research, 177. https://doi.org/10.1016/S0079-6123(09)17723-3"
+apa7: "Lul\u00e9, D., Zickler, C., H\u00e4cker, S., Bruno, M. A., Demertzi, A., Pellas, F., Laureys, S., & K\u00fcbler, A. (2009). Life can be worth living in locked-in syndrome. Progress in Brain Research, 177, 339-351. https://doi.org/10.1016/S0079-6123(09)17723-3"
 doi: https://doi.org/10.1016/S0079-6123(09)17723-3
 appearances:
   - unit: FXA302
